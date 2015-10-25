@@ -1,0 +1,6 @@
+is equal to
+is greater than
+is bigger than
+is larger than
+is smaller than
+is less than
