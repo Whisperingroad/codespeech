@@ -62,7 +62,7 @@ public class SentenceGenerator {
 				{
 					String statement = "If ";
 					String condition = conditions.get(k).trim();
-					statement = statement + subject1 + space + condition + space + subject2 + ".";
+					statement = statement + subject1 + space + condition + space + subject2;
 					statements.add(statement);
 				}
 			}

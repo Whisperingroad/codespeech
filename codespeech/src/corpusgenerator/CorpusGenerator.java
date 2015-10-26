@@ -12,23 +12,25 @@ public class CorpusGenerator {
 	public static void main(String Args[]) throws FileNotFoundException, IOException
 	{
 		SentenceGenerator sentenceGenerator = new SentenceGenerator();
-		String subjectsFileName = Constants.SEBASTIAN + "Input/subjects.txt";
-		String conditionsFileName = Constants.SEBASTIAN + "Input/conditions.txt";
+		String subjectsFileName = Constants.YIXIU + "Input/subjects.txt";
+		String conditionsFileName = Constants.YIXIU + "Input/conditions.txt";
 		sentenceGenerator.loadWords(subjectsFileName, sentenceGenerator.subjects);
 		sentenceGenerator.loadWords(conditionsFileName, sentenceGenerator.conditions);
 		
 		// testing functions
 		ArrayList<String> test = new ArrayList<String>();
+		ArrayList<String> formattedOutput = new ArrayList<String>();
 		test = sentenceGenerator.construct2SubjectIfStatements();
-		for (String s : test)
+		formattedOutput = SentenceTagger.tag(test);
+		for (String s : formattedOutput)
 		{
 			System.out.println(s);
 		}
 		System.out.println("size of statements is " + test.size());
 		
 		// writing them out
-		String outputFileName = Constants.SEBASTIAN + "Output/statements.txt";
-		sentenceGenerator.writeStatements(outputFileName, test);
+		String outputFileName = Constants.YIXIU + "Output/statements.txt";
+		sentenceGenerator.writeStatements(outputFileName, formattedOutput);
 		
 	}
 

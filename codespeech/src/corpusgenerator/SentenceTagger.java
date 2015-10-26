@@ -5,7 +5,7 @@ import java.util.Arrays;
 
 public class SentenceTagger {
 
-public ArrayList<String> tag(ArrayList<String> sents){
+public static ArrayList<String> tag(ArrayList<String> sents){
 	ArrayList<String> templateSent = new ArrayList<String>();
 	ArrayList<String> formattedSent = new ArrayList<String>();
 	templateSent.add("1 if if SCONJ IN _ 4 mark _ _"); 
@@ -26,7 +26,7 @@ public ArrayList<String> tag(ArrayList<String> sents){
 		formattedSent.add(templateSent.get(4));
 		formattedSent.add("6 " + words.get(5) + " " + words.get(5) + " " + templateSent.get(5));
 		formattedSent.add(templateSent.get(6));
-		formattedSent.add("/n");
+		formattedSent.add("\n");
 		}
 	
 	return formattedSent;
