@@ -12,8 +12,8 @@ public class CorpusGenerator {
 	public static void main(String Args[]) throws FileNotFoundException, IOException
 	{
 		SentenceGenerator sentenceGenerator = new SentenceGenerator();
-		String subjectsFileName = Constants.YIXIU + "Input/subjects.txt";
-		String conditionsFileName = Constants.YIXIU + "Input/conditions.txt";
+		String subjectsFileName = Constants.SEBASTIAN + "Input/subjects.txt";
+		String conditionsFileName = Constants.SEBASTIAN + "Input/conditions.txt";
 		sentenceGenerator.loadWords(subjectsFileName, sentenceGenerator.subjects);
 		sentenceGenerator.loadWords(conditionsFileName, sentenceGenerator.conditions);
 		
@@ -29,7 +29,7 @@ public class CorpusGenerator {
 		System.out.println("size of statements is " + test.size());
 		
 		// writing them out
-		String outputFileName = Constants.YIXIU + "Output/statements.txt";
+		String outputFileName = Constants.SEBASTIAN + "Output/statements.txt";
 		sentenceGenerator.writeStatements(outputFileName, formattedOutput);
 		
 	}
