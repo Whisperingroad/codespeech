@@ -46,9 +46,13 @@ public class SentenceGenerator {
 	{
 		ArrayList<String> subjects1 = new ArrayList<String>();
 		ArrayList<String> subjects2 = new ArrayList<String>();
-		subjects1 = subjects;
-		subjects2 = subjects;
+		for (int i=0; i < 5 ; i++){
+			subjects2.add(subjects.get(i));
+		}
 		
+		for (int i= 5; i < subjects.size(); i++){
+			subjects1.add(subjects.get(i));
+		}
 		// for every first subject
 		for (int i = 0; i < subjects1.size(); i++)
 		{

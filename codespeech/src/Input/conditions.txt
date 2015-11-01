@@ -4,3 +4,4 @@ is bigger than
 is larger than
 is smaller than
 is less than
+is more than
