@@ -12,8 +12,15 @@ public class CorpusGenerator {
 	public static void main(String Args[]) throws FileNotFoundException, IOException
 	{
 		SentenceGenerator sentenceGenerator = new SentenceGenerator();
-		String subjectsFileName = Constants.SEBASTIAN + "Input/subjects.txt";
-		String conditionsFileName = Constants.SEBASTIAN + "Input/conditions.txt";
+		
+		String subjectsFileName = System.getProperty("user.dir") + "/src/Input/subjects.txt";
+		// variable names
+		//String variableFileName = Constants.SEBASTIAN
+		// for if condition statements
+		String conditionsFileName = System.getProperty("user.dir")+ "/src/Input/conditions.txt";
+		// for declaration/initialization statements
+		
+		
 		sentenceGenerator.loadWords(subjectsFileName, sentenceGenerator.subjects);
 		sentenceGenerator.loadWords(conditionsFileName, sentenceGenerator.conditions);
 		

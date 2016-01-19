@@ -1,0 +1,16 @@
+character
+unsigned character
+signed character
+integer
+unsigned integer
+signed integer
+short integer
+unsigned short integer
+signed short integer
+long integer
+unsigned long integer
+float
+double
+long double
+wide character
+boolean
