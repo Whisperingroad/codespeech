@@ -1,0 +1,13 @@
+temp
+temp1
+temp2
+curr
+prev
+number
+hello world
+sleep
+power on
+power off
+state a
+state b
+state c

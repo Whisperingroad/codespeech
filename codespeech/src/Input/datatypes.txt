@@ -12,5 +12,4 @@ unsigned long integer
 float
 double
 long double
-wide character
 boolean

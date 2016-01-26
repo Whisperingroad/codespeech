@@ -16,6 +16,21 @@ public class SentenceGenerator {
 	ArrayList<String> conjunctions = new ArrayList<String>();
 
 	// for declaration/initialization statements
+	ArrayList<String> characters = new ArrayList<String>();
+	ArrayList<String> unsignedCharacters = new ArrayList<String>();
+	ArrayList<String> signedCharacters = new ArrayList<String>();
+	ArrayList<String> integers = new ArrayList<String>();
+	ArrayList<String> unsignedIntegers = new ArrayList<String>();
+	ArrayList<String> signedIntegers = new ArrayList<String>();
+	ArrayList<String> shortIntegers = new ArrayList<String>();
+	ArrayList<String> unsignedShortIntegers = new ArrayList<String>();
+	ArrayList<String> signedShortIntegers = new ArrayList<String>();
+	ArrayList<String> longIntegers = new ArrayList<String>();
+	ArrayList<String> signedLongIntegers = new ArrayList<String>();
+	ArrayList<String> unsignedLongIntegers = new ArrayList<String>();
+	ArrayList<String> floats = new ArrayList<String>();
+	ArrayList<String> doubles = new ArrayList<String>();
+	ArrayList<String> longDoubles	 = new ArrayList<String>();
 	ArrayList<String> variables = new ArrayList<String>();
 	ArrayList<String> dataTypes = new ArrayList<String>();
 	ArrayList<String> declareCommands = new ArrayList<String>();
@@ -47,54 +62,51 @@ public class SentenceGenerator {
 
 		printWriter.close();	
 	}
+	
+	
+//TODO Declare/Initialise character 
+	
 
-	public ArrayList<String> constructDeclarationStatements()
-	{
-		int count = 0;
-		String determiner;
-		String declarationCommand;
-		String declarationStatement;
-		ArrayList<String> declarationStatements = new ArrayList<String>();
-
-		// for each data type
-		for (String dataType : dataTypes)
-		{
-			char firstCharacter = dataType.charAt(0);
-			if (firstCharacter == 'a' || firstCharacter == 'e' || firstCharacter == 'i' || firstCharacter == 'o' 
-					|| firstCharacter == 'u' )
-				determiner = "an";
-			else
-				determiner = "a";	
-			// for each variable name
-			for (String variable : variables)
-			{
-				// This is done to minimize repetition in the corpus
-				// 1/3 of statements will begin with 'Initialize'
-				// 1/3 of statements will begin with 'Declare'
-				// 1/3 of statements will begin with 'Create'
-				if (count == 0)
-					declarationCommand = "Declare";
-				else if (count == 1)
-					declarationCommand = "Initialise";
-				else if (count == 2)
-				{
-					declarationCommand = "Create";
-					count = 0;
-				}
-				// "declare an integer x as 5
-				//statement = declarationCommand + space + determiner + dataType
-				
-
-
-
-
-
-
-			}
-
-		}
-
-	}
+//	public ArrayList<String> constructDeclarationStatements()
+//	{
+//		int count = 0;
+//		String determiner;
+//		String declarationCommand;
+//		String declarationStatement;
+//		ArrayList<String> declarationStatements = new ArrayList<String>();
+//
+//		// for each data type
+//		for (String dataType : dataTypes)
+//		{
+//			char firstCharacter = dataType.charAt(0);
+//			if (firstCharacter == 'a' || firstCharacter == 'e' || firstCharacter == 'i' || firstCharacter == 'o' 
+//					|| firstCharacter == 'u' )
+//				determiner = "an";
+//			else
+//				determiner = "a";	
+//			// for each variable name
+//			for (String variable : variables)
+//			{
+//				// This is done to minimize repetition in the corpus
+//				// 1/3 of statements will begin with 'Initialize'
+//				// 1/3 of statements will begin with 'Declare'
+//				// 1/3 of statements will begin with 'Create'
+//				if (count == 0)
+//					declarationCommand = "Declare";
+//				else if (count == 1)
+//					declarationCommand = "Initialise";
+//				else if (count == 2)
+//				{
+//					declarationCommand = "Create";
+//					count = 0;
+//				}
+//				// "declare an integer x as 5
+//				//statement = declarationCommand + space + determiner + dataType
+//			}
+//
+//		}
+//
+//	}
 
 
 	public ArrayList<String> construct2SubjectIfStatements()
