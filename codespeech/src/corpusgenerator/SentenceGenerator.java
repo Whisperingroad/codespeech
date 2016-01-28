@@ -64,7 +64,8 @@ public class SentenceGenerator {
 	}
 	
 	
-//TODO Declare/Initialise character 
+// TODO Declare/Initialise a character temp as c
+// TODO Declare	an unsigned character temp as 127
 	
 
 //	public ArrayList<String> constructDeclarationStatements()
