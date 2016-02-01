@@ -6,6 +6,7 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.ArrayList;
+import java.util.Arrays;
 
 public class SentenceGenerator {
 
@@ -16,6 +17,7 @@ public class SentenceGenerator {
 	ArrayList<String> conjunctions = new ArrayList<String>();
 
 	// for declaration/initialization statements
+	ArrayList<String> booleans = new ArrayList<String>();
 	ArrayList<String> characters = new ArrayList<String>();
 	ArrayList<String> unsignedCharacters = new ArrayList<String>();
 	ArrayList<String> signedCharacters = new ArrayList<String>();
@@ -31,11 +33,13 @@ public class SentenceGenerator {
 	ArrayList<String> floats = new ArrayList<String>();
 	ArrayList<String> doubles = new ArrayList<String>();
 	ArrayList<String> longDoubles	 = new ArrayList<String>();
+	ArrayList<String> strings	 = new ArrayList<String>();
 	ArrayList<String> variables = new ArrayList<String>();
-	ArrayList<String> dataTypes = new ArrayList<String>();
 	ArrayList<String> declareCommands = new ArrayList<String>();
-
-	String space = " ";
+	ArrayList<String> dataTypes = new ArrayList<String>();
+	
+	static final String SPACE = " ";
+	
 
 	public ArrayList<String> loadWords(String fileName, ArrayList<String> list) throws FileNotFoundException, IOException
 	{
@@ -68,46 +72,60 @@ public class SentenceGenerator {
 // TODO Declare	an unsigned character temp as 127
 	
 
-//	public ArrayList<String> constructDeclarationStatements()
-//	{
-//		int count = 0;
-//		String determiner;
-//		String declarationCommand;
-//		String declarationStatement;
-//		ArrayList<String> declarationStatements = new ArrayList<String>();
-//
-//		// for each data type
-//		for (String dataType : dataTypes)
-//		{
-//			char firstCharacter = dataType.charAt(0);
-//			if (firstCharacter == 'a' || firstCharacter == 'e' || firstCharacter == 'i' || firstCharacter == 'o' 
-//					|| firstCharacter == 'u' )
-//				determiner = "an";
-//			else
-//				determiner = "a";	
-//			// for each variable name
-//			for (String variable : variables)
-//			{
-//				// This is done to minimize repetition in the corpus
-//				// 1/3 of statements will begin with 'Initialize'
-//				// 1/3 of statements will begin with 'Declare'
-//				// 1/3 of statements will begin with 'Create'
-//				if (count == 0)
-//					declarationCommand = "Declare";
-//				else if (count == 1)
-//					declarationCommand = "Initialise";
-//				else if (count == 2)
-//				{
-//					declarationCommand = "Create";
-//					count = 0;
-//				}
-//				// "declare an integer x as 5
-//				//statement = declarationCommand + space + determiner + dataType
-//			}
-//
-//		}
-//
-//	}
+	public ArrayList<String> constructDeclarationStatements()
+	{
+		String determiner;
+		//String declarationCommand;
+		String declarationStatement;
+		ArrayList<String> declarationStatements = new ArrayList<String>();
+		ArrayList<String> declareWords = new ArrayList<String>(Arrays.asList("Create","Declare"));
+		ArrayList<String> adjective = new ArrayList<String>(Arrays.asList("named","called","as"));
+		// for each data type
+		for (String dataType : dataTypes)
+		{
+			char firstCharacter = dataType.charAt(0);
+			if (firstCharacter == 'a' || firstCharacter == 'e' || firstCharacter == 'i' || firstCharacter == 'o' 
+					|| firstCharacter == 'u' )
+				determiner = "an";
+			else
+				determiner = "a";	
+			// for each variable name
+			for (String variableName : variables)
+			{
+				// This is done to minimize repetition in the corpus
+				// 1/2 of statements will begin with 'Declare'
+				// 1/2 of statements will begin with 'Create'
+				for (String declareWord : declareWords){
+					//e.g. declare an integer y
+					declarationStatement = declareWord + SPACE +  determiner + SPACE + dataType + SPACE + variableName;
+					declarationStatements.add(declarationStatement);
+					//Adding adjectives
+					for (String adj : adjective)
+					{
+						//e.g. declare an integer named y
+						declarationStatement = declareWord + SPACE +  determiner + SPACE + dataType + SPACE + adj + SPACE + variableName;
+						declarationStatements.add(declarationStatement);
+					}
+					
+					//Adding the word variable to the statement
+					//e.g. declare an integer variable y
+					declarationStatement = declareWord + SPACE +  determiner + SPACE + dataType + SPACE + "variable" + SPACE + variableName;
+					declarationStatements.add(declarationStatement);
+					
+					for (String adj : adjective)
+					{
+						//e.g. declare an integer variable named y
+						declarationStatement = declareWord + SPACE +  determiner + SPACE + dataType + SPACE + "variable" + SPACE + adj + SPACE + variableName;
+						declarationStatements.add(declarationStatement);
+					}
+				}
+			}
+
+		}
+		
+		return declarationStatements;
+
+	}
 
 
 	public ArrayList<String> construct2SubjectIfStatements()
@@ -134,7 +152,7 @@ public class SentenceGenerator {
 				{
 					String statement = "If ";
 					String condition = conditions.get(k).trim();
-					statement = statement + subject1 + space + condition + space + subject2;
+					statement = statement + subject1 + SPACE + condition + SPACE + subject2;
 					statements.add(statement);
 				}
 			}

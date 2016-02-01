@@ -1,15 +1,17 @@
-character
-unsigned character
-signed character
-integer
-unsigned integer
-signed integer
-short integer
-unsigned short integer
-signed short integer
-long integer
-unsigned long integer
-float
-double
-long double
 boolean
+character
+double
+float
+integer
+long double
+long integer
+short integer
+signed character
+signed integer
+signed long integer
+signed short integer
+string
+unsigned character
+unsigned integer
+unsigned long integer
+unsigned short integer

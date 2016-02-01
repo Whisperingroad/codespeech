@@ -8,59 +8,110 @@ import utils.Constants;
 
 public class CorpusGenerator {
 	
+	static String subjectsFileName = System.getProperty("user.dir") + "/src/Input/subjects.txt";
+	static String conditionsFileName = System.getProperty("user.dir")+ "/src/Input/conditions.txt";
+	static String variablesFileName = System.getProperty("user.dir")+ "/src/Input/variables.txt";
+	// for declaration/initialization statements	
+	// characters
+	static String characterFileName = System.getProperty("user.dir") + "/src/Input/characters.txt";
+	static String unsignedCharFileName = System.getProperty("user.dir") + "/src/Input/unsignedCharacters.txt";
+	static String signedCharFileName = System.getProperty("user.dir") + "/src/Input/signedCharacters.txt";
+	// integers
+	static String integerFileName = System.getProperty("user.dir") + "/src/Input/integers.txt";
+	static String unsignedIntFileName = System.getProperty("user.dir") + "/src/Input/unsignedIntegers.txt";
+	static String signedIntFileName = System.getProperty("user.dir") + "/src/Input/signedIntegers.txt";
+	static String shortIntFileName = System.getProperty("user.dir") + "/src/Input/shortIntegers.txt";
+	static String unsignedShortIntFileName = System.getProperty("user.dir") + "/src/Input/unsignedShortIntegers.txt";
+	static String signedShortIntFileName = System.getProperty("user.dir") + "/src/Input/signedShortIntegers.txt";
+	static String longIntFileName = System.getProperty("user.dir") + "/src/Input/longIntegers.txt";
+	static String signedLongIntFileName = System.getProperty("user.dir") + "/src/Input/signedLongIntegers.txt";
+	static String unsignedLongIntFileName = System.getProperty("user.dir") + "/src/Input/unsignedLongIntegers.txt";
+	static String floatFileName = System.getProperty("user.dir") + "/src/Input/float.txt";
+	static String doubleFileName = System.getProperty("user.dir") + "/src/Input/double.txt";
+	static String longDoubleFileName = System.getProperty("user.dir") + "/src/Input/longDouble.txt";
+	// string
+	static String stringFileName = System.getProperty("user.dir") + "/src/Input/strings.txt";
+	// boolean
+	static String booleanFileName = System.getProperty("user.dir") + "/src/Input/boolean.txt";
+	//data types
+	static String dataTypeFileName = System.getProperty("user.dir") + "/src/Input/datatypes.txt";
+	//declare commands
+	static String declareWordsFileName = System.getProperty("user.dir") + "/src/Input/declarationcommands.txt";
 	
 	public static void main(String Args[]) throws FileNotFoundException, IOException
 	{
-		SentenceGenerator sentenceGenerator = new SentenceGenerator();
-		
-		// generating if condition statements
-		// variable names
-		String subjectsFileName = System.getProperty("user.dir") + "/src/Input/subjects.txt";
-		String conditionsFileName = System.getProperty("user.dir")+ "/src/Input/conditions.txt";
-		sentenceGenerator.loadWords(subjectsFileName, sentenceGenerator.subjects);
-		sentenceGenerator.loadWords(conditionsFileName, sentenceGenerator.conditions);
-		
-		// for declaration/initialization statements
-		
-		// characters
-		String characterFileName = System.getProperty("user.dir") + "/src/Input/characters.txt";
-		String unsignedCharFileName = System.getProperty("user.dir") + "/src/Input/unsignedCharacter.txt";
-		String signedCharFileName = System.getProperty("user.dir") + "/src/Input/signedCharacter.txt";
-		// integers
-		String integerFileName = System.getProperty("user.dir") + "/src/Input/integers.txt";
-		String unsignedIntFileName = System.getProperty("user.dir") + "/src/Input/unsignedIntegers.txt";
-		String signedIntFileName = System.getProperty("user.dir") + "/src/Input/signedIntegers.txt";
-		String shortIntFileName = System.getProperty("user.dir") + "/src/Input/shortIntegers.txt";
-		String unsignedShortIntFileName = System.getProperty("user.dir") + "/src/Input/unsignedShortIntegers.txt";
-		String signedShortIntFileName = System.getProperty("user.dir") + "/src/Input/signedShortIntegers.txt";
-		String longIntFileName = System.getProperty("user.dir") + "/src/Input/longIntegers.txt";
-		String signedLongIntFileName = System.getProperty("user.dir") + "/src/Input/signedLongIntegers.txt";
-		String unsignedLongIntFileName = System.getProperty("user.dir") + "/src/Input/unsignedLongIntegers.txt";
-		String floatFileName = System.getProperty("user.dir") + "/src/Input/float.txt";
-		String doubleFileName = System.getProperty("user.dir") + "/src/Input/double.txt";
-		String longDoubleFileName = System.getProperty("user.dir") + "/src/Input/longDouble.txt";
-		// string
-		String stringFileName = System.getProperty("user.dir") + "/src/Input/strings.txt";
-		// boolean
-		String booleanFileName = System.getProperty("user.dir") + "/src/Input/boolean.txt";
-		
-				
+		SentenceGenerator sentenceGenerator;
+		//SentenceTagger sentenceTagger = new SentenceTagger();
+		sentenceGenerator = loadAll();
 		// testing functions
 		ArrayList<String> test = new ArrayList<String>();
-		ArrayList<String> formattedOutput = new ArrayList<String>();
-		test = sentenceGenerator.construct2SubjectIfStatements();
-		formattedOutput = SentenceTagger.tag(test);
-		for (String s : formattedOutput)
+		//ArrayList<String> formattedOutput = new ArrayList<String>();
+		test = sentenceGenerator.constructDeclarationStatements();
+		//test = sentenceGenerator.construct2SubjectIfStatements();
+//		formattedOutput = sentenceTagger.tag(test);
+//		for (String s : formattedOutput)
+//		{
+//			System.out.println(s);
+//		}
+//		System.out.println("size of statements is " + test.size());
+		for (String s : test)
 		{
 			System.out.println(s);
 		}
 		System.out.println("size of statements is " + test.size());
+
+		
 		
 		// writing them out
-		String outputFileName = Constants.SEBASTIAN + "Output/statements.txt";
-		sentenceGenerator.writeStatements(outputFileName, formattedOutput);
+		String outputFileName = System.getProperty("user.dir") + "/src/Output/statements.txt";
+		sentenceGenerator.writeStatements(outputFileName, test);
+//		String outputFileName = Constants.SEBASTIAN + "Output/statements.txt";
+//		sentenceGenerator.writeStatements(outputFileName, formattedOutput);
 		
 	}
+	
+	public static SentenceGenerator loadAll()
+	{
+		SentenceGenerator sentenceGenerator = new SentenceGenerator();		
+		try {
+			sentenceGenerator.loadWords(subjectsFileName, sentenceGenerator.subjects);
+			sentenceGenerator.loadWords(conditionsFileName, sentenceGenerator.conditions);
+			sentenceGenerator.loadWords(variablesFileName, sentenceGenerator.variables);
+			//characters
+			sentenceGenerator.loadWords(characterFileName, sentenceGenerator.characters);
+			sentenceGenerator.loadWords(unsignedCharFileName, sentenceGenerator.unsignedCharacters);				
+			sentenceGenerator.loadWords(signedCharFileName, sentenceGenerator.signedCharacters);
+			
+			//integers
+			sentenceGenerator.loadWords(integerFileName, sentenceGenerator.integers);		
+			sentenceGenerator.loadWords(unsignedIntFileName, sentenceGenerator.unsignedIntegers);
+			sentenceGenerator.loadWords(signedIntFileName, sentenceGenerator.signedIntegers);		
+			sentenceGenerator.loadWords(shortIntFileName, sentenceGenerator.shortIntegers);
+			sentenceGenerator.loadWords(unsignedShortIntFileName, sentenceGenerator.unsignedShortIntegers);		
+			sentenceGenerator.loadWords(signedShortIntFileName, sentenceGenerator.signedShortIntegers);
+			sentenceGenerator.loadWords(longIntFileName, sentenceGenerator.longIntegers);		
+			sentenceGenerator.loadWords(signedLongIntFileName, sentenceGenerator.signedLongIntegers);
+			sentenceGenerator.loadWords(unsignedLongIntFileName, sentenceGenerator.unsignedLongIntegers);	
+			sentenceGenerator.loadWords(floatFileName, sentenceGenerator.floats);		
+			sentenceGenerator.loadWords(doubleFileName, sentenceGenerator.doubles);
+			sentenceGenerator.loadWords(longDoubleFileName, sentenceGenerator.longDoubles);
+			//string
+			sentenceGenerator.loadWords(stringFileName, sentenceGenerator.strings);
+			//boolean
+			sentenceGenerator.loadWords(booleanFileName, sentenceGenerator.booleans);
+			//data type
+			sentenceGenerator.loadWords(dataTypeFileName, sentenceGenerator.dataTypes);
+			//declare commands
+			sentenceGenerator.loadWords(declareWordsFileName, sentenceGenerator.declareCommands);
+		}catch (FileNotFoundException e) {
+			e.printStackTrace();
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+		
+		return sentenceGenerator;
+	}
+	
 
 
 }
