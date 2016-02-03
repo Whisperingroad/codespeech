@@ -72,7 +72,7 @@ public class SentenceGenerator {
 // TODO Declare	an unsigned character temp as 127
 	
 
-	public ArrayList<String> constructDeclarationStatements()
+	public ArrayList<String> constructAllDeclarationStatements()
 	{
 		String determiner;
 		//String declarationCommand;
@@ -123,6 +123,69 @@ public class SentenceGenerator {
 
 		}
 		
+		return declarationStatements;
+
+	}
+	
+	public ArrayList<String> constructSomeDeclarationStatements() {
+		int noOfVar = 27;
+		int index = 0;
+		String determiner;
+		// String declarationCommand;
+		String declarationStatement;
+		ArrayList<String> declarationStatements = new ArrayList<String>();
+		ArrayList<String> declareWords = new ArrayList<String>(Arrays.asList(
+				"Create", "Declare"));
+		ArrayList<String> adjective = new ArrayList<String>(Arrays.asList(
+				"named", "called", "as"));
+		
+		// for each data type
+		for (String dataType : dataTypes) {
+			char firstCharacter = dataType.charAt(0);
+			if (firstCharacter == 'a' || firstCharacter == 'e'
+					|| firstCharacter == 'i' || firstCharacter == 'o'
+					|| firstCharacter == 'u')
+				determiner = "an";
+			else
+				determiner = "a";
+			
+			// for each variable name
+			// This is done to minimize repetition in the corpus
+			// 1/2 of statements will begin with 'Declare'
+			// 1/2 of statements will begin with 'Create'
+			
+			for (String declareWord : declareWords) {
+				// e.g. declare an integer y
+				declarationStatement = declareWord + SPACE + determiner + SPACE
+						+ dataType + SPACE + variables.get(index++ % noOfVar);
+				declarationStatements.add(declarationStatement);
+				// Adding adjectives
+				for (String adj : adjective) {
+					// e.g. declare an integer named y
+					declarationStatement = declareWord + SPACE + determiner
+							+ SPACE + dataType + SPACE + adj + SPACE
+							+ variables.get(index++ % noOfVar);
+					declarationStatements.add(declarationStatement);
+				}
+
+				// Adding the word variable to the statement
+				// e.g. declare an integer variable y
+				declarationStatement = declareWord + SPACE + determiner + SPACE
+						+ dataType + SPACE + "variable" + SPACE + variables.get(index++ % noOfVar);
+				declarationStatements.add(declarationStatement);
+
+				for (String adj : adjective) {
+					// e.g. declare an integer variable named y
+					declarationStatement = declareWord + SPACE + determiner
+							+ SPACE + dataType + SPACE + "variable" + SPACE
+							+ adj + SPACE + variables.get(index++ % noOfVar);
+					declarationStatements.add(declarationStatement);
+				}
+
+			}
+
+		}
+
 		return declarationStatements;
 
 	}

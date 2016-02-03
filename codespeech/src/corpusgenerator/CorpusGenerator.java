@@ -46,7 +46,7 @@ public class CorpusGenerator {
 		// testing functions
 		ArrayList<String> test = new ArrayList<String>();
 		//ArrayList<String> formattedOutput = new ArrayList<String>();
-		test = sentenceGenerator.constructDeclarationStatements();
+		test = sentenceGenerator.constructSomeDeclarationStatements();
 		//test = sentenceGenerator.construct2SubjectIfStatements();
 //		formattedOutput = sentenceTagger.tag(test);
 //		for (String s : formattedOutput)
