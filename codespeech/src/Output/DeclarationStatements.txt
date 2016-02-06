@@ -1,0 +1,272 @@
+Create a boolean temp
+Create a boolean named temp1
+Create a boolean called temp2
+Create a boolean as curr
+Create a boolean variable prev
+Create a boolean variable named number
+Create a boolean variable called a
+Create a boolean variable as b
+Declare a boolean c
+Declare a boolean named d
+Declare a boolean called e
+Declare a boolean as f
+Declare a boolean variable h
+Declare a boolean variable named i
+Declare a boolean variable called j
+Declare a boolean variable as k
+Create a character p
+Create a character named q
+Create a character called r
+Create a character as s
+Create a character variable t
+Create a character variable named u
+Create a character variable called v
+Create a character variable as w
+Declare a character x
+Declare a character named y
+Declare a character called z
+Declare a character as temp
+Declare a character variable temp1
+Declare a character variable named temp2
+Declare a character variable called curr
+Declare a character variable as prev
+Create a double number
+Create a double named a
+Create a double called b
+Create a double as c
+Create a double variable d
+Create a double variable named e
+Create a double variable called f
+Create a double variable as h
+Declare a double i
+Declare a double named j
+Declare a double called k
+Declare a double as p
+Declare a double variable q
+Declare a double variable named r
+Declare a double variable called s
+Declare a double variable as t
+Create a float u
+Create a float named v
+Create a float called w
+Create a float as x
+Create a float variable y
+Create a float variable named z
+Create a float variable called temp
+Create a float variable as temp1
+Declare a float temp2
+Declare a float named curr
+Declare a float called prev
+Declare a float as number
+Declare a float variable a
+Declare a float variable named b
+Declare a float variable called c
+Declare a float variable as d
+Create an integer e
+Create an integer named f
+Create an integer called h
+Create an integer as i
+Create an integer variable j
+Create an integer variable named k
+Create an integer variable called p
+Create an integer variable as q
+Declare an integer r
+Declare an integer named s
+Declare an integer called t
+Declare an integer as u
+Declare an integer variable v
+Declare an integer variable named w
+Declare an integer variable called x
+Declare an integer variable as y
+Create a long double z
+Create a long double named temp
+Create a long double called temp1
+Create a long double as temp2
+Create a long double variable curr
+Create a long double variable named prev
+Create a long double variable called number
+Create a long double variable as a
+Declare a long double b
+Declare a long double named c
+Declare a long double called d
+Declare a long double as e
+Declare a long double variable f
+Declare a long double variable named h
+Declare a long double variable called i
+Declare a long double variable as j
+Create a long integer k
+Create a long integer named p
+Create a long integer called q
+Create a long integer as r
+Create a long integer variable s
+Create a long integer variable named t
+Create a long integer variable called u
+Create a long integer variable as v
+Declare a long integer w
+Declare a long integer named x
+Declare a long integer called y
+Declare a long integer as z
+Declare a long integer variable temp
+Declare a long integer variable named temp1
+Declare a long integer variable called temp2
+Declare a long integer variable as curr
+Create a short integer prev
+Create a short integer named number
+Create a short integer called a
+Create a short integer as b
+Create a short integer variable c
+Create a short integer variable named d
+Create a short integer variable called e
+Create a short integer variable as f
+Declare a short integer h
+Declare a short integer named i
+Declare a short integer called j
+Declare a short integer as k
+Declare a short integer variable p
+Declare a short integer variable named q
+Declare a short integer variable called r
+Declare a short integer variable as s
+Create a signed character t
+Create a signed character named u
+Create a signed character called v
+Create a signed character as w
+Create a signed character variable x
+Create a signed character variable named y
+Create a signed character variable called z
+Create a signed character variable as temp
+Declare a signed character temp1
+Declare a signed character named temp2
+Declare a signed character called curr
+Declare a signed character as prev
+Declare a signed character variable number
+Declare a signed character variable named a
+Declare a signed character variable called b
+Declare a signed character variable as c
+Create a signed integer d
+Create a signed integer named e
+Create a signed integer called f
+Create a signed integer as h
+Create a signed integer variable i
+Create a signed integer variable named j
+Create a signed integer variable called k
+Create a signed integer variable as p
+Declare a signed integer q
+Declare a signed integer named r
+Declare a signed integer called s
+Declare a signed integer as t
+Declare a signed integer variable u
+Declare a signed integer variable named v
+Declare a signed integer variable called w
+Declare a signed integer variable as x
+Create a signed long integer y
+Create a signed long integer named z
+Create a signed long integer called temp
+Create a signed long integer as temp1
+Create a signed long integer variable temp2
+Create a signed long integer variable named curr
+Create a signed long integer variable called prev
+Create a signed long integer variable as number
+Declare a signed long integer a
+Declare a signed long integer named b
+Declare a signed long integer called c
+Declare a signed long integer as d
+Declare a signed long integer variable e
+Declare a signed long integer variable named f
+Declare a signed long integer variable called h
+Declare a signed long integer variable as i
+Create a signed short integer j
+Create a signed short integer named k
+Create a signed short integer called p
+Create a signed short integer as q
+Create a signed short integer variable r
+Create a signed short integer variable named s
+Create a signed short integer variable called t
+Create a signed short integer variable as u
+Declare a signed short integer v
+Declare a signed short integer named w
+Declare a signed short integer called x
+Declare a signed short integer as y
+Declare a signed short integer variable z
+Declare a signed short integer variable named temp
+Declare a signed short integer variable called temp1
+Declare a signed short integer variable as temp2
+Create a string curr
+Create a string named prev
+Create a string called number
+Create a string as a
+Create a string variable b
+Create a string variable named c
+Create a string variable called d
+Create a string variable as e
+Declare a string f
+Declare a string named h
+Declare a string called i
+Declare a string as j
+Declare a string variable k
+Declare a string variable named p
+Declare a string variable called q
+Declare a string variable as r
+Create an unsigned character s
+Create an unsigned character named t
+Create an unsigned character called u
+Create an unsigned character as v
+Create an unsigned character variable w
+Create an unsigned character variable named x
+Create an unsigned character variable called y
+Create an unsigned character variable as z
+Declare an unsigned character temp
+Declare an unsigned character named temp1
+Declare an unsigned character called temp2
+Declare an unsigned character as curr
+Declare an unsigned character variable prev
+Declare an unsigned character variable named number
+Declare an unsigned character variable called a
+Declare an unsigned character variable as b
+Create an unsigned integer c
+Create an unsigned integer named d
+Create an unsigned integer called e
+Create an unsigned integer as f
+Create an unsigned integer variable h
+Create an unsigned integer variable named i
+Create an unsigned integer variable called j
+Create an unsigned integer variable as k
+Declare an unsigned integer p
+Declare an unsigned integer named q
+Declare an unsigned integer called r
+Declare an unsigned integer as s
+Declare an unsigned integer variable t
+Declare an unsigned integer variable named u
+Declare an unsigned integer variable called v
+Declare an unsigned integer variable as w
+Create an unsigned long integer x
+Create an unsigned long integer named y
+Create an unsigned long integer called z
+Create an unsigned long integer as temp
+Create an unsigned long integer variable temp1
+Create an unsigned long integer variable named temp2
+Create an unsigned long integer variable called curr
+Create an unsigned long integer variable as prev
+Declare an unsigned long integer number
+Declare an unsigned long integer named a
+Declare an unsigned long integer called b
+Declare an unsigned long integer as c
+Declare an unsigned long integer variable d
+Declare an unsigned long integer variable named e
+Declare an unsigned long integer variable called f
+Declare an unsigned long integer variable as h
+Create an unsigned short integer i
+Create an unsigned short integer named j
+Create an unsigned short integer called k
+Create an unsigned short integer as p
+Create an unsigned short integer variable q
+Create an unsigned short integer variable named r
+Create an unsigned short integer variable called s
+Create an unsigned short integer variable as t
+Declare an unsigned short integer u
+Declare an unsigned short integer named v
+Declare an unsigned short integer called w
+Declare an unsigned short integer as x
+Declare an unsigned short integer variable y
+Declare an unsigned short integer variable named z
+Declare an unsigned short integer variable called temp
+Declare an unsigned short integer variable as temp1

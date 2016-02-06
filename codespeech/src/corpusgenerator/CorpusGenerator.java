@@ -41,32 +41,33 @@ public class CorpusGenerator {
 	public static void main(String Args[]) throws FileNotFoundException, IOException
 	{
 		SentenceGenerator sentenceGenerator;
-		//SentenceTagger sentenceTagger = new SentenceTagger();
+		SentenceTagger sentenceTagger = new SentenceTagger();
 		sentenceGenerator = loadAll();
-		// testing functions
-		ArrayList<String> test = new ArrayList<String>();
-		//ArrayList<String> formattedOutput = new ArrayList<String>();
-		test = sentenceGenerator.constructSomeDeclarationStatements();
-		//test = sentenceGenerator.construct2SubjectIfStatements();
-//		formattedOutput = sentenceTagger.tag(test);
-//		for (String s : formattedOutput)
-//		{
-//			System.out.println(s);
-//		}
-//		System.out.println("size of statements is " + test.size());
-		for (String s : test)
-		{
-			System.out.println(s);
-		}
-		System.out.println("size of statements is " + test.size());
-
+		
+		// Constructing statements
+		ArrayList<String> declarationStatements = new ArrayList<String>();
+		ArrayList<String> twoSubjectIfStatements = new ArrayList<String>();	
+		declarationStatements = sentenceGenerator.constructSomeDeclarationStatements();
+		twoSubjectIfStatements = sentenceGenerator.construct2SubjectIfStatements();
+		
+		// writing statements to text file
+		String outputFileName = System.getProperty("user.dir") + "/src/Output/DeclarationStatements.txt";
+		sentenceGenerator.writeStatements(outputFileName, declarationStatements);
+		outputFileName = System.getProperty("user.dir") + "/src/Output/2SubjectIfStatements.txt"; 
+		sentenceGenerator.writeStatements(outputFileName, twoSubjectIfStatements);
+		
+		// constructing corpus
+		ArrayList<String> twoSubjectIfCorpus = new ArrayList<String>();
+		ArrayList<String> declarationCorpus = new ArrayList<String>();
+		
+		twoSubjectIfCorpus = sentenceTagger.tag2SubjectIfStatement(twoSubjectIfStatements);
+//		declarationCorpus = sentenceTagger
+		
+		// printing corpus
+		outputFileName = System.getProperty("user.dir") + "/src/Output/twoSubjectIfCorpus.txt";
+		sentenceGenerator.writeStatements(outputFileName, twoSubjectIfCorpus);
 		
 		
-		// writing them out
-		String outputFileName = System.getProperty("user.dir") + "/src/Output/statements.txt";
-		sentenceGenerator.writeStatements(outputFileName, test);
-//		String outputFileName = Constants.SEBASTIAN + "Output/statements.txt";
-//		sentenceGenerator.writeStatements(outputFileName, formattedOutput);
 		
 	}
 	
@@ -81,7 +82,6 @@ public class CorpusGenerator {
 			sentenceGenerator.loadWords(characterFileName, sentenceGenerator.characters);
 			sentenceGenerator.loadWords(unsignedCharFileName, sentenceGenerator.unsignedCharacters);				
 			sentenceGenerator.loadWords(signedCharFileName, sentenceGenerator.signedCharacters);
-			
 			//integers
 			sentenceGenerator.loadWords(integerFileName, sentenceGenerator.integers);		
 			sentenceGenerator.loadWords(unsignedIntFileName, sentenceGenerator.unsignedIntegers);
