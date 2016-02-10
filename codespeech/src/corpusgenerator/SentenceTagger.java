@@ -160,29 +160,29 @@ public class SentenceTagger {
 							+ "5" + tab + "xcomp" + tab + "_" + "_";
 					}
 				}
-				else if (sentenceNumber <= 160)
-				{
-					if (sentenceIndex == 1 || sentenceIndex == 9)
-					{
-						// Create/Declare
-						if (i == 0)
-							dependency = (i+1) + tab + words.get(i) + tab + words.get(i) + tab + "VERB" + tab + "VB" + tab + "VerbForm=Inf" + tab +
-							"0" + tab + "root" + tab + "_" + tab + "_";
-						// a or an
-						else if (i==1)
-							dependency = (i+1) + tab + words.get(i) + tab + words.get(i) + tab + "DET" + tab + "DT" + tab + "Definite=Ind|PronType=Art" + tab
-							+ "3" + tab + "det" + tab + "_" + tab + "_";
-						// data type
-						else if (i == 2)
-							dependency = (i+1) + tab + words.get(i) + tab + words.get(i) + tab + "NOUN" + tab + "NN" + tab + "Number=SING" + tab
-							+ "4" + tab + "compound" + tab + "_" + tab + "_";
-						else if (i == 3)
-							dependency = (i+1) + tab + words.get(i) + tab + words.get(i) + tab + "NOUN" + tab + "NN" + tab + "Number=SING" + tab
-							+ "1" + tab + "dobj" + tab + "_" + tab + "_";
-					}
-					
-					
-				}
+//				else if (sentenceNumber <= 160)
+//				{
+//					if (sentenceIndex == 1 || sentenceIndex == 9)
+//					{
+//						// Create/Declare
+//						if (i == 0)
+//							dependency = (i+1) + tab + words.get(i) + tab + words.get(i) + tab + "VERB" + tab + "VB" + tab + "VerbForm=Inf" + tab +
+//							"0" + tab + "root" + tab + "_" + tab + "_";
+//						// a or an
+//						else if (i==1)
+//							dependency = (i+1) + tab + words.get(i) + tab + words.get(i) + tab + "DET" + tab + "DT" + tab + "Definite=Ind|PronType=Art" + tab
+//							+ "3" + tab + "det" + tab + "_" + tab + "_";
+//						// data type
+//						else if (i == 2)
+//							dependency = (i+1) + tab + words.get(i) + tab + words.get(i) + tab + "NOUN" + tab + "NN" + tab + "Number=SING" + tab
+//							+ "4" + tab + "compound" + tab + "_" + tab + "_";
+//						else if (i == 3)
+//							dependency = (i+1) + tab + words.get(i) + tab + words.get(i) + tab + "NOUN" + tab + "NN" + tab + "Number=SING" + tab
+//							+ "1" + tab + "dobj" + tab + "_" + tab + "_";
+//					}
+//					
+//					
+//				}
 				
 				
 				
