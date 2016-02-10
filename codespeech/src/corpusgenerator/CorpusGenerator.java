@@ -66,9 +66,6 @@ public class CorpusGenerator {
 		// printing corpus
 		outputFileName = System.getProperty("user.dir") + "/src/Output/twoSubjectIfCorpus.txt";
 		sentenceGenerator.writeStatements(outputFileName, twoSubjectIfCorpus);
-		
-		
-		
 	}
 	
 	public static SentenceGenerator loadAll()
