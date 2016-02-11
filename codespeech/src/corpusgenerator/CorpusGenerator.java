@@ -61,11 +61,13 @@ public class CorpusGenerator {
 		ArrayList<String> declarationCorpus = new ArrayList<String>();
 		
 		twoSubjectIfCorpus = sentenceTagger.tag2SubjectIfStatement(twoSubjectIfStatements);
-//		declarationCorpus = sentenceTagger
+		declarationCorpus = sentenceTagger.tagDeclarationStatements(declarationStatements);
 		
 		// printing corpus
 		outputFileName = System.getProperty("user.dir") + "/src/Output/twoSubjectIfCorpus.txt";
 		sentenceGenerator.writeStatements(outputFileName, twoSubjectIfCorpus);
+		outputFileName = System.getProperty("user.dir") + "/src/Output/DeclarationStatementsCorpus.txt";		
+		sentenceGenerator.writeStatements(outputFileName, declarationCorpus);		
 	}
 	
 	public static SentenceGenerator loadAll()

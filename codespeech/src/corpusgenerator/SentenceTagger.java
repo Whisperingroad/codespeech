@@ -45,7 +45,7 @@ public class SentenceTagger {
 	{
 		int sentenceNumber = 0;
 		int sentenceIndex = 0;
-		// four words
+		ArrayList<String> declarationCorpus = new ArrayList<String>();
 		for (String s : sentences)
 		{
 			sentenceNumber++;
@@ -57,10 +57,11 @@ public class SentenceTagger {
 			ArrayList<String> words = new ArrayList<String>(Arrays.asList(s.split(" ")));
 			for (int i = 0; i < words.size(); i++)
 			{
-				if (sentenceNumber <= 80)
+				if (sentenceNumber <= 80 || (sentenceNumber >= 193 && sentenceNumber <= 208))
 				{
 					// Create/Declare a boolean temp
 					// Anomaly, dobj is variable name
+					// wordcount = 4
 					if (sentenceIndex == 1 || sentenceIndex == 9)
 					{
 						// Create/Declare
@@ -78,10 +79,12 @@ public class SentenceTagger {
 						else if (i == 3)
 							dependency = (i+1) + tab + words.get(i) + tab + words.get(i) + tab + "NOUN" + tab + "NN" + tab + "Number=SING" + tab
 							+ "1" + tab + "dobj" + tab + "_" + tab + "_";
+						
 					}
 					// Create/Declare a boolean named temp
 					// Create/Declare a boolean called temp
 					// Create/Declare a boolean as temp
+					// wordcount = 5
 					else if ((sentenceIndex >= 2 && sentenceIndex <= 4 ) || (sentenceIndex >= 10 && sentenceIndex <= 12 ))
 					{
 						if (i == 0)
@@ -106,10 +109,11 @@ public class SentenceTagger {
 							+ "3" + tab + "acl" + tab + "_" + tab + "_";
 						else if (i== 4)
 							dependency = (i+1) + tab + words.get(i) + tab + words.get(i) + tab + "NOUN" + tab + "NN" + tab + "Number=SING" + tab
-							+ "4" + tab + "xcomp" + tab + "_" + "_";
+							+ "4" + tab + "xcomp" + tab + "_" + tab + "_";
 					}
 					// Create/Declare a boolean variable prev
 					// Anomaly, dobj is variable name
+					// wordcount = 5
 					else if (sentenceIndex == 5 || sentenceIndex == 13)
 					{
 						if (i == 0)
@@ -122,7 +126,7 @@ public class SentenceTagger {
 						// data type
 						else if (i == 2)
 							dependency = (i+1) + tab + words.get(i) + tab + words.get(i) + tab + "NOUN" + tab + "NN" + tab + "Number=SING" + tab
-							+ "4" + tab + "compound" + tab + "_" + tab + "_";
+							+ "5" + tab + "compound" + tab + "_" + tab + "_";
 						else if (i == 3)
 							dependency = (i+1) + tab + words.get(i) + tab + words.get(i) + tab + "NOUN" + tab + "NN" + tab + "Number=SING" + tab
 							+ "5" + tab + "compound" + tab + "_" + tab + "_";
@@ -134,6 +138,7 @@ public class SentenceTagger {
 					// Create/Declare a boolean variable named temp
 					// Create/Declare a boolean variable called temp
 					// Create/Declare a boolean variable as temp
+					// word count = 6
 					else if ((sentenceIndex >= 6 && sentenceIndex <= 8 ) || (sentenceIndex >= 14 && sentenceIndex <= 16 ))
 					{
 						if (i == 0)
@@ -151,51 +156,294 @@ public class SentenceTagger {
 							+ "1" + tab + "dobj" + tab + "_" + tab + "_";
 						else if (i == 4 && words.get(i).equals("named"))
 							dependency = (i+1) + tab + words.get(i) + tab + "name" + tab  + "VERB" + tab + "VBN" + tab + "Tense=Past|VerbForm=Part" + tab
-							+ "4" + tab + "acl" + tab + "_" + tab + "_";
+							+ "3" + tab + "acl" + tab + "_" + tab + "_";
 						else if(i == 4 && words.get(i).equals("called"))
 							dependency = (i+1) + tab + words.get(i) + tab + "call" + tab  + "VERB" + tab + "VBN" + tab + "Tense=Past|VerbForm=Part" + tab
-							+ "4" + tab + "acl" + tab + "_" + tab + "_";
+							+ "3" + tab + "acl" + tab + "_" + tab + "_";
+						else if (i == 4 && words.get(i).equals("as"))
+							dependency = (i+1) + tab + words.get(i) + tab + words.get(i) + tab  + "ADP" + tab + "IN" + tab + "_" + tab
+							+ "3" + tab + "acl" + tab + "_" + tab + "_";
 						else if (i== 5)
 							dependency = (i+1) + tab + words.get(i) + tab + words.get(i) + tab + "NOUN" + tab + "NN" + tab + "Number=SING" + tab
-							+ "5" + tab + "xcomp" + tab + "_" + "_";
+							+ "5" + tab + "xcomp" + tab + "_" + tab + "_";
 					}
 				}
-//				else if (sentenceNumber <= 160)
-//				{
-//					if (sentenceIndex == 1 || sentenceIndex == 9)
-//					{
-//						// Create/Declare
-//						if (i == 0)
-//							dependency = (i+1) + tab + words.get(i) + tab + words.get(i) + tab + "VERB" + tab + "VB" + tab + "VerbForm=Inf" + tab +
-//							"0" + tab + "root" + tab + "_" + tab + "_";
-//						// a or an
-//						else if (i==1)
-//							dependency = (i+1) + tab + words.get(i) + tab + words.get(i) + tab + "DET" + tab + "DT" + tab + "Definite=Ind|PronType=Art" + tab
-//							+ "3" + tab + "det" + tab + "_" + tab + "_";
-//						// data type
-//						else if (i == 2)
-//							dependency = (i+1) + tab + words.get(i) + tab + words.get(i) + tab + "NOUN" + tab + "NN" + tab + "Number=SING" + tab
-//							+ "4" + tab + "compound" + tab + "_" + tab + "_";
-//						else if (i == 3)
-//							dependency = (i+1) + tab + words.get(i) + tab + words.get(i) + tab + "NOUN" + tab + "NN" + tab + "Number=SING" + tab
-//							+ "1" + tab + "dobj" + tab + "_" + tab + "_";
-//					}
-//					
-//					
-//				}
+				else if (sentenceNumber <= 160 || (sentenceNumber >= 209 && sentenceNumber <= 240))
+				{
+					// Create/Declare a long double z
+					// wordcount = 5
+					if (sentenceIndex == 1 || sentenceIndex == 9)
+					{
+						// Create/Declare
+						if (i == 0)
+							dependency = (i+1) + tab + words.get(i) + tab + words.get(i) + tab + "VERB" + tab + "VB" + tab + "VerbForm=Inf" + tab +
+							"0" + tab + "root" + tab + "_" + tab + "_";
+						// a or an
+						else if (i==1)
+							dependency = (i+1) + tab + words.get(i) + tab + words.get(i) + tab + "DET" + tab + "DT" + tab + "Definite=Ind|PronType=Art" + tab
+							+ "3" + tab + "det" + tab + "_" + tab + "_";
+						// data type (1)
+						else if (i == 2)
+							dependency = (i+1) + tab + words.get(i) + tab + words.get(i) + tab + "NOUN" + tab + "NN" + tab + "Number=SING" + tab
+							+ "5" + tab + "compound" + tab + "_" + tab + "_";
+						// data type (2)
+						else if (i == 3)
+							dependency = (i+1) + tab + words.get(i) + tab + words.get(i) + tab + "NOUN" + tab + "NN" + tab + "Number=SING" + tab
+							+ "5" + tab + "compound" + tab + "_" + tab + "_";
+						else if (i == 4)
+							dependency = (i+1) + tab + words.get(i) + tab + words.get(i) + tab + "NOUN" + tab + "NN" + tab + "Number=SING" + tab
+							+ "1" + tab + "dobj" + tab + "_" + tab + "_";
+					}
+					
+					// Create/Declare a long double named temp
+					// Create/Declare a long double called temp
+					// Create/Declare a long double as temp
+					// wordcount = 6
+					else if ((sentenceIndex >= 2 && sentenceIndex <= 4 ) || (sentenceIndex >= 10 && sentenceIndex <= 12 ))
+					{
+						if (i == 0)
+							dependency = (i+1) + tab + words.get(i) + tab + words.get(i) + tab + "VERB" + tab + "VB" + tab + "VerbForm=Inf" + tab +
+							"0" + tab + "root" + tab + "_" + tab + "_";
+						// a or an
+						else if (i==1)
+							dependency = (i+1) + tab + words.get(i) + tab + words.get(i) + tab + "DET" + tab + "DT" + tab + "Definite=Ind|PronType=Art" + tab
+							+ "3" + tab + "det" + tab + "_" + tab + "_";
+						// data type (1)
+						else if (i == 2)
+							dependency = (i+1) + tab + words.get(i) + tab + words.get(i) + tab + "NOUN" + tab + "NN" + tab + "Number=SING" + tab
+							+ "4" + tab + "compound" + tab + "_" + tab + "_";
+						// data type (2)
+						else if (i == 3)
+							dependency = (i+1) + tab + words.get(i) + tab + words.get(i) + tab + "NOUN" + tab + "NN" + tab + "Number=SING" + tab
+							+ "1" + tab + "dobj" + tab + "_" + tab + "_";
+						else if (i == 4 && words.get(i).equals("named"))
+							dependency = (i+1) + tab + words.get(i) + tab + "name" + tab  + "VERB" + tab + "VBN" + tab + "Tense=Past|VerbForm=Part" + tab
+							+ "3" + tab + "acl" + tab + "_" + tab + "_";
+						else if(i == 4 && words.get(i).equals("called"))
+							dependency = (i+1) + tab + words.get(i) + tab + "call" + tab  + "VERB" + tab + "VBN" + tab + "Tense=Past|VerbForm=Part" + tab
+							+ "3" + tab + "acl" + tab + "_" + tab + "_";
+						else if (i == 4 && words.get(i).equals("as"))
+							dependency = (i+1) + tab + words.get(i) + tab + words.get(i) + tab  + "ADP" + tab + "IN" + tab + "_" + tab
+							+ "3" + tab + "acl" + tab + "_" + tab + "_";
+						else if (i== 5)
+							dependency = (i+1) + tab + words.get(i) + tab + words.get(i) + tab + "NOUN" + tab + "NN" + tab + "Number=SING" + tab
+							+ "5" + tab + "xcomp" + tab + "_" + tab + "_";
+					}
+					// Create/Declare a long double variable curr
+					// wordcount = 6
+					else if (sentenceIndex == 5 || sentenceIndex == 13)
+					{
+						if (i == 0)
+							dependency = (i+1) + tab + words.get(i) + tab + words.get(i) + tab + "VERB" + tab + "VB" + tab + "VerbForm=Inf" + tab +
+							"0" + tab + "root" + tab + "_" + tab + "_";
+						// a or an
+						else if (i==1)
+							dependency = (i+1) + tab + words.get(i) + tab + words.get(i) + tab + "DET" + tab + "DT" + tab + "Definite=Ind|PronType=Art" + tab
+							+ "3" + tab + "det" + tab + "_" + tab + "_";
+						// data type (1)
+						else if (i == 2)
+							dependency = (i+1) + tab + words.get(i) + tab + words.get(i) + tab + "NOUN" + tab + "NN" + tab + "Number=SING" + tab
+							+ "6" + tab + "compound" + tab + "_" + tab + "_";
+						// data type (2)
+						else if (i == 3)
+							dependency = (i+1) + tab + words.get(i) + tab + words.get(i) + tab + "NOUN" + tab + "NN" + tab + "Number=SING" + tab
+							+ "6" + tab + "compound" + tab + "_" + tab + "_";
+						else if (i == 4)
+							dependency = (i+1) + tab + words.get(i) + tab + words.get(i) + tab + "NOUN" + tab + "NN" + tab + "Number=SING" + tab
+							+ "6" + tab + "compound" + tab + "_" + tab + "_";
+						else if (i == 5)
+							dependency = (i+1) + tab + words.get(i) + tab + words.get(i) + tab + "NOUN" + tab + "NN" + tab + "Number=SING" + tab
+							+ "1" + tab + "dobj" + tab + "_" + tab + "_";	
+					}
+					// Create/Declare a long double variable named temp
+					// Create/Declare a long double variable called temp
+					// Create/Declare a long double variable as temp
+					// word count = 7
+					else if ((sentenceIndex >= 6 && sentenceIndex <= 8 ) || (sentenceIndex >= 14 && sentenceIndex <= 16 ))
+					{
+						if (i == 0)
+							dependency = (i+1) + tab + words.get(i) + tab + words.get(i) + tab + "VERB" + tab + "VB" + tab + "VerbForm=Inf" + tab +
+							"0" + tab + "root" + tab + "_" + tab + "_";
+						// a or an
+						else if (i==1)
+							dependency = (i+1) + tab + words.get(i) + tab + words.get(i) + tab + "DET" + tab + "DT" + tab + "Definite=Ind|PronType=Art" + tab
+							+ "3" + tab + "det" + tab + "_" + tab + "_";
+						// data type (1)
+						else if (i == 2)
+							dependency = (i+1) + tab + words.get(i) + tab + words.get(i) + tab + "NOUN" + tab + "NN" + tab + "Number=SING" + tab
+							+ "5" + tab + "compound" + tab + "_" + tab + "_";
+						// data type (2)
+						else if (i == 3)
+							dependency = (i+1) + tab + words.get(i) + tab + words.get(i) + tab + "NOUN" + tab + "NN" + tab + "Number=SING" + tab
+							+ "5" + tab + "compound" + tab + "_" + tab + "_";
+						else if (i == 4)
+							dependency = (i+1) + tab + words.get(i) + tab + words.get(i) + tab + "NOUN" + tab + "NN" + tab + "Number=SING" + tab
+							+ "1" + tab + "dobj" + tab + "_" + tab + "_";
+						else if (i == 5 && words.get(i).equals("named"))
+							dependency = (i+1) + tab + words.get(i) + tab + "name" + tab  + "VERB" + tab + "VBN" + tab + "Tense=Past|VerbForm=Part" + tab
+							+ "3" + tab + "acl" + tab + "_" + tab + "_";
+						else if(i == 5 && words.get(i).equals("called"))
+							dependency = (i+1) + tab + words.get(i) + tab + "call" + tab  + "VERB" + tab + "VBN" + tab + "Tense=Past|VerbForm=Part" + tab
+							+ "3" + tab + "acl" + tab + "_" + tab + "_";
+						else if (i == 5 && words.get(i).equals("as"))
+							dependency = (i+1) + tab + words.get(i) + tab + words.get(i) + tab  + "ADP" + tab + "IN" + tab + "_" + tab
+							+ "3" + tab + "acl" + tab + "_" + tab + "_";
+						else if (i == 6)
+							dependency = (i+1) + tab + words.get(i) + tab + words.get(i) + tab + "NOUN" + tab + "NN" + tab + "Number=SING" + tab
+							+ "6" + tab + "xcomp" + tab + "_" + tab + "_";
+					}
+				}
+				else if (sentenceNumber <= 192 || (sentenceNumber >= 241 && sentenceNumber <= 272))
+				{
+					// Create/Declare a signed long integer y
+					// wordcount = 6
+					if (sentenceIndex == 1 || sentenceIndex == 9)
+					{
+						// Create/Declare
+						if (i == 0)
+							dependency = (i+1) + tab + words.get(i) + tab + words.get(i) + tab + "VERB" + tab + "VB" + tab + "VerbForm=Inf" + tab +
+							"0" + tab + "root" + tab + "_" + tab + "_";
+						// a or an
+						else if (i==1)
+							dependency = (i+1) + tab + words.get(i) + tab + words.get(i) + tab + "DET" + tab + "DT" + tab + "Definite=Ind|PronType=Art" + tab
+							+ "3" + tab + "det" + tab + "_" + tab + "_";
+						// data type (1)
+						else if (i == 2)
+							dependency = (i+1) + tab + words.get(i) + tab + words.get(i) + tab + "NOUN" + tab + "NN" + tab + "Number=SING" + tab
+							+ "6" + tab + "compound" + tab + "_" + tab + "_";
+						// data type (2)
+						else if (i == 3)
+							dependency = (i+1) + tab + words.get(i) + tab + words.get(i) + tab + "NOUN" + tab + "NN" + tab + "Number=SING" + tab
+							+ "6" + tab + "compound" + tab + "_" + tab + "_";
+						// data type (3)
+						else if (i == 4)
+							dependency = (i+1) + tab + words.get(i) + tab + words.get(i) + tab + "NOUN" + tab + "NN" + tab + "Number=SING" + tab
+							+ "6" + tab + "compound" + tab + "_" + tab + "_";
+						else if (i == 5)
+							dependency = (i+1) + tab + words.get(i) + tab + words.get(i) + tab + "NOUN" + tab + "NN" + tab + "Number=SING" + tab
+							+ "1" + tab + "dobj" + tab + "_" + tab + "_";
+					}
+					
+					// Create/Declare a signed long integer named temp
+					// Create/Declare a signed long integer called temp
+					// Create/Declare a signed long integer as temp
+					// wordcount = 7
+					else if ((sentenceIndex >= 2 && sentenceIndex <= 4 ) || (sentenceIndex >= 10 && sentenceIndex <= 12 ))
+					{
+						if (i == 0)
+							dependency = (i+1) + tab + words.get(i) + tab + words.get(i) + tab + "VERB" + tab + "VB" + tab + "VerbForm=Inf" + tab +
+							"0" + tab + "root" + tab + "_" + tab + "_";
+						// a or an
+						else if (i==1)
+							dependency = (i+1) + tab + words.get(i) + tab + words.get(i) + tab + "DET" + tab + "DT" + tab + "Definite=Ind|PronType=Art" + tab
+							+ "3" + tab + "det" + tab + "_" + tab + "_";
+						// data type (1)
+						else if (i == 2)
+							dependency = (i+1) + tab + words.get(i) + tab + words.get(i) + tab + "NOUN" + tab + "NN" + tab + "Number=SING" + tab
+							+ "5" + tab + "compound" + tab + "_" + tab + "_";
+						// data type (2)
+						else if (i == 3)
+							dependency = (i+1) + tab + words.get(i) + tab + words.get(i) + tab + "NOUN" + tab + "NN" + tab + "Number=SING" + tab
+							+ "5" + tab + "compound" + tab + "_" + tab + "_";
+						// data type (3)
+						else if (i == 4)
+							dependency = (i+1) + tab + words.get(i) + tab + words.get(i) + tab + "NOUN" + tab + "NN" + tab + "Number=SING" + tab
+							+ "1" + tab + "dobj" + tab + "_" + tab + "_";						
+						else if (i == 5 && words.get(i).equals("named"))
+							dependency = (i+1) + tab + words.get(i) + tab + "name" + tab  + "VERB" + tab + "VBN" + tab + "Tense=Past|VerbForm=Part" + tab
+							+ "3" + tab + "acl" + tab + "_" + tab + "_";
+						else if(i == 5 && words.get(i).equals("called"))
+							dependency = (i+1) + tab + words.get(i) + tab + "call" + tab  + "VERB" + tab + "VBN" + tab + "Tense=Past|VerbForm=Part" + tab
+							+ "3" + tab + "acl" + tab + "_" + tab + "_";
+						else if (i == 5 && words.get(i).equals("as"))
+							dependency = (i+1) + tab + words.get(i) + tab + words.get(i) + tab  + "ADP" + tab + "IN" + tab + "_" + tab
+							+ "3" + tab + "acl" + tab + "_" + tab + "_";
+						else if (i== 6)
+							dependency = (i+1) + tab + words.get(i) + tab + words.get(i) + tab + "NOUN" + tab + "NN" + tab + "Number=SING" + tab
+							+ "6" + tab + "xcomp" + tab + "_" + tab + "_";
+					}
+					// Create/Declare a signed long integer variable curr
+					// wordcount = 7
+					else if (sentenceIndex == 5 || sentenceIndex == 13)
+					{
+						if (i == 0)
+							dependency = (i+1) + tab + words.get(i) + tab + words.get(i) + tab + "VERB" + tab + "VB" + tab + "VerbForm=Inf" + tab +
+							"0" + tab + "root" + tab + "_" + tab + "_";
+						// a or an
+						else if (i==1)
+							dependency = (i+1) + tab + words.get(i) + tab + words.get(i) + tab + "DET" + tab + "DT" + tab + "Definite=Ind|PronType=Art" + tab
+							+ "3" + tab + "det" + tab + "_" + tab + "_";
+						// data type (1)
+						else if (i == 2)
+							dependency = (i+1) + tab + words.get(i) + tab + words.get(i) + tab + "NOUN" + tab + "NN" + tab + "Number=SING" + tab
+							+ "7" + tab + "compound" + tab + "_" + tab + "_";
+						// data type (2)
+						else if (i == 3)
+							dependency = (i+1) + tab + words.get(i) + tab + words.get(i) + tab + "NOUN" + tab + "NN" + tab + "Number=SING" + tab
+							+ "7" + tab + "compound" + tab + "_" + tab + "_";
+						// data type (3)
+						else if (i == 4)
+							dependency = (i+1) + tab + words.get(i) + tab + words.get(i) + tab + "NOUN" + tab + "NN" + tab + "Number=SING" + tab
+							+ "7" + tab + "compound" + tab + "_" + tab + "_";
+						else if (i == 5)
+							dependency = (i+1) + tab + words.get(i) + tab + words.get(i) + tab + "NOUN" + tab + "NN" + tab + "Number=SING" + tab
+							+ "7" + tab + "compound" + tab + "_" + tab + "_";						
+						else if (i == 6)
+							dependency = (i+1) + tab + words.get(i) + tab + words.get(i) + tab + "NOUN" + tab + "NN" + tab + "Number=SING" + tab
+							+ "1" + tab + "dobj" + tab + "_" + tab + "_";	
+					}
+					// Create/Declare a signed long integer variable named temp
+					// Create/Declare a signed long integer variable called temp
+					// Create/Declare a signed long integer variable as temp
+					// word count = 8
+					else if ((sentenceIndex >= 6 && sentenceIndex <= 8 ) || (sentenceIndex >= 14 && sentenceIndex <= 16 ))
+					{
+						if (i == 0)
+							dependency = (i+1) + tab + words.get(i) + tab + words.get(i) + tab + "VERB" + tab + "VB" + tab + "VerbForm=Inf" + tab +
+							"0" + tab + "root" + tab + "_" + tab + "_";
+						// a or an
+						else if (i==1)
+							dependency = (i+1) + tab + words.get(i) + tab + words.get(i) + tab + "DET" + tab + "DT" + tab + "Definite=Ind|PronType=Art" + tab
+							+ "3" + tab + "det" + tab + "_" + tab + "_";
+						// data type (1)
+						else if (i == 2)
+							dependency = (i+1) + tab + words.get(i) + tab + words.get(i) + tab + "NOUN" + tab + "NN" + tab + "Number=SING" + tab
+							+ "6" + tab + "compound" + tab + "_" + tab + "_";
+						// data type (2)
+						else if (i == 3)
+							dependency = (i+1) + tab + words.get(i) + tab + words.get(i) + tab + "NOUN" + tab + "NN" + tab + "Number=SING" + tab
+							+ "6" + tab + "compound" + tab + "_" + tab + "_";
+						// data type (3)
+						else if (i == 4)
+							dependency = (i+1) + tab + words.get(i) + tab + words.get(i) + tab + "NOUN" + tab + "NN" + tab + "Number=SING" + tab
+							+ "6" + tab + "compound" + tab + "_" + tab + "_";
+						else if (i == 5)
+							dependency = (i+1) + tab + words.get(i) + tab + words.get(i) + tab + "NOUN" + tab + "NN" + tab + "Number=SING" + tab
+							+ "1" + tab + "dobj" + tab + "_" + tab + "_";
+						else if (i == 6 && words.get(i).equals("named"))
+							dependency = (i+1) + tab + words.get(i) + tab + "name" + tab  + "VERB" + tab + "VBN" + tab + "Tense=Past|VerbForm=Part" + tab
+							+ "3" + tab + "acl" + tab + "_" + tab + "_";
+						else if(i == 6 && words.get(i).equals("called"))
+							dependency = (i+1) + tab + words.get(i) + tab + "call" + tab  + "VERB" + tab + "VBN" + tab + "Tense=Past|VerbForm=Part" + tab
+							+ "3" + tab + "acl" + tab + "_" + tab + "_";
+						else if (i == 6 && words.get(i).equals("as"))
+							dependency = (i+1) + tab + words.get(i) + tab + words.get(i) + tab  + "ADP" + tab + "IN" + tab + "_" + tab
+							+ "3" + tab + "acl" + tab + "_" + tab + "_";
+						else if (i == 7)
+							dependency = (i+1) + tab + words.get(i) + tab + words.get(i) + tab + "NOUN" + tab + "NN" + tab + "Number=SING" + tab
+							+ "7" + tab + "xcomp" + tab + "_" + tab + "_";
+					}
+					
+				}
 				
-				
-				
-				
-				
+			declarationCorpus.add(dependency);	
 			}
+			dependency = (words.size() + 1) + tab + "." + tab + "." + tab + "PUNCT" + tab + "." + tab + "_" + tab
+					+ "1" + tab + "punct" + tab + "_" + tab + "_";
+			declarationCorpus.add(dependency);
+			declarationCorpus.add("\n");
+			
 		}
-		return sentences;
+		return declarationCorpus;
 	}
-
-
-
-
-
-
 }

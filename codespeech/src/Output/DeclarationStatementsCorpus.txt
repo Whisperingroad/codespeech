@@ -1,0 +1,2212 @@
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	boolean	boolean	NOUN	NN	Number=SING	4	compound	_	_
+4	temp	temp	NOUN	NN	Number=SING	1	dobj	_	_
+5	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	boolean	boolean	NOUN	NN	Number=SING	1	dobj	_	_
+4	named	name	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+5	temp1	temp1	NOUN	NN	Number=SING	4	xcomp	_	_
+6	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	boolean	boolean	NOUN	NN	Number=SING	1	dobj	_	_
+4	called	call	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+5	temp2	temp2	NOUN	NN	Number=SING	4	xcomp	_	_
+6	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	boolean	boolean	NOUN	NN	Number=SING	1	dobj	_	_
+4	as	as	ADP	IN	_	3	acl	_	_
+5	curr	curr	NOUN	NN	Number=SING	4	xcomp	_	_
+6	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	boolean	boolean	NOUN	NN	Number=SING	5	compound	_	_
+4	variable	variable	NOUN	NN	Number=SING	5	compound	_	_
+5	prev	prev	NOUN	NN	Number=SING	1	dobj	_	_
+6	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	boolean	boolean	NOUN	NN	Number=SING	4	compound	_	_
+4	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+5	named	name	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+6	number	number	NOUN	NN	Number=SING	5	xcomp	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	boolean	boolean	NOUN	NN	Number=SING	4	compound	_	_
+4	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+5	called	call	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+6	a	a	NOUN	NN	Number=SING	5	xcomp	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	boolean	boolean	NOUN	NN	Number=SING	4	compound	_	_
+4	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+5	as	as	ADP	IN	_	3	acl	_	_
+6	b	b	NOUN	NN	Number=SING	5	xcomp	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	boolean	boolean	NOUN	NN	Number=SING	4	compound	_	_
+4	c	c	NOUN	NN	Number=SING	1	dobj	_	_
+5	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	boolean	boolean	NOUN	NN	Number=SING	1	dobj	_	_
+4	named	name	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+5	d	d	NOUN	NN	Number=SING	4	xcomp	_	_
+6	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	boolean	boolean	NOUN	NN	Number=SING	1	dobj	_	_
+4	called	call	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+5	e	e	NOUN	NN	Number=SING	4	xcomp	_	_
+6	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	boolean	boolean	NOUN	NN	Number=SING	1	dobj	_	_
+4	as	as	ADP	IN	_	3	acl	_	_
+5	f	f	NOUN	NN	Number=SING	4	xcomp	_	_
+6	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	boolean	boolean	NOUN	NN	Number=SING	5	compound	_	_
+4	variable	variable	NOUN	NN	Number=SING	5	compound	_	_
+5	h	h	NOUN	NN	Number=SING	1	dobj	_	_
+6	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	boolean	boolean	NOUN	NN	Number=SING	4	compound	_	_
+4	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+5	named	name	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+6	i	i	NOUN	NN	Number=SING	5	xcomp	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	boolean	boolean	NOUN	NN	Number=SING	4	compound	_	_
+4	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+5	called	call	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+6	j	j	NOUN	NN	Number=SING	5	xcomp	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	boolean	boolean	NOUN	NN	Number=SING	4	compound	_	_
+4	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+5	as	as	ADP	IN	_	3	acl	_	_
+6	k	k	NOUN	NN	Number=SING	5	xcomp	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	character	character	NOUN	NN	Number=SING	4	compound	_	_
+4	p	p	NOUN	NN	Number=SING	1	dobj	_	_
+5	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	character	character	NOUN	NN	Number=SING	1	dobj	_	_
+4	named	name	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+5	q	q	NOUN	NN	Number=SING	4	xcomp	_	_
+6	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	character	character	NOUN	NN	Number=SING	1	dobj	_	_
+4	called	call	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+5	r	r	NOUN	NN	Number=SING	4	xcomp	_	_
+6	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	character	character	NOUN	NN	Number=SING	1	dobj	_	_
+4	as	as	ADP	IN	_	3	acl	_	_
+5	s	s	NOUN	NN	Number=SING	4	xcomp	_	_
+6	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	character	character	NOUN	NN	Number=SING	5	compound	_	_
+4	variable	variable	NOUN	NN	Number=SING	5	compound	_	_
+5	t	t	NOUN	NN	Number=SING	1	dobj	_	_
+6	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	character	character	NOUN	NN	Number=SING	4	compound	_	_
+4	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+5	named	name	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+6	u	u	NOUN	NN	Number=SING	5	xcomp	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	character	character	NOUN	NN	Number=SING	4	compound	_	_
+4	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+5	called	call	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+6	v	v	NOUN	NN	Number=SING	5	xcomp	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	character	character	NOUN	NN	Number=SING	4	compound	_	_
+4	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+5	as	as	ADP	IN	_	3	acl	_	_
+6	w	w	NOUN	NN	Number=SING	5	xcomp	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	character	character	NOUN	NN	Number=SING	4	compound	_	_
+4	x	x	NOUN	NN	Number=SING	1	dobj	_	_
+5	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	character	character	NOUN	NN	Number=SING	1	dobj	_	_
+4	named	name	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+5	y	y	NOUN	NN	Number=SING	4	xcomp	_	_
+6	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	character	character	NOUN	NN	Number=SING	1	dobj	_	_
+4	called	call	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+5	z	z	NOUN	NN	Number=SING	4	xcomp	_	_
+6	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	character	character	NOUN	NN	Number=SING	1	dobj	_	_
+4	as	as	ADP	IN	_	3	acl	_	_
+5	temp	temp	NOUN	NN	Number=SING	4	xcomp	_	_
+6	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	character	character	NOUN	NN	Number=SING	5	compound	_	_
+4	variable	variable	NOUN	NN	Number=SING	5	compound	_	_
+5	temp1	temp1	NOUN	NN	Number=SING	1	dobj	_	_
+6	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	character	character	NOUN	NN	Number=SING	4	compound	_	_
+4	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+5	named	name	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+6	temp2	temp2	NOUN	NN	Number=SING	5	xcomp	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	character	character	NOUN	NN	Number=SING	4	compound	_	_
+4	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+5	called	call	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+6	curr	curr	NOUN	NN	Number=SING	5	xcomp	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	character	character	NOUN	NN	Number=SING	4	compound	_	_
+4	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+5	as	as	ADP	IN	_	3	acl	_	_
+6	prev	prev	NOUN	NN	Number=SING	5	xcomp	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	double	double	NOUN	NN	Number=SING	4	compound	_	_
+4	number	number	NOUN	NN	Number=SING	1	dobj	_	_
+5	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	double	double	NOUN	NN	Number=SING	1	dobj	_	_
+4	named	name	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+5	a	a	NOUN	NN	Number=SING	4	xcomp	_	_
+6	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	double	double	NOUN	NN	Number=SING	1	dobj	_	_
+4	called	call	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+5	b	b	NOUN	NN	Number=SING	4	xcomp	_	_
+6	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	double	double	NOUN	NN	Number=SING	1	dobj	_	_
+4	as	as	ADP	IN	_	3	acl	_	_
+5	c	c	NOUN	NN	Number=SING	4	xcomp	_	_
+6	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	double	double	NOUN	NN	Number=SING	5	compound	_	_
+4	variable	variable	NOUN	NN	Number=SING	5	compound	_	_
+5	d	d	NOUN	NN	Number=SING	1	dobj	_	_
+6	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	double	double	NOUN	NN	Number=SING	4	compound	_	_
+4	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+5	named	name	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+6	e	e	NOUN	NN	Number=SING	5	xcomp	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	double	double	NOUN	NN	Number=SING	4	compound	_	_
+4	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+5	called	call	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+6	f	f	NOUN	NN	Number=SING	5	xcomp	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	double	double	NOUN	NN	Number=SING	4	compound	_	_
+4	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+5	as	as	ADP	IN	_	3	acl	_	_
+6	h	h	NOUN	NN	Number=SING	5	xcomp	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	double	double	NOUN	NN	Number=SING	4	compound	_	_
+4	i	i	NOUN	NN	Number=SING	1	dobj	_	_
+5	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	double	double	NOUN	NN	Number=SING	1	dobj	_	_
+4	named	name	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+5	j	j	NOUN	NN	Number=SING	4	xcomp	_	_
+6	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	double	double	NOUN	NN	Number=SING	1	dobj	_	_
+4	called	call	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+5	k	k	NOUN	NN	Number=SING	4	xcomp	_	_
+6	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	double	double	NOUN	NN	Number=SING	1	dobj	_	_
+4	as	as	ADP	IN	_	3	acl	_	_
+5	p	p	NOUN	NN	Number=SING	4	xcomp	_	_
+6	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	double	double	NOUN	NN	Number=SING	5	compound	_	_
+4	variable	variable	NOUN	NN	Number=SING	5	compound	_	_
+5	q	q	NOUN	NN	Number=SING	1	dobj	_	_
+6	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	double	double	NOUN	NN	Number=SING	4	compound	_	_
+4	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+5	named	name	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+6	r	r	NOUN	NN	Number=SING	5	xcomp	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	double	double	NOUN	NN	Number=SING	4	compound	_	_
+4	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+5	called	call	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+6	s	s	NOUN	NN	Number=SING	5	xcomp	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	double	double	NOUN	NN	Number=SING	4	compound	_	_
+4	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+5	as	as	ADP	IN	_	3	acl	_	_
+6	t	t	NOUN	NN	Number=SING	5	xcomp	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	float	float	NOUN	NN	Number=SING	4	compound	_	_
+4	u	u	NOUN	NN	Number=SING	1	dobj	_	_
+5	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	float	float	NOUN	NN	Number=SING	1	dobj	_	_
+4	named	name	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+5	v	v	NOUN	NN	Number=SING	4	xcomp	_	_
+6	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	float	float	NOUN	NN	Number=SING	1	dobj	_	_
+4	called	call	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+5	w	w	NOUN	NN	Number=SING	4	xcomp	_	_
+6	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	float	float	NOUN	NN	Number=SING	1	dobj	_	_
+4	as	as	ADP	IN	_	3	acl	_	_
+5	x	x	NOUN	NN	Number=SING	4	xcomp	_	_
+6	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	float	float	NOUN	NN	Number=SING	5	compound	_	_
+4	variable	variable	NOUN	NN	Number=SING	5	compound	_	_
+5	y	y	NOUN	NN	Number=SING	1	dobj	_	_
+6	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	float	float	NOUN	NN	Number=SING	4	compound	_	_
+4	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+5	named	name	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+6	z	z	NOUN	NN	Number=SING	5	xcomp	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	float	float	NOUN	NN	Number=SING	4	compound	_	_
+4	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+5	called	call	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+6	temp	temp	NOUN	NN	Number=SING	5	xcomp	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	float	float	NOUN	NN	Number=SING	4	compound	_	_
+4	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+5	as	as	ADP	IN	_	3	acl	_	_
+6	temp1	temp1	NOUN	NN	Number=SING	5	xcomp	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	float	float	NOUN	NN	Number=SING	4	compound	_	_
+4	temp2	temp2	NOUN	NN	Number=SING	1	dobj	_	_
+5	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	float	float	NOUN	NN	Number=SING	1	dobj	_	_
+4	named	name	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+5	curr	curr	NOUN	NN	Number=SING	4	xcomp	_	_
+6	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	float	float	NOUN	NN	Number=SING	1	dobj	_	_
+4	called	call	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+5	prev	prev	NOUN	NN	Number=SING	4	xcomp	_	_
+6	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	float	float	NOUN	NN	Number=SING	1	dobj	_	_
+4	as	as	ADP	IN	_	3	acl	_	_
+5	number	number	NOUN	NN	Number=SING	4	xcomp	_	_
+6	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	float	float	NOUN	NN	Number=SING	5	compound	_	_
+4	variable	variable	NOUN	NN	Number=SING	5	compound	_	_
+5	a	a	NOUN	NN	Number=SING	1	dobj	_	_
+6	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	float	float	NOUN	NN	Number=SING	4	compound	_	_
+4	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+5	named	name	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+6	b	b	NOUN	NN	Number=SING	5	xcomp	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	float	float	NOUN	NN	Number=SING	4	compound	_	_
+4	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+5	called	call	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+6	c	c	NOUN	NN	Number=SING	5	xcomp	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	float	float	NOUN	NN	Number=SING	4	compound	_	_
+4	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+5	as	as	ADP	IN	_	3	acl	_	_
+6	d	d	NOUN	NN	Number=SING	5	xcomp	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	an	an	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	integer	integer	NOUN	NN	Number=SING	4	compound	_	_
+4	e	e	NOUN	NN	Number=SING	1	dobj	_	_
+5	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	an	an	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	integer	integer	NOUN	NN	Number=SING	1	dobj	_	_
+4	named	name	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+5	f	f	NOUN	NN	Number=SING	4	xcomp	_	_
+6	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	an	an	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	integer	integer	NOUN	NN	Number=SING	1	dobj	_	_
+4	called	call	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+5	h	h	NOUN	NN	Number=SING	4	xcomp	_	_
+6	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	an	an	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	integer	integer	NOUN	NN	Number=SING	1	dobj	_	_
+4	as	as	ADP	IN	_	3	acl	_	_
+5	i	i	NOUN	NN	Number=SING	4	xcomp	_	_
+6	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	an	an	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	integer	integer	NOUN	NN	Number=SING	5	compound	_	_
+4	variable	variable	NOUN	NN	Number=SING	5	compound	_	_
+5	j	j	NOUN	NN	Number=SING	1	dobj	_	_
+6	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	an	an	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	integer	integer	NOUN	NN	Number=SING	4	compound	_	_
+4	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+5	named	name	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+6	k	k	NOUN	NN	Number=SING	5	xcomp	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	an	an	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	integer	integer	NOUN	NN	Number=SING	4	compound	_	_
+4	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+5	called	call	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+6	p	p	NOUN	NN	Number=SING	5	xcomp	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	an	an	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	integer	integer	NOUN	NN	Number=SING	4	compound	_	_
+4	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+5	as	as	ADP	IN	_	3	acl	_	_
+6	q	q	NOUN	NN	Number=SING	5	xcomp	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	an	an	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	integer	integer	NOUN	NN	Number=SING	4	compound	_	_
+4	r	r	NOUN	NN	Number=SING	1	dobj	_	_
+5	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	an	an	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	integer	integer	NOUN	NN	Number=SING	1	dobj	_	_
+4	named	name	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+5	s	s	NOUN	NN	Number=SING	4	xcomp	_	_
+6	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	an	an	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	integer	integer	NOUN	NN	Number=SING	1	dobj	_	_
+4	called	call	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+5	t	t	NOUN	NN	Number=SING	4	xcomp	_	_
+6	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	an	an	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	integer	integer	NOUN	NN	Number=SING	1	dobj	_	_
+4	as	as	ADP	IN	_	3	acl	_	_
+5	u	u	NOUN	NN	Number=SING	4	xcomp	_	_
+6	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	an	an	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	integer	integer	NOUN	NN	Number=SING	5	compound	_	_
+4	variable	variable	NOUN	NN	Number=SING	5	compound	_	_
+5	v	v	NOUN	NN	Number=SING	1	dobj	_	_
+6	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	an	an	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	integer	integer	NOUN	NN	Number=SING	4	compound	_	_
+4	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+5	named	name	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+6	w	w	NOUN	NN	Number=SING	5	xcomp	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	an	an	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	integer	integer	NOUN	NN	Number=SING	4	compound	_	_
+4	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+5	called	call	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+6	x	x	NOUN	NN	Number=SING	5	xcomp	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	an	an	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	integer	integer	NOUN	NN	Number=SING	4	compound	_	_
+4	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+5	as	as	ADP	IN	_	3	acl	_	_
+6	y	y	NOUN	NN	Number=SING	5	xcomp	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	long	long	NOUN	NN	Number=SING	5	compound	_	_
+4	double	double	NOUN	NN	Number=SING	5	compound	_	_
+5	z	z	NOUN	NN	Number=SING	1	dobj	_	_
+6	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	long	long	NOUN	NN	Number=SING	4	compound	_	_
+4	double	double	NOUN	NN	Number=SING	1	dobj	_	_
+5	named	name	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+6	temp	temp	NOUN	NN	Number=SING	5	xcomp	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	long	long	NOUN	NN	Number=SING	4	compound	_	_
+4	double	double	NOUN	NN	Number=SING	1	dobj	_	_
+5	called	call	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+6	temp1	temp1	NOUN	NN	Number=SING	5	xcomp	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	long	long	NOUN	NN	Number=SING	4	compound	_	_
+4	double	double	NOUN	NN	Number=SING	1	dobj	_	_
+5	as	as	ADP	IN	_	3	acl	_	_
+6	temp2	temp2	NOUN	NN	Number=SING	5	xcomp	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	long	long	NOUN	NN	Number=SING	6	compound	_	_
+4	double	double	NOUN	NN	Number=SING	6	compound	_	_
+5	variable	variable	NOUN	NN	Number=SING	6	compound	_	_
+6	curr	curr	NOUN	NN	Number=SING	1	dobj	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	long	long	NOUN	NN	Number=SING	5	compound	_	_
+4	double	double	NOUN	NN	Number=SING	5	compound	_	_
+5	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+6	named	name	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+7	prev	prev	NOUN	NN	Number=SING	6	xcomp	_	_
+8	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	long	long	NOUN	NN	Number=SING	5	compound	_	_
+4	double	double	NOUN	NN	Number=SING	5	compound	_	_
+5	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+6	called	call	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+7	number	number	NOUN	NN	Number=SING	6	xcomp	_	_
+8	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	long	long	NOUN	NN	Number=SING	5	compound	_	_
+4	double	double	NOUN	NN	Number=SING	5	compound	_	_
+5	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+6	as	as	ADP	IN	_	3	acl	_	_
+7	a	a	NOUN	NN	Number=SING	6	xcomp	_	_
+8	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	long	long	NOUN	NN	Number=SING	5	compound	_	_
+4	double	double	NOUN	NN	Number=SING	5	compound	_	_
+5	b	b	NOUN	NN	Number=SING	1	dobj	_	_
+6	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	long	long	NOUN	NN	Number=SING	4	compound	_	_
+4	double	double	NOUN	NN	Number=SING	1	dobj	_	_
+5	named	name	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+6	c	c	NOUN	NN	Number=SING	5	xcomp	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	long	long	NOUN	NN	Number=SING	4	compound	_	_
+4	double	double	NOUN	NN	Number=SING	1	dobj	_	_
+5	called	call	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+6	d	d	NOUN	NN	Number=SING	5	xcomp	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	long	long	NOUN	NN	Number=SING	4	compound	_	_
+4	double	double	NOUN	NN	Number=SING	1	dobj	_	_
+5	as	as	ADP	IN	_	3	acl	_	_
+6	e	e	NOUN	NN	Number=SING	5	xcomp	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	long	long	NOUN	NN	Number=SING	6	compound	_	_
+4	double	double	NOUN	NN	Number=SING	6	compound	_	_
+5	variable	variable	NOUN	NN	Number=SING	6	compound	_	_
+6	f	f	NOUN	NN	Number=SING	1	dobj	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	long	long	NOUN	NN	Number=SING	5	compound	_	_
+4	double	double	NOUN	NN	Number=SING	5	compound	_	_
+5	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+6	named	name	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+7	h	h	NOUN	NN	Number=SING	6	xcomp	_	_
+8	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	long	long	NOUN	NN	Number=SING	5	compound	_	_
+4	double	double	NOUN	NN	Number=SING	5	compound	_	_
+5	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+6	called	call	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+7	i	i	NOUN	NN	Number=SING	6	xcomp	_	_
+8	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	long	long	NOUN	NN	Number=SING	5	compound	_	_
+4	double	double	NOUN	NN	Number=SING	5	compound	_	_
+5	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+6	as	as	ADP	IN	_	3	acl	_	_
+7	j	j	NOUN	NN	Number=SING	6	xcomp	_	_
+8	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	long	long	NOUN	NN	Number=SING	5	compound	_	_
+4	integer	integer	NOUN	NN	Number=SING	5	compound	_	_
+5	k	k	NOUN	NN	Number=SING	1	dobj	_	_
+6	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	long	long	NOUN	NN	Number=SING	4	compound	_	_
+4	integer	integer	NOUN	NN	Number=SING	1	dobj	_	_
+5	named	name	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+6	p	p	NOUN	NN	Number=SING	5	xcomp	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	long	long	NOUN	NN	Number=SING	4	compound	_	_
+4	integer	integer	NOUN	NN	Number=SING	1	dobj	_	_
+5	called	call	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+6	q	q	NOUN	NN	Number=SING	5	xcomp	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	long	long	NOUN	NN	Number=SING	4	compound	_	_
+4	integer	integer	NOUN	NN	Number=SING	1	dobj	_	_
+5	as	as	ADP	IN	_	3	acl	_	_
+6	r	r	NOUN	NN	Number=SING	5	xcomp	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	long	long	NOUN	NN	Number=SING	6	compound	_	_
+4	integer	integer	NOUN	NN	Number=SING	6	compound	_	_
+5	variable	variable	NOUN	NN	Number=SING	6	compound	_	_
+6	s	s	NOUN	NN	Number=SING	1	dobj	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	long	long	NOUN	NN	Number=SING	5	compound	_	_
+4	integer	integer	NOUN	NN	Number=SING	5	compound	_	_
+5	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+6	named	name	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+7	t	t	NOUN	NN	Number=SING	6	xcomp	_	_
+8	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	long	long	NOUN	NN	Number=SING	5	compound	_	_
+4	integer	integer	NOUN	NN	Number=SING	5	compound	_	_
+5	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+6	called	call	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+7	u	u	NOUN	NN	Number=SING	6	xcomp	_	_
+8	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	long	long	NOUN	NN	Number=SING	5	compound	_	_
+4	integer	integer	NOUN	NN	Number=SING	5	compound	_	_
+5	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+6	as	as	ADP	IN	_	3	acl	_	_
+7	v	v	NOUN	NN	Number=SING	6	xcomp	_	_
+8	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	long	long	NOUN	NN	Number=SING	5	compound	_	_
+4	integer	integer	NOUN	NN	Number=SING	5	compound	_	_
+5	w	w	NOUN	NN	Number=SING	1	dobj	_	_
+6	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	long	long	NOUN	NN	Number=SING	4	compound	_	_
+4	integer	integer	NOUN	NN	Number=SING	1	dobj	_	_
+5	named	name	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+6	x	x	NOUN	NN	Number=SING	5	xcomp	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	long	long	NOUN	NN	Number=SING	4	compound	_	_
+4	integer	integer	NOUN	NN	Number=SING	1	dobj	_	_
+5	called	call	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+6	y	y	NOUN	NN	Number=SING	5	xcomp	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	long	long	NOUN	NN	Number=SING	4	compound	_	_
+4	integer	integer	NOUN	NN	Number=SING	1	dobj	_	_
+5	as	as	ADP	IN	_	3	acl	_	_
+6	z	z	NOUN	NN	Number=SING	5	xcomp	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	long	long	NOUN	NN	Number=SING	6	compound	_	_
+4	integer	integer	NOUN	NN	Number=SING	6	compound	_	_
+5	variable	variable	NOUN	NN	Number=SING	6	compound	_	_
+6	temp	temp	NOUN	NN	Number=SING	1	dobj	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	long	long	NOUN	NN	Number=SING	5	compound	_	_
+4	integer	integer	NOUN	NN	Number=SING	5	compound	_	_
+5	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+6	named	name	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+7	temp1	temp1	NOUN	NN	Number=SING	6	xcomp	_	_
+8	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	long	long	NOUN	NN	Number=SING	5	compound	_	_
+4	integer	integer	NOUN	NN	Number=SING	5	compound	_	_
+5	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+6	called	call	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+7	temp2	temp2	NOUN	NN	Number=SING	6	xcomp	_	_
+8	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	long	long	NOUN	NN	Number=SING	5	compound	_	_
+4	integer	integer	NOUN	NN	Number=SING	5	compound	_	_
+5	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+6	as	as	ADP	IN	_	3	acl	_	_
+7	curr	curr	NOUN	NN	Number=SING	6	xcomp	_	_
+8	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	short	short	NOUN	NN	Number=SING	5	compound	_	_
+4	integer	integer	NOUN	NN	Number=SING	5	compound	_	_
+5	prev	prev	NOUN	NN	Number=SING	1	dobj	_	_
+6	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	short	short	NOUN	NN	Number=SING	4	compound	_	_
+4	integer	integer	NOUN	NN	Number=SING	1	dobj	_	_
+5	named	name	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+6	number	number	NOUN	NN	Number=SING	5	xcomp	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	short	short	NOUN	NN	Number=SING	4	compound	_	_
+4	integer	integer	NOUN	NN	Number=SING	1	dobj	_	_
+5	called	call	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+6	a	a	NOUN	NN	Number=SING	5	xcomp	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	short	short	NOUN	NN	Number=SING	4	compound	_	_
+4	integer	integer	NOUN	NN	Number=SING	1	dobj	_	_
+5	as	as	ADP	IN	_	3	acl	_	_
+6	b	b	NOUN	NN	Number=SING	5	xcomp	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	short	short	NOUN	NN	Number=SING	6	compound	_	_
+4	integer	integer	NOUN	NN	Number=SING	6	compound	_	_
+5	variable	variable	NOUN	NN	Number=SING	6	compound	_	_
+6	c	c	NOUN	NN	Number=SING	1	dobj	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	short	short	NOUN	NN	Number=SING	5	compound	_	_
+4	integer	integer	NOUN	NN	Number=SING	5	compound	_	_
+5	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+6	named	name	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+7	d	d	NOUN	NN	Number=SING	6	xcomp	_	_
+8	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	short	short	NOUN	NN	Number=SING	5	compound	_	_
+4	integer	integer	NOUN	NN	Number=SING	5	compound	_	_
+5	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+6	called	call	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+7	e	e	NOUN	NN	Number=SING	6	xcomp	_	_
+8	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	short	short	NOUN	NN	Number=SING	5	compound	_	_
+4	integer	integer	NOUN	NN	Number=SING	5	compound	_	_
+5	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+6	as	as	ADP	IN	_	3	acl	_	_
+7	f	f	NOUN	NN	Number=SING	6	xcomp	_	_
+8	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	short	short	NOUN	NN	Number=SING	5	compound	_	_
+4	integer	integer	NOUN	NN	Number=SING	5	compound	_	_
+5	h	h	NOUN	NN	Number=SING	1	dobj	_	_
+6	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	short	short	NOUN	NN	Number=SING	4	compound	_	_
+4	integer	integer	NOUN	NN	Number=SING	1	dobj	_	_
+5	named	name	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+6	i	i	NOUN	NN	Number=SING	5	xcomp	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	short	short	NOUN	NN	Number=SING	4	compound	_	_
+4	integer	integer	NOUN	NN	Number=SING	1	dobj	_	_
+5	called	call	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+6	j	j	NOUN	NN	Number=SING	5	xcomp	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	short	short	NOUN	NN	Number=SING	4	compound	_	_
+4	integer	integer	NOUN	NN	Number=SING	1	dobj	_	_
+5	as	as	ADP	IN	_	3	acl	_	_
+6	k	k	NOUN	NN	Number=SING	5	xcomp	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	short	short	NOUN	NN	Number=SING	6	compound	_	_
+4	integer	integer	NOUN	NN	Number=SING	6	compound	_	_
+5	variable	variable	NOUN	NN	Number=SING	6	compound	_	_
+6	p	p	NOUN	NN	Number=SING	1	dobj	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	short	short	NOUN	NN	Number=SING	5	compound	_	_
+4	integer	integer	NOUN	NN	Number=SING	5	compound	_	_
+5	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+6	named	name	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+7	q	q	NOUN	NN	Number=SING	6	xcomp	_	_
+8	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	short	short	NOUN	NN	Number=SING	5	compound	_	_
+4	integer	integer	NOUN	NN	Number=SING	5	compound	_	_
+5	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+6	called	call	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+7	r	r	NOUN	NN	Number=SING	6	xcomp	_	_
+8	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	short	short	NOUN	NN	Number=SING	5	compound	_	_
+4	integer	integer	NOUN	NN	Number=SING	5	compound	_	_
+5	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+6	as	as	ADP	IN	_	3	acl	_	_
+7	s	s	NOUN	NN	Number=SING	6	xcomp	_	_
+8	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	signed	signed	NOUN	NN	Number=SING	5	compound	_	_
+4	character	character	NOUN	NN	Number=SING	5	compound	_	_
+5	t	t	NOUN	NN	Number=SING	1	dobj	_	_
+6	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	signed	signed	NOUN	NN	Number=SING	4	compound	_	_
+4	character	character	NOUN	NN	Number=SING	1	dobj	_	_
+5	named	name	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+6	u	u	NOUN	NN	Number=SING	5	xcomp	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	signed	signed	NOUN	NN	Number=SING	4	compound	_	_
+4	character	character	NOUN	NN	Number=SING	1	dobj	_	_
+5	called	call	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+6	v	v	NOUN	NN	Number=SING	5	xcomp	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	signed	signed	NOUN	NN	Number=SING	4	compound	_	_
+4	character	character	NOUN	NN	Number=SING	1	dobj	_	_
+5	as	as	ADP	IN	_	3	acl	_	_
+6	w	w	NOUN	NN	Number=SING	5	xcomp	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	signed	signed	NOUN	NN	Number=SING	6	compound	_	_
+4	character	character	NOUN	NN	Number=SING	6	compound	_	_
+5	variable	variable	NOUN	NN	Number=SING	6	compound	_	_
+6	x	x	NOUN	NN	Number=SING	1	dobj	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	signed	signed	NOUN	NN	Number=SING	5	compound	_	_
+4	character	character	NOUN	NN	Number=SING	5	compound	_	_
+5	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+6	named	name	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+7	y	y	NOUN	NN	Number=SING	6	xcomp	_	_
+8	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	signed	signed	NOUN	NN	Number=SING	5	compound	_	_
+4	character	character	NOUN	NN	Number=SING	5	compound	_	_
+5	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+6	called	call	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+7	z	z	NOUN	NN	Number=SING	6	xcomp	_	_
+8	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	signed	signed	NOUN	NN	Number=SING	5	compound	_	_
+4	character	character	NOUN	NN	Number=SING	5	compound	_	_
+5	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+6	as	as	ADP	IN	_	3	acl	_	_
+7	temp	temp	NOUN	NN	Number=SING	6	xcomp	_	_
+8	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	signed	signed	NOUN	NN	Number=SING	5	compound	_	_
+4	character	character	NOUN	NN	Number=SING	5	compound	_	_
+5	temp1	temp1	NOUN	NN	Number=SING	1	dobj	_	_
+6	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	signed	signed	NOUN	NN	Number=SING	4	compound	_	_
+4	character	character	NOUN	NN	Number=SING	1	dobj	_	_
+5	named	name	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+6	temp2	temp2	NOUN	NN	Number=SING	5	xcomp	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	signed	signed	NOUN	NN	Number=SING	4	compound	_	_
+4	character	character	NOUN	NN	Number=SING	1	dobj	_	_
+5	called	call	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+6	curr	curr	NOUN	NN	Number=SING	5	xcomp	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	signed	signed	NOUN	NN	Number=SING	4	compound	_	_
+4	character	character	NOUN	NN	Number=SING	1	dobj	_	_
+5	as	as	ADP	IN	_	3	acl	_	_
+6	prev	prev	NOUN	NN	Number=SING	5	xcomp	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	signed	signed	NOUN	NN	Number=SING	6	compound	_	_
+4	character	character	NOUN	NN	Number=SING	6	compound	_	_
+5	variable	variable	NOUN	NN	Number=SING	6	compound	_	_
+6	number	number	NOUN	NN	Number=SING	1	dobj	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	signed	signed	NOUN	NN	Number=SING	5	compound	_	_
+4	character	character	NOUN	NN	Number=SING	5	compound	_	_
+5	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+6	named	name	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+7	a	a	NOUN	NN	Number=SING	6	xcomp	_	_
+8	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	signed	signed	NOUN	NN	Number=SING	5	compound	_	_
+4	character	character	NOUN	NN	Number=SING	5	compound	_	_
+5	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+6	called	call	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+7	b	b	NOUN	NN	Number=SING	6	xcomp	_	_
+8	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	signed	signed	NOUN	NN	Number=SING	5	compound	_	_
+4	character	character	NOUN	NN	Number=SING	5	compound	_	_
+5	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+6	as	as	ADP	IN	_	3	acl	_	_
+7	c	c	NOUN	NN	Number=SING	6	xcomp	_	_
+8	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	signed	signed	NOUN	NN	Number=SING	5	compound	_	_
+4	integer	integer	NOUN	NN	Number=SING	5	compound	_	_
+5	d	d	NOUN	NN	Number=SING	1	dobj	_	_
+6	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	signed	signed	NOUN	NN	Number=SING	4	compound	_	_
+4	integer	integer	NOUN	NN	Number=SING	1	dobj	_	_
+5	named	name	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+6	e	e	NOUN	NN	Number=SING	5	xcomp	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	signed	signed	NOUN	NN	Number=SING	4	compound	_	_
+4	integer	integer	NOUN	NN	Number=SING	1	dobj	_	_
+5	called	call	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+6	f	f	NOUN	NN	Number=SING	5	xcomp	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	signed	signed	NOUN	NN	Number=SING	4	compound	_	_
+4	integer	integer	NOUN	NN	Number=SING	1	dobj	_	_
+5	as	as	ADP	IN	_	3	acl	_	_
+6	h	h	NOUN	NN	Number=SING	5	xcomp	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	signed	signed	NOUN	NN	Number=SING	6	compound	_	_
+4	integer	integer	NOUN	NN	Number=SING	6	compound	_	_
+5	variable	variable	NOUN	NN	Number=SING	6	compound	_	_
+6	i	i	NOUN	NN	Number=SING	1	dobj	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	signed	signed	NOUN	NN	Number=SING	5	compound	_	_
+4	integer	integer	NOUN	NN	Number=SING	5	compound	_	_
+5	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+6	named	name	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+7	j	j	NOUN	NN	Number=SING	6	xcomp	_	_
+8	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	signed	signed	NOUN	NN	Number=SING	5	compound	_	_
+4	integer	integer	NOUN	NN	Number=SING	5	compound	_	_
+5	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+6	called	call	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+7	k	k	NOUN	NN	Number=SING	6	xcomp	_	_
+8	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	signed	signed	NOUN	NN	Number=SING	5	compound	_	_
+4	integer	integer	NOUN	NN	Number=SING	5	compound	_	_
+5	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+6	as	as	ADP	IN	_	3	acl	_	_
+7	p	p	NOUN	NN	Number=SING	6	xcomp	_	_
+8	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	signed	signed	NOUN	NN	Number=SING	5	compound	_	_
+4	integer	integer	NOUN	NN	Number=SING	5	compound	_	_
+5	q	q	NOUN	NN	Number=SING	1	dobj	_	_
+6	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	signed	signed	NOUN	NN	Number=SING	4	compound	_	_
+4	integer	integer	NOUN	NN	Number=SING	1	dobj	_	_
+5	named	name	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+6	r	r	NOUN	NN	Number=SING	5	xcomp	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	signed	signed	NOUN	NN	Number=SING	4	compound	_	_
+4	integer	integer	NOUN	NN	Number=SING	1	dobj	_	_
+5	called	call	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+6	s	s	NOUN	NN	Number=SING	5	xcomp	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	signed	signed	NOUN	NN	Number=SING	4	compound	_	_
+4	integer	integer	NOUN	NN	Number=SING	1	dobj	_	_
+5	as	as	ADP	IN	_	3	acl	_	_
+6	t	t	NOUN	NN	Number=SING	5	xcomp	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	signed	signed	NOUN	NN	Number=SING	6	compound	_	_
+4	integer	integer	NOUN	NN	Number=SING	6	compound	_	_
+5	variable	variable	NOUN	NN	Number=SING	6	compound	_	_
+6	u	u	NOUN	NN	Number=SING	1	dobj	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	signed	signed	NOUN	NN	Number=SING	5	compound	_	_
+4	integer	integer	NOUN	NN	Number=SING	5	compound	_	_
+5	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+6	named	name	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+7	v	v	NOUN	NN	Number=SING	6	xcomp	_	_
+8	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	signed	signed	NOUN	NN	Number=SING	5	compound	_	_
+4	integer	integer	NOUN	NN	Number=SING	5	compound	_	_
+5	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+6	called	call	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+7	w	w	NOUN	NN	Number=SING	6	xcomp	_	_
+8	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	signed	signed	NOUN	NN	Number=SING	5	compound	_	_
+4	integer	integer	NOUN	NN	Number=SING	5	compound	_	_
+5	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+6	as	as	ADP	IN	_	3	acl	_	_
+7	x	x	NOUN	NN	Number=SING	6	xcomp	_	_
+8	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	signed	signed	NOUN	NN	Number=SING	6	compound	_	_
+4	long	long	NOUN	NN	Number=SING	6	compound	_	_
+5	integer	integer	NOUN	NN	Number=SING	6	compound	_	_
+6	y	y	NOUN	NN	Number=SING	1	dobj	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	signed	signed	NOUN	NN	Number=SING	5	compound	_	_
+4	long	long	NOUN	NN	Number=SING	5	compound	_	_
+5	integer	integer	NOUN	NN	Number=SING	1	dobj	_	_
+6	named	name	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+7	z	z	NOUN	NN	Number=SING	6	xcomp	_	_
+8	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	signed	signed	NOUN	NN	Number=SING	5	compound	_	_
+4	long	long	NOUN	NN	Number=SING	5	compound	_	_
+5	integer	integer	NOUN	NN	Number=SING	1	dobj	_	_
+6	called	call	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+7	temp	temp	NOUN	NN	Number=SING	6	xcomp	_	_
+8	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	signed	signed	NOUN	NN	Number=SING	5	compound	_	_
+4	long	long	NOUN	NN	Number=SING	5	compound	_	_
+5	integer	integer	NOUN	NN	Number=SING	1	dobj	_	_
+6	as	as	ADP	IN	_	3	acl	_	_
+7	temp1	temp1	NOUN	NN	Number=SING	6	xcomp	_	_
+8	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	signed	signed	NOUN	NN	Number=SING	7	compound	_	_
+4	long	long	NOUN	NN	Number=SING	7	compound	_	_
+5	integer	integer	NOUN	NN	Number=SING	7	compound	_	_
+6	variable	variable	NOUN	NN	Number=SING	7	compound	_	_
+7	temp2	temp2	NOUN	NN	Number=SING	1	dobj	_	_
+8	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	signed	signed	NOUN	NN	Number=SING	6	compound	_	_
+4	long	long	NOUN	NN	Number=SING	6	compound	_	_
+5	integer	integer	NOUN	NN	Number=SING	6	compound	_	_
+6	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+7	named	name	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+8	curr	curr	NOUN	NN	Number=SING	7	xcomp	_	_
+9	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	signed	signed	NOUN	NN	Number=SING	6	compound	_	_
+4	long	long	NOUN	NN	Number=SING	6	compound	_	_
+5	integer	integer	NOUN	NN	Number=SING	6	compound	_	_
+6	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+7	called	call	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+8	prev	prev	NOUN	NN	Number=SING	7	xcomp	_	_
+9	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	signed	signed	NOUN	NN	Number=SING	6	compound	_	_
+4	long	long	NOUN	NN	Number=SING	6	compound	_	_
+5	integer	integer	NOUN	NN	Number=SING	6	compound	_	_
+6	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+7	as	as	ADP	IN	_	3	acl	_	_
+8	number	number	NOUN	NN	Number=SING	7	xcomp	_	_
+9	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	signed	signed	NOUN	NN	Number=SING	6	compound	_	_
+4	long	long	NOUN	NN	Number=SING	6	compound	_	_
+5	integer	integer	NOUN	NN	Number=SING	6	compound	_	_
+6	a	a	NOUN	NN	Number=SING	1	dobj	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	signed	signed	NOUN	NN	Number=SING	5	compound	_	_
+4	long	long	NOUN	NN	Number=SING	5	compound	_	_
+5	integer	integer	NOUN	NN	Number=SING	1	dobj	_	_
+6	named	name	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+7	b	b	NOUN	NN	Number=SING	6	xcomp	_	_
+8	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	signed	signed	NOUN	NN	Number=SING	5	compound	_	_
+4	long	long	NOUN	NN	Number=SING	5	compound	_	_
+5	integer	integer	NOUN	NN	Number=SING	1	dobj	_	_
+6	called	call	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+7	c	c	NOUN	NN	Number=SING	6	xcomp	_	_
+8	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	signed	signed	NOUN	NN	Number=SING	5	compound	_	_
+4	long	long	NOUN	NN	Number=SING	5	compound	_	_
+5	integer	integer	NOUN	NN	Number=SING	1	dobj	_	_
+6	as	as	ADP	IN	_	3	acl	_	_
+7	d	d	NOUN	NN	Number=SING	6	xcomp	_	_
+8	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	signed	signed	NOUN	NN	Number=SING	7	compound	_	_
+4	long	long	NOUN	NN	Number=SING	7	compound	_	_
+5	integer	integer	NOUN	NN	Number=SING	7	compound	_	_
+6	variable	variable	NOUN	NN	Number=SING	7	compound	_	_
+7	e	e	NOUN	NN	Number=SING	1	dobj	_	_
+8	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	signed	signed	NOUN	NN	Number=SING	6	compound	_	_
+4	long	long	NOUN	NN	Number=SING	6	compound	_	_
+5	integer	integer	NOUN	NN	Number=SING	6	compound	_	_
+6	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+7	named	name	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+8	f	f	NOUN	NN	Number=SING	7	xcomp	_	_
+9	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	signed	signed	NOUN	NN	Number=SING	6	compound	_	_
+4	long	long	NOUN	NN	Number=SING	6	compound	_	_
+5	integer	integer	NOUN	NN	Number=SING	6	compound	_	_
+6	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+7	called	call	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+8	h	h	NOUN	NN	Number=SING	7	xcomp	_	_
+9	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	signed	signed	NOUN	NN	Number=SING	6	compound	_	_
+4	long	long	NOUN	NN	Number=SING	6	compound	_	_
+5	integer	integer	NOUN	NN	Number=SING	6	compound	_	_
+6	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+7	as	as	ADP	IN	_	3	acl	_	_
+8	i	i	NOUN	NN	Number=SING	7	xcomp	_	_
+9	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	signed	signed	NOUN	NN	Number=SING	6	compound	_	_
+4	short	short	NOUN	NN	Number=SING	6	compound	_	_
+5	integer	integer	NOUN	NN	Number=SING	6	compound	_	_
+6	j	j	NOUN	NN	Number=SING	1	dobj	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	signed	signed	NOUN	NN	Number=SING	5	compound	_	_
+4	short	short	NOUN	NN	Number=SING	5	compound	_	_
+5	integer	integer	NOUN	NN	Number=SING	1	dobj	_	_
+6	named	name	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+7	k	k	NOUN	NN	Number=SING	6	xcomp	_	_
+8	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	signed	signed	NOUN	NN	Number=SING	5	compound	_	_
+4	short	short	NOUN	NN	Number=SING	5	compound	_	_
+5	integer	integer	NOUN	NN	Number=SING	1	dobj	_	_
+6	called	call	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+7	p	p	NOUN	NN	Number=SING	6	xcomp	_	_
+8	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	signed	signed	NOUN	NN	Number=SING	5	compound	_	_
+4	short	short	NOUN	NN	Number=SING	5	compound	_	_
+5	integer	integer	NOUN	NN	Number=SING	1	dobj	_	_
+6	as	as	ADP	IN	_	3	acl	_	_
+7	q	q	NOUN	NN	Number=SING	6	xcomp	_	_
+8	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	signed	signed	NOUN	NN	Number=SING	7	compound	_	_
+4	short	short	NOUN	NN	Number=SING	7	compound	_	_
+5	integer	integer	NOUN	NN	Number=SING	7	compound	_	_
+6	variable	variable	NOUN	NN	Number=SING	7	compound	_	_
+7	r	r	NOUN	NN	Number=SING	1	dobj	_	_
+8	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	signed	signed	NOUN	NN	Number=SING	6	compound	_	_
+4	short	short	NOUN	NN	Number=SING	6	compound	_	_
+5	integer	integer	NOUN	NN	Number=SING	6	compound	_	_
+6	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+7	named	name	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+8	s	s	NOUN	NN	Number=SING	7	xcomp	_	_
+9	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	signed	signed	NOUN	NN	Number=SING	6	compound	_	_
+4	short	short	NOUN	NN	Number=SING	6	compound	_	_
+5	integer	integer	NOUN	NN	Number=SING	6	compound	_	_
+6	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+7	called	call	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+8	t	t	NOUN	NN	Number=SING	7	xcomp	_	_
+9	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	signed	signed	NOUN	NN	Number=SING	6	compound	_	_
+4	short	short	NOUN	NN	Number=SING	6	compound	_	_
+5	integer	integer	NOUN	NN	Number=SING	6	compound	_	_
+6	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+7	as	as	ADP	IN	_	3	acl	_	_
+8	u	u	NOUN	NN	Number=SING	7	xcomp	_	_
+9	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	signed	signed	NOUN	NN	Number=SING	6	compound	_	_
+4	short	short	NOUN	NN	Number=SING	6	compound	_	_
+5	integer	integer	NOUN	NN	Number=SING	6	compound	_	_
+6	v	v	NOUN	NN	Number=SING	1	dobj	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	signed	signed	NOUN	NN	Number=SING	5	compound	_	_
+4	short	short	NOUN	NN	Number=SING	5	compound	_	_
+5	integer	integer	NOUN	NN	Number=SING	1	dobj	_	_
+6	named	name	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+7	w	w	NOUN	NN	Number=SING	6	xcomp	_	_
+8	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	signed	signed	NOUN	NN	Number=SING	5	compound	_	_
+4	short	short	NOUN	NN	Number=SING	5	compound	_	_
+5	integer	integer	NOUN	NN	Number=SING	1	dobj	_	_
+6	called	call	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+7	x	x	NOUN	NN	Number=SING	6	xcomp	_	_
+8	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	signed	signed	NOUN	NN	Number=SING	5	compound	_	_
+4	short	short	NOUN	NN	Number=SING	5	compound	_	_
+5	integer	integer	NOUN	NN	Number=SING	1	dobj	_	_
+6	as	as	ADP	IN	_	3	acl	_	_
+7	y	y	NOUN	NN	Number=SING	6	xcomp	_	_
+8	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	signed	signed	NOUN	NN	Number=SING	7	compound	_	_
+4	short	short	NOUN	NN	Number=SING	7	compound	_	_
+5	integer	integer	NOUN	NN	Number=SING	7	compound	_	_
+6	variable	variable	NOUN	NN	Number=SING	7	compound	_	_
+7	z	z	NOUN	NN	Number=SING	1	dobj	_	_
+8	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	signed	signed	NOUN	NN	Number=SING	6	compound	_	_
+4	short	short	NOUN	NN	Number=SING	6	compound	_	_
+5	integer	integer	NOUN	NN	Number=SING	6	compound	_	_
+6	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+7	named	name	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+8	temp	temp	NOUN	NN	Number=SING	7	xcomp	_	_
+9	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	signed	signed	NOUN	NN	Number=SING	6	compound	_	_
+4	short	short	NOUN	NN	Number=SING	6	compound	_	_
+5	integer	integer	NOUN	NN	Number=SING	6	compound	_	_
+6	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+7	called	call	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+8	temp1	temp1	NOUN	NN	Number=SING	7	xcomp	_	_
+9	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	signed	signed	NOUN	NN	Number=SING	6	compound	_	_
+4	short	short	NOUN	NN	Number=SING	6	compound	_	_
+5	integer	integer	NOUN	NN	Number=SING	6	compound	_	_
+6	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+7	as	as	ADP	IN	_	3	acl	_	_
+8	temp2	temp2	NOUN	NN	Number=SING	7	xcomp	_	_
+9	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	string	string	NOUN	NN	Number=SING	4	compound	_	_
+4	curr	curr	NOUN	NN	Number=SING	1	dobj	_	_
+5	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	string	string	NOUN	NN	Number=SING	1	dobj	_	_
+4	named	name	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+5	prev	prev	NOUN	NN	Number=SING	4	xcomp	_	_
+6	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	string	string	NOUN	NN	Number=SING	1	dobj	_	_
+4	called	call	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+5	number	number	NOUN	NN	Number=SING	4	xcomp	_	_
+6	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	string	string	NOUN	NN	Number=SING	1	dobj	_	_
+4	as	as	ADP	IN	_	3	acl	_	_
+5	a	a	NOUN	NN	Number=SING	4	xcomp	_	_
+6	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	string	string	NOUN	NN	Number=SING	5	compound	_	_
+4	variable	variable	NOUN	NN	Number=SING	5	compound	_	_
+5	b	b	NOUN	NN	Number=SING	1	dobj	_	_
+6	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	string	string	NOUN	NN	Number=SING	4	compound	_	_
+4	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+5	named	name	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+6	c	c	NOUN	NN	Number=SING	5	xcomp	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	string	string	NOUN	NN	Number=SING	4	compound	_	_
+4	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+5	called	call	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+6	d	d	NOUN	NN	Number=SING	5	xcomp	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	string	string	NOUN	NN	Number=SING	4	compound	_	_
+4	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+5	as	as	ADP	IN	_	3	acl	_	_
+6	e	e	NOUN	NN	Number=SING	5	xcomp	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	string	string	NOUN	NN	Number=SING	4	compound	_	_
+4	f	f	NOUN	NN	Number=SING	1	dobj	_	_
+5	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	string	string	NOUN	NN	Number=SING	1	dobj	_	_
+4	named	name	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+5	h	h	NOUN	NN	Number=SING	4	xcomp	_	_
+6	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	string	string	NOUN	NN	Number=SING	1	dobj	_	_
+4	called	call	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+5	i	i	NOUN	NN	Number=SING	4	xcomp	_	_
+6	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	string	string	NOUN	NN	Number=SING	1	dobj	_	_
+4	as	as	ADP	IN	_	3	acl	_	_
+5	j	j	NOUN	NN	Number=SING	4	xcomp	_	_
+6	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	string	string	NOUN	NN	Number=SING	5	compound	_	_
+4	variable	variable	NOUN	NN	Number=SING	5	compound	_	_
+5	k	k	NOUN	NN	Number=SING	1	dobj	_	_
+6	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	string	string	NOUN	NN	Number=SING	4	compound	_	_
+4	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+5	named	name	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+6	p	p	NOUN	NN	Number=SING	5	xcomp	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	string	string	NOUN	NN	Number=SING	4	compound	_	_
+4	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+5	called	call	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+6	q	q	NOUN	NN	Number=SING	5	xcomp	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	string	string	NOUN	NN	Number=SING	4	compound	_	_
+4	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+5	as	as	ADP	IN	_	3	acl	_	_
+6	r	r	NOUN	NN	Number=SING	5	xcomp	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	an	an	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	unsigned	unsigned	NOUN	NN	Number=SING	5	compound	_	_
+4	character	character	NOUN	NN	Number=SING	5	compound	_	_
+5	s	s	NOUN	NN	Number=SING	1	dobj	_	_
+6	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	an	an	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	unsigned	unsigned	NOUN	NN	Number=SING	4	compound	_	_
+4	character	character	NOUN	NN	Number=SING	1	dobj	_	_
+5	named	name	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+6	t	t	NOUN	NN	Number=SING	5	xcomp	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	an	an	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	unsigned	unsigned	NOUN	NN	Number=SING	4	compound	_	_
+4	character	character	NOUN	NN	Number=SING	1	dobj	_	_
+5	called	call	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+6	u	u	NOUN	NN	Number=SING	5	xcomp	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	an	an	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	unsigned	unsigned	NOUN	NN	Number=SING	4	compound	_	_
+4	character	character	NOUN	NN	Number=SING	1	dobj	_	_
+5	as	as	ADP	IN	_	3	acl	_	_
+6	v	v	NOUN	NN	Number=SING	5	xcomp	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	an	an	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	unsigned	unsigned	NOUN	NN	Number=SING	6	compound	_	_
+4	character	character	NOUN	NN	Number=SING	6	compound	_	_
+5	variable	variable	NOUN	NN	Number=SING	6	compound	_	_
+6	w	w	NOUN	NN	Number=SING	1	dobj	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	an	an	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	unsigned	unsigned	NOUN	NN	Number=SING	5	compound	_	_
+4	character	character	NOUN	NN	Number=SING	5	compound	_	_
+5	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+6	named	name	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+7	x	x	NOUN	NN	Number=SING	6	xcomp	_	_
+8	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	an	an	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	unsigned	unsigned	NOUN	NN	Number=SING	5	compound	_	_
+4	character	character	NOUN	NN	Number=SING	5	compound	_	_
+5	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+6	called	call	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+7	y	y	NOUN	NN	Number=SING	6	xcomp	_	_
+8	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	an	an	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	unsigned	unsigned	NOUN	NN	Number=SING	5	compound	_	_
+4	character	character	NOUN	NN	Number=SING	5	compound	_	_
+5	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+6	as	as	ADP	IN	_	3	acl	_	_
+7	z	z	NOUN	NN	Number=SING	6	xcomp	_	_
+8	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	an	an	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	unsigned	unsigned	NOUN	NN	Number=SING	5	compound	_	_
+4	character	character	NOUN	NN	Number=SING	5	compound	_	_
+5	temp	temp	NOUN	NN	Number=SING	1	dobj	_	_
+6	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	an	an	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	unsigned	unsigned	NOUN	NN	Number=SING	4	compound	_	_
+4	character	character	NOUN	NN	Number=SING	1	dobj	_	_
+5	named	name	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+6	temp1	temp1	NOUN	NN	Number=SING	5	xcomp	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	an	an	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	unsigned	unsigned	NOUN	NN	Number=SING	4	compound	_	_
+4	character	character	NOUN	NN	Number=SING	1	dobj	_	_
+5	called	call	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+6	temp2	temp2	NOUN	NN	Number=SING	5	xcomp	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	an	an	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	unsigned	unsigned	NOUN	NN	Number=SING	4	compound	_	_
+4	character	character	NOUN	NN	Number=SING	1	dobj	_	_
+5	as	as	ADP	IN	_	3	acl	_	_
+6	curr	curr	NOUN	NN	Number=SING	5	xcomp	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	an	an	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	unsigned	unsigned	NOUN	NN	Number=SING	6	compound	_	_
+4	character	character	NOUN	NN	Number=SING	6	compound	_	_
+5	variable	variable	NOUN	NN	Number=SING	6	compound	_	_
+6	prev	prev	NOUN	NN	Number=SING	1	dobj	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	an	an	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	unsigned	unsigned	NOUN	NN	Number=SING	5	compound	_	_
+4	character	character	NOUN	NN	Number=SING	5	compound	_	_
+5	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+6	named	name	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+7	number	number	NOUN	NN	Number=SING	6	xcomp	_	_
+8	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	an	an	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	unsigned	unsigned	NOUN	NN	Number=SING	5	compound	_	_
+4	character	character	NOUN	NN	Number=SING	5	compound	_	_
+5	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+6	called	call	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+7	a	a	NOUN	NN	Number=SING	6	xcomp	_	_
+8	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	an	an	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	unsigned	unsigned	NOUN	NN	Number=SING	5	compound	_	_
+4	character	character	NOUN	NN	Number=SING	5	compound	_	_
+5	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+6	as	as	ADP	IN	_	3	acl	_	_
+7	b	b	NOUN	NN	Number=SING	6	xcomp	_	_
+8	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	an	an	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	unsigned	unsigned	NOUN	NN	Number=SING	5	compound	_	_
+4	integer	integer	NOUN	NN	Number=SING	5	compound	_	_
+5	c	c	NOUN	NN	Number=SING	1	dobj	_	_
+6	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	an	an	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	unsigned	unsigned	NOUN	NN	Number=SING	4	compound	_	_
+4	integer	integer	NOUN	NN	Number=SING	1	dobj	_	_
+5	named	name	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+6	d	d	NOUN	NN	Number=SING	5	xcomp	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	an	an	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	unsigned	unsigned	NOUN	NN	Number=SING	4	compound	_	_
+4	integer	integer	NOUN	NN	Number=SING	1	dobj	_	_
+5	called	call	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+6	e	e	NOUN	NN	Number=SING	5	xcomp	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	an	an	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	unsigned	unsigned	NOUN	NN	Number=SING	4	compound	_	_
+4	integer	integer	NOUN	NN	Number=SING	1	dobj	_	_
+5	as	as	ADP	IN	_	3	acl	_	_
+6	f	f	NOUN	NN	Number=SING	5	xcomp	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	an	an	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	unsigned	unsigned	NOUN	NN	Number=SING	6	compound	_	_
+4	integer	integer	NOUN	NN	Number=SING	6	compound	_	_
+5	variable	variable	NOUN	NN	Number=SING	6	compound	_	_
+6	h	h	NOUN	NN	Number=SING	1	dobj	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	an	an	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	unsigned	unsigned	NOUN	NN	Number=SING	5	compound	_	_
+4	integer	integer	NOUN	NN	Number=SING	5	compound	_	_
+5	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+6	named	name	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+7	i	i	NOUN	NN	Number=SING	6	xcomp	_	_
+8	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	an	an	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	unsigned	unsigned	NOUN	NN	Number=SING	5	compound	_	_
+4	integer	integer	NOUN	NN	Number=SING	5	compound	_	_
+5	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+6	called	call	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+7	j	j	NOUN	NN	Number=SING	6	xcomp	_	_
+8	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	an	an	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	unsigned	unsigned	NOUN	NN	Number=SING	5	compound	_	_
+4	integer	integer	NOUN	NN	Number=SING	5	compound	_	_
+5	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+6	as	as	ADP	IN	_	3	acl	_	_
+7	k	k	NOUN	NN	Number=SING	6	xcomp	_	_
+8	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	an	an	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	unsigned	unsigned	NOUN	NN	Number=SING	5	compound	_	_
+4	integer	integer	NOUN	NN	Number=SING	5	compound	_	_
+5	p	p	NOUN	NN	Number=SING	1	dobj	_	_
+6	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	an	an	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	unsigned	unsigned	NOUN	NN	Number=SING	4	compound	_	_
+4	integer	integer	NOUN	NN	Number=SING	1	dobj	_	_
+5	named	name	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+6	q	q	NOUN	NN	Number=SING	5	xcomp	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	an	an	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	unsigned	unsigned	NOUN	NN	Number=SING	4	compound	_	_
+4	integer	integer	NOUN	NN	Number=SING	1	dobj	_	_
+5	called	call	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+6	r	r	NOUN	NN	Number=SING	5	xcomp	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	an	an	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	unsigned	unsigned	NOUN	NN	Number=SING	4	compound	_	_
+4	integer	integer	NOUN	NN	Number=SING	1	dobj	_	_
+5	as	as	ADP	IN	_	3	acl	_	_
+6	s	s	NOUN	NN	Number=SING	5	xcomp	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	an	an	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	unsigned	unsigned	NOUN	NN	Number=SING	6	compound	_	_
+4	integer	integer	NOUN	NN	Number=SING	6	compound	_	_
+5	variable	variable	NOUN	NN	Number=SING	6	compound	_	_
+6	t	t	NOUN	NN	Number=SING	1	dobj	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	an	an	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	unsigned	unsigned	NOUN	NN	Number=SING	5	compound	_	_
+4	integer	integer	NOUN	NN	Number=SING	5	compound	_	_
+5	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+6	named	name	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+7	u	u	NOUN	NN	Number=SING	6	xcomp	_	_
+8	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	an	an	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	unsigned	unsigned	NOUN	NN	Number=SING	5	compound	_	_
+4	integer	integer	NOUN	NN	Number=SING	5	compound	_	_
+5	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+6	called	call	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+7	v	v	NOUN	NN	Number=SING	6	xcomp	_	_
+8	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	an	an	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	unsigned	unsigned	NOUN	NN	Number=SING	5	compound	_	_
+4	integer	integer	NOUN	NN	Number=SING	5	compound	_	_
+5	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+6	as	as	ADP	IN	_	3	acl	_	_
+7	w	w	NOUN	NN	Number=SING	6	xcomp	_	_
+8	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	an	an	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	unsigned	unsigned	NOUN	NN	Number=SING	6	compound	_	_
+4	long	long	NOUN	NN	Number=SING	6	compound	_	_
+5	integer	integer	NOUN	NN	Number=SING	6	compound	_	_
+6	x	x	NOUN	NN	Number=SING	1	dobj	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	an	an	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	unsigned	unsigned	NOUN	NN	Number=SING	5	compound	_	_
+4	long	long	NOUN	NN	Number=SING	5	compound	_	_
+5	integer	integer	NOUN	NN	Number=SING	1	dobj	_	_
+6	named	name	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+7	y	y	NOUN	NN	Number=SING	6	xcomp	_	_
+8	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	an	an	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	unsigned	unsigned	NOUN	NN	Number=SING	5	compound	_	_
+4	long	long	NOUN	NN	Number=SING	5	compound	_	_
+5	integer	integer	NOUN	NN	Number=SING	1	dobj	_	_
+6	called	call	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+7	z	z	NOUN	NN	Number=SING	6	xcomp	_	_
+8	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	an	an	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	unsigned	unsigned	NOUN	NN	Number=SING	5	compound	_	_
+4	long	long	NOUN	NN	Number=SING	5	compound	_	_
+5	integer	integer	NOUN	NN	Number=SING	1	dobj	_	_
+6	as	as	ADP	IN	_	3	acl	_	_
+7	temp	temp	NOUN	NN	Number=SING	6	xcomp	_	_
+8	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	an	an	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	unsigned	unsigned	NOUN	NN	Number=SING	7	compound	_	_
+4	long	long	NOUN	NN	Number=SING	7	compound	_	_
+5	integer	integer	NOUN	NN	Number=SING	7	compound	_	_
+6	variable	variable	NOUN	NN	Number=SING	7	compound	_	_
+7	temp1	temp1	NOUN	NN	Number=SING	1	dobj	_	_
+8	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	an	an	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	unsigned	unsigned	NOUN	NN	Number=SING	6	compound	_	_
+4	long	long	NOUN	NN	Number=SING	6	compound	_	_
+5	integer	integer	NOUN	NN	Number=SING	6	compound	_	_
+6	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+7	named	name	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+8	temp2	temp2	NOUN	NN	Number=SING	7	xcomp	_	_
+9	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	an	an	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	unsigned	unsigned	NOUN	NN	Number=SING	6	compound	_	_
+4	long	long	NOUN	NN	Number=SING	6	compound	_	_
+5	integer	integer	NOUN	NN	Number=SING	6	compound	_	_
+6	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+7	called	call	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+8	curr	curr	NOUN	NN	Number=SING	7	xcomp	_	_
+9	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	an	an	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	unsigned	unsigned	NOUN	NN	Number=SING	6	compound	_	_
+4	long	long	NOUN	NN	Number=SING	6	compound	_	_
+5	integer	integer	NOUN	NN	Number=SING	6	compound	_	_
+6	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+7	as	as	ADP	IN	_	3	acl	_	_
+8	prev	prev	NOUN	NN	Number=SING	7	xcomp	_	_
+9	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	an	an	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	unsigned	unsigned	NOUN	NN	Number=SING	6	compound	_	_
+4	long	long	NOUN	NN	Number=SING	6	compound	_	_
+5	integer	integer	NOUN	NN	Number=SING	6	compound	_	_
+6	number	number	NOUN	NN	Number=SING	1	dobj	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	an	an	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	unsigned	unsigned	NOUN	NN	Number=SING	5	compound	_	_
+4	long	long	NOUN	NN	Number=SING	5	compound	_	_
+5	integer	integer	NOUN	NN	Number=SING	1	dobj	_	_
+6	named	name	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+7	a	a	NOUN	NN	Number=SING	6	xcomp	_	_
+8	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	an	an	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	unsigned	unsigned	NOUN	NN	Number=SING	5	compound	_	_
+4	long	long	NOUN	NN	Number=SING	5	compound	_	_
+5	integer	integer	NOUN	NN	Number=SING	1	dobj	_	_
+6	called	call	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+7	b	b	NOUN	NN	Number=SING	6	xcomp	_	_
+8	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	an	an	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	unsigned	unsigned	NOUN	NN	Number=SING	5	compound	_	_
+4	long	long	NOUN	NN	Number=SING	5	compound	_	_
+5	integer	integer	NOUN	NN	Number=SING	1	dobj	_	_
+6	as	as	ADP	IN	_	3	acl	_	_
+7	c	c	NOUN	NN	Number=SING	6	xcomp	_	_
+8	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	an	an	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	unsigned	unsigned	NOUN	NN	Number=SING	7	compound	_	_
+4	long	long	NOUN	NN	Number=SING	7	compound	_	_
+5	integer	integer	NOUN	NN	Number=SING	7	compound	_	_
+6	variable	variable	NOUN	NN	Number=SING	7	compound	_	_
+7	d	d	NOUN	NN	Number=SING	1	dobj	_	_
+8	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	an	an	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	unsigned	unsigned	NOUN	NN	Number=SING	6	compound	_	_
+4	long	long	NOUN	NN	Number=SING	6	compound	_	_
+5	integer	integer	NOUN	NN	Number=SING	6	compound	_	_
+6	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+7	named	name	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+8	e	e	NOUN	NN	Number=SING	7	xcomp	_	_
+9	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	an	an	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	unsigned	unsigned	NOUN	NN	Number=SING	6	compound	_	_
+4	long	long	NOUN	NN	Number=SING	6	compound	_	_
+5	integer	integer	NOUN	NN	Number=SING	6	compound	_	_
+6	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+7	called	call	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+8	f	f	NOUN	NN	Number=SING	7	xcomp	_	_
+9	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	an	an	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	unsigned	unsigned	NOUN	NN	Number=SING	6	compound	_	_
+4	long	long	NOUN	NN	Number=SING	6	compound	_	_
+5	integer	integer	NOUN	NN	Number=SING	6	compound	_	_
+6	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+7	as	as	ADP	IN	_	3	acl	_	_
+8	h	h	NOUN	NN	Number=SING	7	xcomp	_	_
+9	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	an	an	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	unsigned	unsigned	NOUN	NN	Number=SING	6	compound	_	_
+4	short	short	NOUN	NN	Number=SING	6	compound	_	_
+5	integer	integer	NOUN	NN	Number=SING	6	compound	_	_
+6	i	i	NOUN	NN	Number=SING	1	dobj	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	an	an	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	unsigned	unsigned	NOUN	NN	Number=SING	5	compound	_	_
+4	short	short	NOUN	NN	Number=SING	5	compound	_	_
+5	integer	integer	NOUN	NN	Number=SING	1	dobj	_	_
+6	named	name	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+7	j	j	NOUN	NN	Number=SING	6	xcomp	_	_
+8	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	an	an	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	unsigned	unsigned	NOUN	NN	Number=SING	5	compound	_	_
+4	short	short	NOUN	NN	Number=SING	5	compound	_	_
+5	integer	integer	NOUN	NN	Number=SING	1	dobj	_	_
+6	called	call	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+7	k	k	NOUN	NN	Number=SING	6	xcomp	_	_
+8	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	an	an	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	unsigned	unsigned	NOUN	NN	Number=SING	5	compound	_	_
+4	short	short	NOUN	NN	Number=SING	5	compound	_	_
+5	integer	integer	NOUN	NN	Number=SING	1	dobj	_	_
+6	as	as	ADP	IN	_	3	acl	_	_
+7	p	p	NOUN	NN	Number=SING	6	xcomp	_	_
+8	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	an	an	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	unsigned	unsigned	NOUN	NN	Number=SING	7	compound	_	_
+4	short	short	NOUN	NN	Number=SING	7	compound	_	_
+5	integer	integer	NOUN	NN	Number=SING	7	compound	_	_
+6	variable	variable	NOUN	NN	Number=SING	7	compound	_	_
+7	q	q	NOUN	NN	Number=SING	1	dobj	_	_
+8	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	an	an	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	unsigned	unsigned	NOUN	NN	Number=SING	6	compound	_	_
+4	short	short	NOUN	NN	Number=SING	6	compound	_	_
+5	integer	integer	NOUN	NN	Number=SING	6	compound	_	_
+6	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+7	named	name	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+8	r	r	NOUN	NN	Number=SING	7	xcomp	_	_
+9	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	an	an	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	unsigned	unsigned	NOUN	NN	Number=SING	6	compound	_	_
+4	short	short	NOUN	NN	Number=SING	6	compound	_	_
+5	integer	integer	NOUN	NN	Number=SING	6	compound	_	_
+6	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+7	called	call	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+8	s	s	NOUN	NN	Number=SING	7	xcomp	_	_
+9	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Create	Create	VERB	VB	VerbForm=Inf	0	root	_	_
+2	an	an	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	unsigned	unsigned	NOUN	NN	Number=SING	6	compound	_	_
+4	short	short	NOUN	NN	Number=SING	6	compound	_	_
+5	integer	integer	NOUN	NN	Number=SING	6	compound	_	_
+6	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+7	as	as	ADP	IN	_	3	acl	_	_
+8	t	t	NOUN	NN	Number=SING	7	xcomp	_	_
+9	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	an	an	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	unsigned	unsigned	NOUN	NN	Number=SING	6	compound	_	_
+4	short	short	NOUN	NN	Number=SING	6	compound	_	_
+5	integer	integer	NOUN	NN	Number=SING	6	compound	_	_
+6	u	u	NOUN	NN	Number=SING	1	dobj	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	an	an	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	unsigned	unsigned	NOUN	NN	Number=SING	5	compound	_	_
+4	short	short	NOUN	NN	Number=SING	5	compound	_	_
+5	integer	integer	NOUN	NN	Number=SING	1	dobj	_	_
+6	named	name	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+7	v	v	NOUN	NN	Number=SING	6	xcomp	_	_
+8	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	an	an	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	unsigned	unsigned	NOUN	NN	Number=SING	5	compound	_	_
+4	short	short	NOUN	NN	Number=SING	5	compound	_	_
+5	integer	integer	NOUN	NN	Number=SING	1	dobj	_	_
+6	called	call	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+7	w	w	NOUN	NN	Number=SING	6	xcomp	_	_
+8	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	an	an	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	unsigned	unsigned	NOUN	NN	Number=SING	5	compound	_	_
+4	short	short	NOUN	NN	Number=SING	5	compound	_	_
+5	integer	integer	NOUN	NN	Number=SING	1	dobj	_	_
+6	as	as	ADP	IN	_	3	acl	_	_
+7	x	x	NOUN	NN	Number=SING	6	xcomp	_	_
+8	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	an	an	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	unsigned	unsigned	NOUN	NN	Number=SING	7	compound	_	_
+4	short	short	NOUN	NN	Number=SING	7	compound	_	_
+5	integer	integer	NOUN	NN	Number=SING	7	compound	_	_
+6	variable	variable	NOUN	NN	Number=SING	7	compound	_	_
+7	y	y	NOUN	NN	Number=SING	1	dobj	_	_
+8	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	an	an	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	unsigned	unsigned	NOUN	NN	Number=SING	6	compound	_	_
+4	short	short	NOUN	NN	Number=SING	6	compound	_	_
+5	integer	integer	NOUN	NN	Number=SING	6	compound	_	_
+6	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+7	named	name	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+8	z	z	NOUN	NN	Number=SING	7	xcomp	_	_
+9	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	an	an	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	unsigned	unsigned	NOUN	NN	Number=SING	6	compound	_	_
+4	short	short	NOUN	NN	Number=SING	6	compound	_	_
+5	integer	integer	NOUN	NN	Number=SING	6	compound	_	_
+6	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+7	called	call	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+8	temp	temp	NOUN	NN	Number=SING	7	xcomp	_	_
+9	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Declare	Declare	VERB	VB	VerbForm=Inf	0	root	_	_
+2	an	an	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	unsigned	unsigned	NOUN	NN	Number=SING	6	compound	_	_
+4	short	short	NOUN	NN	Number=SING	6	compound	_	_
+5	integer	integer	NOUN	NN	Number=SING	6	compound	_	_
+6	variable	variable	NOUN	NN	Number=SING	1	dobj	_	_
+7	as	as	ADP	IN	_	3	acl	_	_
+8	temp1	temp1	NOUN	NN	Number=SING	7	xcomp	_	_
+9	.	.	PUNCT	.	_	1	punct	_	_
+
