@@ -48,7 +48,9 @@ public class CorpusGenerator {
 		ArrayList<String> declarationStatements = new ArrayList<String>();
 		ArrayList<String> twoSubjectIfStatements = new ArrayList<String>();	
 		declarationStatements = sentenceGenerator.constructSomeDeclarationStatements();
-		twoSubjectIfStatements = sentenceGenerator.construct2SubjectIfStatements();
+		twoSubjectIfStatements.addAll(sentenceGenerator.construct2SubjectIfStatementsNouns());
+		twoSubjectIfStatements.addAll(sentenceGenerator.construct2SubjectIfStatementsNumbers());
+		// twoSubjectIfStatements = sentenceGenerator.construct2SubjectIfStatementsNumbers();
 		
 		// writing statements to text file
 		String outputFileName = System.getProperty("user.dir") + "/src/Output/DeclarationStatements.txt";
