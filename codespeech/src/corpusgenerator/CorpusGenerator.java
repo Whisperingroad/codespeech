@@ -83,7 +83,9 @@ public class CorpusGenerator {
 		//if statements
 		ArrayList<String> twoSubjectIfStatements = new ArrayList<String>();	
 		declarationStatements = sentenceGenerator.constructSomeDeclarationStatements();
-		twoSubjectIfStatements = sentenceGenerator.construct2SubjectIfStatements();
+		twoSubjectIfStatements.addAll(sentenceGenerator.construct2SubjectIfStatementsNouns());
+		twoSubjectIfStatements.addAll(sentenceGenerator.construct2SubjectIfStatementsNumbers());
+		// twoSubjectIfStatements = sentenceGenerator.construct2SubjectIfStatementsNumbers();
 		
 		//Initialization
 		//bool
@@ -170,14 +172,13 @@ public class CorpusGenerator {
 		ArrayList<String> declarationCorpus = new ArrayList<String>();
 		
 		twoSubjectIfCorpus = sentenceTagger.tag2SubjectIfStatement(twoSubjectIfStatements);
-//		declarationCorpus = sentenceTagger
+		declarationCorpus = sentenceTagger.tagDeclarationStatements(declarationStatements);
 		
 		// printing corpus
 		outputFileName = System.getProperty("user.dir") + "/src/Output/twoSubjectIfCorpus.txt";
 		sentenceGenerator.writeStatements(outputFileName, twoSubjectIfCorpus);
-		
-		
-		
+		outputFileName = System.getProperty("user.dir") + "/src/Output/DeclarationStatementsCorpus.txt";		
+		sentenceGenerator.writeStatements(outputFileName, declarationCorpus);		
 	}
 	
 	public static SentenceGenerator loadAll()

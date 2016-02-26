@@ -148,25 +148,25 @@ public class SentenceGenerator {
 			for (String declareWord : declareWords) {
 				// e.g. declare an integer y
 				declarationStatement = declareWord + SPACE + determiner + SPACE + dataType + SPACE
-						+ variables.get(index++ % noOfVar);
+						+ variables.get(index++ % noOfVar) + ".";
 				declarationStatements.add(declarationStatement);
 				// Adding adjectives
 				for (String adj : adjective) {
 					// e.g. declare an integer named y
 					declarationStatement = declareWord + SPACE + determiner + SPACE + dataType + SPACE + adj + SPACE
-							+ variables.get(index++ % noOfVar);
+							+ variables.get(index++ % noOfVar) + ".";
 					declarationStatements.add(declarationStatement);
 				}
 				// Adding the word variable to the statement
 				// e.g. declare an integer variable y
 				declarationStatement = declareWord + SPACE + determiner + SPACE + dataType + SPACE + "variable" + SPACE
-						+ variables.get(index++ % noOfVar);
+						+ variables.get(index++ % noOfVar) + ".";
 				declarationStatements.add(declarationStatement);
 
 				for (String adj : adjective) {
 					// e.g. declare an integer variable named y
 					declarationStatement = declareWord + SPACE + determiner + SPACE + dataType + SPACE + "variable"
-							+ SPACE + adj + SPACE + variables.get(index++ % noOfVar);
+							+ SPACE + adj + SPACE + variables.get(index++ % noOfVar) + ".";
 					declarationStatements.add(declarationStatement);
 				}
 			}
@@ -463,7 +463,8 @@ public class SentenceGenerator {
 		return initStatements;
 	}
 	
-	public ArrayList<String> construct2SubjectIfStatements() {
+	// if statements in which second subjects are numerals
+	public ArrayList<String> construct2SubjectIfStatementsNumbers() {
 		ArrayList<String> subjects1 = new ArrayList<String>();
 		ArrayList<String> subjects2 = new ArrayList<String>();
 		for (int i = 0; i < 5; i++) {
@@ -483,7 +484,35 @@ public class SentenceGenerator {
 				for (int k = 0; k < conditions.size(); k++) {
 					String statement = "If ";
 					String condition = conditions.get(k).trim();
-					statement = statement + subject1 + SPACE + condition + SPACE + subject2;
+					statement = statement + subject1 + SPACE + condition + SPACE + subject2 + ".";
+					statements.add(statement);
+				}
+			}
+		}
+		return statements;
+	}
+	// if statements in which both first and second subjects are nouns
+	public ArrayList<String> construct2SubjectIfStatementsNouns() {
+		ArrayList<String> subjects1 = new ArrayList<String>();
+		ArrayList<String> subjects2 = new ArrayList<String>();
+		for (int i = 20; i < subjects.size(); i++) {
+			subjects2.add(subjects.get(i));
+		}
+		// from temp to j
+		for (int i = 5; i < 20; i++) {
+			subjects1.add(subjects.get(i));
+		}
+		// for every first subject
+		for (int i = 0; i < subjects1.size(); i++) {
+			String subject1 = subjects1.get(i).trim();
+			// for every second subject
+			for (int j = 0; j < subjects2.size(); j++) {
+				String subject2 = subjects2.get(j).trim();
+				// for every condition
+				for (int k = 0; k < conditions.size(); k++) {
+					String statement = "If ";
+					String condition = conditions.get(k).trim();
+					statement = statement + subject1 + SPACE + condition + SPACE + subject2 + ".";
 					statements.add(statement);
 				}
 			}
