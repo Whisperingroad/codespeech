@@ -1,0 +1,100 @@
+Initialise an unsigned short integer temp to 0.
+Initialise an unsigned short integer temp1 to 1000.
+Initialise an unsigned short integer temp2 to 10.
+Initialise an unsigned short integer curr to 16384.
+Initialise an unsigned short integer prev to 32768.
+Initialise an unsigned short integer number to 49151.
+Initialise an unsigned short integer num to 65535.
+Initialise an unsigned short integer myint to 0.
+Initialise an unsigned short integer myInt to 1000.
+Initialise an unsigned short integer a to 10.
+Initialise an unsigned short integer b to 16384.
+Initialise an unsigned short integer c to 32768.
+Initialise an unsigned short integer d to 49151.
+Initialise an unsigned short integer e to 65535.
+Initialise an unsigned short integer h to 0.
+Initialise an unsigned short integer i to 1000.
+Initialise an unsigned short integer j to 10.
+Initialise an unsigned short integer k to 16384.
+Initialise an unsigned short integer n to 32768.
+Initialise an unsigned short integer s to 49151.
+Initialise an unsigned short integer variable u to 65535.
+Initialise an unsigned short integer variable w to 0.
+Initialise an unsigned short integer variable x to 1000.
+Initialise an unsigned short integer variable y to 10.
+Initialise an unsigned short integer variable z to 16384.
+Initialise an unsigned short integer variable temp to 32768.
+Initialise an unsigned short integer variable temp1 to 49151.
+Initialise an unsigned short integer variable temp2 to 65535.
+Initialise an unsigned short integer variable curr to 0.
+Initialise an unsigned short integer variable prev to 1000.
+Initialise an unsigned short integer variable number to 10.
+Initialise an unsigned short integer variable num to 16384.
+Initialise an unsigned short integer variable myint to 32768.
+Initialise an unsigned short integer variable myInt to 49151.
+Initialise an unsigned short integer variable a to 65535.
+Initialise an unsigned short integer variable b to 0.
+Initialise an unsigned short integer variable c to 1000.
+Initialise an unsigned short integer variable d to 10.
+Initialise an unsigned short integer variable e to 16384.
+Initialise an unsigned short integer variable h to 32768.
+Initialise an unsigned short integer variable called i to 49151.
+Initialise an unsigned short integer variable called j to 65535.
+Initialise an unsigned short integer variable called k to 0.
+Initialise an unsigned short integer variable called n to 1000.
+Initialise an unsigned short integer variable called s to 10.
+Initialise an unsigned short integer variable called u to 16384.
+Initialise an unsigned short integer variable called w to 32768.
+Initialise an unsigned short integer variable called x to 49151.
+Initialise an unsigned short integer variable called y to 65535.
+Initialise an unsigned short integer variable called z to 0.
+Initialise an unsigned short integer variable called temp to 1000.
+Initialise an unsigned short integer variable called temp1 to 10.
+Initialise an unsigned short integer variable called temp2 to 16384.
+Initialise an unsigned short integer variable called curr to 32768.
+Initialise an unsigned short integer variable called prev to 49151.
+Initialise an unsigned short integer variable called number to 65535.
+Initialise an unsigned short integer variable called num to 0.
+Initialise an unsigned short integer variable called myint to 1000.
+Initialise an unsigned short integer variable called myInt to 10.
+Initialise an unsigned short integer variable called a to 16384.
+Initialise an unsigned short integer variable named b to 32768.
+Initialise an unsigned short integer variable named c to 49151.
+Initialise an unsigned short integer variable named d to 65535.
+Initialise an unsigned short integer variable named e to 0.
+Initialise an unsigned short integer variable named h to 1000.
+Initialise an unsigned short integer variable named i to 10.
+Initialise an unsigned short integer variable named j to 16384.
+Initialise an unsigned short integer variable named k to 32768.
+Initialise an unsigned short integer variable named n to 49151.
+Initialise an unsigned short integer variable named s to 65535.
+Initialise an unsigned short integer variable named u to 0.
+Initialise an unsigned short integer variable named w to 1000.
+Initialise an unsigned short integer variable named x to 10.
+Initialise an unsigned short integer variable named y to 16384.
+Initialise an unsigned short integer variable named z to 32768.
+Initialise an unsigned short integer variable named temp to 49151.
+Initialise an unsigned short integer variable named temp1 to 65535.
+Initialise an unsigned short integer variable named temp2 to 0.
+Initialise an unsigned short integer variable named curr to 1000.
+Initialise an unsigned short integer variable named prev to 10.
+Initialise an unsigned short integer called number to 16384.
+Initialise an unsigned short integer called num to 32768.
+Initialise an unsigned short integer called myint to 49151.
+Initialise an unsigned short integer called myInt to 65535.
+Initialise an unsigned short integer called a to 0.
+Initialise an unsigned short integer called b to 1000.
+Initialise an unsigned short integer called c to 10.
+Initialise an unsigned short integer called d to 16384.
+Initialise an unsigned short integer called e to 32768.
+Initialise an unsigned short integer called h to 49151.
+Initialise an unsigned short integer called i to 65535.
+Initialise an unsigned short integer called j to 0.
+Initialise an unsigned short integer called k to 1000.
+Initialise an unsigned short integer called n to 10.
+Initialise an unsigned short integer called s to 16384.
+Initialise an unsigned short integer called u to 32768.
+Initialise an unsigned short integer called w to 49151.
+Initialise an unsigned short integer called x to 65535.
+Initialise an unsigned short integer called y to 0.
+Initialise an unsigned short integer called z to 1000.

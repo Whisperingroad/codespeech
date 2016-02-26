@@ -1,0 +1,80 @@
+Initialise a character variable called alphabet to a.
+Initialise a character variable called temp to b.
+Initialise a character variable called mychar to c.
+Initialise a character variable called myChar to d.
+Initialise a character variable called test to e.
+Initialise a character variable called a to f.
+Initialise a character variable called b to g.
+Initialise a character variable called c to h.
+Initialise a character variable called d to i.
+Initialise a character variable called e to j.
+Initialise a character variable called f to k.
+Initialise a character variable called h to l.
+Initialise a character variable called i to m.
+Initialise a character variable called j to n.
+Initialise a character variable called k to o.
+Initialise a character variable called p to p.
+Initialise a character variable called q to q.
+Initialise a character variable called r to r.
+Initialise a character variable called s to s.
+Initialise a character variable called t to t.
+Initialise a character variable named u to u.
+Initialise a character variable named v to v.
+Initialise a character variable named w to w.
+Initialise a character variable named x to x.
+Initialise a character variable named y to y.
+Initialise a character variable named z to z.
+Initialise a character variable named alphabet to a.
+Initialise a character variable named temp to b.
+Initialise a character variable named mychar to c.
+Initialise a character variable named myChar to d.
+Initialise a character variable named test to e.
+Initialise a character variable named a to f.
+Initialise a character variable named b to g.
+Initialise a character variable named c to h.
+Initialise a character variable named d to i.
+Initialise a character variable named e to j.
+Initialise a character variable named f to k.
+Initialise a character variable named h to l.
+Initialise a character variable named i to m.
+Initialise a character variable named j to n.
+Initialise a character variable k as o.
+Initialise a character variable p as p.
+Initialise a character variable q as q.
+Initialise a character variable r as r.
+Initialise a character variable s as s.
+Initialise a character variable t as t.
+Initialise a character variable u as u.
+Initialise a character variable v as v.
+Initialise a character variable w as w.
+Initialise a character variable x as x.
+Initialise a character variable y as y.
+Initialise a character variable z as z.
+Initialise a character variable alphabet as a.
+Initialise a character variable temp as b.
+Initialise a character variable mychar as c.
+Initialise a character variable myChar as d.
+Initialise a character variable test as e.
+Initialise a character variable a as f.
+Initialise a character variable b as g.
+Initialise a character variable c as h.
+Initialise a character variable d to i.
+Initialise a character variable e to j.
+Initialise a character variable f to k.
+Initialise a character variable h to l.
+Initialise a character variable i to m.
+Initialise a character variable j to n.
+Initialise a character variable k to o.
+Initialise a character variable p to p.
+Initialise a character variable q to q.
+Initialise a character variable r to r.
+Initialise a character variable s to s.
+Initialise a character variable t to t.
+Initialise a character variable u to u.
+Initialise a character variable v to v.
+Initialise a character variable w to w.
+Initialise a character variable x to x.
+Initialise a character variable y to y.
+Initialise a character variable z to z.
+Initialise a character variable alphabet to a.
+Initialise a character variable temp to b.

@@ -1,0 +1,100 @@
+Initialise an unsigned integer temp to 0.
+Initialise an unsigned integer temp1 to 10000.
+Initialise an unsigned integer temp2 to 10.
+Initialise an unsigned integer curr to 1073741824.
+Initialise an unsigned integer prev to 2147483648.
+Initialise an unsigned integer number to 3221225471.
+Initialise an unsigned integer num to 4294967295.
+Initialise an unsigned integer myint to 0.
+Initialise an unsigned integer myInt to 10000.
+Initialise an unsigned integer a to 10.
+Initialise an unsigned integer b to 1073741824.
+Initialise an unsigned integer c to 2147483648.
+Initialise an unsigned integer d to 3221225471.
+Initialise an unsigned integer e to 4294967295.
+Initialise an unsigned integer h to 0.
+Initialise an unsigned integer i to 10000.
+Initialise an unsigned integer j to 10.
+Initialise an unsigned integer k to 1073741824.
+Initialise an unsigned integer n to 2147483648.
+Initialise an unsigned integer s to 3221225471.
+Initialise an unsigned integer variable u to 4294967295.
+Initialise an unsigned integer variable w to 0.
+Initialise an unsigned integer variable x to 10000.
+Initialise an unsigned integer variable y to 10.
+Initialise an unsigned integer variable z to 1073741824.
+Initialise an unsigned integer variable temp to 2147483648.
+Initialise an unsigned integer variable temp1 to 3221225471.
+Initialise an unsigned integer variable temp2 to 4294967295.
+Initialise an unsigned integer variable curr to 0.
+Initialise an unsigned integer variable prev to 10000.
+Initialise an unsigned integer variable number to 10.
+Initialise an unsigned integer variable num to 1073741824.
+Initialise an unsigned integer variable myint to 2147483648.
+Initialise an unsigned integer variable myInt to 3221225471.
+Initialise an unsigned integer variable a to 4294967295.
+Initialise an unsigned integer variable b to 0.
+Initialise an unsigned integer variable c to 10000.
+Initialise an unsigned integer variable d to 10.
+Initialise an unsigned integer variable e to 1073741824.
+Initialise an unsigned integer variable h to 2147483648.
+Initialise an unsigned integer variable called i to 3221225471.
+Initialise an unsigned integer variable called j to 4294967295.
+Initialise an unsigned integer variable called k to 0.
+Initialise an unsigned integer variable called n to 10000.
+Initialise an unsigned integer variable called s to 10.
+Initialise an unsigned integer variable called u to 1073741824.
+Initialise an unsigned integer variable called w to 2147483648.
+Initialise an unsigned integer variable called x to 3221225471.
+Initialise an unsigned integer variable called y to 4294967295.
+Initialise an unsigned integer variable called z to 0.
+Initialise an unsigned integer variable called temp to 10000.
+Initialise an unsigned integer variable called temp1 to 10.
+Initialise an unsigned integer variable called temp2 to 1073741824.
+Initialise an unsigned integer variable called curr to 2147483648.
+Initialise an unsigned integer variable called prev to 3221225471.
+Initialise an unsigned integer variable called number to 4294967295.
+Initialise an unsigned integer variable called num to 0.
+Initialise an unsigned integer variable called myint to 10000.
+Initialise an unsigned integer variable called myInt to 10.
+Initialise an unsigned integer variable called a to 1073741824.
+Initialise an unsigned integer variable named b to 2147483648.
+Initialise an unsigned integer variable named c to 3221225471.
+Initialise an unsigned integer variable named d to 4294967295.
+Initialise an unsigned integer variable named e to 0.
+Initialise an unsigned integer variable named h to 10000.
+Initialise an unsigned integer variable named i to 10.
+Initialise an unsigned integer variable named j to 1073741824.
+Initialise an unsigned integer variable named k to 2147483648.
+Initialise an unsigned integer variable named n to 3221225471.
+Initialise an unsigned integer variable named s to 4294967295.
+Initialise an unsigned integer variable named u to 0.
+Initialise an unsigned integer variable named w to 10000.
+Initialise an unsigned integer variable named x to 10.
+Initialise an unsigned integer variable named y to 1073741824.
+Initialise an unsigned integer variable named z to 2147483648.
+Initialise an unsigned integer variable named temp to 3221225471.
+Initialise an unsigned integer variable named temp1 to 4294967295.
+Initialise an unsigned integer variable named temp2 to 0.
+Initialise an unsigned integer variable named curr to 10000.
+Initialise an unsigned integer variable named prev to 10.
+Initialise an unsigned integer called number to 1073741824.
+Initialise an unsigned integer called num to 2147483648.
+Initialise an unsigned integer called myint to 3221225471.
+Initialise an unsigned integer called myInt to 4294967295.
+Initialise an unsigned integer called a to 0.
+Initialise an unsigned integer called b to 10000.
+Initialise an unsigned integer called c to 10.
+Initialise an unsigned integer called d to 1073741824.
+Initialise an unsigned integer called e to 2147483648.
+Initialise an unsigned integer called h to 3221225471.
+Initialise an unsigned integer called i to 4294967295.
+Initialise an unsigned integer called j to 0.
+Initialise an unsigned integer called k to 10000.
+Initialise an unsigned integer called n to 10.
+Initialise an unsigned integer called s to 1073741824.
+Initialise an unsigned integer called u to 2147483648.
+Initialise an unsigned integer called w to 3221225471.
+Initialise an unsigned integer called x to 4294967295.
+Initialise an unsigned integer called y to 0.
+Initialise an unsigned integer called z to 10000.

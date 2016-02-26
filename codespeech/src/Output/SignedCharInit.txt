@@ -1,0 +1,100 @@
+Initialise a signed character temp to -127.
+Initialise a signed character temp1 to -99.
+Initialise a signed character temp2 to -64.
+Initialise a signed character curr to 0.
+Initialise a signed character prev to 64.
+Initialise a signed character number to 99.
+Initialise a signed character num to 127.
+Initialise a signed character myint to -127.
+Initialise a signed character myInt to -99.
+Initialise a signed character a to -64.
+Initialise a signed character b to 0.
+Initialise a signed character c to 64.
+Initialise a signed character d to 99.
+Initialise a signed character e to 127.
+Initialise a signed character h to -127.
+Initialise a signed character i to -99.
+Initialise a signed character j to -64.
+Initialise a signed character k to 0.
+Initialise a signed character n to 64.
+Initialise a signed character s to 99.
+Initialise a signed character variable u to 127.
+Initialise a signed character variable w to -127.
+Initialise a signed character variable x to -99.
+Initialise a signed character variable y to -64.
+Initialise a signed character variable z to 0.
+Initialise a signed character variable temp to 64.
+Initialise a signed character variable temp1 to 99.
+Initialise a signed character variable temp2 to 127.
+Initialise a signed character variable curr to -127.
+Initialise a signed character variable prev to -99.
+Initialise a signed character variable number to -64.
+Initialise a signed character variable num to 0.
+Initialise a signed character variable myint to 64.
+Initialise a signed character variable myInt to 99.
+Initialise a signed character variable a to 127.
+Initialise a signed character variable b to -127.
+Initialise a signed character variable c to -99.
+Initialise a signed character variable d to -64.
+Initialise a signed character variable e to 0.
+Initialise a signed character variable h to 64.
+Initialise a signed character variable called i to 99.
+Initialise a signed character variable called j to 127.
+Initialise a signed character variable called k to -127.
+Initialise a signed character variable called n to -99.
+Initialise a signed character variable called s to -64.
+Initialise a signed character variable called u to 0.
+Initialise a signed character variable called w to 64.
+Initialise a signed character variable called x to 99.
+Initialise a signed character variable called y to 127.
+Initialise a signed character variable called z to -127.
+Initialise a signed character variable called temp to -99.
+Initialise a signed character variable called temp1 to -64.
+Initialise a signed character variable called temp2 to 0.
+Initialise a signed character variable called curr to 64.
+Initialise a signed character variable called prev to 99.
+Initialise a signed character variable called number to 127.
+Initialise a signed character variable called num to -127.
+Initialise a signed character variable called myint to -99.
+Initialise a signed character variable called myInt to -64.
+Initialise a signed character variable called a to 0.
+Initialise a signed character variable named b to 64.
+Initialise a signed character variable named c to 99.
+Initialise a signed character variable named d to 127.
+Initialise a signed character variable named e to -127.
+Initialise a signed character variable named h to -99.
+Initialise a signed character variable named i to -64.
+Initialise a signed character variable named j to 0.
+Initialise a signed character variable named k to 64.
+Initialise a signed character variable named n to 99.
+Initialise a signed character variable named s to 127.
+Initialise a signed character variable named u to -127.
+Initialise a signed character variable named w to -99.
+Initialise a signed character variable named x to -64.
+Initialise a signed character variable named y to 0.
+Initialise a signed character variable named z to 64.
+Initialise a signed character variable named temp to 99.
+Initialise a signed character variable named temp1 to 127.
+Initialise a signed character variable named temp2 to -127.
+Initialise a signed character variable named curr to -99.
+Initialise a signed character variable named prev to -64.
+Initialise a signed character called number to 0.
+Initialise a signed character called num to 64.
+Initialise a signed character called myint to 99.
+Initialise a signed character called myInt to 127.
+Initialise a signed character called a to -127.
+Initialise a signed character called b to -99.
+Initialise a signed character called c to -64.
+Initialise a signed character called d to 0.
+Initialise a signed character called e to 64.
+Initialise a signed character called h to 99.
+Initialise a signed character called i to 127.
+Initialise a signed character called j to -127.
+Initialise a signed character called k to -99.
+Initialise a signed character called n to -64.
+Initialise a signed character called s to 0.
+Initialise a signed character called u to 64.
+Initialise a signed character called w to 99.
+Initialise a signed character called x to 127.
+Initialise a signed character called y to -127.
+Initialise a signed character called z to -99.

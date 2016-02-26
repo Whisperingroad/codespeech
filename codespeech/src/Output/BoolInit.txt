@@ -1,0 +1,40 @@
+Initialise a boolean variable called bool to true.
+Initialise a boolean variable called check to false.
+Initialise a boolean variable called test to true.
+Initialise a boolean variable called istrue to false.
+Initialise a boolean variable called isTrue to true.
+Initialise a boolean variable called isfalse to false.
+Initialise a boolean variable called isFalse to true.
+Initialise a boolean variable called passed to false.
+Initialise a boolean variable called a to true.
+Initialise a boolean variable called b to false.
+Initialise a boolean variable named c to true.
+Initialise a boolean variable named x to false.
+Initialise a boolean variable named y to true.
+Initialise a boolean variable named z to false.
+Initialise a boolean variable named bool to true.
+Initialise a boolean variable named check to false.
+Initialise a boolean variable named test to true.
+Initialise a boolean variable named istrue to false.
+Initialise a boolean variable named isTrue to true.
+Initialise a boolean variable named isfalse to false.
+Initialise a boolean isFalse as true.
+Initialise a boolean passed as false.
+Initialise a boolean a as true.
+Initialise a boolean b as false.
+Initialise a boolean c as true.
+Initialise a boolean x as false.
+Initialise a boolean y as true.
+Initialise a boolean z as false.
+Initialise a boolean bool as true.
+Initialise a boolean check as false.
+Initialise a boolean variable test to true.
+Initialise a boolean variable istrue to false.
+Initialise a boolean variable isTrue to true.
+Initialise a boolean variable isfalse to false.
+Initialise a boolean variable isFalse to true.
+Initialise a boolean variable passed to false.
+Initialise a boolean variable a to true.
+Initialise a boolean variable b to false.
+Initialise a boolean variable c to true.
+Initialise a boolean variable x to false.

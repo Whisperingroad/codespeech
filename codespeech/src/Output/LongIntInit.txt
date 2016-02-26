@@ -1,0 +1,100 @@
+Initialise a long integer temp to -2147483648.
+Initialise a long integer temp1 to -1073741824.
+Initialise a long integer temp2 to -48754857.
+Initialise a long integer curr to 0.
+Initialise a long integer prev to 48754857.
+Initialise a long integer number to 1073741824.
+Initialise a long integer num to 2147483648.
+Initialise a long integer myint to -2147483648.
+Initialise a long integer myInt to -1073741824.
+Initialise a long integer a to -48754857.
+Initialise a long integer b to 0.
+Initialise a long integer c to 48754857.
+Initialise a long integer d to 1073741824.
+Initialise a long integer e to 2147483648.
+Initialise a long integer h to -2147483648.
+Initialise a long integer i to -1073741824.
+Initialise a long integer j to -48754857.
+Initialise a long integer k to 0.
+Initialise a long integer n to 48754857.
+Initialise a long integer s to 1073741824.
+Initialise a long integer variable u to 2147483648.
+Initialise a long integer variable w to -2147483648.
+Initialise a long integer variable x to -1073741824.
+Initialise a long integer variable y to -48754857.
+Initialise a long integer variable z to 0.
+Initialise a long integer variable temp to 48754857.
+Initialise a long integer variable temp1 to 1073741824.
+Initialise a long integer variable temp2 to 2147483648.
+Initialise a long integer variable curr to -2147483648.
+Initialise a long integer variable prev to -1073741824.
+Initialise a long integer variable number to -48754857.
+Initialise a long integer variable num to 0.
+Initialise a long integer variable myint to 48754857.
+Initialise a long integer variable myInt to 1073741824.
+Initialise a long integer variable a to 2147483648.
+Initialise a long integer variable b to -2147483648.
+Initialise a long integer variable c to -1073741824.
+Initialise a long integer variable d to -48754857.
+Initialise a long integer variable e to 0.
+Initialise a long integer variable h to 48754857.
+Initialise a long integer variable called i to 1073741824.
+Initialise a long integer variable called j to 2147483648.
+Initialise a long integer variable called k to -2147483648.
+Initialise a long integer variable called n to -1073741824.
+Initialise a long integer variable called s to -48754857.
+Initialise a long integer variable called u to 0.
+Initialise a long integer variable called w to 48754857.
+Initialise a long integer variable called x to 1073741824.
+Initialise a long integer variable called y to 2147483648.
+Initialise a long integer variable called z to -2147483648.
+Initialise a long integer variable called temp to -1073741824.
+Initialise a long integer variable called temp1 to -48754857.
+Initialise a long integer variable called temp2 to 0.
+Initialise a long integer variable called curr to 48754857.
+Initialise a long integer variable called prev to 1073741824.
+Initialise a long integer variable called number to 2147483648.
+Initialise a long integer variable called num to -2147483648.
+Initialise a long integer variable called myint to -1073741824.
+Initialise a long integer variable called myInt to -48754857.
+Initialise a long integer variable called a to 0.
+Initialise a long integer variable named b to 48754857.
+Initialise a long integer variable named c to 1073741824.
+Initialise a long integer variable named d to 2147483648.
+Initialise a long integer variable named e to -2147483648.
+Initialise a long integer variable named h to -1073741824.
+Initialise a long integer variable named i to -48754857.
+Initialise a long integer variable named j to 0.
+Initialise a long integer variable named k to 48754857.
+Initialise a long integer variable named n to 1073741824.
+Initialise a long integer variable named s to 2147483648.
+Initialise a long integer variable named u to -2147483648.
+Initialise a long integer variable named w to -1073741824.
+Initialise a long integer variable named x to -48754857.
+Initialise a long integer variable named y to 0.
+Initialise a long integer variable named z to 48754857.
+Initialise a long integer variable named temp to 1073741824.
+Initialise a long integer variable named temp1 to 2147483648.
+Initialise a long integer variable named temp2 to -2147483648.
+Initialise a long integer variable named curr to -1073741824.
+Initialise a long integer variable named prev to -48754857.
+Initialise a long integer called number to 0.
+Initialise a long integer called num to 48754857.
+Initialise a long integer called myint to 1073741824.
+Initialise a long integer called myInt to 2147483648.
+Initialise a long integer called a to -2147483648.
+Initialise a long integer called b to -1073741824.
+Initialise a long integer called c to -48754857.
+Initialise a long integer called d to 0.
+Initialise a long integer called e to 48754857.
+Initialise a long integer called h to 1073741824.
+Initialise a long integer called i to 2147483648.
+Initialise a long integer called j to -2147483648.
+Initialise a long integer called k to -1073741824.
+Initialise a long integer called n to -48754857.
+Initialise a long integer called s to 0.
+Initialise a long integer called u to 48754857.
+Initialise a long integer called w to 1073741824.
+Initialise a long integer called x to 2147483648.
+Initialise a long integer called y to -2147483648.
+Initialise a long integer called z to -1073741824.

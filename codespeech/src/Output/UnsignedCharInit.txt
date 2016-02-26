@@ -1,0 +1,100 @@
+Initialise an unsigned character temp to 0.
+Initialise an unsigned character temp1 to 64.
+Initialise an unsigned character temp2 to 99.
+Initialise an unsigned character curr to 128.
+Initialise an unsigned character prev to 192.
+Initialise an unsigned character number to 200.
+Initialise an unsigned character num to 255.
+Initialise an unsigned character myint to 0.
+Initialise an unsigned character myInt to 64.
+Initialise an unsigned character a to 99.
+Initialise an unsigned character b to 128.
+Initialise an unsigned character c to 192.
+Initialise an unsigned character d to 200.
+Initialise an unsigned character e to 255.
+Initialise an unsigned character h to 0.
+Initialise an unsigned character i to 64.
+Initialise an unsigned character j to 99.
+Initialise an unsigned character k to 128.
+Initialise an unsigned character n to 192.
+Initialise an unsigned character s to 200.
+Initialise an unsigned character variable u to 255.
+Initialise an unsigned character variable w to 0.
+Initialise an unsigned character variable x to 64.
+Initialise an unsigned character variable y to 99.
+Initialise an unsigned character variable z to 128.
+Initialise an unsigned character variable temp to 192.
+Initialise an unsigned character variable temp1 to 200.
+Initialise an unsigned character variable temp2 to 255.
+Initialise an unsigned character variable curr to 0.
+Initialise an unsigned character variable prev to 64.
+Initialise an unsigned character variable number to 99.
+Initialise an unsigned character variable num to 128.
+Initialise an unsigned character variable myint to 192.
+Initialise an unsigned character variable myInt to 200.
+Initialise an unsigned character variable a to 255.
+Initialise an unsigned character variable b to 0.
+Initialise an unsigned character variable c to 64.
+Initialise an unsigned character variable d to 99.
+Initialise an unsigned character variable e to 128.
+Initialise an unsigned character variable h to 192.
+Initialise an unsigned character variable called i to 200.
+Initialise an unsigned character variable called j to 255.
+Initialise an unsigned character variable called k to 0.
+Initialise an unsigned character variable called n to 64.
+Initialise an unsigned character variable called s to 99.
+Initialise an unsigned character variable called u to 128.
+Initialise an unsigned character variable called w to 192.
+Initialise an unsigned character variable called x to 200.
+Initialise an unsigned character variable called y to 255.
+Initialise an unsigned character variable called z to 0.
+Initialise an unsigned character variable called temp to 64.
+Initialise an unsigned character variable called temp1 to 99.
+Initialise an unsigned character variable called temp2 to 128.
+Initialise an unsigned character variable called curr to 192.
+Initialise an unsigned character variable called prev to 200.
+Initialise an unsigned character variable called number to 255.
+Initialise an unsigned character variable called num to 0.
+Initialise an unsigned character variable called myint to 64.
+Initialise an unsigned character variable called myInt to 99.
+Initialise an unsigned character variable called a to 128.
+Initialise an unsigned character variable named b to 192.
+Initialise an unsigned character variable named c to 200.
+Initialise an unsigned character variable named d to 255.
+Initialise an unsigned character variable named e to 0.
+Initialise an unsigned character variable named h to 64.
+Initialise an unsigned character variable named i to 99.
+Initialise an unsigned character variable named j to 128.
+Initialise an unsigned character variable named k to 192.
+Initialise an unsigned character variable named n to 200.
+Initialise an unsigned character variable named s to 255.
+Initialise an unsigned character variable named u to 0.
+Initialise an unsigned character variable named w to 64.
+Initialise an unsigned character variable named x to 99.
+Initialise an unsigned character variable named y to 128.
+Initialise an unsigned character variable named z to 192.
+Initialise an unsigned character variable named temp to 200.
+Initialise an unsigned character variable named temp1 to 255.
+Initialise an unsigned character variable named temp2 to 0.
+Initialise an unsigned character variable named curr to 64.
+Initialise an unsigned character variable named prev to 99.
+Initialise an unsigned character called number to 128.
+Initialise an unsigned character called num to 192.
+Initialise an unsigned character called myint to 200.
+Initialise an unsigned character called myInt to 255.
+Initialise an unsigned character called a to 0.
+Initialise an unsigned character called b to 64.
+Initialise an unsigned character called c to 99.
+Initialise an unsigned character called d to 128.
+Initialise an unsigned character called e to 192.
+Initialise an unsigned character called h to 200.
+Initialise an unsigned character called i to 255.
+Initialise an unsigned character called j to 0.
+Initialise an unsigned character called k to 64.
+Initialise an unsigned character called n to 99.
+Initialise an unsigned character called s to 128.
+Initialise an unsigned character called u to 192.
+Initialise an unsigned character called w to 200.
+Initialise an unsigned character called x to 255.
+Initialise an unsigned character called y to 0.
+Initialise an unsigned character called z to 64.

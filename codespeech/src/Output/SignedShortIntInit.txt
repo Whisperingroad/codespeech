@@ -1,0 +1,100 @@
+Initialise a signed short integer temp to -32768.
+Initialise a signed short integer temp1 to -16384.
+Initialise a signed short integer temp2 to -100.
+Initialise a signed short integer curr to 0.
+Initialise a signed short integer prev to 100.
+Initialise a signed short integer number to 16384.
+Initialise a signed short integer num to 32767.
+Initialise a signed short integer myint to -32768.
+Initialise a signed short integer myInt to -16384.
+Initialise a signed short integer a to -100.
+Initialise a signed short integer b to 0.
+Initialise a signed short integer c to 100.
+Initialise a signed short integer d to 16384.
+Initialise a signed short integer e to 32767.
+Initialise a signed short integer h to -32768.
+Initialise a signed short integer i to -16384.
+Initialise a signed short integer j to -100.
+Initialise a signed short integer k to 0.
+Initialise a signed short integer n to 100.
+Initialise a signed short integer s to 16384.
+Initialise a signed short integer variable u to 32767.
+Initialise a signed short integer variable w to -32768.
+Initialise a signed short integer variable x to -16384.
+Initialise a signed short integer variable y to -100.
+Initialise a signed short integer variable z to 0.
+Initialise a signed short integer variable temp to 100.
+Initialise a signed short integer variable temp1 to 16384.
+Initialise a signed short integer variable temp2 to 32767.
+Initialise a signed short integer variable curr to -32768.
+Initialise a signed short integer variable prev to -16384.
+Initialise a signed short integer variable number to -100.
+Initialise a signed short integer variable num to 0.
+Initialise a signed short integer variable myint to 100.
+Initialise a signed short integer variable myInt to 16384.
+Initialise a signed short integer variable a to 32767.
+Initialise a signed short integer variable b to -32768.
+Initialise a signed short integer variable c to -16384.
+Initialise a signed short integer variable d to -100.
+Initialise a signed short integer variable e to 0.
+Initialise a signed short integer variable h to 100.
+Initialise a signed short integer variable called i to 16384.
+Initialise a signed short integer variable called j to 32767.
+Initialise a signed short integer variable called k to -32768.
+Initialise a signed short integer variable called n to -16384.
+Initialise a signed short integer variable called s to -100.
+Initialise a signed short integer variable called u to 0.
+Initialise a signed short integer variable called w to 100.
+Initialise a signed short integer variable called x to 16384.
+Initialise a signed short integer variable called y to 32767.
+Initialise a signed short integer variable called z to -32768.
+Initialise a signed short integer variable called temp to -16384.
+Initialise a signed short integer variable called temp1 to -100.
+Initialise a signed short integer variable called temp2 to 0.
+Initialise a signed short integer variable called curr to 100.
+Initialise a signed short integer variable called prev to 16384.
+Initialise a signed short integer variable called number to 32767.
+Initialise a signed short integer variable called num to -32768.
+Initialise a signed short integer variable called myint to -16384.
+Initialise a signed short integer variable called myInt to -100.
+Initialise a signed short integer variable called a to 0.
+Initialise a signed short integer variable named b to 100.
+Initialise a signed short integer variable named c to 16384.
+Initialise a signed short integer variable named d to 32767.
+Initialise a signed short integer variable named e to -32768.
+Initialise a signed short integer variable named h to -16384.
+Initialise a signed short integer variable named i to -100.
+Initialise a signed short integer variable named j to 0.
+Initialise a signed short integer variable named k to 100.
+Initialise a signed short integer variable named n to 16384.
+Initialise a signed short integer variable named s to 32767.
+Initialise a signed short integer variable named u to -32768.
+Initialise a signed short integer variable named w to -16384.
+Initialise a signed short integer variable named x to -100.
+Initialise a signed short integer variable named y to 0.
+Initialise a signed short integer variable named z to 100.
+Initialise a signed short integer variable named temp to 16384.
+Initialise a signed short integer variable named temp1 to 32767.
+Initialise a signed short integer variable named temp2 to -32768.
+Initialise a signed short integer variable named curr to -16384.
+Initialise a signed short integer variable named prev to -100.
+Initialise a signed short integer called number to 0.
+Initialise a signed short integer called num to 100.
+Initialise a signed short integer called myint to 16384.
+Initialise a signed short integer called myInt to 32767.
+Initialise a signed short integer called a to -32768.
+Initialise a signed short integer called b to -16384.
+Initialise a signed short integer called c to -100.
+Initialise a signed short integer called d to 0.
+Initialise a signed short integer called e to 100.
+Initialise a signed short integer called h to 16384.
+Initialise a signed short integer called i to 32767.
+Initialise a signed short integer called j to -32768.
+Initialise a signed short integer called k to -16384.
+Initialise a signed short integer called n to -100.
+Initialise a signed short integer called s to 0.
+Initialise a signed short integer called u to 100.
+Initialise a signed short integer called w to 16384.
+Initialise a signed short integer called x to 32767.
+Initialise a signed short integer called y to -32768.
+Initialise a signed short integer called z to -16384.

@@ -1,9 +1,8 @@
-temp
-temp1
-temp2
-curr
-prev
-number
+alphabet
+cat
+dog
+letter
+numbers
 hello world
 sleep
 power on

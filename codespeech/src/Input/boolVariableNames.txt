@@ -1,0 +1,14 @@
+bool
+check
+test
+istrue
+isTrue
+isfalse
+isFalse
+passed
+a
+b
+c
+x
+y
+z

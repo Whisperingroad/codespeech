@@ -1,0 +1,140 @@
+Initialise a string temp to alphabet.
+Initialise a string mystring to cat.
+Initialise a string myString to dog.
+Initialise a string test to letter.
+Initialise a string str to numbers.
+Initialise a string a to hello world.
+Initialise a string b to sleep.
+Initialise a string c to power on.
+Initialise a string d to power off.
+Initialise a string e to state a.
+Initialise a string f to state b.
+Initialise a string h to state c.
+Initialise a string i to alphabet.
+Initialise a string j to cat.
+Initialise a string k to dog.
+Initialise a string p to letter.
+Initialise a string q to numbers.
+Initialise a string r to hello world.
+Initialise a string s to sleep.
+Initialise a string t to power on.
+Initialise a string variable u to power off.
+Initialise a string variable v to state a.
+Initialise a string variable w to state b.
+Initialise a string variable x to state c.
+Initialise a string variable y to alphabet.
+Initialise a string variable z to cat.
+Initialise a string variable temp to dog.
+Initialise a string variable mystring to letter.
+Initialise a string variable myString to numbers.
+Initialise a string variable test to hello world.
+Initialise a string variable str to sleep.
+Initialise a string variable a to power on.
+Initialise a string variable b to power off.
+Initialise a string variable c to state a.
+Initialise a string variable d to state b.
+Initialise a string variable e to state c.
+Initialise a string variable f to alphabet.
+Initialise a string variable h to cat.
+Initialise a string variable i to dog.
+Initialise a string variable j to letter.
+Initialise a string variable called k to numbers.
+Initialise a string variable called p to hello world.
+Initialise a string variable called q to sleep.
+Initialise a string variable called r to power on.
+Initialise a string variable called s to power off.
+Initialise a string variable called t to state a.
+Initialise a string variable called u to state b.
+Initialise a string variable called v to state c.
+Initialise a string variable called w to alphabet.
+Initialise a string variable called x to cat.
+Initialise a string variable called y to dog.
+Initialise a string variable called z to letter.
+Initialise a string variable called temp to numbers.
+Initialise a string variable called mystring to hello world.
+Initialise a string variable called myString to sleep.
+Initialise a string variable called test to power on.
+Initialise a string variable called str to power off.
+Initialise a string variable called a to state a.
+Initialise a string variable called b to state b.
+Initialise a string variable called c to state c.
+Initialise a string variable named d to alphabet.
+Initialise a string variable named e to cat.
+Initialise a string variable named f to dog.
+Initialise a string variable named h to letter.
+Initialise a string variable named i to numbers.
+Initialise a string variable named j to hello world.
+Initialise a string variable named k to sleep.
+Initialise a string variable named p to power on.
+Initialise a string variable named q to power off.
+Initialise a string variable named r to state a.
+Initialise a string variable named s to state b.
+Initialise a string variable named t to state c.
+Initialise a string variable named u to alphabet.
+Initialise a string variable named v to cat.
+Initialise a string variable named w to dog.
+Initialise a string variable named x to letter.
+Initialise a string variable named y to numbers.
+Initialise a string variable named z to hello world.
+Initialise a string variable named temp to sleep.
+Initialise a string variable named mystring to power on.
+Initialise a string called myString to power off.
+Initialise a string called test to state a.
+Initialise a string called str to state b.
+Initialise a string called a to state c.
+Initialise a string called b to alphabet.
+Initialise a string called c to cat.
+Initialise a string called d to dog.
+Initialise a string called e to letter.
+Initialise a string called f to numbers.
+Initialise a string called h to hello world.
+Initialise a string called i to sleep.
+Initialise a string called j to power on.
+Initialise a string called k to power off.
+Initialise a string called p to state a.
+Initialise a string called q to state b.
+Initialise a string called r to state c.
+Initialise a string called s to alphabet.
+Initialise a string called t to cat.
+Initialise a string called u to dog.
+Initialise a string called v to letter.
+Initialise a string called w to the string numbers.
+Initialise a string called x to the string hello world.
+Initialise a string called y to the string sleep.
+Initialise a string called z to the string power on.
+Initialise a string called temp to the string power off.
+Initialise a string called mystring to the string state a.
+Initialise a string called myString to the string state b.
+Initialise a string called test to the string state c.
+Initialise a string called str to the string alphabet.
+Initialise a string called a to the string cat.
+Initialise a string called b to the string dog.
+Initialise a string called c to the string letter.
+Initialise a string called d to the string numbers.
+Initialise a string called e to the string hello world.
+Initialise a string called f to the string sleep.
+Initialise a string called h to the string power on.
+Initialise a string called i to the string power off.
+Initialise a string called j to the string state a.
+Initialise a string called k to the string state b.
+Initialise a string called p to the string state c.
+Initialise a string q as alphabet.
+Initialise a string r as cat.
+Initialise a string s as dog.
+Initialise a string t as letter.
+Initialise a string u as numbers.
+Initialise a string v as hello world.
+Initialise a string w as sleep.
+Initialise a string x as power on.
+Initialise a string y as power off.
+Initialise a string z as state a.
+Initialise a string temp as state b.
+Initialise a string mystring as state c.
+Initialise a string myString as alphabet.
+Initialise a string test as cat.
+Initialise a string str as dog.
+Initialise a string a as letter.
+Initialise a string b as numbers.
+Initialise a string c as hello world.
+Initialise a string d as sleep.
+Initialise a string e as power on.

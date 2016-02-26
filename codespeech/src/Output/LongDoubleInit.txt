@@ -1,0 +1,100 @@
+Initialise a long double temp to 0.0.
+Initialise a long double temp1 to -1.14.
+Initialise a long double temp2 to -2.14159.
+Initialise a long double curr to -100.0000000.
+Initialise a long double prev to 3.14159265.
+Initialise a long double number to 4.14159265358.
+Initialise a long double num to 5.14159265358979.
+Initialise a long double mydouble to 10.00000000.
+Initialise a long double myDouble to 66889.0037373723.
+Initialise a long double a to 0.0.
+Initialise a long double b to -1.14.
+Initialise a long double c to -2.14159.
+Initialise a long double d to -100.0000000.
+Initialise a long double e to 3.14159265.
+Initialise a long double h to 4.14159265358.
+Initialise a long double i to 5.14159265358979.
+Initialise a long double j to 10.00000000.
+Initialise a long double k to 66889.0037373723.
+Initialise a long double n to 0.0.
+Initialise a long double s to -1.14.
+Initialise a long double variable u to -2.14159.
+Initialise a long double variable w to -100.0000000.
+Initialise a long double variable x to 3.14159265.
+Initialise a long double variable y to 4.14159265358.
+Initialise a long double variable z to 5.14159265358979.
+Initialise a long double variable temp to 10.00000000.
+Initialise a long double variable temp1 to 66889.0037373723.
+Initialise a long double variable temp2 to 0.0.
+Initialise a long double variable curr to -1.14.
+Initialise a long double variable prev to -2.14159.
+Initialise a long double variable number to -100.0000000.
+Initialise a long double variable num to 3.14159265.
+Initialise a long double variable mydouble to 4.14159265358.
+Initialise a long double variable myDouble to 5.14159265358979.
+Initialise a long double variable a to 10.00000000.
+Initialise a long double variable b to 66889.0037373723.
+Initialise a long double variable c to 0.0.
+Initialise a long double variable d to -1.14.
+Initialise a long double variable e to -2.14159.
+Initialise a long double variable h to -100.0000000.
+Initialise a long double variable called i to 3.14159265.
+Initialise a long double variable called j to 4.14159265358.
+Initialise a long double variable called k to 5.14159265358979.
+Initialise a long double variable called n to 10.00000000.
+Initialise a long double variable called s to 66889.0037373723.
+Initialise a long double variable called u to 0.0.
+Initialise a long double variable called w to -1.14.
+Initialise a long double variable called x to -2.14159.
+Initialise a long double variable called y to -100.0000000.
+Initialise a long double variable called z to 3.14159265.
+Initialise a long double variable called temp to 4.14159265358.
+Initialise a long double variable called temp1 to 5.14159265358979.
+Initialise a long double variable called temp2 to 10.00000000.
+Initialise a long double variable called curr to 66889.0037373723.
+Initialise a long double variable called prev to 0.0.
+Initialise a long double variable called number to -1.14.
+Initialise a long double variable called num to -2.14159.
+Initialise a long double variable called mydouble to -100.0000000.
+Initialise a long double variable called myDouble to 3.14159265.
+Initialise a long double variable called a to 4.14159265358.
+Initialise a long double variable named b to 5.14159265358979.
+Initialise a long double variable named c to 10.00000000.
+Initialise a long double variable named d to 66889.0037373723.
+Initialise a long double variable named e to 0.0.
+Initialise a long double variable named h to -1.14.
+Initialise a long double variable named i to -2.14159.
+Initialise a long double variable named j to -100.0000000.
+Initialise a long double variable named k to 3.14159265.
+Initialise a long double variable named n to 4.14159265358.
+Initialise a long double variable named s to 5.14159265358979.
+Initialise a long double variable named u to 10.00000000.
+Initialise a long double variable named w to 66889.0037373723.
+Initialise a long double variable named x to 0.0.
+Initialise a long double variable named y to -1.14.
+Initialise a long double variable named z to -2.14159.
+Initialise a long double variable named temp to -100.0000000.
+Initialise a long double variable named temp1 to 3.14159265.
+Initialise a long double variable named temp2 to 4.14159265358.
+Initialise a long double variable named curr to 5.14159265358979.
+Initialise a long double variable named prev to 10.00000000.
+Initialise a long double called number to 66889.0037373723.
+Initialise a long double called num to 0.0.
+Initialise a long double called mydouble to -1.14.
+Initialise a long double called myDouble to -2.14159.
+Initialise a long double called a to -100.0000000.
+Initialise a long double called b to 3.14159265.
+Initialise a long double called c to 4.14159265358.
+Initialise a long double called d to 5.14159265358979.
+Initialise a long double called e to 10.00000000.
+Initialise a long double called h to 66889.0037373723.
+Initialise a long double called i to 0.0.
+Initialise a long double called j to -1.14.
+Initialise a long double called k to -2.14159.
+Initialise a long double called n to -100.0000000.
+Initialise a long double called s to 3.14159265.
+Initialise a long double called u to 4.14159265358.
+Initialise a long double called w to 5.14159265358979.
+Initialise a long double called x to 10.00000000.
+Initialise a long double called y to 66889.0037373723.
+Initialise a long double called z to 0.0.

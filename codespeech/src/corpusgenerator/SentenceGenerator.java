@@ -18,10 +18,13 @@ public class SentenceGenerator {
 
 	// for declaration/initialization statements
 	ArrayList<String> booleans = new ArrayList<String>();
+	ArrayList<String> boolVariables = new ArrayList<String>();
 	ArrayList<String> characters = new ArrayList<String>();
+	ArrayList<String> charVariables = new ArrayList<String>();
 	ArrayList<String> unsignedCharacters = new ArrayList<String>();
 	ArrayList<String> signedCharacters = new ArrayList<String>();
 	ArrayList<String> integers = new ArrayList<String>();
+	ArrayList<String> intVariables = new ArrayList<String>();
 	ArrayList<String> unsignedIntegers = new ArrayList<String>();
 	ArrayList<String> signedIntegers = new ArrayList<String>();
 	ArrayList<String> shortIntegers = new ArrayList<String>();
@@ -31,14 +34,19 @@ public class SentenceGenerator {
 	ArrayList<String> signedLongIntegers = new ArrayList<String>();
 	ArrayList<String> unsignedLongIntegers = new ArrayList<String>();
 	ArrayList<String> floats = new ArrayList<String>();
+	ArrayList<String> floatVariables = new ArrayList<String>();
 	ArrayList<String> doubles = new ArrayList<String>();
+	ArrayList<String> doubleVariables = new ArrayList<String>();
 	ArrayList<String> longDoubles = new ArrayList<String>();
 	ArrayList<String> strings = new ArrayList<String>();
+	ArrayList<String> stringVariables = new ArrayList<String>();
 	ArrayList<String> variables = new ArrayList<String>();
 	ArrayList<String> declareCommands = new ArrayList<String>();
 	ArrayList<String> dataTypes = new ArrayList<String>();
 
 	static final String SPACE = " ";
+	static final String INITIALISE = "Initialise";
+	static final String PERIOD = ".";
 
 	public ArrayList<String> loadWords(String fileName, ArrayList<String> list)
 			throws FileNotFoundException, IOException {
@@ -115,7 +123,8 @@ public class SentenceGenerator {
 	}
 	
 	public ArrayList<String> constructSomeDeclarationStatements() {
-		int noOfVar = 27;
+		//Number of variable names
+		int noOfVar = variables.size();
 		int index = 0;
 		String determiner;
 		// String declarationCommand;
@@ -165,6 +174,295 @@ public class SentenceGenerator {
 		return declarationStatements;
 	}
 
+	public ArrayList<String> constructBoolInit()
+	{
+		ArrayList<String> initStatements = new ArrayList<String>();
+		String initStatement;
+
+		//Number of variable names
+		int noOfVar = boolVariables.size();
+		int index = 0;
+		
+		for (int i = 0; i< 10 ; i++)
+		{
+			initStatement = INITIALISE + " a boolean variable called " + boolVariables.get(index % noOfVar) + " to " + booleans.get(index++ % 2) + PERIOD;
+			initStatements.add(initStatement);
+		}
+		
+		for (int i = 0; i< 10 ; i++)
+		{
+			initStatement = INITIALISE + " a boolean variable named " + boolVariables.get(index % noOfVar) + " to " + booleans.get(index++ % 2) + PERIOD;
+			initStatements.add(initStatement);
+		}
+		
+		for (int i = 0; i< 10 ; i++)
+		{
+			initStatement = INITIALISE + " a boolean " + boolVariables.get(index % noOfVar) + " as " + booleans.get(index++ % 2) + PERIOD;
+			initStatements.add(initStatement);
+		}	
+		
+		for (int i = 0; i< 10 ; i++)
+		{
+			initStatement = INITIALISE + " a boolean variable " + boolVariables.get(index % noOfVar) + " to " + booleans.get(index++ % 2) + PERIOD;
+			initStatements.add(initStatement);
+		}
+		
+		return initStatements;
+	}
+	
+	public ArrayList<String> constructCharInit()
+	{
+		ArrayList<String> initStatements = new ArrayList<String>();
+		String initStatement;
+
+		//Number of variable names
+		int noOfVar = charVariables.size();
+		int noOfValues = characters.size();
+		int index = 0;
+		
+		for (int i=0; i<20 ; i++)
+		{
+			initStatement = INITIALISE + " a character variable called " + charVariables.get(index % noOfVar) + " to " + characters.get(index++ % noOfValues) + PERIOD;
+			initStatements.add(initStatement);
+		}
+		
+		for (int i = 0; i<20 ; i++)
+		{
+			initStatement = INITIALISE + " a character variable named " + charVariables.get(index % noOfVar) + " to " + characters.get(index++ % noOfValues) + PERIOD;
+			initStatements.add(initStatement);
+		}
+		
+		for (int i = 0; i<20 ; i++)
+		{
+			initStatement = INITIALISE + " a character variable " + charVariables.get(index % noOfVar) + " as " + characters.get(index++ % noOfValues) + PERIOD;
+			initStatements.add(initStatement);
+		}
+		
+		for (int i = 0; i<20 ; i++)
+		{
+			initStatement = INITIALISE + " a character variable " + charVariables.get(index % noOfVar) + " to " + characters.get(index++ % noOfValues) + PERIOD;
+			initStatements.add(initStatement);
+		}
+		
+		return initStatements;
+	}
+	
+	//Constructs integers,long integer,short integer,signed integer,signed long integer,
+	//signed short integer, unsigned integer, unsigned long integer and unsigned short integer
+	public ArrayList<String> constructIntTypesInit(String dataType)
+	{
+		ArrayList<String> initStatements = new ArrayList<String>();
+		ArrayList<String> values = new ArrayList<String>();
+		String initStatement;
+		String determiner = "a";
+
+		//Number of variable names
+		int noOfVar = intVariables.size();
+		int index = 0;
+		
+		if (dataType.equals("integer"))
+		{
+			values = integers;
+			determiner = "an";
+		}
+		else if (dataType.equals("long integer"))
+		{
+			values = longIntegers;
+		}
+		else if (dataType.equals("short integer"))
+		{
+			values = shortIntegers;
+		}
+		else if (dataType.equals("signed integer"))
+		{
+			values = signedIntegers;
+		}
+		else if (dataType.equals("signed long integer"))
+		{
+			values = signedLongIntegers;
+		}
+		else if (dataType.equals("signed short integer"))
+		{
+			values = signedShortIntegers;
+		}
+		else if (dataType.equals("unsigned integer"))
+		{
+			values = unsignedIntegers;
+			determiner = "an";
+		}
+		else if (dataType.equals("unsigned long integer"))
+		{
+			values = unsignedLongIntegers;
+			determiner = "an";
+		}
+		else if (dataType.equals("unsigned short integer"))
+		{
+			values = unsignedShortIntegers;
+			determiner = "an";
+		}
+		
+		else if (dataType.equals("signed character"))
+		{
+			values = signedCharacters;
+		}
+		else
+		{
+			values = unsignedCharacters;
+			determiner = "an";
+		}
+		
+		int noOfVal = values.size();
+		
+		for (int i = 0; i <20 ; i++)
+		{
+			initStatement = INITIALISE + SPACE + determiner+ SPACE + dataType + SPACE + intVariables.get(index % noOfVar) + " to " + values.get(index++ % noOfVal) + PERIOD;
+			initStatements.add(initStatement);
+			
+		}
+		
+		for (int i = 0; i <20 ; i++)
+		{
+			initStatement = INITIALISE + SPACE + determiner + SPACE + dataType + " variable "  + intVariables.get(index % noOfVar) + " to " + values.get(index++ % noOfVal) + PERIOD;
+			initStatements.add(initStatement);
+		}
+		
+		for (int i = 0; i <20 ; i++)
+		{
+			initStatement = INITIALISE + SPACE + determiner + SPACE + dataType + " variable called " + intVariables.get(index % noOfVar) + " to " + values.get(index++ % noOfVal) + PERIOD;
+			initStatements.add(initStatement);
+		}
+		
+		for (int i = 0; i <20 ; i++)
+		{
+			initStatement = INITIALISE + SPACE + determiner + SPACE + dataType + " variable named " + intVariables.get(index % noOfVar) + " to " + values.get(index++ % noOfVal) + PERIOD;
+			initStatements.add(initStatement);
+		}
+		
+		for (int i = 0; i <20 ; i++)
+		{
+			initStatement = INITIALISE + SPACE + determiner + SPACE + dataType + " called " + intVariables.get(index % noOfVar) + " to " + values.get(index++ % noOfVal) + PERIOD;			
+			initStatements.add(initStatement);
+		}
+		return initStatements;
+	}
+	
+	public ArrayList<String> constructStringInit()
+	{
+		ArrayList<String> initStatements = new ArrayList<String>();
+		String initStatement;
+		int noOfVar = stringVariables.size();
+		int noOfVal = strings.size();
+		int index = 0;
+		
+		for (int i = 0; i<20 ; i++)
+		{
+			initStatement = INITIALISE + " a string " + stringVariables.get(index % noOfVar) + " to " + strings.get(index++ % noOfVal) + PERIOD;
+			initStatements.add(initStatement);
+			
+		}
+		
+		for (int i = 0; i<20 ; i++)
+		{
+			initStatement = INITIALISE + " a string variable " + stringVariables.get(index % noOfVar) + " to " + strings.get(index++ % noOfVal) + PERIOD;
+			initStatements.add(initStatement);
+			
+		}
+		
+		for (int i = 0; i<20 ; i++)
+		{
+			initStatement = INITIALISE + " a string variable called " + stringVariables.get(index % noOfVar) + " to " + strings.get(index++ % noOfVal) + PERIOD;
+			initStatements.add(initStatement);
+			
+		}
+		
+		for (int i = 0; i<20 ; i++)
+		{
+			initStatement = INITIALISE + " a string variable named " + stringVariables.get(index % noOfVar) + " to " + strings.get(index++ % noOfVal) + PERIOD;
+			initStatements.add(initStatement);
+			
+		}
+		
+		for (int i = 0; i<20 ; i++)
+		{
+			initStatement = INITIALISE + " a string called " + stringVariables.get(index % noOfVar) + " to " + strings.get(index++ % noOfVal) + PERIOD;
+			initStatements.add(initStatement);
+			
+		}
+		
+		for (int i = 0; i<20 ; i++)
+		{
+			initStatement = INITIALISE + " a string called " + stringVariables.get(index % noOfVar) + " to the string " + strings.get(index++ % noOfVal) + PERIOD;
+			initStatements.add(initStatement);
+			
+		}
+		
+		for (int i = 0; i<20 ; i++)
+		{
+			initStatement = INITIALISE + " a string " + stringVariables.get(index % noOfVar) + " as " + strings.get(index++ % noOfVal) + PERIOD;
+			initStatements.add(initStatement);
+			
+		}
+		
+		return initStatements;
+	}
+	
+	//Constructs float,double and long double. 
+	public ArrayList<String> constructFloatingPointInit(String dataType)
+	{
+		ArrayList<String> initStatements = new ArrayList<String>();
+		String initStatement;
+		ArrayList<String> variableNames = new ArrayList<String>();
+		ArrayList<String> values = new ArrayList<String>();
+		if (dataType.equals("float"))
+		{
+			variableNames = floatVariables;
+			values = floats;
+		}
+		else
+		{
+			variableNames = doubleVariables;
+			values = doubles;
+		}
+		
+		int noOfVar = variableNames.size();
+		int noOfVal = values.size();
+		int index = 0;
+		
+		for (int i=0 ; i<20 ; i ++)
+		{
+			initStatement = INITIALISE + " a " + dataType + SPACE + variableNames.get(index % noOfVar) + " to " + values.get(index++ % noOfVal) + PERIOD;
+			initStatements.add(initStatement);
+			
+		}
+		
+		for (int i=0 ; i<20 ; i ++)
+		{
+			initStatement = INITIALISE + " a " + dataType + " variable " + variableNames.get(index % noOfVar) + " to " + values.get(index++ % noOfVal) + PERIOD;
+			initStatements.add(initStatement);
+		}
+		
+		for (int i=0 ; i<20 ; i ++)
+		{
+			initStatement = INITIALISE + " a " + dataType  + " variable called " + variableNames.get(index % noOfVar) + " to " + values.get(index++ % noOfVal) + PERIOD;
+			initStatements.add(initStatement);
+		}
+		
+		for (int i=0 ; i<20 ; i ++)
+		{
+			initStatement = INITIALISE + " a " + dataType + " variable named " + variableNames.get(index % noOfVar) + " to " + values.get(index++ % noOfVal) + PERIOD;
+			initStatements.add(initStatement);
+		}
+		
+		for (int i=0 ; i<20 ; i ++)
+		{
+			initStatement = INITIALISE + " a " + dataType + " called " + variableNames.get(index % noOfVar) + " to " + values.get(index++ % noOfVal) + PERIOD;			
+			initStatements.add(initStatement);
+		}
+		
+		
+		return initStatements;
+	}
+	
 	public ArrayList<String> construct2SubjectIfStatements() {
 		ArrayList<String> subjects1 = new ArrayList<String>();
 		ArrayList<String> subjects2 = new ArrayList<String>();

@@ -1,0 +1,100 @@
+Initialise an unsigned long integer temp to 0.
+Initialise an unsigned long integer temp1 to 10000.
+Initialise an unsigned long integer temp2 to 10.
+Initialise an unsigned long integer curr to 1073741824.
+Initialise an unsigned long integer prev to 2147483648.
+Initialise an unsigned long integer number to 3221225471.
+Initialise an unsigned long integer num to 4294967295.
+Initialise an unsigned long integer myint to 0.
+Initialise an unsigned long integer myInt to 10000.
+Initialise an unsigned long integer a to 10.
+Initialise an unsigned long integer b to 1073741824.
+Initialise an unsigned long integer c to 2147483648.
+Initialise an unsigned long integer d to 3221225471.
+Initialise an unsigned long integer e to 4294967295.
+Initialise an unsigned long integer h to 0.
+Initialise an unsigned long integer i to 10000.
+Initialise an unsigned long integer j to 10.
+Initialise an unsigned long integer k to 1073741824.
+Initialise an unsigned long integer n to 2147483648.
+Initialise an unsigned long integer s to 3221225471.
+Initialise an unsigned long integer variable u to 4294967295.
+Initialise an unsigned long integer variable w to 0.
+Initialise an unsigned long integer variable x to 10000.
+Initialise an unsigned long integer variable y to 10.
+Initialise an unsigned long integer variable z to 1073741824.
+Initialise an unsigned long integer variable temp to 2147483648.
+Initialise an unsigned long integer variable temp1 to 3221225471.
+Initialise an unsigned long integer variable temp2 to 4294967295.
+Initialise an unsigned long integer variable curr to 0.
+Initialise an unsigned long integer variable prev to 10000.
+Initialise an unsigned long integer variable number to 10.
+Initialise an unsigned long integer variable num to 1073741824.
+Initialise an unsigned long integer variable myint to 2147483648.
+Initialise an unsigned long integer variable myInt to 3221225471.
+Initialise an unsigned long integer variable a to 4294967295.
+Initialise an unsigned long integer variable b to 0.
+Initialise an unsigned long integer variable c to 10000.
+Initialise an unsigned long integer variable d to 10.
+Initialise an unsigned long integer variable e to 1073741824.
+Initialise an unsigned long integer variable h to 2147483648.
+Initialise an unsigned long integer variable called i to 3221225471.
+Initialise an unsigned long integer variable called j to 4294967295.
+Initialise an unsigned long integer variable called k to 0.
+Initialise an unsigned long integer variable called n to 10000.
+Initialise an unsigned long integer variable called s to 10.
+Initialise an unsigned long integer variable called u to 1073741824.
+Initialise an unsigned long integer variable called w to 2147483648.
+Initialise an unsigned long integer variable called x to 3221225471.
+Initialise an unsigned long integer variable called y to 4294967295.
+Initialise an unsigned long integer variable called z to 0.
+Initialise an unsigned long integer variable called temp to 10000.
+Initialise an unsigned long integer variable called temp1 to 10.
+Initialise an unsigned long integer variable called temp2 to 1073741824.
+Initialise an unsigned long integer variable called curr to 2147483648.
+Initialise an unsigned long integer variable called prev to 3221225471.
+Initialise an unsigned long integer variable called number to 4294967295.
+Initialise an unsigned long integer variable called num to 0.
+Initialise an unsigned long integer variable called myint to 10000.
+Initialise an unsigned long integer variable called myInt to 10.
+Initialise an unsigned long integer variable called a to 1073741824.
+Initialise an unsigned long integer variable named b to 2147483648.
+Initialise an unsigned long integer variable named c to 3221225471.
+Initialise an unsigned long integer variable named d to 4294967295.
+Initialise an unsigned long integer variable named e to 0.
+Initialise an unsigned long integer variable named h to 10000.
+Initialise an unsigned long integer variable named i to 10.
+Initialise an unsigned long integer variable named j to 1073741824.
+Initialise an unsigned long integer variable named k to 2147483648.
+Initialise an unsigned long integer variable named n to 3221225471.
+Initialise an unsigned long integer variable named s to 4294967295.
+Initialise an unsigned long integer variable named u to 0.
+Initialise an unsigned long integer variable named w to 10000.
+Initialise an unsigned long integer variable named x to 10.
+Initialise an unsigned long integer variable named y to 1073741824.
+Initialise an unsigned long integer variable named z to 2147483648.
+Initialise an unsigned long integer variable named temp to 3221225471.
+Initialise an unsigned long integer variable named temp1 to 4294967295.
+Initialise an unsigned long integer variable named temp2 to 0.
+Initialise an unsigned long integer variable named curr to 10000.
+Initialise an unsigned long integer variable named prev to 10.
+Initialise an unsigned long integer called number to 1073741824.
+Initialise an unsigned long integer called num to 2147483648.
+Initialise an unsigned long integer called myint to 3221225471.
+Initialise an unsigned long integer called myInt to 4294967295.
+Initialise an unsigned long integer called a to 0.
+Initialise an unsigned long integer called b to 10000.
+Initialise an unsigned long integer called c to 10.
+Initialise an unsigned long integer called d to 1073741824.
+Initialise an unsigned long integer called e to 2147483648.
+Initialise an unsigned long integer called h to 3221225471.
+Initialise an unsigned long integer called i to 4294967295.
+Initialise an unsigned long integer called j to 0.
+Initialise an unsigned long integer called k to 10000.
+Initialise an unsigned long integer called n to 10.
+Initialise an unsigned long integer called s to 1073741824.
+Initialise an unsigned long integer called u to 2147483648.
+Initialise an unsigned long integer called w to 3221225471.
+Initialise an unsigned long integer called x to 4294967295.
+Initialise an unsigned long integer called y to 0.
+Initialise an unsigned long integer called z to 10000.
