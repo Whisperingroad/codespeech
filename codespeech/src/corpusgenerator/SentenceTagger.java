@@ -45,18 +45,20 @@ public class SentenceTagger {
 			formattedSent.add("5\t" + words.get(4) + "\t" + words.get(4) + "\t"
 					+ templateSent.get(4));
 			
-			// if statements with 2 nouns
-			if (i< 3570)
+			// if statements with noun and a number
+			if (subject.equals("10") || subject.equals("20") || subject.equals("30") ||
+					subject.equals("40") || subject.equals("50"))
 			{		
 
 				formattedSent.add("6\t" + subject + "\t" + subject + "\t"
-						+ templateSent.get(5));
+						+ templateSent.get(6));
 			}
-			// if statements with a noun and a number
+			// if statements with 2 nouns
 			else
 			{
+				
 				formattedSent.add("6\t" + subject + "\t" + subject + "\t"
-						+ templateSent.get(6));
+						+ templateSent.get(5));
 			}
 			formattedSent.add(templateSent.get(7));
 			formattedSent.add("\n");
@@ -81,7 +83,8 @@ public class SentenceTagger {
 			ArrayList<String> words = new ArrayList<String>(Arrays.asList(s.split(" ")));
 			for (int i = 0; i < words.size(); i++)
 			{
-				if (sentenceNumber <= 80 || (sentenceNumber >= 193 && sentenceNumber <= 208))
+				//Identify single word data type
+				if (sentenceNumber <= 2560 || (sentenceNumber >= 6145 && sentenceNumber <= 6656))
 				{
 					// Create/Declare a boolean temp
 					// Anomaly, dobj is variable name
@@ -102,12 +105,15 @@ public class SentenceTagger {
 							+ "4" + tab + "compound" + tab + "_" + tab + "_";
 						else if (i == 3)
 						{
-							object = words.get(i).substring(0,words.get(i).length()-1);
-							dependency = (i+1) + tab + object + tab + object + tab + "NOUN" + tab + "NN" + tab + "Number=SING" + tab
+//							object = words.get(i).substring(0,words.get(i).length()-1);
+//							dependency = (i+1) + tab + object + tab + object + tab + "NOUN" + tab + "NN" + tab + "Number=SING" + tab
+//									+ "1" + tab + "dobj" + tab + "_" + tab + "_";
+							dependency = (i+1) + tab + words.get(i) + tab + words.get(i) + tab + "NOUN" + tab + "NN" + tab + "Number=SING" + tab
 									+ "1" + tab + "dobj" + tab + "_" + tab + "_";
 						}
 
 					}
+					// Sentences with adjectives(named/called/as)
 					// Create/Declare a boolean named temp
 					// Create/Declare a boolean called temp
 					// Create/Declare a boolean as temp
@@ -136,11 +142,14 @@ public class SentenceTagger {
 							+ "3" + tab + "acl" + tab + "_" + tab + "_";
 						else if (i== 4)
 						{
-							object = words.get(i).substring(0,words.get(i).length()-1);
-							dependency = (i+1) + tab + object + tab + object + tab + "NOUN" + tab + "NN" + tab + "Number=SING" + tab
-									+ "4" + tab + "xcomp" + tab + "_" + tab + "_";
+//							object = words.get(i).substring(0,words.get(i).length()-1);
+//							dependency = (i+1) + tab + object + tab + object + tab + "NOUN" + tab + "NN" + tab + "Number=SING" + tab
+//									+ "4" + tab + "xcomp" + tab + "_" + tab + "_";
+							dependency = (i+1) + tab + words.get(i) + tab + words.get(i) + tab + "NOUN" + tab + "NN" + tab + "Number=SING" + tab
+							+ "4" + tab + "xcomp" + tab + "_" + tab + "_";
 						}
 					}
+					// Sentences with the word "variable" without adjectives   
 					// Create/Declare a boolean variable prev
 					// Anomaly, dobj is variable name
 					// wordcount = 5
@@ -162,12 +171,15 @@ public class SentenceTagger {
 							+ "5" + tab + "compound" + tab + "_" + tab + "_";
 						else if (i == 4)
 						{
-							object = words.get(i).substring(0,words.get(i).length()-1);
-							dependency = (i+1) + tab + object + tab + object + tab + "NOUN" + tab + "NN" + tab + "Number=SING" + tab
-									+ "1" + tab + "dobj" + tab + "_" + tab + "_";
+//							object = words.get(i).substring(0,words.get(i).length()-1);
+//							dependency = (i+1) + tab + object + tab + object + tab + "NOUN" + tab + "NN" + tab + "Number=SING" + tab
+//									+ "1" + tab + "dobj" + tab + "_" + tab + "_";
+							dependency = (i+1) + tab + words.get(i) + tab + words.get(i) + tab + "NOUN" + tab + "NN" + tab + "Number=SING" + tab
+							+ "1" + tab + "dobj" + tab + "_" + tab + "_";
 						}
 					}
-
+					
+					// Sentences with the word "variable" with adjectives 
 					// Create/Declare a boolean variable named temp
 					// Create/Declare a boolean variable called temp
 					// Create/Declare a boolean variable as temp
@@ -198,13 +210,17 @@ public class SentenceTagger {
 							+ "3" + tab + "acl" + tab + "_" + tab + "_";
 						else if (i== 5)
 						{
-							object = words.get(i).substring(0,words.get(i).length()-1);
-							dependency = (i+1) + tab + object + tab + object + tab + "NOUN" + tab + "NN" + tab + "Number=SING" + tab
-									+ "5" + tab + "xcomp" + tab + "_" + tab + "_";
+//							object = words.get(i).substring(0,words.get(i).length()-1);
+//							dependency = (i+1) + tab + object + tab + object + tab + "NOUN" + tab + "NN" + tab + "Number=SING" + tab
+//									+ "5" + tab + "xcomp" + tab + "_" + tab + "_";
+							dependency = (i+1) + tab + words.get(i) + tab + words.get(i) + tab + "NOUN" + tab + "NN" + tab + "Number=SING" + tab
+							+ "5" + tab + "xcomp" + tab + "_" + tab + "_";
 						}
 					}
 				}
-				else if (sentenceNumber <= 160 || (sentenceNumber >= 209 && sentenceNumber <= 240))
+				
+				//Double word data types
+				else if (sentenceNumber <= 5120 || (sentenceNumber >= 6657 && sentenceNumber <= 7680))
 				{
 					// Create/Declare a long double z
 					// wordcount = 5
@@ -228,12 +244,14 @@ public class SentenceTagger {
 							+ "5" + tab + "compound" + tab + "_" + tab + "_";
 						else if (i == 4)
 						{
-							object = words.get(i).substring(0,words.get(i).length()-1);
-							dependency = (i+1) + tab + object + tab + object + tab + "NOUN" + tab + "NN" + tab + "Number=SING" + tab
-									+ "1" + tab + "dobj" + tab + "_" + tab + "_";
+//							object = words.get(i).substring(0,words.get(i).length()-1);
+//							dependency = (i+1) + tab + object + tab + object + tab + "NOUN" + tab + "NN" + tab + "Number=SING" + tab
+//									+ "1" + tab + "dobj" + tab + "_" + tab + "_";
+							dependency = (i+1) + tab + words.get(i) + tab + words.get(i) + tab + "NOUN" + tab + "NN" + tab + "Number=SING" + tab
+							+ "1" + tab + "dobj" + tab + "_" + tab + "_";
 						}
 					}
-
+					// Sentences with adjectives(named,called,as)
 					// Create/Declare a long double named temp
 					// Create/Declare a long double called temp
 					// Create/Declare a long double as temp
@@ -266,11 +284,15 @@ public class SentenceTagger {
 							+ "3" + tab + "acl" + tab + "_" + tab + "_";
 						else if (i== 5)
 						{
-							object = words.get(i).substring(0,words.get(i).length()-1);
-							dependency = (i+1) + tab + object + tab + object + tab + "NOUN" + tab + "NN" + tab + "Number=SING" + tab
-									+ "5" + tab + "xcomp" + tab + "_" + tab + "_";
+//							object = words.get(i).substring(0,words.get(i).length()-1);
+//							dependency = (i+1) + tab + object + tab + object + tab + "NOUN" + tab + "NN" + tab + "Number=SING" + tab
+//									+ "5" + tab + "xcomp" + tab + "_" + tab + "_";
+							dependency = (i+1) + tab + words.get(i) + tab + words.get(i) + tab + "NOUN" + tab + "NN" + tab + "Number=SING" + tab
+							+ "5" + tab + "xcomp" + tab + "_" + tab + "_";
 						}
 					}
+					
+					// Sentences with the word "variable" without adjectives
 					// Create/Declare a long double variable curr
 					// wordcount = 6
 					else if (sentenceIndex == 5 || sentenceIndex == 13)
@@ -295,11 +317,15 @@ public class SentenceTagger {
 							+ "6" + tab + "compound" + tab + "_" + tab + "_";
 						else if (i == 5)
 						{
-							object = words.get(i).substring(0,words.get(i).length()-1);
-							dependency = (i+1) + tab + object + tab + object + tab + "NOUN" + tab + "NN" + tab + "Number=SING" + tab
-									+ "1" + tab + "dobj" + tab + "_" + tab + "_";
+//							object = words.get(i).substring(0,words.get(i).length()-1);
+//							dependency = (i+1) + tab + object + tab + object + tab + "NOUN" + tab + "NN" + tab + "Number=SING" + tab
+//									+ "1" + tab + "dobj" + tab + "_" + tab + "_";
+							dependency = (i+1) + tab + words.get(i) + tab + words.get(i) + tab + "NOUN" + tab + "NN" + tab + "Number=SING" + tab
+							+ "1" + tab + "dobj" + tab + "_" + tab + "_";
 						}
 					}
+					
+					// Sentences with the word "variable" with adjectives
 					// Create/Declare a long double variable named temp
 					// Create/Declare a long double variable called temp
 					// Create/Declare a long double variable as temp
@@ -335,13 +361,17 @@ public class SentenceTagger {
 							+ "3" + tab + "acl" + tab + "_" + tab + "_";
 						else if (i == 6)
 						{
-							object = words.get(i).substring(0,words.get(i).length()-1);
-							dependency = (i+1) + tab + object + tab + object + tab + "NOUN" + tab + "NN" + tab + "Number=SING" + tab
+//							object = words.get(i).substring(0,words.get(i).length()-1);
+//							dependency = (i+1) + tab + object + tab + object + tab + "NOUN" + tab + "NN" + tab + "Number=SING" + tab
+//									+ "6" + tab + "xcomp" + tab + "_" + tab + "_";
+							dependency = (i+1) + tab + words.get(i) + tab + words.get(i) + tab + "NOUN" + tab + "NN" + tab + "Number=SING" + tab
 									+ "6" + tab + "xcomp" + tab + "_" + tab + "_";
 						}
 					}
 				}
-				else if (sentenceNumber <= 192 || (sentenceNumber >= 241 && sentenceNumber <= 272))
+				
+				//Triple word data types
+				else if (sentenceNumber <= 6144 || (sentenceNumber >= 7681 && sentenceNumber <= 8704))
 				{
 					// Create/Declare a signed long integer y
 					// wordcount = 6
@@ -369,12 +399,15 @@ public class SentenceTagger {
 							+ "6" + tab + "compound" + tab + "_" + tab + "_";
 						else if (i == 5)
 						{
-							object = words.get(i).substring(0,words.get(i).length()-1);
-							dependency = (i+1) + tab + object + tab + object + tab + "NOUN" + tab + "NN" + tab + "Number=SING" + tab
+//							object = words.get(i).substring(0,words.get(i).length()-1);
+//							dependency = (i+1) + tab + object + tab + object + tab + "NOUN" + tab + "NN" + tab + "Number=SING" + tab
+//									+ "1" + tab + "dobj" + tab + "_" + tab + "_";
+							dependency = (i+1) + tab + words.get(i) + tab + words.get(i) + tab + "NOUN" + tab + "NN" + tab + "Number=SING" + tab
 									+ "1" + tab + "dobj" + tab + "_" + tab + "_";
 						}
 					}
-
+					
+					// Sentences with adjectives(named,called,as)
 					// Create/Declare a signed long integer named temp
 					// Create/Declare a signed long integer called temp
 					// Create/Declare a signed long integer as temp
@@ -411,11 +444,15 @@ public class SentenceTagger {
 							+ "3" + tab + "acl" + tab + "_" + tab + "_";
 						else if (i== 6)
 						{
-							object = words.get(i).substring(0,words.get(i).length()-1);
-							dependency = (i+1) + tab + object + tab + object + tab + "NOUN" + tab + "NN" + tab + "Number=SING" + tab
+//							object = words.get(i).substring(0,words.get(i).length()-1);
+//							dependency = (i+1) + tab + object + tab + object + tab + "NOUN" + tab + "NN" + tab + "Number=SING" + tab
+//									+ "6" + tab + "xcomp" + tab + "_" + tab + "_";
+							dependency = (i+1) + tab + words.get(i) + tab + words.get(i) + tab + "NOUN" + tab + "NN" + tab + "Number=SING" + tab
 									+ "6" + tab + "xcomp" + tab + "_" + tab + "_";
 						}
 					}
+					
+					//Sentences with the word "variable" without adjectives
 					// Create/Declare a signed long integer variable curr
 					// wordcount = 7
 					else if (sentenceIndex == 5 || sentenceIndex == 13)
@@ -444,11 +481,15 @@ public class SentenceTagger {
 							+ "7" + tab + "compound" + tab + "_" + tab + "_";						
 						else if (i == 6)
 						{
-							object = words.get(i).substring(0,words.get(i).length()-1);
-							dependency = (i+1) + tab + object + tab + object + tab + "NOUN" + tab + "NN" + tab + "Number=SING" + tab
+//							object = words.get(i).substring(0,words.get(i).length()-1);
+//							dependency = (i+1) + tab + object + tab + object + tab + "NOUN" + tab + "NN" + tab + "Number=SING" + tab
+//									+ "1" + tab + "dobj" + tab + "_" + tab + "_";
+							dependency = (i+1) + tab + words.get(i) + tab + words.get(i) + tab + "NOUN" + tab + "NN" + tab + "Number=SING" + tab
 									+ "1" + tab + "dobj" + tab + "_" + tab + "_";
 						}
 					}
+					
+					// Sentences with the word "variable" with adjectives
 					// Create/Declare a signed long integer variable named temp
 					// Create/Declare a signed long integer variable called temp
 					// Create/Declare a signed long integer variable as temp
@@ -488,8 +529,10 @@ public class SentenceTagger {
 							+ "3" + tab + "acl" + tab + "_" + tab + "_";
 						else if (i == 7)
 						{
-							object = words.get(i).substring(0,words.get(i).length()-1);
-							dependency = (i+1) + tab + object + tab + object + tab + "NOUN" + tab + "NN" + tab + "Number=SING" + tab
+//							object = words.get(i).substring(0,words.get(i).length()-1);
+//							dependency = (i+1) + tab + object + tab + object + tab + "NOUN" + tab + "NN" + tab + "Number=SING" + tab
+//									+ "7" + tab + "xcomp" + tab + "_" + tab + "_";
+							dependency = (i+1) + tab + words.get(i) + tab + words.get(i) + tab + "NOUN" + tab + "NN" + tab + "Number=SING" + tab
 									+ "7" + tab + "xcomp" + tab + "_" + tab + "_";
 						}
 					}

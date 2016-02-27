@@ -1,100 +1,1575 @@
 Initialise a float temp to 0.0.
-Initialise a float temp1 to -1.1.
-Initialise a float temp2 to -2.14.
-Initialise a float curr to -3.141.
-Initialise a float prev to 4.1415.
-Initialise a float number to 5.14159.
-Initialise a float num to 6.141592.
-Initialise a float myfloat to 10.0000.
-Initialise a float myFloat to 1588.098970.
-Initialise a float a to 0.0.
-Initialise a float b to -1.1.
-Initialise a float c to -2.14.
-Initialise a float d to -3.141.
-Initialise a float e to 4.1415.
-Initialise a float h to 5.14159.
-Initialise a float i to 6.141592.
-Initialise a float j to 10.0000.
-Initialise a float k to 1588.098970.
-Initialise a float n to 0.0.
-Initialise a float s to -1.1.
-Initialise a float variable u to -2.14.
-Initialise a float variable w to -3.141.
-Initialise a float variable x to 4.1415.
-Initialise a float variable y to 5.14159.
-Initialise a float variable z to 6.141592.
-Initialise a float variable temp to 10.0000.
-Initialise a float variable temp1 to 1588.098970.
-Initialise a float variable temp2 to 0.0.
-Initialise a float variable curr to -1.1.
-Initialise a float variable prev to -2.14.
-Initialise a float variable number to -3.141.
-Initialise a float variable num to 4.1415.
-Initialise a float variable myfloat to 5.14159.
-Initialise a float variable myFloat to 6.141592.
-Initialise a float variable a to 10.0000.
-Initialise a float variable b to 1588.098970.
-Initialise a float variable c to 0.0.
-Initialise a float variable d to -1.1.
-Initialise a float variable e to -2.14.
-Initialise a float variable h to -3.141.
-Initialise a float variable called i to 4.1415.
-Initialise a float variable called j to 5.14159.
-Initialise a float variable called k to 6.141592.
-Initialise a float variable called n to 10.0000.
-Initialise a float variable called s to 1588.098970.
-Initialise a float variable called u to 0.0.
-Initialise a float variable called w to -1.1.
-Initialise a float variable called x to -2.14.
-Initialise a float variable called y to -3.141.
-Initialise a float variable called z to 4.1415.
-Initialise a float variable called temp to 5.14159.
-Initialise a float variable called temp1 to 6.141592.
-Initialise a float variable called temp2 to 10.0000.
-Initialise a float variable called curr to 1588.098970.
-Initialise a float variable called prev to 0.0.
-Initialise a float variable called number to -1.1.
-Initialise a float variable called num to -2.14.
-Initialise a float variable called myfloat to -3.141.
-Initialise a float variable called myFloat to 4.1415.
-Initialise a float variable called a to 5.14159.
-Initialise a float variable named b to 6.141592.
-Initialise a float variable named c to 10.0000.
-Initialise a float variable named d to 1588.098970.
-Initialise a float variable named e to 0.0.
-Initialise a float variable named h to -1.1.
-Initialise a float variable named i to -2.14.
-Initialise a float variable named j to -3.141.
-Initialise a float variable named k to 4.1415.
-Initialise a float variable named n to 5.14159.
-Initialise a float variable named s to 6.141592.
-Initialise a float variable named u to 10.0000.
-Initialise a float variable named w to 1588.098970.
-Initialise a float variable named x to 0.0.
-Initialise a float variable named y to -1.1.
-Initialise a float variable named z to -2.14.
+Initialise a float variable temp to 0.0.
+Initialise a float variable called temp to 0.0.
+Initialise a float variable named temp to 0.0.
+Initialise a float called temp to 0.0.
+Initialise a float temp to -1.1.
+Initialise a float variable temp to -1.1.
+Initialise a float variable called temp to -1.1.
+Initialise a float variable named temp to -1.1.
+Initialise a float called temp to -1.1.
+Initialise a float temp to -2.14.
+Initialise a float variable temp to -2.14.
+Initialise a float variable called temp to -2.14.
+Initialise a float variable named temp to -2.14.
+Initialise a float called temp to -2.14.
+Initialise a float temp to -3.141.
+Initialise a float variable temp to -3.141.
+Initialise a float variable called temp to -3.141.
 Initialise a float variable named temp to -3.141.
+Initialise a float called temp to -3.141.
+Initialise a float temp to 4.1415.
+Initialise a float variable temp to 4.1415.
+Initialise a float variable called temp to 4.1415.
+Initialise a float variable named temp to 4.1415.
+Initialise a float called temp to 4.1415.
+Initialise a float temp to 5.14159.
+Initialise a float variable temp to 5.14159.
+Initialise a float variable called temp to 5.14159.
+Initialise a float variable named temp to 5.14159.
+Initialise a float called temp to 5.14159.
+Initialise a float temp to 6.141592.
+Initialise a float variable temp to 6.141592.
+Initialise a float variable called temp to 6.141592.
+Initialise a float variable named temp to 6.141592.
+Initialise a float called temp to 6.141592.
+Initialise a float temp to 10.0000.
+Initialise a float variable temp to 10.0000.
+Initialise a float variable called temp to 10.0000.
+Initialise a float variable named temp to 10.0000.
+Initialise a float called temp to 10.0000.
+Initialise a float temp to 1588.098970.
+Initialise a float variable temp to 1588.098970.
+Initialise a float variable called temp to 1588.098970.
+Initialise a float variable named temp to 1588.098970.
+Initialise a float called temp to 1588.098970.
+Initialise a float temp1 to 0.0.
+Initialise a float variable temp1 to 0.0.
+Initialise a float variable called temp1 to 0.0.
+Initialise a float variable named temp1 to 0.0.
+Initialise a float called temp1 to 0.0.
+Initialise a float temp1 to -1.1.
+Initialise a float variable temp1 to -1.1.
+Initialise a float variable called temp1 to -1.1.
+Initialise a float variable named temp1 to -1.1.
+Initialise a float called temp1 to -1.1.
+Initialise a float temp1 to -2.14.
+Initialise a float variable temp1 to -2.14.
+Initialise a float variable called temp1 to -2.14.
+Initialise a float variable named temp1 to -2.14.
+Initialise a float called temp1 to -2.14.
+Initialise a float temp1 to -3.141.
+Initialise a float variable temp1 to -3.141.
+Initialise a float variable called temp1 to -3.141.
+Initialise a float variable named temp1 to -3.141.
+Initialise a float called temp1 to -3.141.
+Initialise a float temp1 to 4.1415.
+Initialise a float variable temp1 to 4.1415.
+Initialise a float variable called temp1 to 4.1415.
 Initialise a float variable named temp1 to 4.1415.
+Initialise a float called temp1 to 4.1415.
+Initialise a float temp1 to 5.14159.
+Initialise a float variable temp1 to 5.14159.
+Initialise a float variable called temp1 to 5.14159.
+Initialise a float variable named temp1 to 5.14159.
+Initialise a float called temp1 to 5.14159.
+Initialise a float temp1 to 6.141592.
+Initialise a float variable temp1 to 6.141592.
+Initialise a float variable called temp1 to 6.141592.
+Initialise a float variable named temp1 to 6.141592.
+Initialise a float called temp1 to 6.141592.
+Initialise a float temp1 to 10.0000.
+Initialise a float variable temp1 to 10.0000.
+Initialise a float variable called temp1 to 10.0000.
+Initialise a float variable named temp1 to 10.0000.
+Initialise a float called temp1 to 10.0000.
+Initialise a float temp1 to 1588.098970.
+Initialise a float variable temp1 to 1588.098970.
+Initialise a float variable called temp1 to 1588.098970.
+Initialise a float variable named temp1 to 1588.098970.
+Initialise a float called temp1 to 1588.098970.
+Initialise a float temp2 to 0.0.
+Initialise a float variable temp2 to 0.0.
+Initialise a float variable called temp2 to 0.0.
+Initialise a float variable named temp2 to 0.0.
+Initialise a float called temp2 to 0.0.
+Initialise a float temp2 to -1.1.
+Initialise a float variable temp2 to -1.1.
+Initialise a float variable called temp2 to -1.1.
+Initialise a float variable named temp2 to -1.1.
+Initialise a float called temp2 to -1.1.
+Initialise a float temp2 to -2.14.
+Initialise a float variable temp2 to -2.14.
+Initialise a float variable called temp2 to -2.14.
+Initialise a float variable named temp2 to -2.14.
+Initialise a float called temp2 to -2.14.
+Initialise a float temp2 to -3.141.
+Initialise a float variable temp2 to -3.141.
+Initialise a float variable called temp2 to -3.141.
+Initialise a float variable named temp2 to -3.141.
+Initialise a float called temp2 to -3.141.
+Initialise a float temp2 to 4.1415.
+Initialise a float variable temp2 to 4.1415.
+Initialise a float variable called temp2 to 4.1415.
+Initialise a float variable named temp2 to 4.1415.
+Initialise a float called temp2 to 4.1415.
+Initialise a float temp2 to 5.14159.
+Initialise a float variable temp2 to 5.14159.
+Initialise a float variable called temp2 to 5.14159.
 Initialise a float variable named temp2 to 5.14159.
+Initialise a float called temp2 to 5.14159.
+Initialise a float temp2 to 6.141592.
+Initialise a float variable temp2 to 6.141592.
+Initialise a float variable called temp2 to 6.141592.
+Initialise a float variable named temp2 to 6.141592.
+Initialise a float called temp2 to 6.141592.
+Initialise a float temp2 to 10.0000.
+Initialise a float variable temp2 to 10.0000.
+Initialise a float variable called temp2 to 10.0000.
+Initialise a float variable named temp2 to 10.0000.
+Initialise a float called temp2 to 10.0000.
+Initialise a float temp2 to 1588.098970.
+Initialise a float variable temp2 to 1588.098970.
+Initialise a float variable called temp2 to 1588.098970.
+Initialise a float variable named temp2 to 1588.098970.
+Initialise a float called temp2 to 1588.098970.
+Initialise a float curr to 0.0.
+Initialise a float variable curr to 0.0.
+Initialise a float variable called curr to 0.0.
+Initialise a float variable named curr to 0.0.
+Initialise a float called curr to 0.0.
+Initialise a float curr to -1.1.
+Initialise a float variable curr to -1.1.
+Initialise a float variable called curr to -1.1.
+Initialise a float variable named curr to -1.1.
+Initialise a float called curr to -1.1.
+Initialise a float curr to -2.14.
+Initialise a float variable curr to -2.14.
+Initialise a float variable called curr to -2.14.
+Initialise a float variable named curr to -2.14.
+Initialise a float called curr to -2.14.
+Initialise a float curr to -3.141.
+Initialise a float variable curr to -3.141.
+Initialise a float variable called curr to -3.141.
+Initialise a float variable named curr to -3.141.
+Initialise a float called curr to -3.141.
+Initialise a float curr to 4.1415.
+Initialise a float variable curr to 4.1415.
+Initialise a float variable called curr to 4.1415.
+Initialise a float variable named curr to 4.1415.
+Initialise a float called curr to 4.1415.
+Initialise a float curr to 5.14159.
+Initialise a float variable curr to 5.14159.
+Initialise a float variable called curr to 5.14159.
+Initialise a float variable named curr to 5.14159.
+Initialise a float called curr to 5.14159.
+Initialise a float curr to 6.141592.
+Initialise a float variable curr to 6.141592.
+Initialise a float variable called curr to 6.141592.
 Initialise a float variable named curr to 6.141592.
+Initialise a float called curr to 6.141592.
+Initialise a float curr to 10.0000.
+Initialise a float variable curr to 10.0000.
+Initialise a float variable called curr to 10.0000.
+Initialise a float variable named curr to 10.0000.
+Initialise a float called curr to 10.0000.
+Initialise a float curr to 1588.098970.
+Initialise a float variable curr to 1588.098970.
+Initialise a float variable called curr to 1588.098970.
+Initialise a float variable named curr to 1588.098970.
+Initialise a float called curr to 1588.098970.
+Initialise a float prev to 0.0.
+Initialise a float variable prev to 0.0.
+Initialise a float variable called prev to 0.0.
+Initialise a float variable named prev to 0.0.
+Initialise a float called prev to 0.0.
+Initialise a float prev to -1.1.
+Initialise a float variable prev to -1.1.
+Initialise a float variable called prev to -1.1.
+Initialise a float variable named prev to -1.1.
+Initialise a float called prev to -1.1.
+Initialise a float prev to -2.14.
+Initialise a float variable prev to -2.14.
+Initialise a float variable called prev to -2.14.
+Initialise a float variable named prev to -2.14.
+Initialise a float called prev to -2.14.
+Initialise a float prev to -3.141.
+Initialise a float variable prev to -3.141.
+Initialise a float variable called prev to -3.141.
+Initialise a float variable named prev to -3.141.
+Initialise a float called prev to -3.141.
+Initialise a float prev to 4.1415.
+Initialise a float variable prev to 4.1415.
+Initialise a float variable called prev to 4.1415.
+Initialise a float variable named prev to 4.1415.
+Initialise a float called prev to 4.1415.
+Initialise a float prev to 5.14159.
+Initialise a float variable prev to 5.14159.
+Initialise a float variable called prev to 5.14159.
+Initialise a float variable named prev to 5.14159.
+Initialise a float called prev to 5.14159.
+Initialise a float prev to 6.141592.
+Initialise a float variable prev to 6.141592.
+Initialise a float variable called prev to 6.141592.
+Initialise a float variable named prev to 6.141592.
+Initialise a float called prev to 6.141592.
+Initialise a float prev to 10.0000.
+Initialise a float variable prev to 10.0000.
+Initialise a float variable called prev to 10.0000.
 Initialise a float variable named prev to 10.0000.
+Initialise a float called prev to 10.0000.
+Initialise a float prev to 1588.098970.
+Initialise a float variable prev to 1588.098970.
+Initialise a float variable called prev to 1588.098970.
+Initialise a float variable named prev to 1588.098970.
+Initialise a float called prev to 1588.098970.
+Initialise a float number to 0.0.
+Initialise a float variable number to 0.0.
+Initialise a float variable called number to 0.0.
+Initialise a float variable named number to 0.0.
+Initialise a float called number to 0.0.
+Initialise a float number to -1.1.
+Initialise a float variable number to -1.1.
+Initialise a float variable called number to -1.1.
+Initialise a float variable named number to -1.1.
+Initialise a float called number to -1.1.
+Initialise a float number to -2.14.
+Initialise a float variable number to -2.14.
+Initialise a float variable called number to -2.14.
+Initialise a float variable named number to -2.14.
+Initialise a float called number to -2.14.
+Initialise a float number to -3.141.
+Initialise a float variable number to -3.141.
+Initialise a float variable called number to -3.141.
+Initialise a float variable named number to -3.141.
+Initialise a float called number to -3.141.
+Initialise a float number to 4.1415.
+Initialise a float variable number to 4.1415.
+Initialise a float variable called number to 4.1415.
+Initialise a float variable named number to 4.1415.
+Initialise a float called number to 4.1415.
+Initialise a float number to 5.14159.
+Initialise a float variable number to 5.14159.
+Initialise a float variable called number to 5.14159.
+Initialise a float variable named number to 5.14159.
+Initialise a float called number to 5.14159.
+Initialise a float number to 6.141592.
+Initialise a float variable number to 6.141592.
+Initialise a float variable called number to 6.141592.
+Initialise a float variable named number to 6.141592.
+Initialise a float called number to 6.141592.
+Initialise a float number to 10.0000.
+Initialise a float variable number to 10.0000.
+Initialise a float variable called number to 10.0000.
+Initialise a float variable named number to 10.0000.
+Initialise a float called number to 10.0000.
+Initialise a float number to 1588.098970.
+Initialise a float variable number to 1588.098970.
+Initialise a float variable called number to 1588.098970.
+Initialise a float variable named number to 1588.098970.
 Initialise a float called number to 1588.098970.
+Initialise a float num to 0.0.
+Initialise a float variable num to 0.0.
+Initialise a float variable called num to 0.0.
+Initialise a float variable named num to 0.0.
 Initialise a float called num to 0.0.
+Initialise a float num to -1.1.
+Initialise a float variable num to -1.1.
+Initialise a float variable called num to -1.1.
+Initialise a float variable named num to -1.1.
+Initialise a float called num to -1.1.
+Initialise a float num to -2.14.
+Initialise a float variable num to -2.14.
+Initialise a float variable called num to -2.14.
+Initialise a float variable named num to -2.14.
+Initialise a float called num to -2.14.
+Initialise a float num to -3.141.
+Initialise a float variable num to -3.141.
+Initialise a float variable called num to -3.141.
+Initialise a float variable named num to -3.141.
+Initialise a float called num to -3.141.
+Initialise a float num to 4.1415.
+Initialise a float variable num to 4.1415.
+Initialise a float variable called num to 4.1415.
+Initialise a float variable named num to 4.1415.
+Initialise a float called num to 4.1415.
+Initialise a float num to 5.14159.
+Initialise a float variable num to 5.14159.
+Initialise a float variable called num to 5.14159.
+Initialise a float variable named num to 5.14159.
+Initialise a float called num to 5.14159.
+Initialise a float num to 6.141592.
+Initialise a float variable num to 6.141592.
+Initialise a float variable called num to 6.141592.
+Initialise a float variable named num to 6.141592.
+Initialise a float called num to 6.141592.
+Initialise a float num to 10.0000.
+Initialise a float variable num to 10.0000.
+Initialise a float variable called num to 10.0000.
+Initialise a float variable named num to 10.0000.
+Initialise a float called num to 10.0000.
+Initialise a float num to 1588.098970.
+Initialise a float variable num to 1588.098970.
+Initialise a float variable called num to 1588.098970.
+Initialise a float variable named num to 1588.098970.
+Initialise a float called num to 1588.098970.
+Initialise a float myfloat to 0.0.
+Initialise a float variable myfloat to 0.0.
+Initialise a float variable called myfloat to 0.0.
+Initialise a float variable named myfloat to 0.0.
+Initialise a float called myfloat to 0.0.
+Initialise a float myfloat to -1.1.
+Initialise a float variable myfloat to -1.1.
+Initialise a float variable called myfloat to -1.1.
+Initialise a float variable named myfloat to -1.1.
 Initialise a float called myfloat to -1.1.
+Initialise a float myfloat to -2.14.
+Initialise a float variable myfloat to -2.14.
+Initialise a float variable called myfloat to -2.14.
+Initialise a float variable named myfloat to -2.14.
+Initialise a float called myfloat to -2.14.
+Initialise a float myfloat to -3.141.
+Initialise a float variable myfloat to -3.141.
+Initialise a float variable called myfloat to -3.141.
+Initialise a float variable named myfloat to -3.141.
+Initialise a float called myfloat to -3.141.
+Initialise a float myfloat to 4.1415.
+Initialise a float variable myfloat to 4.1415.
+Initialise a float variable called myfloat to 4.1415.
+Initialise a float variable named myfloat to 4.1415.
+Initialise a float called myfloat to 4.1415.
+Initialise a float myfloat to 5.14159.
+Initialise a float variable myfloat to 5.14159.
+Initialise a float variable called myfloat to 5.14159.
+Initialise a float variable named myfloat to 5.14159.
+Initialise a float called myfloat to 5.14159.
+Initialise a float myfloat to 6.141592.
+Initialise a float variable myfloat to 6.141592.
+Initialise a float variable called myfloat to 6.141592.
+Initialise a float variable named myfloat to 6.141592.
+Initialise a float called myfloat to 6.141592.
+Initialise a float myfloat to 10.0000.
+Initialise a float variable myfloat to 10.0000.
+Initialise a float variable called myfloat to 10.0000.
+Initialise a float variable named myfloat to 10.0000.
+Initialise a float called myfloat to 10.0000.
+Initialise a float myfloat to 1588.098970.
+Initialise a float variable myfloat to 1588.098970.
+Initialise a float variable called myfloat to 1588.098970.
+Initialise a float variable named myfloat to 1588.098970.
+Initialise a float called myfloat to 1588.098970.
+Initialise a float myFloat to 0.0.
+Initialise a float variable myFloat to 0.0.
+Initialise a float variable called myFloat to 0.0.
+Initialise a float variable named myFloat to 0.0.
+Initialise a float called myFloat to 0.0.
+Initialise a float myFloat to -1.1.
+Initialise a float variable myFloat to -1.1.
+Initialise a float variable called myFloat to -1.1.
+Initialise a float variable named myFloat to -1.1.
+Initialise a float called myFloat to -1.1.
+Initialise a float myFloat to -2.14.
+Initialise a float variable myFloat to -2.14.
+Initialise a float variable called myFloat to -2.14.
+Initialise a float variable named myFloat to -2.14.
 Initialise a float called myFloat to -2.14.
+Initialise a float myFloat to -3.141.
+Initialise a float variable myFloat to -3.141.
+Initialise a float variable called myFloat to -3.141.
+Initialise a float variable named myFloat to -3.141.
+Initialise a float called myFloat to -3.141.
+Initialise a float myFloat to 4.1415.
+Initialise a float variable myFloat to 4.1415.
+Initialise a float variable called myFloat to 4.1415.
+Initialise a float variable named myFloat to 4.1415.
+Initialise a float called myFloat to 4.1415.
+Initialise a float myFloat to 5.14159.
+Initialise a float variable myFloat to 5.14159.
+Initialise a float variable called myFloat to 5.14159.
+Initialise a float variable named myFloat to 5.14159.
+Initialise a float called myFloat to 5.14159.
+Initialise a float myFloat to 6.141592.
+Initialise a float variable myFloat to 6.141592.
+Initialise a float variable called myFloat to 6.141592.
+Initialise a float variable named myFloat to 6.141592.
+Initialise a float called myFloat to 6.141592.
+Initialise a float myFloat to 10.0000.
+Initialise a float variable myFloat to 10.0000.
+Initialise a float variable called myFloat to 10.0000.
+Initialise a float variable named myFloat to 10.0000.
+Initialise a float called myFloat to 10.0000.
+Initialise a float myFloat to 1588.098970.
+Initialise a float variable myFloat to 1588.098970.
+Initialise a float variable called myFloat to 1588.098970.
+Initialise a float variable named myFloat to 1588.098970.
+Initialise a float called myFloat to 1588.098970.
+Initialise a float a to 0.0.
+Initialise a float variable a to 0.0.
+Initialise a float variable called a to 0.0.
+Initialise a float variable named a to 0.0.
+Initialise a float called a to 0.0.
+Initialise a float a to -1.1.
+Initialise a float variable a to -1.1.
+Initialise a float variable called a to -1.1.
+Initialise a float variable named a to -1.1.
+Initialise a float called a to -1.1.
+Initialise a float a to -2.14.
+Initialise a float variable a to -2.14.
+Initialise a float variable called a to -2.14.
+Initialise a float variable named a to -2.14.
+Initialise a float called a to -2.14.
+Initialise a float a to -3.141.
+Initialise a float variable a to -3.141.
+Initialise a float variable called a to -3.141.
+Initialise a float variable named a to -3.141.
 Initialise a float called a to -3.141.
+Initialise a float a to 4.1415.
+Initialise a float variable a to 4.1415.
+Initialise a float variable called a to 4.1415.
+Initialise a float variable named a to 4.1415.
+Initialise a float called a to 4.1415.
+Initialise a float a to 5.14159.
+Initialise a float variable a to 5.14159.
+Initialise a float variable called a to 5.14159.
+Initialise a float variable named a to 5.14159.
+Initialise a float called a to 5.14159.
+Initialise a float a to 6.141592.
+Initialise a float variable a to 6.141592.
+Initialise a float variable called a to 6.141592.
+Initialise a float variable named a to 6.141592.
+Initialise a float called a to 6.141592.
+Initialise a float a to 10.0000.
+Initialise a float variable a to 10.0000.
+Initialise a float variable called a to 10.0000.
+Initialise a float variable named a to 10.0000.
+Initialise a float called a to 10.0000.
+Initialise a float a to 1588.098970.
+Initialise a float variable a to 1588.098970.
+Initialise a float variable called a to 1588.098970.
+Initialise a float variable named a to 1588.098970.
+Initialise a float called a to 1588.098970.
+Initialise a float b to 0.0.
+Initialise a float variable b to 0.0.
+Initialise a float variable called b to 0.0.
+Initialise a float variable named b to 0.0.
+Initialise a float called b to 0.0.
+Initialise a float b to -1.1.
+Initialise a float variable b to -1.1.
+Initialise a float variable called b to -1.1.
+Initialise a float variable named b to -1.1.
+Initialise a float called b to -1.1.
+Initialise a float b to -2.14.
+Initialise a float variable b to -2.14.
+Initialise a float variable called b to -2.14.
+Initialise a float variable named b to -2.14.
+Initialise a float called b to -2.14.
+Initialise a float b to -3.141.
+Initialise a float variable b to -3.141.
+Initialise a float variable called b to -3.141.
+Initialise a float variable named b to -3.141.
+Initialise a float called b to -3.141.
+Initialise a float b to 4.1415.
+Initialise a float variable b to 4.1415.
+Initialise a float variable called b to 4.1415.
+Initialise a float variable named b to 4.1415.
 Initialise a float called b to 4.1415.
+Initialise a float b to 5.14159.
+Initialise a float variable b to 5.14159.
+Initialise a float variable called b to 5.14159.
+Initialise a float variable named b to 5.14159.
+Initialise a float called b to 5.14159.
+Initialise a float b to 6.141592.
+Initialise a float variable b to 6.141592.
+Initialise a float variable called b to 6.141592.
+Initialise a float variable named b to 6.141592.
+Initialise a float called b to 6.141592.
+Initialise a float b to 10.0000.
+Initialise a float variable b to 10.0000.
+Initialise a float variable called b to 10.0000.
+Initialise a float variable named b to 10.0000.
+Initialise a float called b to 10.0000.
+Initialise a float b to 1588.098970.
+Initialise a float variable b to 1588.098970.
+Initialise a float variable called b to 1588.098970.
+Initialise a float variable named b to 1588.098970.
+Initialise a float called b to 1588.098970.
+Initialise a float c to 0.0.
+Initialise a float variable c to 0.0.
+Initialise a float variable called c to 0.0.
+Initialise a float variable named c to 0.0.
+Initialise a float called c to 0.0.
+Initialise a float c to -1.1.
+Initialise a float variable c to -1.1.
+Initialise a float variable called c to -1.1.
+Initialise a float variable named c to -1.1.
+Initialise a float called c to -1.1.
+Initialise a float c to -2.14.
+Initialise a float variable c to -2.14.
+Initialise a float variable called c to -2.14.
+Initialise a float variable named c to -2.14.
+Initialise a float called c to -2.14.
+Initialise a float c to -3.141.
+Initialise a float variable c to -3.141.
+Initialise a float variable called c to -3.141.
+Initialise a float variable named c to -3.141.
+Initialise a float called c to -3.141.
+Initialise a float c to 4.1415.
+Initialise a float variable c to 4.1415.
+Initialise a float variable called c to 4.1415.
+Initialise a float variable named c to 4.1415.
+Initialise a float called c to 4.1415.
+Initialise a float c to 5.14159.
+Initialise a float variable c to 5.14159.
+Initialise a float variable called c to 5.14159.
+Initialise a float variable named c to 5.14159.
 Initialise a float called c to 5.14159.
+Initialise a float c to 6.141592.
+Initialise a float variable c to 6.141592.
+Initialise a float variable called c to 6.141592.
+Initialise a float variable named c to 6.141592.
+Initialise a float called c to 6.141592.
+Initialise a float c to 10.0000.
+Initialise a float variable c to 10.0000.
+Initialise a float variable called c to 10.0000.
+Initialise a float variable named c to 10.0000.
+Initialise a float called c to 10.0000.
+Initialise a float c to 1588.098970.
+Initialise a float variable c to 1588.098970.
+Initialise a float variable called c to 1588.098970.
+Initialise a float variable named c to 1588.098970.
+Initialise a float called c to 1588.098970.
+Initialise a float d to 0.0.
+Initialise a float variable d to 0.0.
+Initialise a float variable called d to 0.0.
+Initialise a float variable named d to 0.0.
+Initialise a float called d to 0.0.
+Initialise a float d to -1.1.
+Initialise a float variable d to -1.1.
+Initialise a float variable called d to -1.1.
+Initialise a float variable named d to -1.1.
+Initialise a float called d to -1.1.
+Initialise a float d to -2.14.
+Initialise a float variable d to -2.14.
+Initialise a float variable called d to -2.14.
+Initialise a float variable named d to -2.14.
+Initialise a float called d to -2.14.
+Initialise a float d to -3.141.
+Initialise a float variable d to -3.141.
+Initialise a float variable called d to -3.141.
+Initialise a float variable named d to -3.141.
+Initialise a float called d to -3.141.
+Initialise a float d to 4.1415.
+Initialise a float variable d to 4.1415.
+Initialise a float variable called d to 4.1415.
+Initialise a float variable named d to 4.1415.
+Initialise a float called d to 4.1415.
+Initialise a float d to 5.14159.
+Initialise a float variable d to 5.14159.
+Initialise a float variable called d to 5.14159.
+Initialise a float variable named d to 5.14159.
+Initialise a float called d to 5.14159.
+Initialise a float d to 6.141592.
+Initialise a float variable d to 6.141592.
+Initialise a float variable called d to 6.141592.
+Initialise a float variable named d to 6.141592.
 Initialise a float called d to 6.141592.
+Initialise a float d to 10.0000.
+Initialise a float variable d to 10.0000.
+Initialise a float variable called d to 10.0000.
+Initialise a float variable named d to 10.0000.
+Initialise a float called d to 10.0000.
+Initialise a float d to 1588.098970.
+Initialise a float variable d to 1588.098970.
+Initialise a float variable called d to 1588.098970.
+Initialise a float variable named d to 1588.098970.
+Initialise a float called d to 1588.098970.
+Initialise a float e to 0.0.
+Initialise a float variable e to 0.0.
+Initialise a float variable called e to 0.0.
+Initialise a float variable named e to 0.0.
+Initialise a float called e to 0.0.
+Initialise a float e to -1.1.
+Initialise a float variable e to -1.1.
+Initialise a float variable called e to -1.1.
+Initialise a float variable named e to -1.1.
+Initialise a float called e to -1.1.
+Initialise a float e to -2.14.
+Initialise a float variable e to -2.14.
+Initialise a float variable called e to -2.14.
+Initialise a float variable named e to -2.14.
+Initialise a float called e to -2.14.
+Initialise a float e to -3.141.
+Initialise a float variable e to -3.141.
+Initialise a float variable called e to -3.141.
+Initialise a float variable named e to -3.141.
+Initialise a float called e to -3.141.
+Initialise a float e to 4.1415.
+Initialise a float variable e to 4.1415.
+Initialise a float variable called e to 4.1415.
+Initialise a float variable named e to 4.1415.
+Initialise a float called e to 4.1415.
+Initialise a float e to 5.14159.
+Initialise a float variable e to 5.14159.
+Initialise a float variable called e to 5.14159.
+Initialise a float variable named e to 5.14159.
+Initialise a float called e to 5.14159.
+Initialise a float e to 6.141592.
+Initialise a float variable e to 6.141592.
+Initialise a float variable called e to 6.141592.
+Initialise a float variable named e to 6.141592.
+Initialise a float called e to 6.141592.
+Initialise a float e to 10.0000.
+Initialise a float variable e to 10.0000.
+Initialise a float variable called e to 10.0000.
+Initialise a float variable named e to 10.0000.
 Initialise a float called e to 10.0000.
+Initialise a float e to 1588.098970.
+Initialise a float variable e to 1588.098970.
+Initialise a float variable called e to 1588.098970.
+Initialise a float variable named e to 1588.098970.
+Initialise a float called e to 1588.098970.
+Initialise a float f to 0.0.
+Initialise a float variable f to 0.0.
+Initialise a float variable called f to 0.0.
+Initialise a float variable named f to 0.0.
+Initialise a float called f to 0.0.
+Initialise a float f to -1.1.
+Initialise a float variable f to -1.1.
+Initialise a float variable called f to -1.1.
+Initialise a float variable named f to -1.1.
+Initialise a float called f to -1.1.
+Initialise a float f to -2.14.
+Initialise a float variable f to -2.14.
+Initialise a float variable called f to -2.14.
+Initialise a float variable named f to -2.14.
+Initialise a float called f to -2.14.
+Initialise a float f to -3.141.
+Initialise a float variable f to -3.141.
+Initialise a float variable called f to -3.141.
+Initialise a float variable named f to -3.141.
+Initialise a float called f to -3.141.
+Initialise a float f to 4.1415.
+Initialise a float variable f to 4.1415.
+Initialise a float variable called f to 4.1415.
+Initialise a float variable named f to 4.1415.
+Initialise a float called f to 4.1415.
+Initialise a float f to 5.14159.
+Initialise a float variable f to 5.14159.
+Initialise a float variable called f to 5.14159.
+Initialise a float variable named f to 5.14159.
+Initialise a float called f to 5.14159.
+Initialise a float f to 6.141592.
+Initialise a float variable f to 6.141592.
+Initialise a float variable called f to 6.141592.
+Initialise a float variable named f to 6.141592.
+Initialise a float called f to 6.141592.
+Initialise a float f to 10.0000.
+Initialise a float variable f to 10.0000.
+Initialise a float variable called f to 10.0000.
+Initialise a float variable named f to 10.0000.
+Initialise a float called f to 10.0000.
+Initialise a float f to 1588.098970.
+Initialise a float variable f to 1588.098970.
+Initialise a float variable called f to 1588.098970.
+Initialise a float variable named f to 1588.098970.
+Initialise a float called f to 1588.098970.
+Initialise a float g to 0.0.
+Initialise a float variable g to 0.0.
+Initialise a float variable called g to 0.0.
+Initialise a float variable named g to 0.0.
+Initialise a float called g to 0.0.
+Initialise a float g to -1.1.
+Initialise a float variable g to -1.1.
+Initialise a float variable called g to -1.1.
+Initialise a float variable named g to -1.1.
+Initialise a float called g to -1.1.
+Initialise a float g to -2.14.
+Initialise a float variable g to -2.14.
+Initialise a float variable called g to -2.14.
+Initialise a float variable named g to -2.14.
+Initialise a float called g to -2.14.
+Initialise a float g to -3.141.
+Initialise a float variable g to -3.141.
+Initialise a float variable called g to -3.141.
+Initialise a float variable named g to -3.141.
+Initialise a float called g to -3.141.
+Initialise a float g to 4.1415.
+Initialise a float variable g to 4.1415.
+Initialise a float variable called g to 4.1415.
+Initialise a float variable named g to 4.1415.
+Initialise a float called g to 4.1415.
+Initialise a float g to 5.14159.
+Initialise a float variable g to 5.14159.
+Initialise a float variable called g to 5.14159.
+Initialise a float variable named g to 5.14159.
+Initialise a float called g to 5.14159.
+Initialise a float g to 6.141592.
+Initialise a float variable g to 6.141592.
+Initialise a float variable called g to 6.141592.
+Initialise a float variable named g to 6.141592.
+Initialise a float called g to 6.141592.
+Initialise a float g to 10.0000.
+Initialise a float variable g to 10.0000.
+Initialise a float variable called g to 10.0000.
+Initialise a float variable named g to 10.0000.
+Initialise a float called g to 10.0000.
+Initialise a float g to 1588.098970.
+Initialise a float variable g to 1588.098970.
+Initialise a float variable called g to 1588.098970.
+Initialise a float variable named g to 1588.098970.
+Initialise a float called g to 1588.098970.
+Initialise a float h to 0.0.
+Initialise a float variable h to 0.0.
+Initialise a float variable called h to 0.0.
+Initialise a float variable named h to 0.0.
+Initialise a float called h to 0.0.
+Initialise a float h to -1.1.
+Initialise a float variable h to -1.1.
+Initialise a float variable called h to -1.1.
+Initialise a float variable named h to -1.1.
+Initialise a float called h to -1.1.
+Initialise a float h to -2.14.
+Initialise a float variable h to -2.14.
+Initialise a float variable called h to -2.14.
+Initialise a float variable named h to -2.14.
+Initialise a float called h to -2.14.
+Initialise a float h to -3.141.
+Initialise a float variable h to -3.141.
+Initialise a float variable called h to -3.141.
+Initialise a float variable named h to -3.141.
+Initialise a float called h to -3.141.
+Initialise a float h to 4.1415.
+Initialise a float variable h to 4.1415.
+Initialise a float variable called h to 4.1415.
+Initialise a float variable named h to 4.1415.
+Initialise a float called h to 4.1415.
+Initialise a float h to 5.14159.
+Initialise a float variable h to 5.14159.
+Initialise a float variable called h to 5.14159.
+Initialise a float variable named h to 5.14159.
+Initialise a float called h to 5.14159.
+Initialise a float h to 6.141592.
+Initialise a float variable h to 6.141592.
+Initialise a float variable called h to 6.141592.
+Initialise a float variable named h to 6.141592.
+Initialise a float called h to 6.141592.
+Initialise a float h to 10.0000.
+Initialise a float variable h to 10.0000.
+Initialise a float variable called h to 10.0000.
+Initialise a float variable named h to 10.0000.
+Initialise a float called h to 10.0000.
+Initialise a float h to 1588.098970.
+Initialise a float variable h to 1588.098970.
+Initialise a float variable called h to 1588.098970.
+Initialise a float variable named h to 1588.098970.
 Initialise a float called h to 1588.098970.
+Initialise a float i to 0.0.
+Initialise a float variable i to 0.0.
+Initialise a float variable called i to 0.0.
+Initialise a float variable named i to 0.0.
 Initialise a float called i to 0.0.
+Initialise a float i to -1.1.
+Initialise a float variable i to -1.1.
+Initialise a float variable called i to -1.1.
+Initialise a float variable named i to -1.1.
+Initialise a float called i to -1.1.
+Initialise a float i to -2.14.
+Initialise a float variable i to -2.14.
+Initialise a float variable called i to -2.14.
+Initialise a float variable named i to -2.14.
+Initialise a float called i to -2.14.
+Initialise a float i to -3.141.
+Initialise a float variable i to -3.141.
+Initialise a float variable called i to -3.141.
+Initialise a float variable named i to -3.141.
+Initialise a float called i to -3.141.
+Initialise a float i to 4.1415.
+Initialise a float variable i to 4.1415.
+Initialise a float variable called i to 4.1415.
+Initialise a float variable named i to 4.1415.
+Initialise a float called i to 4.1415.
+Initialise a float i to 5.14159.
+Initialise a float variable i to 5.14159.
+Initialise a float variable called i to 5.14159.
+Initialise a float variable named i to 5.14159.
+Initialise a float called i to 5.14159.
+Initialise a float i to 6.141592.
+Initialise a float variable i to 6.141592.
+Initialise a float variable called i to 6.141592.
+Initialise a float variable named i to 6.141592.
+Initialise a float called i to 6.141592.
+Initialise a float i to 10.0000.
+Initialise a float variable i to 10.0000.
+Initialise a float variable called i to 10.0000.
+Initialise a float variable named i to 10.0000.
+Initialise a float called i to 10.0000.
+Initialise a float i to 1588.098970.
+Initialise a float variable i to 1588.098970.
+Initialise a float variable called i to 1588.098970.
+Initialise a float variable named i to 1588.098970.
+Initialise a float called i to 1588.098970.
+Initialise a float j to 0.0.
+Initialise a float variable j to 0.0.
+Initialise a float variable called j to 0.0.
+Initialise a float variable named j to 0.0.
+Initialise a float called j to 0.0.
+Initialise a float j to -1.1.
+Initialise a float variable j to -1.1.
+Initialise a float variable called j to -1.1.
+Initialise a float variable named j to -1.1.
 Initialise a float called j to -1.1.
+Initialise a float j to -2.14.
+Initialise a float variable j to -2.14.
+Initialise a float variable called j to -2.14.
+Initialise a float variable named j to -2.14.
+Initialise a float called j to -2.14.
+Initialise a float j to -3.141.
+Initialise a float variable j to -3.141.
+Initialise a float variable called j to -3.141.
+Initialise a float variable named j to -3.141.
+Initialise a float called j to -3.141.
+Initialise a float j to 4.1415.
+Initialise a float variable j to 4.1415.
+Initialise a float variable called j to 4.1415.
+Initialise a float variable named j to 4.1415.
+Initialise a float called j to 4.1415.
+Initialise a float j to 5.14159.
+Initialise a float variable j to 5.14159.
+Initialise a float variable called j to 5.14159.
+Initialise a float variable named j to 5.14159.
+Initialise a float called j to 5.14159.
+Initialise a float j to 6.141592.
+Initialise a float variable j to 6.141592.
+Initialise a float variable called j to 6.141592.
+Initialise a float variable named j to 6.141592.
+Initialise a float called j to 6.141592.
+Initialise a float j to 10.0000.
+Initialise a float variable j to 10.0000.
+Initialise a float variable called j to 10.0000.
+Initialise a float variable named j to 10.0000.
+Initialise a float called j to 10.0000.
+Initialise a float j to 1588.098970.
+Initialise a float variable j to 1588.098970.
+Initialise a float variable called j to 1588.098970.
+Initialise a float variable named j to 1588.098970.
+Initialise a float called j to 1588.098970.
+Initialise a float k to 0.0.
+Initialise a float variable k to 0.0.
+Initialise a float variable called k to 0.0.
+Initialise a float variable named k to 0.0.
+Initialise a float called k to 0.0.
+Initialise a float k to -1.1.
+Initialise a float variable k to -1.1.
+Initialise a float variable called k to -1.1.
+Initialise a float variable named k to -1.1.
+Initialise a float called k to -1.1.
+Initialise a float k to -2.14.
+Initialise a float variable k to -2.14.
+Initialise a float variable called k to -2.14.
+Initialise a float variable named k to -2.14.
 Initialise a float called k to -2.14.
+Initialise a float k to -3.141.
+Initialise a float variable k to -3.141.
+Initialise a float variable called k to -3.141.
+Initialise a float variable named k to -3.141.
+Initialise a float called k to -3.141.
+Initialise a float k to 4.1415.
+Initialise a float variable k to 4.1415.
+Initialise a float variable called k to 4.1415.
+Initialise a float variable named k to 4.1415.
+Initialise a float called k to 4.1415.
+Initialise a float k to 5.14159.
+Initialise a float variable k to 5.14159.
+Initialise a float variable called k to 5.14159.
+Initialise a float variable named k to 5.14159.
+Initialise a float called k to 5.14159.
+Initialise a float k to 6.141592.
+Initialise a float variable k to 6.141592.
+Initialise a float variable called k to 6.141592.
+Initialise a float variable named k to 6.141592.
+Initialise a float called k to 6.141592.
+Initialise a float k to 10.0000.
+Initialise a float variable k to 10.0000.
+Initialise a float variable called k to 10.0000.
+Initialise a float variable named k to 10.0000.
+Initialise a float called k to 10.0000.
+Initialise a float k to 1588.098970.
+Initialise a float variable k to 1588.098970.
+Initialise a float variable called k to 1588.098970.
+Initialise a float variable named k to 1588.098970.
+Initialise a float called k to 1588.098970.
+Initialise a float l to 0.0.
+Initialise a float variable l to 0.0.
+Initialise a float variable called l to 0.0.
+Initialise a float variable named l to 0.0.
+Initialise a float called l to 0.0.
+Initialise a float l to -1.1.
+Initialise a float variable l to -1.1.
+Initialise a float variable called l to -1.1.
+Initialise a float variable named l to -1.1.
+Initialise a float called l to -1.1.
+Initialise a float l to -2.14.
+Initialise a float variable l to -2.14.
+Initialise a float variable called l to -2.14.
+Initialise a float variable named l to -2.14.
+Initialise a float called l to -2.14.
+Initialise a float l to -3.141.
+Initialise a float variable l to -3.141.
+Initialise a float variable called l to -3.141.
+Initialise a float variable named l to -3.141.
+Initialise a float called l to -3.141.
+Initialise a float l to 4.1415.
+Initialise a float variable l to 4.1415.
+Initialise a float variable called l to 4.1415.
+Initialise a float variable named l to 4.1415.
+Initialise a float called l to 4.1415.
+Initialise a float l to 5.14159.
+Initialise a float variable l to 5.14159.
+Initialise a float variable called l to 5.14159.
+Initialise a float variable named l to 5.14159.
+Initialise a float called l to 5.14159.
+Initialise a float l to 6.141592.
+Initialise a float variable l to 6.141592.
+Initialise a float variable called l to 6.141592.
+Initialise a float variable named l to 6.141592.
+Initialise a float called l to 6.141592.
+Initialise a float l to 10.0000.
+Initialise a float variable l to 10.0000.
+Initialise a float variable called l to 10.0000.
+Initialise a float variable named l to 10.0000.
+Initialise a float called l to 10.0000.
+Initialise a float l to 1588.098970.
+Initialise a float variable l to 1588.098970.
+Initialise a float variable called l to 1588.098970.
+Initialise a float variable named l to 1588.098970.
+Initialise a float called l to 1588.098970.
+Initialise a float m to 0.0.
+Initialise a float variable m to 0.0.
+Initialise a float variable called m to 0.0.
+Initialise a float variable named m to 0.0.
+Initialise a float called m to 0.0.
+Initialise a float m to -1.1.
+Initialise a float variable m to -1.1.
+Initialise a float variable called m to -1.1.
+Initialise a float variable named m to -1.1.
+Initialise a float called m to -1.1.
+Initialise a float m to -2.14.
+Initialise a float variable m to -2.14.
+Initialise a float variable called m to -2.14.
+Initialise a float variable named m to -2.14.
+Initialise a float called m to -2.14.
+Initialise a float m to -3.141.
+Initialise a float variable m to -3.141.
+Initialise a float variable called m to -3.141.
+Initialise a float variable named m to -3.141.
+Initialise a float called m to -3.141.
+Initialise a float m to 4.1415.
+Initialise a float variable m to 4.1415.
+Initialise a float variable called m to 4.1415.
+Initialise a float variable named m to 4.1415.
+Initialise a float called m to 4.1415.
+Initialise a float m to 5.14159.
+Initialise a float variable m to 5.14159.
+Initialise a float variable called m to 5.14159.
+Initialise a float variable named m to 5.14159.
+Initialise a float called m to 5.14159.
+Initialise a float m to 6.141592.
+Initialise a float variable m to 6.141592.
+Initialise a float variable called m to 6.141592.
+Initialise a float variable named m to 6.141592.
+Initialise a float called m to 6.141592.
+Initialise a float m to 10.0000.
+Initialise a float variable m to 10.0000.
+Initialise a float variable called m to 10.0000.
+Initialise a float variable named m to 10.0000.
+Initialise a float called m to 10.0000.
+Initialise a float m to 1588.098970.
+Initialise a float variable m to 1588.098970.
+Initialise a float variable called m to 1588.098970.
+Initialise a float variable named m to 1588.098970.
+Initialise a float called m to 1588.098970.
+Initialise a float n to 0.0.
+Initialise a float variable n to 0.0.
+Initialise a float variable called n to 0.0.
+Initialise a float variable named n to 0.0.
+Initialise a float called n to 0.0.
+Initialise a float n to -1.1.
+Initialise a float variable n to -1.1.
+Initialise a float variable called n to -1.1.
+Initialise a float variable named n to -1.1.
+Initialise a float called n to -1.1.
+Initialise a float n to -2.14.
+Initialise a float variable n to -2.14.
+Initialise a float variable called n to -2.14.
+Initialise a float variable named n to -2.14.
+Initialise a float called n to -2.14.
+Initialise a float n to -3.141.
+Initialise a float variable n to -3.141.
+Initialise a float variable called n to -3.141.
+Initialise a float variable named n to -3.141.
 Initialise a float called n to -3.141.
+Initialise a float n to 4.1415.
+Initialise a float variable n to 4.1415.
+Initialise a float variable called n to 4.1415.
+Initialise a float variable named n to 4.1415.
+Initialise a float called n to 4.1415.
+Initialise a float n to 5.14159.
+Initialise a float variable n to 5.14159.
+Initialise a float variable called n to 5.14159.
+Initialise a float variable named n to 5.14159.
+Initialise a float called n to 5.14159.
+Initialise a float n to 6.141592.
+Initialise a float variable n to 6.141592.
+Initialise a float variable called n to 6.141592.
+Initialise a float variable named n to 6.141592.
+Initialise a float called n to 6.141592.
+Initialise a float n to 10.0000.
+Initialise a float variable n to 10.0000.
+Initialise a float variable called n to 10.0000.
+Initialise a float variable named n to 10.0000.
+Initialise a float called n to 10.0000.
+Initialise a float n to 1588.098970.
+Initialise a float variable n to 1588.098970.
+Initialise a float variable called n to 1588.098970.
+Initialise a float variable named n to 1588.098970.
+Initialise a float called n to 1588.098970.
+Initialise a float o to 0.0.
+Initialise a float variable o to 0.0.
+Initialise a float variable called o to 0.0.
+Initialise a float variable named o to 0.0.
+Initialise a float called o to 0.0.
+Initialise a float o to -1.1.
+Initialise a float variable o to -1.1.
+Initialise a float variable called o to -1.1.
+Initialise a float variable named o to -1.1.
+Initialise a float called o to -1.1.
+Initialise a float o to -2.14.
+Initialise a float variable o to -2.14.
+Initialise a float variable called o to -2.14.
+Initialise a float variable named o to -2.14.
+Initialise a float called o to -2.14.
+Initialise a float o to -3.141.
+Initialise a float variable o to -3.141.
+Initialise a float variable called o to -3.141.
+Initialise a float variable named o to -3.141.
+Initialise a float called o to -3.141.
+Initialise a float o to 4.1415.
+Initialise a float variable o to 4.1415.
+Initialise a float variable called o to 4.1415.
+Initialise a float variable named o to 4.1415.
+Initialise a float called o to 4.1415.
+Initialise a float o to 5.14159.
+Initialise a float variable o to 5.14159.
+Initialise a float variable called o to 5.14159.
+Initialise a float variable named o to 5.14159.
+Initialise a float called o to 5.14159.
+Initialise a float o to 6.141592.
+Initialise a float variable o to 6.141592.
+Initialise a float variable called o to 6.141592.
+Initialise a float variable named o to 6.141592.
+Initialise a float called o to 6.141592.
+Initialise a float o to 10.0000.
+Initialise a float variable o to 10.0000.
+Initialise a float variable called o to 10.0000.
+Initialise a float variable named o to 10.0000.
+Initialise a float called o to 10.0000.
+Initialise a float o to 1588.098970.
+Initialise a float variable o to 1588.098970.
+Initialise a float variable called o to 1588.098970.
+Initialise a float variable named o to 1588.098970.
+Initialise a float called o to 1588.098970.
+Initialise a float p to 0.0.
+Initialise a float variable p to 0.0.
+Initialise a float variable called p to 0.0.
+Initialise a float variable named p to 0.0.
+Initialise a float called p to 0.0.
+Initialise a float p to -1.1.
+Initialise a float variable p to -1.1.
+Initialise a float variable called p to -1.1.
+Initialise a float variable named p to -1.1.
+Initialise a float called p to -1.1.
+Initialise a float p to -2.14.
+Initialise a float variable p to -2.14.
+Initialise a float variable called p to -2.14.
+Initialise a float variable named p to -2.14.
+Initialise a float called p to -2.14.
+Initialise a float p to -3.141.
+Initialise a float variable p to -3.141.
+Initialise a float variable called p to -3.141.
+Initialise a float variable named p to -3.141.
+Initialise a float called p to -3.141.
+Initialise a float p to 4.1415.
+Initialise a float variable p to 4.1415.
+Initialise a float variable called p to 4.1415.
+Initialise a float variable named p to 4.1415.
+Initialise a float called p to 4.1415.
+Initialise a float p to 5.14159.
+Initialise a float variable p to 5.14159.
+Initialise a float variable called p to 5.14159.
+Initialise a float variable named p to 5.14159.
+Initialise a float called p to 5.14159.
+Initialise a float p to 6.141592.
+Initialise a float variable p to 6.141592.
+Initialise a float variable called p to 6.141592.
+Initialise a float variable named p to 6.141592.
+Initialise a float called p to 6.141592.
+Initialise a float p to 10.0000.
+Initialise a float variable p to 10.0000.
+Initialise a float variable called p to 10.0000.
+Initialise a float variable named p to 10.0000.
+Initialise a float called p to 10.0000.
+Initialise a float p to 1588.098970.
+Initialise a float variable p to 1588.098970.
+Initialise a float variable called p to 1588.098970.
+Initialise a float variable named p to 1588.098970.
+Initialise a float called p to 1588.098970.
+Initialise a float q to 0.0.
+Initialise a float variable q to 0.0.
+Initialise a float variable called q to 0.0.
+Initialise a float variable named q to 0.0.
+Initialise a float called q to 0.0.
+Initialise a float q to -1.1.
+Initialise a float variable q to -1.1.
+Initialise a float variable called q to -1.1.
+Initialise a float variable named q to -1.1.
+Initialise a float called q to -1.1.
+Initialise a float q to -2.14.
+Initialise a float variable q to -2.14.
+Initialise a float variable called q to -2.14.
+Initialise a float variable named q to -2.14.
+Initialise a float called q to -2.14.
+Initialise a float q to -3.141.
+Initialise a float variable q to -3.141.
+Initialise a float variable called q to -3.141.
+Initialise a float variable named q to -3.141.
+Initialise a float called q to -3.141.
+Initialise a float q to 4.1415.
+Initialise a float variable q to 4.1415.
+Initialise a float variable called q to 4.1415.
+Initialise a float variable named q to 4.1415.
+Initialise a float called q to 4.1415.
+Initialise a float q to 5.14159.
+Initialise a float variable q to 5.14159.
+Initialise a float variable called q to 5.14159.
+Initialise a float variable named q to 5.14159.
+Initialise a float called q to 5.14159.
+Initialise a float q to 6.141592.
+Initialise a float variable q to 6.141592.
+Initialise a float variable called q to 6.141592.
+Initialise a float variable named q to 6.141592.
+Initialise a float called q to 6.141592.
+Initialise a float q to 10.0000.
+Initialise a float variable q to 10.0000.
+Initialise a float variable called q to 10.0000.
+Initialise a float variable named q to 10.0000.
+Initialise a float called q to 10.0000.
+Initialise a float q to 1588.098970.
+Initialise a float variable q to 1588.098970.
+Initialise a float variable called q to 1588.098970.
+Initialise a float variable named q to 1588.098970.
+Initialise a float called q to 1588.098970.
+Initialise a float r to 0.0.
+Initialise a float variable r to 0.0.
+Initialise a float variable called r to 0.0.
+Initialise a float variable named r to 0.0.
+Initialise a float called r to 0.0.
+Initialise a float r to -1.1.
+Initialise a float variable r to -1.1.
+Initialise a float variable called r to -1.1.
+Initialise a float variable named r to -1.1.
+Initialise a float called r to -1.1.
+Initialise a float r to -2.14.
+Initialise a float variable r to -2.14.
+Initialise a float variable called r to -2.14.
+Initialise a float variable named r to -2.14.
+Initialise a float called r to -2.14.
+Initialise a float r to -3.141.
+Initialise a float variable r to -3.141.
+Initialise a float variable called r to -3.141.
+Initialise a float variable named r to -3.141.
+Initialise a float called r to -3.141.
+Initialise a float r to 4.1415.
+Initialise a float variable r to 4.1415.
+Initialise a float variable called r to 4.1415.
+Initialise a float variable named r to 4.1415.
+Initialise a float called r to 4.1415.
+Initialise a float r to 5.14159.
+Initialise a float variable r to 5.14159.
+Initialise a float variable called r to 5.14159.
+Initialise a float variable named r to 5.14159.
+Initialise a float called r to 5.14159.
+Initialise a float r to 6.141592.
+Initialise a float variable r to 6.141592.
+Initialise a float variable called r to 6.141592.
+Initialise a float variable named r to 6.141592.
+Initialise a float called r to 6.141592.
+Initialise a float r to 10.0000.
+Initialise a float variable r to 10.0000.
+Initialise a float variable called r to 10.0000.
+Initialise a float variable named r to 10.0000.
+Initialise a float called r to 10.0000.
+Initialise a float r to 1588.098970.
+Initialise a float variable r to 1588.098970.
+Initialise a float variable called r to 1588.098970.
+Initialise a float variable named r to 1588.098970.
+Initialise a float called r to 1588.098970.
+Initialise a float s to 0.0.
+Initialise a float variable s to 0.0.
+Initialise a float variable called s to 0.0.
+Initialise a float variable named s to 0.0.
+Initialise a float called s to 0.0.
+Initialise a float s to -1.1.
+Initialise a float variable s to -1.1.
+Initialise a float variable called s to -1.1.
+Initialise a float variable named s to -1.1.
+Initialise a float called s to -1.1.
+Initialise a float s to -2.14.
+Initialise a float variable s to -2.14.
+Initialise a float variable called s to -2.14.
+Initialise a float variable named s to -2.14.
+Initialise a float called s to -2.14.
+Initialise a float s to -3.141.
+Initialise a float variable s to -3.141.
+Initialise a float variable called s to -3.141.
+Initialise a float variable named s to -3.141.
+Initialise a float called s to -3.141.
+Initialise a float s to 4.1415.
+Initialise a float variable s to 4.1415.
+Initialise a float variable called s to 4.1415.
+Initialise a float variable named s to 4.1415.
 Initialise a float called s to 4.1415.
+Initialise a float s to 5.14159.
+Initialise a float variable s to 5.14159.
+Initialise a float variable called s to 5.14159.
+Initialise a float variable named s to 5.14159.
+Initialise a float called s to 5.14159.
+Initialise a float s to 6.141592.
+Initialise a float variable s to 6.141592.
+Initialise a float variable called s to 6.141592.
+Initialise a float variable named s to 6.141592.
+Initialise a float called s to 6.141592.
+Initialise a float s to 10.0000.
+Initialise a float variable s to 10.0000.
+Initialise a float variable called s to 10.0000.
+Initialise a float variable named s to 10.0000.
+Initialise a float called s to 10.0000.
+Initialise a float s to 1588.098970.
+Initialise a float variable s to 1588.098970.
+Initialise a float variable called s to 1588.098970.
+Initialise a float variable named s to 1588.098970.
+Initialise a float called s to 1588.098970.
+Initialise a float t to 0.0.
+Initialise a float variable t to 0.0.
+Initialise a float variable called t to 0.0.
+Initialise a float variable named t to 0.0.
+Initialise a float called t to 0.0.
+Initialise a float t to -1.1.
+Initialise a float variable t to -1.1.
+Initialise a float variable called t to -1.1.
+Initialise a float variable named t to -1.1.
+Initialise a float called t to -1.1.
+Initialise a float t to -2.14.
+Initialise a float variable t to -2.14.
+Initialise a float variable called t to -2.14.
+Initialise a float variable named t to -2.14.
+Initialise a float called t to -2.14.
+Initialise a float t to -3.141.
+Initialise a float variable t to -3.141.
+Initialise a float variable called t to -3.141.
+Initialise a float variable named t to -3.141.
+Initialise a float called t to -3.141.
+Initialise a float t to 4.1415.
+Initialise a float variable t to 4.1415.
+Initialise a float variable called t to 4.1415.
+Initialise a float variable named t to 4.1415.
+Initialise a float called t to 4.1415.
+Initialise a float t to 5.14159.
+Initialise a float variable t to 5.14159.
+Initialise a float variable called t to 5.14159.
+Initialise a float variable named t to 5.14159.
+Initialise a float called t to 5.14159.
+Initialise a float t to 6.141592.
+Initialise a float variable t to 6.141592.
+Initialise a float variable called t to 6.141592.
+Initialise a float variable named t to 6.141592.
+Initialise a float called t to 6.141592.
+Initialise a float t to 10.0000.
+Initialise a float variable t to 10.0000.
+Initialise a float variable called t to 10.0000.
+Initialise a float variable named t to 10.0000.
+Initialise a float called t to 10.0000.
+Initialise a float t to 1588.098970.
+Initialise a float variable t to 1588.098970.
+Initialise a float variable called t to 1588.098970.
+Initialise a float variable named t to 1588.098970.
+Initialise a float called t to 1588.098970.
+Initialise a float u to 0.0.
+Initialise a float variable u to 0.0.
+Initialise a float variable called u to 0.0.
+Initialise a float variable named u to 0.0.
+Initialise a float called u to 0.0.
+Initialise a float u to -1.1.
+Initialise a float variable u to -1.1.
+Initialise a float variable called u to -1.1.
+Initialise a float variable named u to -1.1.
+Initialise a float called u to -1.1.
+Initialise a float u to -2.14.
+Initialise a float variable u to -2.14.
+Initialise a float variable called u to -2.14.
+Initialise a float variable named u to -2.14.
+Initialise a float called u to -2.14.
+Initialise a float u to -3.141.
+Initialise a float variable u to -3.141.
+Initialise a float variable called u to -3.141.
+Initialise a float variable named u to -3.141.
+Initialise a float called u to -3.141.
+Initialise a float u to 4.1415.
+Initialise a float variable u to 4.1415.
+Initialise a float variable called u to 4.1415.
+Initialise a float variable named u to 4.1415.
+Initialise a float called u to 4.1415.
+Initialise a float u to 5.14159.
+Initialise a float variable u to 5.14159.
+Initialise a float variable called u to 5.14159.
+Initialise a float variable named u to 5.14159.
 Initialise a float called u to 5.14159.
+Initialise a float u to 6.141592.
+Initialise a float variable u to 6.141592.
+Initialise a float variable called u to 6.141592.
+Initialise a float variable named u to 6.141592.
+Initialise a float called u to 6.141592.
+Initialise a float u to 10.0000.
+Initialise a float variable u to 10.0000.
+Initialise a float variable called u to 10.0000.
+Initialise a float variable named u to 10.0000.
+Initialise a float called u to 10.0000.
+Initialise a float u to 1588.098970.
+Initialise a float variable u to 1588.098970.
+Initialise a float variable called u to 1588.098970.
+Initialise a float variable named u to 1588.098970.
+Initialise a float called u to 1588.098970.
+Initialise a float v to 0.0.
+Initialise a float variable v to 0.0.
+Initialise a float variable called v to 0.0.
+Initialise a float variable named v to 0.0.
+Initialise a float called v to 0.0.
+Initialise a float v to -1.1.
+Initialise a float variable v to -1.1.
+Initialise a float variable called v to -1.1.
+Initialise a float variable named v to -1.1.
+Initialise a float called v to -1.1.
+Initialise a float v to -2.14.
+Initialise a float variable v to -2.14.
+Initialise a float variable called v to -2.14.
+Initialise a float variable named v to -2.14.
+Initialise a float called v to -2.14.
+Initialise a float v to -3.141.
+Initialise a float variable v to -3.141.
+Initialise a float variable called v to -3.141.
+Initialise a float variable named v to -3.141.
+Initialise a float called v to -3.141.
+Initialise a float v to 4.1415.
+Initialise a float variable v to 4.1415.
+Initialise a float variable called v to 4.1415.
+Initialise a float variable named v to 4.1415.
+Initialise a float called v to 4.1415.
+Initialise a float v to 5.14159.
+Initialise a float variable v to 5.14159.
+Initialise a float variable called v to 5.14159.
+Initialise a float variable named v to 5.14159.
+Initialise a float called v to 5.14159.
+Initialise a float v to 6.141592.
+Initialise a float variable v to 6.141592.
+Initialise a float variable called v to 6.141592.
+Initialise a float variable named v to 6.141592.
+Initialise a float called v to 6.141592.
+Initialise a float v to 10.0000.
+Initialise a float variable v to 10.0000.
+Initialise a float variable called v to 10.0000.
+Initialise a float variable named v to 10.0000.
+Initialise a float called v to 10.0000.
+Initialise a float v to 1588.098970.
+Initialise a float variable v to 1588.098970.
+Initialise a float variable called v to 1588.098970.
+Initialise a float variable named v to 1588.098970.
+Initialise a float called v to 1588.098970.
+Initialise a float w to 0.0.
+Initialise a float variable w to 0.0.
+Initialise a float variable called w to 0.0.
+Initialise a float variable named w to 0.0.
+Initialise a float called w to 0.0.
+Initialise a float w to -1.1.
+Initialise a float variable w to -1.1.
+Initialise a float variable called w to -1.1.
+Initialise a float variable named w to -1.1.
+Initialise a float called w to -1.1.
+Initialise a float w to -2.14.
+Initialise a float variable w to -2.14.
+Initialise a float variable called w to -2.14.
+Initialise a float variable named w to -2.14.
+Initialise a float called w to -2.14.
+Initialise a float w to -3.141.
+Initialise a float variable w to -3.141.
+Initialise a float variable called w to -3.141.
+Initialise a float variable named w to -3.141.
+Initialise a float called w to -3.141.
+Initialise a float w to 4.1415.
+Initialise a float variable w to 4.1415.
+Initialise a float variable called w to 4.1415.
+Initialise a float variable named w to 4.1415.
+Initialise a float called w to 4.1415.
+Initialise a float w to 5.14159.
+Initialise a float variable w to 5.14159.
+Initialise a float variable called w to 5.14159.
+Initialise a float variable named w to 5.14159.
+Initialise a float called w to 5.14159.
+Initialise a float w to 6.141592.
+Initialise a float variable w to 6.141592.
+Initialise a float variable called w to 6.141592.
+Initialise a float variable named w to 6.141592.
 Initialise a float called w to 6.141592.
+Initialise a float w to 10.0000.
+Initialise a float variable w to 10.0000.
+Initialise a float variable called w to 10.0000.
+Initialise a float variable named w to 10.0000.
+Initialise a float called w to 10.0000.
+Initialise a float w to 1588.098970.
+Initialise a float variable w to 1588.098970.
+Initialise a float variable called w to 1588.098970.
+Initialise a float variable named w to 1588.098970.
+Initialise a float called w to 1588.098970.
+Initialise a float x to 0.0.
+Initialise a float variable x to 0.0.
+Initialise a float variable called x to 0.0.
+Initialise a float variable named x to 0.0.
+Initialise a float called x to 0.0.
+Initialise a float x to -1.1.
+Initialise a float variable x to -1.1.
+Initialise a float variable called x to -1.1.
+Initialise a float variable named x to -1.1.
+Initialise a float called x to -1.1.
+Initialise a float x to -2.14.
+Initialise a float variable x to -2.14.
+Initialise a float variable called x to -2.14.
+Initialise a float variable named x to -2.14.
+Initialise a float called x to -2.14.
+Initialise a float x to -3.141.
+Initialise a float variable x to -3.141.
+Initialise a float variable called x to -3.141.
+Initialise a float variable named x to -3.141.
+Initialise a float called x to -3.141.
+Initialise a float x to 4.1415.
+Initialise a float variable x to 4.1415.
+Initialise a float variable called x to 4.1415.
+Initialise a float variable named x to 4.1415.
+Initialise a float called x to 4.1415.
+Initialise a float x to 5.14159.
+Initialise a float variable x to 5.14159.
+Initialise a float variable called x to 5.14159.
+Initialise a float variable named x to 5.14159.
+Initialise a float called x to 5.14159.
+Initialise a float x to 6.141592.
+Initialise a float variable x to 6.141592.
+Initialise a float variable called x to 6.141592.
+Initialise a float variable named x to 6.141592.
+Initialise a float called x to 6.141592.
+Initialise a float x to 10.0000.
+Initialise a float variable x to 10.0000.
+Initialise a float variable called x to 10.0000.
+Initialise a float variable named x to 10.0000.
 Initialise a float called x to 10.0000.
+Initialise a float x to 1588.098970.
+Initialise a float variable x to 1588.098970.
+Initialise a float variable called x to 1588.098970.
+Initialise a float variable named x to 1588.098970.
+Initialise a float called x to 1588.098970.
+Initialise a float y to 0.0.
+Initialise a float variable y to 0.0.
+Initialise a float variable called y to 0.0.
+Initialise a float variable named y to 0.0.
+Initialise a float called y to 0.0.
+Initialise a float y to -1.1.
+Initialise a float variable y to -1.1.
+Initialise a float variable called y to -1.1.
+Initialise a float variable named y to -1.1.
+Initialise a float called y to -1.1.
+Initialise a float y to -2.14.
+Initialise a float variable y to -2.14.
+Initialise a float variable called y to -2.14.
+Initialise a float variable named y to -2.14.
+Initialise a float called y to -2.14.
+Initialise a float y to -3.141.
+Initialise a float variable y to -3.141.
+Initialise a float variable called y to -3.141.
+Initialise a float variable named y to -3.141.
+Initialise a float called y to -3.141.
+Initialise a float y to 4.1415.
+Initialise a float variable y to 4.1415.
+Initialise a float variable called y to 4.1415.
+Initialise a float variable named y to 4.1415.
+Initialise a float called y to 4.1415.
+Initialise a float y to 5.14159.
+Initialise a float variable y to 5.14159.
+Initialise a float variable called y to 5.14159.
+Initialise a float variable named y to 5.14159.
+Initialise a float called y to 5.14159.
+Initialise a float y to 6.141592.
+Initialise a float variable y to 6.141592.
+Initialise a float variable called y to 6.141592.
+Initialise a float variable named y to 6.141592.
+Initialise a float called y to 6.141592.
+Initialise a float y to 10.0000.
+Initialise a float variable y to 10.0000.
+Initialise a float variable called y to 10.0000.
+Initialise a float variable named y to 10.0000.
+Initialise a float called y to 10.0000.
+Initialise a float y to 1588.098970.
+Initialise a float variable y to 1588.098970.
+Initialise a float variable called y to 1588.098970.
+Initialise a float variable named y to 1588.098970.
 Initialise a float called y to 1588.098970.
+Initialise a float z to 0.0.
+Initialise a float variable z to 0.0.
+Initialise a float variable called z to 0.0.
+Initialise a float variable named z to 0.0.
 Initialise a float called z to 0.0.
+Initialise a float z to -1.1.
+Initialise a float variable z to -1.1.
+Initialise a float variable called z to -1.1.
+Initialise a float variable named z to -1.1.
+Initialise a float called z to -1.1.
+Initialise a float z to -2.14.
+Initialise a float variable z to -2.14.
+Initialise a float variable called z to -2.14.
+Initialise a float variable named z to -2.14.
+Initialise a float called z to -2.14.
+Initialise a float z to -3.141.
+Initialise a float variable z to -3.141.
+Initialise a float variable called z to -3.141.
+Initialise a float variable named z to -3.141.
+Initialise a float called z to -3.141.
+Initialise a float z to 4.1415.
+Initialise a float variable z to 4.1415.
+Initialise a float variable called z to 4.1415.
+Initialise a float variable named z to 4.1415.
+Initialise a float called z to 4.1415.
+Initialise a float z to 5.14159.
+Initialise a float variable z to 5.14159.
+Initialise a float variable called z to 5.14159.
+Initialise a float variable named z to 5.14159.
+Initialise a float called z to 5.14159.
+Initialise a float z to 6.141592.
+Initialise a float variable z to 6.141592.
+Initialise a float variable called z to 6.141592.
+Initialise a float variable named z to 6.141592.
+Initialise a float called z to 6.141592.
+Initialise a float z to 10.0000.
+Initialise a float variable z to 10.0000.
+Initialise a float variable called z to 10.0000.
+Initialise a float variable named z to 10.0000.
+Initialise a float called z to 10.0000.
+Initialise a float z to 1588.098970.
+Initialise a float variable z to 1588.098970.
+Initialise a float variable called z to 1588.098970.
+Initialise a float variable named z to 1588.098970.
+Initialise a float called z to 1588.098970.

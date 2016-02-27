@@ -1,100 +1,1225 @@
 Initialise a signed character temp to -127.
-Initialise a signed character temp1 to -99.
-Initialise a signed character temp2 to -64.
-Initialise a signed character curr to 0.
-Initialise a signed character prev to 64.
-Initialise a signed character number to 99.
-Initialise a signed character num to 127.
-Initialise a signed character myint to -127.
-Initialise a signed character myInt to -99.
-Initialise a signed character a to -64.
-Initialise a signed character b to 0.
-Initialise a signed character c to 64.
-Initialise a signed character d to 99.
-Initialise a signed character e to 127.
-Initialise a signed character h to -127.
-Initialise a signed character i to -99.
-Initialise a signed character j to -64.
-Initialise a signed character k to 0.
-Initialise a signed character n to 64.
-Initialise a signed character s to 99.
-Initialise a signed character variable u to 127.
-Initialise a signed character variable w to -127.
-Initialise a signed character variable x to -99.
-Initialise a signed character variable y to -64.
-Initialise a signed character variable z to 0.
-Initialise a signed character variable temp to 64.
-Initialise a signed character variable temp1 to 99.
-Initialise a signed character variable temp2 to 127.
-Initialise a signed character variable curr to -127.
-Initialise a signed character variable prev to -99.
-Initialise a signed character variable number to -64.
-Initialise a signed character variable num to 0.
-Initialise a signed character variable myint to 64.
-Initialise a signed character variable myInt to 99.
-Initialise a signed character variable a to 127.
-Initialise a signed character variable b to -127.
-Initialise a signed character variable c to -99.
-Initialise a signed character variable d to -64.
-Initialise a signed character variable e to 0.
-Initialise a signed character variable h to 64.
-Initialise a signed character variable called i to 99.
-Initialise a signed character variable called j to 127.
-Initialise a signed character variable called k to -127.
-Initialise a signed character variable called n to -99.
-Initialise a signed character variable called s to -64.
-Initialise a signed character variable called u to 0.
-Initialise a signed character variable called w to 64.
-Initialise a signed character variable called x to 99.
-Initialise a signed character variable called y to 127.
-Initialise a signed character variable called z to -127.
+Initialise a signed character variable temp to -127.
+Initialise a signed character variable called temp to -127.
+Initialise a signed character variable named temp to -127.
+Initialise a signed character called temp to -127.
+Initialise a signed character temp to -99.
+Initialise a signed character variable temp to -99.
 Initialise a signed character variable called temp to -99.
-Initialise a signed character variable called temp1 to -64.
-Initialise a signed character variable called temp2 to 0.
-Initialise a signed character variable called curr to 64.
-Initialise a signed character variable called prev to 99.
-Initialise a signed character variable called number to 127.
-Initialise a signed character variable called num to -127.
-Initialise a signed character variable called myint to -99.
-Initialise a signed character variable called myInt to -64.
-Initialise a signed character variable called a to 0.
-Initialise a signed character variable named b to 64.
-Initialise a signed character variable named c to 99.
-Initialise a signed character variable named d to 127.
-Initialise a signed character variable named e to -127.
-Initialise a signed character variable named h to -99.
-Initialise a signed character variable named i to -64.
-Initialise a signed character variable named j to 0.
-Initialise a signed character variable named k to 64.
-Initialise a signed character variable named n to 99.
-Initialise a signed character variable named s to 127.
-Initialise a signed character variable named u to -127.
-Initialise a signed character variable named w to -99.
-Initialise a signed character variable named x to -64.
-Initialise a signed character variable named y to 0.
-Initialise a signed character variable named z to 64.
+Initialise a signed character variable named temp to -99.
+Initialise a signed character called temp to -99.
+Initialise a signed character temp to -64.
+Initialise a signed character variable temp to -64.
+Initialise a signed character variable called temp to -64.
+Initialise a signed character variable named temp to -64.
+Initialise a signed character called temp to -64.
+Initialise a signed character temp to 0.
+Initialise a signed character variable temp to 0.
+Initialise a signed character variable called temp to 0.
+Initialise a signed character variable named temp to 0.
+Initialise a signed character called temp to 0.
+Initialise a signed character temp to 64.
+Initialise a signed character variable temp to 64.
+Initialise a signed character variable called temp to 64.
+Initialise a signed character variable named temp to 64.
+Initialise a signed character called temp to 64.
+Initialise a signed character temp to 99.
+Initialise a signed character variable temp to 99.
+Initialise a signed character variable called temp to 99.
 Initialise a signed character variable named temp to 99.
+Initialise a signed character called temp to 99.
+Initialise a signed character temp to 127.
+Initialise a signed character variable temp to 127.
+Initialise a signed character variable called temp to 127.
+Initialise a signed character variable named temp to 127.
+Initialise a signed character called temp to 127.
+Initialise a signed character temp1 to -127.
+Initialise a signed character variable temp1 to -127.
+Initialise a signed character variable called temp1 to -127.
+Initialise a signed character variable named temp1 to -127.
+Initialise a signed character called temp1 to -127.
+Initialise a signed character temp1 to -99.
+Initialise a signed character variable temp1 to -99.
+Initialise a signed character variable called temp1 to -99.
+Initialise a signed character variable named temp1 to -99.
+Initialise a signed character called temp1 to -99.
+Initialise a signed character temp1 to -64.
+Initialise a signed character variable temp1 to -64.
+Initialise a signed character variable called temp1 to -64.
+Initialise a signed character variable named temp1 to -64.
+Initialise a signed character called temp1 to -64.
+Initialise a signed character temp1 to 0.
+Initialise a signed character variable temp1 to 0.
+Initialise a signed character variable called temp1 to 0.
+Initialise a signed character variable named temp1 to 0.
+Initialise a signed character called temp1 to 0.
+Initialise a signed character temp1 to 64.
+Initialise a signed character variable temp1 to 64.
+Initialise a signed character variable called temp1 to 64.
+Initialise a signed character variable named temp1 to 64.
+Initialise a signed character called temp1 to 64.
+Initialise a signed character temp1 to 99.
+Initialise a signed character variable temp1 to 99.
+Initialise a signed character variable called temp1 to 99.
+Initialise a signed character variable named temp1 to 99.
+Initialise a signed character called temp1 to 99.
+Initialise a signed character temp1 to 127.
+Initialise a signed character variable temp1 to 127.
+Initialise a signed character variable called temp1 to 127.
 Initialise a signed character variable named temp1 to 127.
+Initialise a signed character called temp1 to 127.
+Initialise a signed character temp2 to -127.
+Initialise a signed character variable temp2 to -127.
+Initialise a signed character variable called temp2 to -127.
 Initialise a signed character variable named temp2 to -127.
+Initialise a signed character called temp2 to -127.
+Initialise a signed character temp2 to -99.
+Initialise a signed character variable temp2 to -99.
+Initialise a signed character variable called temp2 to -99.
+Initialise a signed character variable named temp2 to -99.
+Initialise a signed character called temp2 to -99.
+Initialise a signed character temp2 to -64.
+Initialise a signed character variable temp2 to -64.
+Initialise a signed character variable called temp2 to -64.
+Initialise a signed character variable named temp2 to -64.
+Initialise a signed character called temp2 to -64.
+Initialise a signed character temp2 to 0.
+Initialise a signed character variable temp2 to 0.
+Initialise a signed character variable called temp2 to 0.
+Initialise a signed character variable named temp2 to 0.
+Initialise a signed character called temp2 to 0.
+Initialise a signed character temp2 to 64.
+Initialise a signed character variable temp2 to 64.
+Initialise a signed character variable called temp2 to 64.
+Initialise a signed character variable named temp2 to 64.
+Initialise a signed character called temp2 to 64.
+Initialise a signed character temp2 to 99.
+Initialise a signed character variable temp2 to 99.
+Initialise a signed character variable called temp2 to 99.
+Initialise a signed character variable named temp2 to 99.
+Initialise a signed character called temp2 to 99.
+Initialise a signed character temp2 to 127.
+Initialise a signed character variable temp2 to 127.
+Initialise a signed character variable called temp2 to 127.
+Initialise a signed character variable named temp2 to 127.
+Initialise a signed character called temp2 to 127.
+Initialise a signed character curr to -127.
+Initialise a signed character variable curr to -127.
+Initialise a signed character variable called curr to -127.
+Initialise a signed character variable named curr to -127.
+Initialise a signed character called curr to -127.
+Initialise a signed character curr to -99.
+Initialise a signed character variable curr to -99.
+Initialise a signed character variable called curr to -99.
 Initialise a signed character variable named curr to -99.
+Initialise a signed character called curr to -99.
+Initialise a signed character curr to -64.
+Initialise a signed character variable curr to -64.
+Initialise a signed character variable called curr to -64.
+Initialise a signed character variable named curr to -64.
+Initialise a signed character called curr to -64.
+Initialise a signed character curr to 0.
+Initialise a signed character variable curr to 0.
+Initialise a signed character variable called curr to 0.
+Initialise a signed character variable named curr to 0.
+Initialise a signed character called curr to 0.
+Initialise a signed character curr to 64.
+Initialise a signed character variable curr to 64.
+Initialise a signed character variable called curr to 64.
+Initialise a signed character variable named curr to 64.
+Initialise a signed character called curr to 64.
+Initialise a signed character curr to 99.
+Initialise a signed character variable curr to 99.
+Initialise a signed character variable called curr to 99.
+Initialise a signed character variable named curr to 99.
+Initialise a signed character called curr to 99.
+Initialise a signed character curr to 127.
+Initialise a signed character variable curr to 127.
+Initialise a signed character variable called curr to 127.
+Initialise a signed character variable named curr to 127.
+Initialise a signed character called curr to 127.
+Initialise a signed character prev to -127.
+Initialise a signed character variable prev to -127.
+Initialise a signed character variable called prev to -127.
+Initialise a signed character variable named prev to -127.
+Initialise a signed character called prev to -127.
+Initialise a signed character prev to -99.
+Initialise a signed character variable prev to -99.
+Initialise a signed character variable called prev to -99.
+Initialise a signed character variable named prev to -99.
+Initialise a signed character called prev to -99.
+Initialise a signed character prev to -64.
+Initialise a signed character variable prev to -64.
+Initialise a signed character variable called prev to -64.
 Initialise a signed character variable named prev to -64.
+Initialise a signed character called prev to -64.
+Initialise a signed character prev to 0.
+Initialise a signed character variable prev to 0.
+Initialise a signed character variable called prev to 0.
+Initialise a signed character variable named prev to 0.
+Initialise a signed character called prev to 0.
+Initialise a signed character prev to 64.
+Initialise a signed character variable prev to 64.
+Initialise a signed character variable called prev to 64.
+Initialise a signed character variable named prev to 64.
+Initialise a signed character called prev to 64.
+Initialise a signed character prev to 99.
+Initialise a signed character variable prev to 99.
+Initialise a signed character variable called prev to 99.
+Initialise a signed character variable named prev to 99.
+Initialise a signed character called prev to 99.
+Initialise a signed character prev to 127.
+Initialise a signed character variable prev to 127.
+Initialise a signed character variable called prev to 127.
+Initialise a signed character variable named prev to 127.
+Initialise a signed character called prev to 127.
+Initialise a signed character number to -127.
+Initialise a signed character variable number to -127.
+Initialise a signed character variable called number to -127.
+Initialise a signed character variable named number to -127.
+Initialise a signed character called number to -127.
+Initialise a signed character number to -99.
+Initialise a signed character variable number to -99.
+Initialise a signed character variable called number to -99.
+Initialise a signed character variable named number to -99.
+Initialise a signed character called number to -99.
+Initialise a signed character number to -64.
+Initialise a signed character variable number to -64.
+Initialise a signed character variable called number to -64.
+Initialise a signed character variable named number to -64.
+Initialise a signed character called number to -64.
+Initialise a signed character number to 0.
+Initialise a signed character variable number to 0.
+Initialise a signed character variable called number to 0.
+Initialise a signed character variable named number to 0.
 Initialise a signed character called number to 0.
+Initialise a signed character number to 64.
+Initialise a signed character variable number to 64.
+Initialise a signed character variable called number to 64.
+Initialise a signed character variable named number to 64.
+Initialise a signed character called number to 64.
+Initialise a signed character number to 99.
+Initialise a signed character variable number to 99.
+Initialise a signed character variable called number to 99.
+Initialise a signed character variable named number to 99.
+Initialise a signed character called number to 99.
+Initialise a signed character number to 127.
+Initialise a signed character variable number to 127.
+Initialise a signed character variable called number to 127.
+Initialise a signed character variable named number to 127.
+Initialise a signed character called number to 127.
+Initialise a signed character num to -127.
+Initialise a signed character variable num to -127.
+Initialise a signed character variable called num to -127.
+Initialise a signed character variable named num to -127.
+Initialise a signed character called num to -127.
+Initialise a signed character num to -99.
+Initialise a signed character variable num to -99.
+Initialise a signed character variable called num to -99.
+Initialise a signed character variable named num to -99.
+Initialise a signed character called num to -99.
+Initialise a signed character num to -64.
+Initialise a signed character variable num to -64.
+Initialise a signed character variable called num to -64.
+Initialise a signed character variable named num to -64.
+Initialise a signed character called num to -64.
+Initialise a signed character num to 0.
+Initialise a signed character variable num to 0.
+Initialise a signed character variable called num to 0.
+Initialise a signed character variable named num to 0.
+Initialise a signed character called num to 0.
+Initialise a signed character num to 64.
+Initialise a signed character variable num to 64.
+Initialise a signed character variable called num to 64.
+Initialise a signed character variable named num to 64.
 Initialise a signed character called num to 64.
+Initialise a signed character num to 99.
+Initialise a signed character variable num to 99.
+Initialise a signed character variable called num to 99.
+Initialise a signed character variable named num to 99.
+Initialise a signed character called num to 99.
+Initialise a signed character num to 127.
+Initialise a signed character variable num to 127.
+Initialise a signed character variable called num to 127.
+Initialise a signed character variable named num to 127.
+Initialise a signed character called num to 127.
+Initialise a signed character myint to -127.
+Initialise a signed character variable myint to -127.
+Initialise a signed character variable called myint to -127.
+Initialise a signed character variable named myint to -127.
+Initialise a signed character called myint to -127.
+Initialise a signed character myint to -99.
+Initialise a signed character variable myint to -99.
+Initialise a signed character variable called myint to -99.
+Initialise a signed character variable named myint to -99.
+Initialise a signed character called myint to -99.
+Initialise a signed character myint to -64.
+Initialise a signed character variable myint to -64.
+Initialise a signed character variable called myint to -64.
+Initialise a signed character variable named myint to -64.
+Initialise a signed character called myint to -64.
+Initialise a signed character myint to 0.
+Initialise a signed character variable myint to 0.
+Initialise a signed character variable called myint to 0.
+Initialise a signed character variable named myint to 0.
+Initialise a signed character called myint to 0.
+Initialise a signed character myint to 64.
+Initialise a signed character variable myint to 64.
+Initialise a signed character variable called myint to 64.
+Initialise a signed character variable named myint to 64.
+Initialise a signed character called myint to 64.
+Initialise a signed character myint to 99.
+Initialise a signed character variable myint to 99.
+Initialise a signed character variable called myint to 99.
+Initialise a signed character variable named myint to 99.
 Initialise a signed character called myint to 99.
+Initialise a signed character myint to 127.
+Initialise a signed character variable myint to 127.
+Initialise a signed character variable called myint to 127.
+Initialise a signed character variable named myint to 127.
+Initialise a signed character called myint to 127.
+Initialise a signed character myInt to -127.
+Initialise a signed character variable myInt to -127.
+Initialise a signed character variable called myInt to -127.
+Initialise a signed character variable named myInt to -127.
+Initialise a signed character called myInt to -127.
+Initialise a signed character myInt to -99.
+Initialise a signed character variable myInt to -99.
+Initialise a signed character variable called myInt to -99.
+Initialise a signed character variable named myInt to -99.
+Initialise a signed character called myInt to -99.
+Initialise a signed character myInt to -64.
+Initialise a signed character variable myInt to -64.
+Initialise a signed character variable called myInt to -64.
+Initialise a signed character variable named myInt to -64.
+Initialise a signed character called myInt to -64.
+Initialise a signed character myInt to 0.
+Initialise a signed character variable myInt to 0.
+Initialise a signed character variable called myInt to 0.
+Initialise a signed character variable named myInt to 0.
+Initialise a signed character called myInt to 0.
+Initialise a signed character myInt to 64.
+Initialise a signed character variable myInt to 64.
+Initialise a signed character variable called myInt to 64.
+Initialise a signed character variable named myInt to 64.
+Initialise a signed character called myInt to 64.
+Initialise a signed character myInt to 99.
+Initialise a signed character variable myInt to 99.
+Initialise a signed character variable called myInt to 99.
+Initialise a signed character variable named myInt to 99.
+Initialise a signed character called myInt to 99.
+Initialise a signed character myInt to 127.
+Initialise a signed character variable myInt to 127.
+Initialise a signed character variable called myInt to 127.
+Initialise a signed character variable named myInt to 127.
 Initialise a signed character called myInt to 127.
+Initialise a signed character a to -127.
+Initialise a signed character variable a to -127.
+Initialise a signed character variable called a to -127.
+Initialise a signed character variable named a to -127.
 Initialise a signed character called a to -127.
+Initialise a signed character a to -99.
+Initialise a signed character variable a to -99.
+Initialise a signed character variable called a to -99.
+Initialise a signed character variable named a to -99.
+Initialise a signed character called a to -99.
+Initialise a signed character a to -64.
+Initialise a signed character variable a to -64.
+Initialise a signed character variable called a to -64.
+Initialise a signed character variable named a to -64.
+Initialise a signed character called a to -64.
+Initialise a signed character a to 0.
+Initialise a signed character variable a to 0.
+Initialise a signed character variable called a to 0.
+Initialise a signed character variable named a to 0.
+Initialise a signed character called a to 0.
+Initialise a signed character a to 64.
+Initialise a signed character variable a to 64.
+Initialise a signed character variable called a to 64.
+Initialise a signed character variable named a to 64.
+Initialise a signed character called a to 64.
+Initialise a signed character a to 99.
+Initialise a signed character variable a to 99.
+Initialise a signed character variable called a to 99.
+Initialise a signed character variable named a to 99.
+Initialise a signed character called a to 99.
+Initialise a signed character a to 127.
+Initialise a signed character variable a to 127.
+Initialise a signed character variable called a to 127.
+Initialise a signed character variable named a to 127.
+Initialise a signed character called a to 127.
+Initialise a signed character b to -127.
+Initialise a signed character variable b to -127.
+Initialise a signed character variable called b to -127.
+Initialise a signed character variable named b to -127.
+Initialise a signed character called b to -127.
+Initialise a signed character b to -99.
+Initialise a signed character variable b to -99.
+Initialise a signed character variable called b to -99.
+Initialise a signed character variable named b to -99.
 Initialise a signed character called b to -99.
+Initialise a signed character b to -64.
+Initialise a signed character variable b to -64.
+Initialise a signed character variable called b to -64.
+Initialise a signed character variable named b to -64.
+Initialise a signed character called b to -64.
+Initialise a signed character b to 0.
+Initialise a signed character variable b to 0.
+Initialise a signed character variable called b to 0.
+Initialise a signed character variable named b to 0.
+Initialise a signed character called b to 0.
+Initialise a signed character b to 64.
+Initialise a signed character variable b to 64.
+Initialise a signed character variable called b to 64.
+Initialise a signed character variable named b to 64.
+Initialise a signed character called b to 64.
+Initialise a signed character b to 99.
+Initialise a signed character variable b to 99.
+Initialise a signed character variable called b to 99.
+Initialise a signed character variable named b to 99.
+Initialise a signed character called b to 99.
+Initialise a signed character b to 127.
+Initialise a signed character variable b to 127.
+Initialise a signed character variable called b to 127.
+Initialise a signed character variable named b to 127.
+Initialise a signed character called b to 127.
+Initialise a signed character c to -127.
+Initialise a signed character variable c to -127.
+Initialise a signed character variable called c to -127.
+Initialise a signed character variable named c to -127.
+Initialise a signed character called c to -127.
+Initialise a signed character c to -99.
+Initialise a signed character variable c to -99.
+Initialise a signed character variable called c to -99.
+Initialise a signed character variable named c to -99.
+Initialise a signed character called c to -99.
+Initialise a signed character c to -64.
+Initialise a signed character variable c to -64.
+Initialise a signed character variable called c to -64.
+Initialise a signed character variable named c to -64.
 Initialise a signed character called c to -64.
+Initialise a signed character c to 0.
+Initialise a signed character variable c to 0.
+Initialise a signed character variable called c to 0.
+Initialise a signed character variable named c to 0.
+Initialise a signed character called c to 0.
+Initialise a signed character c to 64.
+Initialise a signed character variable c to 64.
+Initialise a signed character variable called c to 64.
+Initialise a signed character variable named c to 64.
+Initialise a signed character called c to 64.
+Initialise a signed character c to 99.
+Initialise a signed character variable c to 99.
+Initialise a signed character variable called c to 99.
+Initialise a signed character variable named c to 99.
+Initialise a signed character called c to 99.
+Initialise a signed character c to 127.
+Initialise a signed character variable c to 127.
+Initialise a signed character variable called c to 127.
+Initialise a signed character variable named c to 127.
+Initialise a signed character called c to 127.
+Initialise a signed character d to -127.
+Initialise a signed character variable d to -127.
+Initialise a signed character variable called d to -127.
+Initialise a signed character variable named d to -127.
+Initialise a signed character called d to -127.
+Initialise a signed character d to -99.
+Initialise a signed character variable d to -99.
+Initialise a signed character variable called d to -99.
+Initialise a signed character variable named d to -99.
+Initialise a signed character called d to -99.
+Initialise a signed character d to -64.
+Initialise a signed character variable d to -64.
+Initialise a signed character variable called d to -64.
+Initialise a signed character variable named d to -64.
+Initialise a signed character called d to -64.
+Initialise a signed character d to 0.
+Initialise a signed character variable d to 0.
+Initialise a signed character variable called d to 0.
+Initialise a signed character variable named d to 0.
 Initialise a signed character called d to 0.
+Initialise a signed character d to 64.
+Initialise a signed character variable d to 64.
+Initialise a signed character variable called d to 64.
+Initialise a signed character variable named d to 64.
+Initialise a signed character called d to 64.
+Initialise a signed character d to 99.
+Initialise a signed character variable d to 99.
+Initialise a signed character variable called d to 99.
+Initialise a signed character variable named d to 99.
+Initialise a signed character called d to 99.
+Initialise a signed character d to 127.
+Initialise a signed character variable d to 127.
+Initialise a signed character variable called d to 127.
+Initialise a signed character variable named d to 127.
+Initialise a signed character called d to 127.
+Initialise a signed character e to -127.
+Initialise a signed character variable e to -127.
+Initialise a signed character variable called e to -127.
+Initialise a signed character variable named e to -127.
+Initialise a signed character called e to -127.
+Initialise a signed character e to -99.
+Initialise a signed character variable e to -99.
+Initialise a signed character variable called e to -99.
+Initialise a signed character variable named e to -99.
+Initialise a signed character called e to -99.
+Initialise a signed character e to -64.
+Initialise a signed character variable e to -64.
+Initialise a signed character variable called e to -64.
+Initialise a signed character variable named e to -64.
+Initialise a signed character called e to -64.
+Initialise a signed character e to 0.
+Initialise a signed character variable e to 0.
+Initialise a signed character variable called e to 0.
+Initialise a signed character variable named e to 0.
+Initialise a signed character called e to 0.
+Initialise a signed character e to 64.
+Initialise a signed character variable e to 64.
+Initialise a signed character variable called e to 64.
+Initialise a signed character variable named e to 64.
 Initialise a signed character called e to 64.
+Initialise a signed character e to 99.
+Initialise a signed character variable e to 99.
+Initialise a signed character variable called e to 99.
+Initialise a signed character variable named e to 99.
+Initialise a signed character called e to 99.
+Initialise a signed character e to 127.
+Initialise a signed character variable e to 127.
+Initialise a signed character variable called e to 127.
+Initialise a signed character variable named e to 127.
+Initialise a signed character called e to 127.
+Initialise a signed character f to -127.
+Initialise a signed character variable f to -127.
+Initialise a signed character variable called f to -127.
+Initialise a signed character variable named f to -127.
+Initialise a signed character called f to -127.
+Initialise a signed character f to -99.
+Initialise a signed character variable f to -99.
+Initialise a signed character variable called f to -99.
+Initialise a signed character variable named f to -99.
+Initialise a signed character called f to -99.
+Initialise a signed character f to -64.
+Initialise a signed character variable f to -64.
+Initialise a signed character variable called f to -64.
+Initialise a signed character variable named f to -64.
+Initialise a signed character called f to -64.
+Initialise a signed character f to 0.
+Initialise a signed character variable f to 0.
+Initialise a signed character variable called f to 0.
+Initialise a signed character variable named f to 0.
+Initialise a signed character called f to 0.
+Initialise a signed character f to 64.
+Initialise a signed character variable f to 64.
+Initialise a signed character variable called f to 64.
+Initialise a signed character variable named f to 64.
+Initialise a signed character called f to 64.
+Initialise a signed character f to 99.
+Initialise a signed character variable f to 99.
+Initialise a signed character variable called f to 99.
+Initialise a signed character variable named f to 99.
+Initialise a signed character called f to 99.
+Initialise a signed character f to 127.
+Initialise a signed character variable f to 127.
+Initialise a signed character variable called f to 127.
+Initialise a signed character variable named f to 127.
+Initialise a signed character called f to 127.
+Initialise a signed character g to -127.
+Initialise a signed character variable g to -127.
+Initialise a signed character variable called g to -127.
+Initialise a signed character variable named g to -127.
+Initialise a signed character called g to -127.
+Initialise a signed character g to -99.
+Initialise a signed character variable g to -99.
+Initialise a signed character variable called g to -99.
+Initialise a signed character variable named g to -99.
+Initialise a signed character called g to -99.
+Initialise a signed character g to -64.
+Initialise a signed character variable g to -64.
+Initialise a signed character variable called g to -64.
+Initialise a signed character variable named g to -64.
+Initialise a signed character called g to -64.
+Initialise a signed character g to 0.
+Initialise a signed character variable g to 0.
+Initialise a signed character variable called g to 0.
+Initialise a signed character variable named g to 0.
+Initialise a signed character called g to 0.
+Initialise a signed character g to 64.
+Initialise a signed character variable g to 64.
+Initialise a signed character variable called g to 64.
+Initialise a signed character variable named g to 64.
+Initialise a signed character called g to 64.
+Initialise a signed character g to 99.
+Initialise a signed character variable g to 99.
+Initialise a signed character variable called g to 99.
+Initialise a signed character variable named g to 99.
+Initialise a signed character called g to 99.
+Initialise a signed character g to 127.
+Initialise a signed character variable g to 127.
+Initialise a signed character variable called g to 127.
+Initialise a signed character variable named g to 127.
+Initialise a signed character called g to 127.
+Initialise a signed character h to -127.
+Initialise a signed character variable h to -127.
+Initialise a signed character variable called h to -127.
+Initialise a signed character variable named h to -127.
+Initialise a signed character called h to -127.
+Initialise a signed character h to -99.
+Initialise a signed character variable h to -99.
+Initialise a signed character variable called h to -99.
+Initialise a signed character variable named h to -99.
+Initialise a signed character called h to -99.
+Initialise a signed character h to -64.
+Initialise a signed character variable h to -64.
+Initialise a signed character variable called h to -64.
+Initialise a signed character variable named h to -64.
+Initialise a signed character called h to -64.
+Initialise a signed character h to 0.
+Initialise a signed character variable h to 0.
+Initialise a signed character variable called h to 0.
+Initialise a signed character variable named h to 0.
+Initialise a signed character called h to 0.
+Initialise a signed character h to 64.
+Initialise a signed character variable h to 64.
+Initialise a signed character variable called h to 64.
+Initialise a signed character variable named h to 64.
+Initialise a signed character called h to 64.
+Initialise a signed character h to 99.
+Initialise a signed character variable h to 99.
+Initialise a signed character variable called h to 99.
+Initialise a signed character variable named h to 99.
 Initialise a signed character called h to 99.
+Initialise a signed character h to 127.
+Initialise a signed character variable h to 127.
+Initialise a signed character variable called h to 127.
+Initialise a signed character variable named h to 127.
+Initialise a signed character called h to 127.
+Initialise a signed character i to -127.
+Initialise a signed character variable i to -127.
+Initialise a signed character variable called i to -127.
+Initialise a signed character variable named i to -127.
+Initialise a signed character called i to -127.
+Initialise a signed character i to -99.
+Initialise a signed character variable i to -99.
+Initialise a signed character variable called i to -99.
+Initialise a signed character variable named i to -99.
+Initialise a signed character called i to -99.
+Initialise a signed character i to -64.
+Initialise a signed character variable i to -64.
+Initialise a signed character variable called i to -64.
+Initialise a signed character variable named i to -64.
+Initialise a signed character called i to -64.
+Initialise a signed character i to 0.
+Initialise a signed character variable i to 0.
+Initialise a signed character variable called i to 0.
+Initialise a signed character variable named i to 0.
+Initialise a signed character called i to 0.
+Initialise a signed character i to 64.
+Initialise a signed character variable i to 64.
+Initialise a signed character variable called i to 64.
+Initialise a signed character variable named i to 64.
+Initialise a signed character called i to 64.
+Initialise a signed character i to 99.
+Initialise a signed character variable i to 99.
+Initialise a signed character variable called i to 99.
+Initialise a signed character variable named i to 99.
+Initialise a signed character called i to 99.
+Initialise a signed character i to 127.
+Initialise a signed character variable i to 127.
+Initialise a signed character variable called i to 127.
+Initialise a signed character variable named i to 127.
 Initialise a signed character called i to 127.
+Initialise a signed character j to -127.
+Initialise a signed character variable j to -127.
+Initialise a signed character variable called j to -127.
+Initialise a signed character variable named j to -127.
 Initialise a signed character called j to -127.
+Initialise a signed character j to -99.
+Initialise a signed character variable j to -99.
+Initialise a signed character variable called j to -99.
+Initialise a signed character variable named j to -99.
+Initialise a signed character called j to -99.
+Initialise a signed character j to -64.
+Initialise a signed character variable j to -64.
+Initialise a signed character variable called j to -64.
+Initialise a signed character variable named j to -64.
+Initialise a signed character called j to -64.
+Initialise a signed character j to 0.
+Initialise a signed character variable j to 0.
+Initialise a signed character variable called j to 0.
+Initialise a signed character variable named j to 0.
+Initialise a signed character called j to 0.
+Initialise a signed character j to 64.
+Initialise a signed character variable j to 64.
+Initialise a signed character variable called j to 64.
+Initialise a signed character variable named j to 64.
+Initialise a signed character called j to 64.
+Initialise a signed character j to 99.
+Initialise a signed character variable j to 99.
+Initialise a signed character variable called j to 99.
+Initialise a signed character variable named j to 99.
+Initialise a signed character called j to 99.
+Initialise a signed character j to 127.
+Initialise a signed character variable j to 127.
+Initialise a signed character variable called j to 127.
+Initialise a signed character variable named j to 127.
+Initialise a signed character called j to 127.
+Initialise a signed character k to -127.
+Initialise a signed character variable k to -127.
+Initialise a signed character variable called k to -127.
+Initialise a signed character variable named k to -127.
+Initialise a signed character called k to -127.
+Initialise a signed character k to -99.
+Initialise a signed character variable k to -99.
+Initialise a signed character variable called k to -99.
+Initialise a signed character variable named k to -99.
 Initialise a signed character called k to -99.
+Initialise a signed character k to -64.
+Initialise a signed character variable k to -64.
+Initialise a signed character variable called k to -64.
+Initialise a signed character variable named k to -64.
+Initialise a signed character called k to -64.
+Initialise a signed character k to 0.
+Initialise a signed character variable k to 0.
+Initialise a signed character variable called k to 0.
+Initialise a signed character variable named k to 0.
+Initialise a signed character called k to 0.
+Initialise a signed character k to 64.
+Initialise a signed character variable k to 64.
+Initialise a signed character variable called k to 64.
+Initialise a signed character variable named k to 64.
+Initialise a signed character called k to 64.
+Initialise a signed character k to 99.
+Initialise a signed character variable k to 99.
+Initialise a signed character variable called k to 99.
+Initialise a signed character variable named k to 99.
+Initialise a signed character called k to 99.
+Initialise a signed character k to 127.
+Initialise a signed character variable k to 127.
+Initialise a signed character variable called k to 127.
+Initialise a signed character variable named k to 127.
+Initialise a signed character called k to 127.
+Initialise a signed character l to -127.
+Initialise a signed character variable l to -127.
+Initialise a signed character variable called l to -127.
+Initialise a signed character variable named l to -127.
+Initialise a signed character called l to -127.
+Initialise a signed character l to -99.
+Initialise a signed character variable l to -99.
+Initialise a signed character variable called l to -99.
+Initialise a signed character variable named l to -99.
+Initialise a signed character called l to -99.
+Initialise a signed character l to -64.
+Initialise a signed character variable l to -64.
+Initialise a signed character variable called l to -64.
+Initialise a signed character variable named l to -64.
+Initialise a signed character called l to -64.
+Initialise a signed character l to 0.
+Initialise a signed character variable l to 0.
+Initialise a signed character variable called l to 0.
+Initialise a signed character variable named l to 0.
+Initialise a signed character called l to 0.
+Initialise a signed character l to 64.
+Initialise a signed character variable l to 64.
+Initialise a signed character variable called l to 64.
+Initialise a signed character variable named l to 64.
+Initialise a signed character called l to 64.
+Initialise a signed character l to 99.
+Initialise a signed character variable l to 99.
+Initialise a signed character variable called l to 99.
+Initialise a signed character variable named l to 99.
+Initialise a signed character called l to 99.
+Initialise a signed character l to 127.
+Initialise a signed character variable l to 127.
+Initialise a signed character variable called l to 127.
+Initialise a signed character variable named l to 127.
+Initialise a signed character called l to 127.
+Initialise a signed character m to -127.
+Initialise a signed character variable m to -127.
+Initialise a signed character variable called m to -127.
+Initialise a signed character variable named m to -127.
+Initialise a signed character called m to -127.
+Initialise a signed character m to -99.
+Initialise a signed character variable m to -99.
+Initialise a signed character variable called m to -99.
+Initialise a signed character variable named m to -99.
+Initialise a signed character called m to -99.
+Initialise a signed character m to -64.
+Initialise a signed character variable m to -64.
+Initialise a signed character variable called m to -64.
+Initialise a signed character variable named m to -64.
+Initialise a signed character called m to -64.
+Initialise a signed character m to 0.
+Initialise a signed character variable m to 0.
+Initialise a signed character variable called m to 0.
+Initialise a signed character variable named m to 0.
+Initialise a signed character called m to 0.
+Initialise a signed character m to 64.
+Initialise a signed character variable m to 64.
+Initialise a signed character variable called m to 64.
+Initialise a signed character variable named m to 64.
+Initialise a signed character called m to 64.
+Initialise a signed character m to 99.
+Initialise a signed character variable m to 99.
+Initialise a signed character variable called m to 99.
+Initialise a signed character variable named m to 99.
+Initialise a signed character called m to 99.
+Initialise a signed character m to 127.
+Initialise a signed character variable m to 127.
+Initialise a signed character variable called m to 127.
+Initialise a signed character variable named m to 127.
+Initialise a signed character called m to 127.
+Initialise a signed character n to -127.
+Initialise a signed character variable n to -127.
+Initialise a signed character variable called n to -127.
+Initialise a signed character variable named n to -127.
+Initialise a signed character called n to -127.
+Initialise a signed character n to -99.
+Initialise a signed character variable n to -99.
+Initialise a signed character variable called n to -99.
+Initialise a signed character variable named n to -99.
+Initialise a signed character called n to -99.
+Initialise a signed character n to -64.
+Initialise a signed character variable n to -64.
+Initialise a signed character variable called n to -64.
+Initialise a signed character variable named n to -64.
 Initialise a signed character called n to -64.
+Initialise a signed character n to 0.
+Initialise a signed character variable n to 0.
+Initialise a signed character variable called n to 0.
+Initialise a signed character variable named n to 0.
+Initialise a signed character called n to 0.
+Initialise a signed character n to 64.
+Initialise a signed character variable n to 64.
+Initialise a signed character variable called n to 64.
+Initialise a signed character variable named n to 64.
+Initialise a signed character called n to 64.
+Initialise a signed character n to 99.
+Initialise a signed character variable n to 99.
+Initialise a signed character variable called n to 99.
+Initialise a signed character variable named n to 99.
+Initialise a signed character called n to 99.
+Initialise a signed character n to 127.
+Initialise a signed character variable n to 127.
+Initialise a signed character variable called n to 127.
+Initialise a signed character variable named n to 127.
+Initialise a signed character called n to 127.
+Initialise a signed character o to -127.
+Initialise a signed character variable o to -127.
+Initialise a signed character variable called o to -127.
+Initialise a signed character variable named o to -127.
+Initialise a signed character called o to -127.
+Initialise a signed character o to -99.
+Initialise a signed character variable o to -99.
+Initialise a signed character variable called o to -99.
+Initialise a signed character variable named o to -99.
+Initialise a signed character called o to -99.
+Initialise a signed character o to -64.
+Initialise a signed character variable o to -64.
+Initialise a signed character variable called o to -64.
+Initialise a signed character variable named o to -64.
+Initialise a signed character called o to -64.
+Initialise a signed character o to 0.
+Initialise a signed character variable o to 0.
+Initialise a signed character variable called o to 0.
+Initialise a signed character variable named o to 0.
+Initialise a signed character called o to 0.
+Initialise a signed character o to 64.
+Initialise a signed character variable o to 64.
+Initialise a signed character variable called o to 64.
+Initialise a signed character variable named o to 64.
+Initialise a signed character called o to 64.
+Initialise a signed character o to 99.
+Initialise a signed character variable o to 99.
+Initialise a signed character variable called o to 99.
+Initialise a signed character variable named o to 99.
+Initialise a signed character called o to 99.
+Initialise a signed character o to 127.
+Initialise a signed character variable o to 127.
+Initialise a signed character variable called o to 127.
+Initialise a signed character variable named o to 127.
+Initialise a signed character called o to 127.
+Initialise a signed character p to -127.
+Initialise a signed character variable p to -127.
+Initialise a signed character variable called p to -127.
+Initialise a signed character variable named p to -127.
+Initialise a signed character called p to -127.
+Initialise a signed character p to -99.
+Initialise a signed character variable p to -99.
+Initialise a signed character variable called p to -99.
+Initialise a signed character variable named p to -99.
+Initialise a signed character called p to -99.
+Initialise a signed character p to -64.
+Initialise a signed character variable p to -64.
+Initialise a signed character variable called p to -64.
+Initialise a signed character variable named p to -64.
+Initialise a signed character called p to -64.
+Initialise a signed character p to 0.
+Initialise a signed character variable p to 0.
+Initialise a signed character variable called p to 0.
+Initialise a signed character variable named p to 0.
+Initialise a signed character called p to 0.
+Initialise a signed character p to 64.
+Initialise a signed character variable p to 64.
+Initialise a signed character variable called p to 64.
+Initialise a signed character variable named p to 64.
+Initialise a signed character called p to 64.
+Initialise a signed character p to 99.
+Initialise a signed character variable p to 99.
+Initialise a signed character variable called p to 99.
+Initialise a signed character variable named p to 99.
+Initialise a signed character called p to 99.
+Initialise a signed character p to 127.
+Initialise a signed character variable p to 127.
+Initialise a signed character variable called p to 127.
+Initialise a signed character variable named p to 127.
+Initialise a signed character called p to 127.
+Initialise a signed character q to -127.
+Initialise a signed character variable q to -127.
+Initialise a signed character variable called q to -127.
+Initialise a signed character variable named q to -127.
+Initialise a signed character called q to -127.
+Initialise a signed character q to -99.
+Initialise a signed character variable q to -99.
+Initialise a signed character variable called q to -99.
+Initialise a signed character variable named q to -99.
+Initialise a signed character called q to -99.
+Initialise a signed character q to -64.
+Initialise a signed character variable q to -64.
+Initialise a signed character variable called q to -64.
+Initialise a signed character variable named q to -64.
+Initialise a signed character called q to -64.
+Initialise a signed character q to 0.
+Initialise a signed character variable q to 0.
+Initialise a signed character variable called q to 0.
+Initialise a signed character variable named q to 0.
+Initialise a signed character called q to 0.
+Initialise a signed character q to 64.
+Initialise a signed character variable q to 64.
+Initialise a signed character variable called q to 64.
+Initialise a signed character variable named q to 64.
+Initialise a signed character called q to 64.
+Initialise a signed character q to 99.
+Initialise a signed character variable q to 99.
+Initialise a signed character variable called q to 99.
+Initialise a signed character variable named q to 99.
+Initialise a signed character called q to 99.
+Initialise a signed character q to 127.
+Initialise a signed character variable q to 127.
+Initialise a signed character variable called q to 127.
+Initialise a signed character variable named q to 127.
+Initialise a signed character called q to 127.
+Initialise a signed character r to -127.
+Initialise a signed character variable r to -127.
+Initialise a signed character variable called r to -127.
+Initialise a signed character variable named r to -127.
+Initialise a signed character called r to -127.
+Initialise a signed character r to -99.
+Initialise a signed character variable r to -99.
+Initialise a signed character variable called r to -99.
+Initialise a signed character variable named r to -99.
+Initialise a signed character called r to -99.
+Initialise a signed character r to -64.
+Initialise a signed character variable r to -64.
+Initialise a signed character variable called r to -64.
+Initialise a signed character variable named r to -64.
+Initialise a signed character called r to -64.
+Initialise a signed character r to 0.
+Initialise a signed character variable r to 0.
+Initialise a signed character variable called r to 0.
+Initialise a signed character variable named r to 0.
+Initialise a signed character called r to 0.
+Initialise a signed character r to 64.
+Initialise a signed character variable r to 64.
+Initialise a signed character variable called r to 64.
+Initialise a signed character variable named r to 64.
+Initialise a signed character called r to 64.
+Initialise a signed character r to 99.
+Initialise a signed character variable r to 99.
+Initialise a signed character variable called r to 99.
+Initialise a signed character variable named r to 99.
+Initialise a signed character called r to 99.
+Initialise a signed character r to 127.
+Initialise a signed character variable r to 127.
+Initialise a signed character variable called r to 127.
+Initialise a signed character variable named r to 127.
+Initialise a signed character called r to 127.
+Initialise a signed character s to -127.
+Initialise a signed character variable s to -127.
+Initialise a signed character variable called s to -127.
+Initialise a signed character variable named s to -127.
+Initialise a signed character called s to -127.
+Initialise a signed character s to -99.
+Initialise a signed character variable s to -99.
+Initialise a signed character variable called s to -99.
+Initialise a signed character variable named s to -99.
+Initialise a signed character called s to -99.
+Initialise a signed character s to -64.
+Initialise a signed character variable s to -64.
+Initialise a signed character variable called s to -64.
+Initialise a signed character variable named s to -64.
+Initialise a signed character called s to -64.
+Initialise a signed character s to 0.
+Initialise a signed character variable s to 0.
+Initialise a signed character variable called s to 0.
+Initialise a signed character variable named s to 0.
 Initialise a signed character called s to 0.
+Initialise a signed character s to 64.
+Initialise a signed character variable s to 64.
+Initialise a signed character variable called s to 64.
+Initialise a signed character variable named s to 64.
+Initialise a signed character called s to 64.
+Initialise a signed character s to 99.
+Initialise a signed character variable s to 99.
+Initialise a signed character variable called s to 99.
+Initialise a signed character variable named s to 99.
+Initialise a signed character called s to 99.
+Initialise a signed character s to 127.
+Initialise a signed character variable s to 127.
+Initialise a signed character variable called s to 127.
+Initialise a signed character variable named s to 127.
+Initialise a signed character called s to 127.
+Initialise a signed character t to -127.
+Initialise a signed character variable t to -127.
+Initialise a signed character variable called t to -127.
+Initialise a signed character variable named t to -127.
+Initialise a signed character called t to -127.
+Initialise a signed character t to -99.
+Initialise a signed character variable t to -99.
+Initialise a signed character variable called t to -99.
+Initialise a signed character variable named t to -99.
+Initialise a signed character called t to -99.
+Initialise a signed character t to -64.
+Initialise a signed character variable t to -64.
+Initialise a signed character variable called t to -64.
+Initialise a signed character variable named t to -64.
+Initialise a signed character called t to -64.
+Initialise a signed character t to 0.
+Initialise a signed character variable t to 0.
+Initialise a signed character variable called t to 0.
+Initialise a signed character variable named t to 0.
+Initialise a signed character called t to 0.
+Initialise a signed character t to 64.
+Initialise a signed character variable t to 64.
+Initialise a signed character variable called t to 64.
+Initialise a signed character variable named t to 64.
+Initialise a signed character called t to 64.
+Initialise a signed character t to 99.
+Initialise a signed character variable t to 99.
+Initialise a signed character variable called t to 99.
+Initialise a signed character variable named t to 99.
+Initialise a signed character called t to 99.
+Initialise a signed character t to 127.
+Initialise a signed character variable t to 127.
+Initialise a signed character variable called t to 127.
+Initialise a signed character variable named t to 127.
+Initialise a signed character called t to 127.
+Initialise a signed character u to -127.
+Initialise a signed character variable u to -127.
+Initialise a signed character variable called u to -127.
+Initialise a signed character variable named u to -127.
+Initialise a signed character called u to -127.
+Initialise a signed character u to -99.
+Initialise a signed character variable u to -99.
+Initialise a signed character variable called u to -99.
+Initialise a signed character variable named u to -99.
+Initialise a signed character called u to -99.
+Initialise a signed character u to -64.
+Initialise a signed character variable u to -64.
+Initialise a signed character variable called u to -64.
+Initialise a signed character variable named u to -64.
+Initialise a signed character called u to -64.
+Initialise a signed character u to 0.
+Initialise a signed character variable u to 0.
+Initialise a signed character variable called u to 0.
+Initialise a signed character variable named u to 0.
+Initialise a signed character called u to 0.
+Initialise a signed character u to 64.
+Initialise a signed character variable u to 64.
+Initialise a signed character variable called u to 64.
+Initialise a signed character variable named u to 64.
 Initialise a signed character called u to 64.
+Initialise a signed character u to 99.
+Initialise a signed character variable u to 99.
+Initialise a signed character variable called u to 99.
+Initialise a signed character variable named u to 99.
+Initialise a signed character called u to 99.
+Initialise a signed character u to 127.
+Initialise a signed character variable u to 127.
+Initialise a signed character variable called u to 127.
+Initialise a signed character variable named u to 127.
+Initialise a signed character called u to 127.
+Initialise a signed character v to -127.
+Initialise a signed character variable v to -127.
+Initialise a signed character variable called v to -127.
+Initialise a signed character variable named v to -127.
+Initialise a signed character called v to -127.
+Initialise a signed character v to -99.
+Initialise a signed character variable v to -99.
+Initialise a signed character variable called v to -99.
+Initialise a signed character variable named v to -99.
+Initialise a signed character called v to -99.
+Initialise a signed character v to -64.
+Initialise a signed character variable v to -64.
+Initialise a signed character variable called v to -64.
+Initialise a signed character variable named v to -64.
+Initialise a signed character called v to -64.
+Initialise a signed character v to 0.
+Initialise a signed character variable v to 0.
+Initialise a signed character variable called v to 0.
+Initialise a signed character variable named v to 0.
+Initialise a signed character called v to 0.
+Initialise a signed character v to 64.
+Initialise a signed character variable v to 64.
+Initialise a signed character variable called v to 64.
+Initialise a signed character variable named v to 64.
+Initialise a signed character called v to 64.
+Initialise a signed character v to 99.
+Initialise a signed character variable v to 99.
+Initialise a signed character variable called v to 99.
+Initialise a signed character variable named v to 99.
+Initialise a signed character called v to 99.
+Initialise a signed character v to 127.
+Initialise a signed character variable v to 127.
+Initialise a signed character variable called v to 127.
+Initialise a signed character variable named v to 127.
+Initialise a signed character called v to 127.
+Initialise a signed character w to -127.
+Initialise a signed character variable w to -127.
+Initialise a signed character variable called w to -127.
+Initialise a signed character variable named w to -127.
+Initialise a signed character called w to -127.
+Initialise a signed character w to -99.
+Initialise a signed character variable w to -99.
+Initialise a signed character variable called w to -99.
+Initialise a signed character variable named w to -99.
+Initialise a signed character called w to -99.
+Initialise a signed character w to -64.
+Initialise a signed character variable w to -64.
+Initialise a signed character variable called w to -64.
+Initialise a signed character variable named w to -64.
+Initialise a signed character called w to -64.
+Initialise a signed character w to 0.
+Initialise a signed character variable w to 0.
+Initialise a signed character variable called w to 0.
+Initialise a signed character variable named w to 0.
+Initialise a signed character called w to 0.
+Initialise a signed character w to 64.
+Initialise a signed character variable w to 64.
+Initialise a signed character variable called w to 64.
+Initialise a signed character variable named w to 64.
+Initialise a signed character called w to 64.
+Initialise a signed character w to 99.
+Initialise a signed character variable w to 99.
+Initialise a signed character variable called w to 99.
+Initialise a signed character variable named w to 99.
 Initialise a signed character called w to 99.
+Initialise a signed character w to 127.
+Initialise a signed character variable w to 127.
+Initialise a signed character variable called w to 127.
+Initialise a signed character variable named w to 127.
+Initialise a signed character called w to 127.
+Initialise a signed character x to -127.
+Initialise a signed character variable x to -127.
+Initialise a signed character variable called x to -127.
+Initialise a signed character variable named x to -127.
+Initialise a signed character called x to -127.
+Initialise a signed character x to -99.
+Initialise a signed character variable x to -99.
+Initialise a signed character variable called x to -99.
+Initialise a signed character variable named x to -99.
+Initialise a signed character called x to -99.
+Initialise a signed character x to -64.
+Initialise a signed character variable x to -64.
+Initialise a signed character variable called x to -64.
+Initialise a signed character variable named x to -64.
+Initialise a signed character called x to -64.
+Initialise a signed character x to 0.
+Initialise a signed character variable x to 0.
+Initialise a signed character variable called x to 0.
+Initialise a signed character variable named x to 0.
+Initialise a signed character called x to 0.
+Initialise a signed character x to 64.
+Initialise a signed character variable x to 64.
+Initialise a signed character variable called x to 64.
+Initialise a signed character variable named x to 64.
+Initialise a signed character called x to 64.
+Initialise a signed character x to 99.
+Initialise a signed character variable x to 99.
+Initialise a signed character variable called x to 99.
+Initialise a signed character variable named x to 99.
+Initialise a signed character called x to 99.
+Initialise a signed character x to 127.
+Initialise a signed character variable x to 127.
+Initialise a signed character variable called x to 127.
+Initialise a signed character variable named x to 127.
 Initialise a signed character called x to 127.
+Initialise a signed character y to -127.
+Initialise a signed character variable y to -127.
+Initialise a signed character variable called y to -127.
+Initialise a signed character variable named y to -127.
 Initialise a signed character called y to -127.
+Initialise a signed character y to -99.
+Initialise a signed character variable y to -99.
+Initialise a signed character variable called y to -99.
+Initialise a signed character variable named y to -99.
+Initialise a signed character called y to -99.
+Initialise a signed character y to -64.
+Initialise a signed character variable y to -64.
+Initialise a signed character variable called y to -64.
+Initialise a signed character variable named y to -64.
+Initialise a signed character called y to -64.
+Initialise a signed character y to 0.
+Initialise a signed character variable y to 0.
+Initialise a signed character variable called y to 0.
+Initialise a signed character variable named y to 0.
+Initialise a signed character called y to 0.
+Initialise a signed character y to 64.
+Initialise a signed character variable y to 64.
+Initialise a signed character variable called y to 64.
+Initialise a signed character variable named y to 64.
+Initialise a signed character called y to 64.
+Initialise a signed character y to 99.
+Initialise a signed character variable y to 99.
+Initialise a signed character variable called y to 99.
+Initialise a signed character variable named y to 99.
+Initialise a signed character called y to 99.
+Initialise a signed character y to 127.
+Initialise a signed character variable y to 127.
+Initialise a signed character variable called y to 127.
+Initialise a signed character variable named y to 127.
+Initialise a signed character called y to 127.
+Initialise a signed character z to -127.
+Initialise a signed character variable z to -127.
+Initialise a signed character variable called z to -127.
+Initialise a signed character variable named z to -127.
+Initialise a signed character called z to -127.
+Initialise a signed character z to -99.
+Initialise a signed character variable z to -99.
+Initialise a signed character variable called z to -99.
+Initialise a signed character variable named z to -99.
 Initialise a signed character called z to -99.
+Initialise a signed character z to -64.
+Initialise a signed character variable z to -64.
+Initialise a signed character variable called z to -64.
+Initialise a signed character variable named z to -64.
+Initialise a signed character called z to -64.
+Initialise a signed character z to 0.
+Initialise a signed character variable z to 0.
+Initialise a signed character variable called z to 0.
+Initialise a signed character variable named z to 0.
+Initialise a signed character called z to 0.
+Initialise a signed character z to 64.
+Initialise a signed character variable z to 64.
+Initialise a signed character variable called z to 64.
+Initialise a signed character variable named z to 64.
+Initialise a signed character called z to 64.
+Initialise a signed character z to 99.
+Initialise a signed character variable z to 99.
+Initialise a signed character variable called z to 99.
+Initialise a signed character variable named z to 99.
+Initialise a signed character called z to 99.
+Initialise a signed character z to 127.
+Initialise a signed character variable z to 127.
+Initialise a signed character variable called z to 127.
+Initialise a signed character variable named z to 127.
+Initialise a signed character called z to 127.

@@ -1,100 +1,1575 @@
 Initialise a double temp to 0.0.
-Initialise a double temp1 to -1.14.
-Initialise a double temp2 to -2.14159.
-Initialise a double curr to -100.0000000.
-Initialise a double prev to 3.14159265.
-Initialise a double number to 4.14159265358.
-Initialise a double num to 5.14159265358979.
-Initialise a double mydouble to 10.00000000.
-Initialise a double myDouble to 66889.0037373723.
-Initialise a double a to 0.0.
-Initialise a double b to -1.14.
-Initialise a double c to -2.14159.
-Initialise a double d to -100.0000000.
-Initialise a double e to 3.14159265.
-Initialise a double h to 4.14159265358.
-Initialise a double i to 5.14159265358979.
-Initialise a double j to 10.00000000.
-Initialise a double k to 66889.0037373723.
-Initialise a double n to 0.0.
-Initialise a double s to -1.14.
-Initialise a double variable u to -2.14159.
-Initialise a double variable w to -100.0000000.
-Initialise a double variable x to 3.14159265.
-Initialise a double variable y to 4.14159265358.
-Initialise a double variable z to 5.14159265358979.
-Initialise a double variable temp to 10.00000000.
-Initialise a double variable temp1 to 66889.0037373723.
-Initialise a double variable temp2 to 0.0.
-Initialise a double variable curr to -1.14.
-Initialise a double variable prev to -2.14159.
-Initialise a double variable number to -100.0000000.
-Initialise a double variable num to 3.14159265.
-Initialise a double variable mydouble to 4.14159265358.
-Initialise a double variable myDouble to 5.14159265358979.
-Initialise a double variable a to 10.00000000.
-Initialise a double variable b to 66889.0037373723.
-Initialise a double variable c to 0.0.
-Initialise a double variable d to -1.14.
-Initialise a double variable e to -2.14159.
-Initialise a double variable h to -100.0000000.
-Initialise a double variable called i to 3.14159265.
-Initialise a double variable called j to 4.14159265358.
-Initialise a double variable called k to 5.14159265358979.
-Initialise a double variable called n to 10.00000000.
-Initialise a double variable called s to 66889.0037373723.
-Initialise a double variable called u to 0.0.
-Initialise a double variable called w to -1.14.
-Initialise a double variable called x to -2.14159.
-Initialise a double variable called y to -100.0000000.
-Initialise a double variable called z to 3.14159265.
-Initialise a double variable called temp to 4.14159265358.
-Initialise a double variable called temp1 to 5.14159265358979.
-Initialise a double variable called temp2 to 10.00000000.
-Initialise a double variable called curr to 66889.0037373723.
-Initialise a double variable called prev to 0.0.
-Initialise a double variable called number to -1.14.
-Initialise a double variable called num to -2.14159.
-Initialise a double variable called mydouble to -100.0000000.
-Initialise a double variable called myDouble to 3.14159265.
-Initialise a double variable called a to 4.14159265358.
-Initialise a double variable named b to 5.14159265358979.
-Initialise a double variable named c to 10.00000000.
-Initialise a double variable named d to 66889.0037373723.
-Initialise a double variable named e to 0.0.
-Initialise a double variable named h to -1.14.
-Initialise a double variable named i to -2.14159.
-Initialise a double variable named j to -100.0000000.
-Initialise a double variable named k to 3.14159265.
-Initialise a double variable named n to 4.14159265358.
-Initialise a double variable named s to 5.14159265358979.
-Initialise a double variable named u to 10.00000000.
-Initialise a double variable named w to 66889.0037373723.
-Initialise a double variable named x to 0.0.
-Initialise a double variable named y to -1.14.
-Initialise a double variable named z to -2.14159.
+Initialise a double variable temp to 0.0.
+Initialise a double variable called temp to 0.0.
+Initialise a double variable named temp to 0.0.
+Initialise a double called temp to 0.0.
+Initialise a double temp to -1.14.
+Initialise a double variable temp to -1.14.
+Initialise a double variable called temp to -1.14.
+Initialise a double variable named temp to -1.14.
+Initialise a double called temp to -1.14.
+Initialise a double temp to -2.14159.
+Initialise a double variable temp to -2.14159.
+Initialise a double variable called temp to -2.14159.
+Initialise a double variable named temp to -2.14159.
+Initialise a double called temp to -2.14159.
+Initialise a double temp to -100.0000000.
+Initialise a double variable temp to -100.0000000.
+Initialise a double variable called temp to -100.0000000.
 Initialise a double variable named temp to -100.0000000.
+Initialise a double called temp to -100.0000000.
+Initialise a double temp to 3.14159265.
+Initialise a double variable temp to 3.14159265.
+Initialise a double variable called temp to 3.14159265.
+Initialise a double variable named temp to 3.14159265.
+Initialise a double called temp to 3.14159265.
+Initialise a double temp to 4.14159265358.
+Initialise a double variable temp to 4.14159265358.
+Initialise a double variable called temp to 4.14159265358.
+Initialise a double variable named temp to 4.14159265358.
+Initialise a double called temp to 4.14159265358.
+Initialise a double temp to 5.14159265358979.
+Initialise a double variable temp to 5.14159265358979.
+Initialise a double variable called temp to 5.14159265358979.
+Initialise a double variable named temp to 5.14159265358979.
+Initialise a double called temp to 5.14159265358979.
+Initialise a double temp to 10.00000000.
+Initialise a double variable temp to 10.00000000.
+Initialise a double variable called temp to 10.00000000.
+Initialise a double variable named temp to 10.00000000.
+Initialise a double called temp to 10.00000000.
+Initialise a double temp to 66889.0037373723.
+Initialise a double variable temp to 66889.0037373723.
+Initialise a double variable called temp to 66889.0037373723.
+Initialise a double variable named temp to 66889.0037373723.
+Initialise a double called temp to 66889.0037373723.
+Initialise a double temp1 to 0.0.
+Initialise a double variable temp1 to 0.0.
+Initialise a double variable called temp1 to 0.0.
+Initialise a double variable named temp1 to 0.0.
+Initialise a double called temp1 to 0.0.
+Initialise a double temp1 to -1.14.
+Initialise a double variable temp1 to -1.14.
+Initialise a double variable called temp1 to -1.14.
+Initialise a double variable named temp1 to -1.14.
+Initialise a double called temp1 to -1.14.
+Initialise a double temp1 to -2.14159.
+Initialise a double variable temp1 to -2.14159.
+Initialise a double variable called temp1 to -2.14159.
+Initialise a double variable named temp1 to -2.14159.
+Initialise a double called temp1 to -2.14159.
+Initialise a double temp1 to -100.0000000.
+Initialise a double variable temp1 to -100.0000000.
+Initialise a double variable called temp1 to -100.0000000.
+Initialise a double variable named temp1 to -100.0000000.
+Initialise a double called temp1 to -100.0000000.
+Initialise a double temp1 to 3.14159265.
+Initialise a double variable temp1 to 3.14159265.
+Initialise a double variable called temp1 to 3.14159265.
 Initialise a double variable named temp1 to 3.14159265.
+Initialise a double called temp1 to 3.14159265.
+Initialise a double temp1 to 4.14159265358.
+Initialise a double variable temp1 to 4.14159265358.
+Initialise a double variable called temp1 to 4.14159265358.
+Initialise a double variable named temp1 to 4.14159265358.
+Initialise a double called temp1 to 4.14159265358.
+Initialise a double temp1 to 5.14159265358979.
+Initialise a double variable temp1 to 5.14159265358979.
+Initialise a double variable called temp1 to 5.14159265358979.
+Initialise a double variable named temp1 to 5.14159265358979.
+Initialise a double called temp1 to 5.14159265358979.
+Initialise a double temp1 to 10.00000000.
+Initialise a double variable temp1 to 10.00000000.
+Initialise a double variable called temp1 to 10.00000000.
+Initialise a double variable named temp1 to 10.00000000.
+Initialise a double called temp1 to 10.00000000.
+Initialise a double temp1 to 66889.0037373723.
+Initialise a double variable temp1 to 66889.0037373723.
+Initialise a double variable called temp1 to 66889.0037373723.
+Initialise a double variable named temp1 to 66889.0037373723.
+Initialise a double called temp1 to 66889.0037373723.
+Initialise a double temp2 to 0.0.
+Initialise a double variable temp2 to 0.0.
+Initialise a double variable called temp2 to 0.0.
+Initialise a double variable named temp2 to 0.0.
+Initialise a double called temp2 to 0.0.
+Initialise a double temp2 to -1.14.
+Initialise a double variable temp2 to -1.14.
+Initialise a double variable called temp2 to -1.14.
+Initialise a double variable named temp2 to -1.14.
+Initialise a double called temp2 to -1.14.
+Initialise a double temp2 to -2.14159.
+Initialise a double variable temp2 to -2.14159.
+Initialise a double variable called temp2 to -2.14159.
+Initialise a double variable named temp2 to -2.14159.
+Initialise a double called temp2 to -2.14159.
+Initialise a double temp2 to -100.0000000.
+Initialise a double variable temp2 to -100.0000000.
+Initialise a double variable called temp2 to -100.0000000.
+Initialise a double variable named temp2 to -100.0000000.
+Initialise a double called temp2 to -100.0000000.
+Initialise a double temp2 to 3.14159265.
+Initialise a double variable temp2 to 3.14159265.
+Initialise a double variable called temp2 to 3.14159265.
+Initialise a double variable named temp2 to 3.14159265.
+Initialise a double called temp2 to 3.14159265.
+Initialise a double temp2 to 4.14159265358.
+Initialise a double variable temp2 to 4.14159265358.
+Initialise a double variable called temp2 to 4.14159265358.
 Initialise a double variable named temp2 to 4.14159265358.
+Initialise a double called temp2 to 4.14159265358.
+Initialise a double temp2 to 5.14159265358979.
+Initialise a double variable temp2 to 5.14159265358979.
+Initialise a double variable called temp2 to 5.14159265358979.
+Initialise a double variable named temp2 to 5.14159265358979.
+Initialise a double called temp2 to 5.14159265358979.
+Initialise a double temp2 to 10.00000000.
+Initialise a double variable temp2 to 10.00000000.
+Initialise a double variable called temp2 to 10.00000000.
+Initialise a double variable named temp2 to 10.00000000.
+Initialise a double called temp2 to 10.00000000.
+Initialise a double temp2 to 66889.0037373723.
+Initialise a double variable temp2 to 66889.0037373723.
+Initialise a double variable called temp2 to 66889.0037373723.
+Initialise a double variable named temp2 to 66889.0037373723.
+Initialise a double called temp2 to 66889.0037373723.
+Initialise a double curr to 0.0.
+Initialise a double variable curr to 0.0.
+Initialise a double variable called curr to 0.0.
+Initialise a double variable named curr to 0.0.
+Initialise a double called curr to 0.0.
+Initialise a double curr to -1.14.
+Initialise a double variable curr to -1.14.
+Initialise a double variable called curr to -1.14.
+Initialise a double variable named curr to -1.14.
+Initialise a double called curr to -1.14.
+Initialise a double curr to -2.14159.
+Initialise a double variable curr to -2.14159.
+Initialise a double variable called curr to -2.14159.
+Initialise a double variable named curr to -2.14159.
+Initialise a double called curr to -2.14159.
+Initialise a double curr to -100.0000000.
+Initialise a double variable curr to -100.0000000.
+Initialise a double variable called curr to -100.0000000.
+Initialise a double variable named curr to -100.0000000.
+Initialise a double called curr to -100.0000000.
+Initialise a double curr to 3.14159265.
+Initialise a double variable curr to 3.14159265.
+Initialise a double variable called curr to 3.14159265.
+Initialise a double variable named curr to 3.14159265.
+Initialise a double called curr to 3.14159265.
+Initialise a double curr to 4.14159265358.
+Initialise a double variable curr to 4.14159265358.
+Initialise a double variable called curr to 4.14159265358.
+Initialise a double variable named curr to 4.14159265358.
+Initialise a double called curr to 4.14159265358.
+Initialise a double curr to 5.14159265358979.
+Initialise a double variable curr to 5.14159265358979.
+Initialise a double variable called curr to 5.14159265358979.
 Initialise a double variable named curr to 5.14159265358979.
+Initialise a double called curr to 5.14159265358979.
+Initialise a double curr to 10.00000000.
+Initialise a double variable curr to 10.00000000.
+Initialise a double variable called curr to 10.00000000.
+Initialise a double variable named curr to 10.00000000.
+Initialise a double called curr to 10.00000000.
+Initialise a double curr to 66889.0037373723.
+Initialise a double variable curr to 66889.0037373723.
+Initialise a double variable called curr to 66889.0037373723.
+Initialise a double variable named curr to 66889.0037373723.
+Initialise a double called curr to 66889.0037373723.
+Initialise a double prev to 0.0.
+Initialise a double variable prev to 0.0.
+Initialise a double variable called prev to 0.0.
+Initialise a double variable named prev to 0.0.
+Initialise a double called prev to 0.0.
+Initialise a double prev to -1.14.
+Initialise a double variable prev to -1.14.
+Initialise a double variable called prev to -1.14.
+Initialise a double variable named prev to -1.14.
+Initialise a double called prev to -1.14.
+Initialise a double prev to -2.14159.
+Initialise a double variable prev to -2.14159.
+Initialise a double variable called prev to -2.14159.
+Initialise a double variable named prev to -2.14159.
+Initialise a double called prev to -2.14159.
+Initialise a double prev to -100.0000000.
+Initialise a double variable prev to -100.0000000.
+Initialise a double variable called prev to -100.0000000.
+Initialise a double variable named prev to -100.0000000.
+Initialise a double called prev to -100.0000000.
+Initialise a double prev to 3.14159265.
+Initialise a double variable prev to 3.14159265.
+Initialise a double variable called prev to 3.14159265.
+Initialise a double variable named prev to 3.14159265.
+Initialise a double called prev to 3.14159265.
+Initialise a double prev to 4.14159265358.
+Initialise a double variable prev to 4.14159265358.
+Initialise a double variable called prev to 4.14159265358.
+Initialise a double variable named prev to 4.14159265358.
+Initialise a double called prev to 4.14159265358.
+Initialise a double prev to 5.14159265358979.
+Initialise a double variable prev to 5.14159265358979.
+Initialise a double variable called prev to 5.14159265358979.
+Initialise a double variable named prev to 5.14159265358979.
+Initialise a double called prev to 5.14159265358979.
+Initialise a double prev to 10.00000000.
+Initialise a double variable prev to 10.00000000.
+Initialise a double variable called prev to 10.00000000.
 Initialise a double variable named prev to 10.00000000.
+Initialise a double called prev to 10.00000000.
+Initialise a double prev to 66889.0037373723.
+Initialise a double variable prev to 66889.0037373723.
+Initialise a double variable called prev to 66889.0037373723.
+Initialise a double variable named prev to 66889.0037373723.
+Initialise a double called prev to 66889.0037373723.
+Initialise a double number to 0.0.
+Initialise a double variable number to 0.0.
+Initialise a double variable called number to 0.0.
+Initialise a double variable named number to 0.0.
+Initialise a double called number to 0.0.
+Initialise a double number to -1.14.
+Initialise a double variable number to -1.14.
+Initialise a double variable called number to -1.14.
+Initialise a double variable named number to -1.14.
+Initialise a double called number to -1.14.
+Initialise a double number to -2.14159.
+Initialise a double variable number to -2.14159.
+Initialise a double variable called number to -2.14159.
+Initialise a double variable named number to -2.14159.
+Initialise a double called number to -2.14159.
+Initialise a double number to -100.0000000.
+Initialise a double variable number to -100.0000000.
+Initialise a double variable called number to -100.0000000.
+Initialise a double variable named number to -100.0000000.
+Initialise a double called number to -100.0000000.
+Initialise a double number to 3.14159265.
+Initialise a double variable number to 3.14159265.
+Initialise a double variable called number to 3.14159265.
+Initialise a double variable named number to 3.14159265.
+Initialise a double called number to 3.14159265.
+Initialise a double number to 4.14159265358.
+Initialise a double variable number to 4.14159265358.
+Initialise a double variable called number to 4.14159265358.
+Initialise a double variable named number to 4.14159265358.
+Initialise a double called number to 4.14159265358.
+Initialise a double number to 5.14159265358979.
+Initialise a double variable number to 5.14159265358979.
+Initialise a double variable called number to 5.14159265358979.
+Initialise a double variable named number to 5.14159265358979.
+Initialise a double called number to 5.14159265358979.
+Initialise a double number to 10.00000000.
+Initialise a double variable number to 10.00000000.
+Initialise a double variable called number to 10.00000000.
+Initialise a double variable named number to 10.00000000.
+Initialise a double called number to 10.00000000.
+Initialise a double number to 66889.0037373723.
+Initialise a double variable number to 66889.0037373723.
+Initialise a double variable called number to 66889.0037373723.
+Initialise a double variable named number to 66889.0037373723.
 Initialise a double called number to 66889.0037373723.
+Initialise a double num to 0.0.
+Initialise a double variable num to 0.0.
+Initialise a double variable called num to 0.0.
+Initialise a double variable named num to 0.0.
 Initialise a double called num to 0.0.
+Initialise a double num to -1.14.
+Initialise a double variable num to -1.14.
+Initialise a double variable called num to -1.14.
+Initialise a double variable named num to -1.14.
+Initialise a double called num to -1.14.
+Initialise a double num to -2.14159.
+Initialise a double variable num to -2.14159.
+Initialise a double variable called num to -2.14159.
+Initialise a double variable named num to -2.14159.
+Initialise a double called num to -2.14159.
+Initialise a double num to -100.0000000.
+Initialise a double variable num to -100.0000000.
+Initialise a double variable called num to -100.0000000.
+Initialise a double variable named num to -100.0000000.
+Initialise a double called num to -100.0000000.
+Initialise a double num to 3.14159265.
+Initialise a double variable num to 3.14159265.
+Initialise a double variable called num to 3.14159265.
+Initialise a double variable named num to 3.14159265.
+Initialise a double called num to 3.14159265.
+Initialise a double num to 4.14159265358.
+Initialise a double variable num to 4.14159265358.
+Initialise a double variable called num to 4.14159265358.
+Initialise a double variable named num to 4.14159265358.
+Initialise a double called num to 4.14159265358.
+Initialise a double num to 5.14159265358979.
+Initialise a double variable num to 5.14159265358979.
+Initialise a double variable called num to 5.14159265358979.
+Initialise a double variable named num to 5.14159265358979.
+Initialise a double called num to 5.14159265358979.
+Initialise a double num to 10.00000000.
+Initialise a double variable num to 10.00000000.
+Initialise a double variable called num to 10.00000000.
+Initialise a double variable named num to 10.00000000.
+Initialise a double called num to 10.00000000.
+Initialise a double num to 66889.0037373723.
+Initialise a double variable num to 66889.0037373723.
+Initialise a double variable called num to 66889.0037373723.
+Initialise a double variable named num to 66889.0037373723.
+Initialise a double called num to 66889.0037373723.
+Initialise a double mydouble to 0.0.
+Initialise a double variable mydouble to 0.0.
+Initialise a double variable called mydouble to 0.0.
+Initialise a double variable named mydouble to 0.0.
+Initialise a double called mydouble to 0.0.
+Initialise a double mydouble to -1.14.
+Initialise a double variable mydouble to -1.14.
+Initialise a double variable called mydouble to -1.14.
+Initialise a double variable named mydouble to -1.14.
 Initialise a double called mydouble to -1.14.
+Initialise a double mydouble to -2.14159.
+Initialise a double variable mydouble to -2.14159.
+Initialise a double variable called mydouble to -2.14159.
+Initialise a double variable named mydouble to -2.14159.
+Initialise a double called mydouble to -2.14159.
+Initialise a double mydouble to -100.0000000.
+Initialise a double variable mydouble to -100.0000000.
+Initialise a double variable called mydouble to -100.0000000.
+Initialise a double variable named mydouble to -100.0000000.
+Initialise a double called mydouble to -100.0000000.
+Initialise a double mydouble to 3.14159265.
+Initialise a double variable mydouble to 3.14159265.
+Initialise a double variable called mydouble to 3.14159265.
+Initialise a double variable named mydouble to 3.14159265.
+Initialise a double called mydouble to 3.14159265.
+Initialise a double mydouble to 4.14159265358.
+Initialise a double variable mydouble to 4.14159265358.
+Initialise a double variable called mydouble to 4.14159265358.
+Initialise a double variable named mydouble to 4.14159265358.
+Initialise a double called mydouble to 4.14159265358.
+Initialise a double mydouble to 5.14159265358979.
+Initialise a double variable mydouble to 5.14159265358979.
+Initialise a double variable called mydouble to 5.14159265358979.
+Initialise a double variable named mydouble to 5.14159265358979.
+Initialise a double called mydouble to 5.14159265358979.
+Initialise a double mydouble to 10.00000000.
+Initialise a double variable mydouble to 10.00000000.
+Initialise a double variable called mydouble to 10.00000000.
+Initialise a double variable named mydouble to 10.00000000.
+Initialise a double called mydouble to 10.00000000.
+Initialise a double mydouble to 66889.0037373723.
+Initialise a double variable mydouble to 66889.0037373723.
+Initialise a double variable called mydouble to 66889.0037373723.
+Initialise a double variable named mydouble to 66889.0037373723.
+Initialise a double called mydouble to 66889.0037373723.
+Initialise a double myDouble to 0.0.
+Initialise a double variable myDouble to 0.0.
+Initialise a double variable called myDouble to 0.0.
+Initialise a double variable named myDouble to 0.0.
+Initialise a double called myDouble to 0.0.
+Initialise a double myDouble to -1.14.
+Initialise a double variable myDouble to -1.14.
+Initialise a double variable called myDouble to -1.14.
+Initialise a double variable named myDouble to -1.14.
+Initialise a double called myDouble to -1.14.
+Initialise a double myDouble to -2.14159.
+Initialise a double variable myDouble to -2.14159.
+Initialise a double variable called myDouble to -2.14159.
+Initialise a double variable named myDouble to -2.14159.
 Initialise a double called myDouble to -2.14159.
+Initialise a double myDouble to -100.0000000.
+Initialise a double variable myDouble to -100.0000000.
+Initialise a double variable called myDouble to -100.0000000.
+Initialise a double variable named myDouble to -100.0000000.
+Initialise a double called myDouble to -100.0000000.
+Initialise a double myDouble to 3.14159265.
+Initialise a double variable myDouble to 3.14159265.
+Initialise a double variable called myDouble to 3.14159265.
+Initialise a double variable named myDouble to 3.14159265.
+Initialise a double called myDouble to 3.14159265.
+Initialise a double myDouble to 4.14159265358.
+Initialise a double variable myDouble to 4.14159265358.
+Initialise a double variable called myDouble to 4.14159265358.
+Initialise a double variable named myDouble to 4.14159265358.
+Initialise a double called myDouble to 4.14159265358.
+Initialise a double myDouble to 5.14159265358979.
+Initialise a double variable myDouble to 5.14159265358979.
+Initialise a double variable called myDouble to 5.14159265358979.
+Initialise a double variable named myDouble to 5.14159265358979.
+Initialise a double called myDouble to 5.14159265358979.
+Initialise a double myDouble to 10.00000000.
+Initialise a double variable myDouble to 10.00000000.
+Initialise a double variable called myDouble to 10.00000000.
+Initialise a double variable named myDouble to 10.00000000.
+Initialise a double called myDouble to 10.00000000.
+Initialise a double myDouble to 66889.0037373723.
+Initialise a double variable myDouble to 66889.0037373723.
+Initialise a double variable called myDouble to 66889.0037373723.
+Initialise a double variable named myDouble to 66889.0037373723.
+Initialise a double called myDouble to 66889.0037373723.
+Initialise a double a to 0.0.
+Initialise a double variable a to 0.0.
+Initialise a double variable called a to 0.0.
+Initialise a double variable named a to 0.0.
+Initialise a double called a to 0.0.
+Initialise a double a to -1.14.
+Initialise a double variable a to -1.14.
+Initialise a double variable called a to -1.14.
+Initialise a double variable named a to -1.14.
+Initialise a double called a to -1.14.
+Initialise a double a to -2.14159.
+Initialise a double variable a to -2.14159.
+Initialise a double variable called a to -2.14159.
+Initialise a double variable named a to -2.14159.
+Initialise a double called a to -2.14159.
+Initialise a double a to -100.0000000.
+Initialise a double variable a to -100.0000000.
+Initialise a double variable called a to -100.0000000.
+Initialise a double variable named a to -100.0000000.
 Initialise a double called a to -100.0000000.
+Initialise a double a to 3.14159265.
+Initialise a double variable a to 3.14159265.
+Initialise a double variable called a to 3.14159265.
+Initialise a double variable named a to 3.14159265.
+Initialise a double called a to 3.14159265.
+Initialise a double a to 4.14159265358.
+Initialise a double variable a to 4.14159265358.
+Initialise a double variable called a to 4.14159265358.
+Initialise a double variable named a to 4.14159265358.
+Initialise a double called a to 4.14159265358.
+Initialise a double a to 5.14159265358979.
+Initialise a double variable a to 5.14159265358979.
+Initialise a double variable called a to 5.14159265358979.
+Initialise a double variable named a to 5.14159265358979.
+Initialise a double called a to 5.14159265358979.
+Initialise a double a to 10.00000000.
+Initialise a double variable a to 10.00000000.
+Initialise a double variable called a to 10.00000000.
+Initialise a double variable named a to 10.00000000.
+Initialise a double called a to 10.00000000.
+Initialise a double a to 66889.0037373723.
+Initialise a double variable a to 66889.0037373723.
+Initialise a double variable called a to 66889.0037373723.
+Initialise a double variable named a to 66889.0037373723.
+Initialise a double called a to 66889.0037373723.
+Initialise a double b to 0.0.
+Initialise a double variable b to 0.0.
+Initialise a double variable called b to 0.0.
+Initialise a double variable named b to 0.0.
+Initialise a double called b to 0.0.
+Initialise a double b to -1.14.
+Initialise a double variable b to -1.14.
+Initialise a double variable called b to -1.14.
+Initialise a double variable named b to -1.14.
+Initialise a double called b to -1.14.
+Initialise a double b to -2.14159.
+Initialise a double variable b to -2.14159.
+Initialise a double variable called b to -2.14159.
+Initialise a double variable named b to -2.14159.
+Initialise a double called b to -2.14159.
+Initialise a double b to -100.0000000.
+Initialise a double variable b to -100.0000000.
+Initialise a double variable called b to -100.0000000.
+Initialise a double variable named b to -100.0000000.
+Initialise a double called b to -100.0000000.
+Initialise a double b to 3.14159265.
+Initialise a double variable b to 3.14159265.
+Initialise a double variable called b to 3.14159265.
+Initialise a double variable named b to 3.14159265.
 Initialise a double called b to 3.14159265.
+Initialise a double b to 4.14159265358.
+Initialise a double variable b to 4.14159265358.
+Initialise a double variable called b to 4.14159265358.
+Initialise a double variable named b to 4.14159265358.
+Initialise a double called b to 4.14159265358.
+Initialise a double b to 5.14159265358979.
+Initialise a double variable b to 5.14159265358979.
+Initialise a double variable called b to 5.14159265358979.
+Initialise a double variable named b to 5.14159265358979.
+Initialise a double called b to 5.14159265358979.
+Initialise a double b to 10.00000000.
+Initialise a double variable b to 10.00000000.
+Initialise a double variable called b to 10.00000000.
+Initialise a double variable named b to 10.00000000.
+Initialise a double called b to 10.00000000.
+Initialise a double b to 66889.0037373723.
+Initialise a double variable b to 66889.0037373723.
+Initialise a double variable called b to 66889.0037373723.
+Initialise a double variable named b to 66889.0037373723.
+Initialise a double called b to 66889.0037373723.
+Initialise a double c to 0.0.
+Initialise a double variable c to 0.0.
+Initialise a double variable called c to 0.0.
+Initialise a double variable named c to 0.0.
+Initialise a double called c to 0.0.
+Initialise a double c to -1.14.
+Initialise a double variable c to -1.14.
+Initialise a double variable called c to -1.14.
+Initialise a double variable named c to -1.14.
+Initialise a double called c to -1.14.
+Initialise a double c to -2.14159.
+Initialise a double variable c to -2.14159.
+Initialise a double variable called c to -2.14159.
+Initialise a double variable named c to -2.14159.
+Initialise a double called c to -2.14159.
+Initialise a double c to -100.0000000.
+Initialise a double variable c to -100.0000000.
+Initialise a double variable called c to -100.0000000.
+Initialise a double variable named c to -100.0000000.
+Initialise a double called c to -100.0000000.
+Initialise a double c to 3.14159265.
+Initialise a double variable c to 3.14159265.
+Initialise a double variable called c to 3.14159265.
+Initialise a double variable named c to 3.14159265.
+Initialise a double called c to 3.14159265.
+Initialise a double c to 4.14159265358.
+Initialise a double variable c to 4.14159265358.
+Initialise a double variable called c to 4.14159265358.
+Initialise a double variable named c to 4.14159265358.
 Initialise a double called c to 4.14159265358.
+Initialise a double c to 5.14159265358979.
+Initialise a double variable c to 5.14159265358979.
+Initialise a double variable called c to 5.14159265358979.
+Initialise a double variable named c to 5.14159265358979.
+Initialise a double called c to 5.14159265358979.
+Initialise a double c to 10.00000000.
+Initialise a double variable c to 10.00000000.
+Initialise a double variable called c to 10.00000000.
+Initialise a double variable named c to 10.00000000.
+Initialise a double called c to 10.00000000.
+Initialise a double c to 66889.0037373723.
+Initialise a double variable c to 66889.0037373723.
+Initialise a double variable called c to 66889.0037373723.
+Initialise a double variable named c to 66889.0037373723.
+Initialise a double called c to 66889.0037373723.
+Initialise a double d to 0.0.
+Initialise a double variable d to 0.0.
+Initialise a double variable called d to 0.0.
+Initialise a double variable named d to 0.0.
+Initialise a double called d to 0.0.
+Initialise a double d to -1.14.
+Initialise a double variable d to -1.14.
+Initialise a double variable called d to -1.14.
+Initialise a double variable named d to -1.14.
+Initialise a double called d to -1.14.
+Initialise a double d to -2.14159.
+Initialise a double variable d to -2.14159.
+Initialise a double variable called d to -2.14159.
+Initialise a double variable named d to -2.14159.
+Initialise a double called d to -2.14159.
+Initialise a double d to -100.0000000.
+Initialise a double variable d to -100.0000000.
+Initialise a double variable called d to -100.0000000.
+Initialise a double variable named d to -100.0000000.
+Initialise a double called d to -100.0000000.
+Initialise a double d to 3.14159265.
+Initialise a double variable d to 3.14159265.
+Initialise a double variable called d to 3.14159265.
+Initialise a double variable named d to 3.14159265.
+Initialise a double called d to 3.14159265.
+Initialise a double d to 4.14159265358.
+Initialise a double variable d to 4.14159265358.
+Initialise a double variable called d to 4.14159265358.
+Initialise a double variable named d to 4.14159265358.
+Initialise a double called d to 4.14159265358.
+Initialise a double d to 5.14159265358979.
+Initialise a double variable d to 5.14159265358979.
+Initialise a double variable called d to 5.14159265358979.
+Initialise a double variable named d to 5.14159265358979.
 Initialise a double called d to 5.14159265358979.
+Initialise a double d to 10.00000000.
+Initialise a double variable d to 10.00000000.
+Initialise a double variable called d to 10.00000000.
+Initialise a double variable named d to 10.00000000.
+Initialise a double called d to 10.00000000.
+Initialise a double d to 66889.0037373723.
+Initialise a double variable d to 66889.0037373723.
+Initialise a double variable called d to 66889.0037373723.
+Initialise a double variable named d to 66889.0037373723.
+Initialise a double called d to 66889.0037373723.
+Initialise a double e to 0.0.
+Initialise a double variable e to 0.0.
+Initialise a double variable called e to 0.0.
+Initialise a double variable named e to 0.0.
+Initialise a double called e to 0.0.
+Initialise a double e to -1.14.
+Initialise a double variable e to -1.14.
+Initialise a double variable called e to -1.14.
+Initialise a double variable named e to -1.14.
+Initialise a double called e to -1.14.
+Initialise a double e to -2.14159.
+Initialise a double variable e to -2.14159.
+Initialise a double variable called e to -2.14159.
+Initialise a double variable named e to -2.14159.
+Initialise a double called e to -2.14159.
+Initialise a double e to -100.0000000.
+Initialise a double variable e to -100.0000000.
+Initialise a double variable called e to -100.0000000.
+Initialise a double variable named e to -100.0000000.
+Initialise a double called e to -100.0000000.
+Initialise a double e to 3.14159265.
+Initialise a double variable e to 3.14159265.
+Initialise a double variable called e to 3.14159265.
+Initialise a double variable named e to 3.14159265.
+Initialise a double called e to 3.14159265.
+Initialise a double e to 4.14159265358.
+Initialise a double variable e to 4.14159265358.
+Initialise a double variable called e to 4.14159265358.
+Initialise a double variable named e to 4.14159265358.
+Initialise a double called e to 4.14159265358.
+Initialise a double e to 5.14159265358979.
+Initialise a double variable e to 5.14159265358979.
+Initialise a double variable called e to 5.14159265358979.
+Initialise a double variable named e to 5.14159265358979.
+Initialise a double called e to 5.14159265358979.
+Initialise a double e to 10.00000000.
+Initialise a double variable e to 10.00000000.
+Initialise a double variable called e to 10.00000000.
+Initialise a double variable named e to 10.00000000.
 Initialise a double called e to 10.00000000.
+Initialise a double e to 66889.0037373723.
+Initialise a double variable e to 66889.0037373723.
+Initialise a double variable called e to 66889.0037373723.
+Initialise a double variable named e to 66889.0037373723.
+Initialise a double called e to 66889.0037373723.
+Initialise a double f to 0.0.
+Initialise a double variable f to 0.0.
+Initialise a double variable called f to 0.0.
+Initialise a double variable named f to 0.0.
+Initialise a double called f to 0.0.
+Initialise a double f to -1.14.
+Initialise a double variable f to -1.14.
+Initialise a double variable called f to -1.14.
+Initialise a double variable named f to -1.14.
+Initialise a double called f to -1.14.
+Initialise a double f to -2.14159.
+Initialise a double variable f to -2.14159.
+Initialise a double variable called f to -2.14159.
+Initialise a double variable named f to -2.14159.
+Initialise a double called f to -2.14159.
+Initialise a double f to -100.0000000.
+Initialise a double variable f to -100.0000000.
+Initialise a double variable called f to -100.0000000.
+Initialise a double variable named f to -100.0000000.
+Initialise a double called f to -100.0000000.
+Initialise a double f to 3.14159265.
+Initialise a double variable f to 3.14159265.
+Initialise a double variable called f to 3.14159265.
+Initialise a double variable named f to 3.14159265.
+Initialise a double called f to 3.14159265.
+Initialise a double f to 4.14159265358.
+Initialise a double variable f to 4.14159265358.
+Initialise a double variable called f to 4.14159265358.
+Initialise a double variable named f to 4.14159265358.
+Initialise a double called f to 4.14159265358.
+Initialise a double f to 5.14159265358979.
+Initialise a double variable f to 5.14159265358979.
+Initialise a double variable called f to 5.14159265358979.
+Initialise a double variable named f to 5.14159265358979.
+Initialise a double called f to 5.14159265358979.
+Initialise a double f to 10.00000000.
+Initialise a double variable f to 10.00000000.
+Initialise a double variable called f to 10.00000000.
+Initialise a double variable named f to 10.00000000.
+Initialise a double called f to 10.00000000.
+Initialise a double f to 66889.0037373723.
+Initialise a double variable f to 66889.0037373723.
+Initialise a double variable called f to 66889.0037373723.
+Initialise a double variable named f to 66889.0037373723.
+Initialise a double called f to 66889.0037373723.
+Initialise a double g to 0.0.
+Initialise a double variable g to 0.0.
+Initialise a double variable called g to 0.0.
+Initialise a double variable named g to 0.0.
+Initialise a double called g to 0.0.
+Initialise a double g to -1.14.
+Initialise a double variable g to -1.14.
+Initialise a double variable called g to -1.14.
+Initialise a double variable named g to -1.14.
+Initialise a double called g to -1.14.
+Initialise a double g to -2.14159.
+Initialise a double variable g to -2.14159.
+Initialise a double variable called g to -2.14159.
+Initialise a double variable named g to -2.14159.
+Initialise a double called g to -2.14159.
+Initialise a double g to -100.0000000.
+Initialise a double variable g to -100.0000000.
+Initialise a double variable called g to -100.0000000.
+Initialise a double variable named g to -100.0000000.
+Initialise a double called g to -100.0000000.
+Initialise a double g to 3.14159265.
+Initialise a double variable g to 3.14159265.
+Initialise a double variable called g to 3.14159265.
+Initialise a double variable named g to 3.14159265.
+Initialise a double called g to 3.14159265.
+Initialise a double g to 4.14159265358.
+Initialise a double variable g to 4.14159265358.
+Initialise a double variable called g to 4.14159265358.
+Initialise a double variable named g to 4.14159265358.
+Initialise a double called g to 4.14159265358.
+Initialise a double g to 5.14159265358979.
+Initialise a double variable g to 5.14159265358979.
+Initialise a double variable called g to 5.14159265358979.
+Initialise a double variable named g to 5.14159265358979.
+Initialise a double called g to 5.14159265358979.
+Initialise a double g to 10.00000000.
+Initialise a double variable g to 10.00000000.
+Initialise a double variable called g to 10.00000000.
+Initialise a double variable named g to 10.00000000.
+Initialise a double called g to 10.00000000.
+Initialise a double g to 66889.0037373723.
+Initialise a double variable g to 66889.0037373723.
+Initialise a double variable called g to 66889.0037373723.
+Initialise a double variable named g to 66889.0037373723.
+Initialise a double called g to 66889.0037373723.
+Initialise a double h to 0.0.
+Initialise a double variable h to 0.0.
+Initialise a double variable called h to 0.0.
+Initialise a double variable named h to 0.0.
+Initialise a double called h to 0.0.
+Initialise a double h to -1.14.
+Initialise a double variable h to -1.14.
+Initialise a double variable called h to -1.14.
+Initialise a double variable named h to -1.14.
+Initialise a double called h to -1.14.
+Initialise a double h to -2.14159.
+Initialise a double variable h to -2.14159.
+Initialise a double variable called h to -2.14159.
+Initialise a double variable named h to -2.14159.
+Initialise a double called h to -2.14159.
+Initialise a double h to -100.0000000.
+Initialise a double variable h to -100.0000000.
+Initialise a double variable called h to -100.0000000.
+Initialise a double variable named h to -100.0000000.
+Initialise a double called h to -100.0000000.
+Initialise a double h to 3.14159265.
+Initialise a double variable h to 3.14159265.
+Initialise a double variable called h to 3.14159265.
+Initialise a double variable named h to 3.14159265.
+Initialise a double called h to 3.14159265.
+Initialise a double h to 4.14159265358.
+Initialise a double variable h to 4.14159265358.
+Initialise a double variable called h to 4.14159265358.
+Initialise a double variable named h to 4.14159265358.
+Initialise a double called h to 4.14159265358.
+Initialise a double h to 5.14159265358979.
+Initialise a double variable h to 5.14159265358979.
+Initialise a double variable called h to 5.14159265358979.
+Initialise a double variable named h to 5.14159265358979.
+Initialise a double called h to 5.14159265358979.
+Initialise a double h to 10.00000000.
+Initialise a double variable h to 10.00000000.
+Initialise a double variable called h to 10.00000000.
+Initialise a double variable named h to 10.00000000.
+Initialise a double called h to 10.00000000.
+Initialise a double h to 66889.0037373723.
+Initialise a double variable h to 66889.0037373723.
+Initialise a double variable called h to 66889.0037373723.
+Initialise a double variable named h to 66889.0037373723.
 Initialise a double called h to 66889.0037373723.
+Initialise a double i to 0.0.
+Initialise a double variable i to 0.0.
+Initialise a double variable called i to 0.0.
+Initialise a double variable named i to 0.0.
 Initialise a double called i to 0.0.
+Initialise a double i to -1.14.
+Initialise a double variable i to -1.14.
+Initialise a double variable called i to -1.14.
+Initialise a double variable named i to -1.14.
+Initialise a double called i to -1.14.
+Initialise a double i to -2.14159.
+Initialise a double variable i to -2.14159.
+Initialise a double variable called i to -2.14159.
+Initialise a double variable named i to -2.14159.
+Initialise a double called i to -2.14159.
+Initialise a double i to -100.0000000.
+Initialise a double variable i to -100.0000000.
+Initialise a double variable called i to -100.0000000.
+Initialise a double variable named i to -100.0000000.
+Initialise a double called i to -100.0000000.
+Initialise a double i to 3.14159265.
+Initialise a double variable i to 3.14159265.
+Initialise a double variable called i to 3.14159265.
+Initialise a double variable named i to 3.14159265.
+Initialise a double called i to 3.14159265.
+Initialise a double i to 4.14159265358.
+Initialise a double variable i to 4.14159265358.
+Initialise a double variable called i to 4.14159265358.
+Initialise a double variable named i to 4.14159265358.
+Initialise a double called i to 4.14159265358.
+Initialise a double i to 5.14159265358979.
+Initialise a double variable i to 5.14159265358979.
+Initialise a double variable called i to 5.14159265358979.
+Initialise a double variable named i to 5.14159265358979.
+Initialise a double called i to 5.14159265358979.
+Initialise a double i to 10.00000000.
+Initialise a double variable i to 10.00000000.
+Initialise a double variable called i to 10.00000000.
+Initialise a double variable named i to 10.00000000.
+Initialise a double called i to 10.00000000.
+Initialise a double i to 66889.0037373723.
+Initialise a double variable i to 66889.0037373723.
+Initialise a double variable called i to 66889.0037373723.
+Initialise a double variable named i to 66889.0037373723.
+Initialise a double called i to 66889.0037373723.
+Initialise a double j to 0.0.
+Initialise a double variable j to 0.0.
+Initialise a double variable called j to 0.0.
+Initialise a double variable named j to 0.0.
+Initialise a double called j to 0.0.
+Initialise a double j to -1.14.
+Initialise a double variable j to -1.14.
+Initialise a double variable called j to -1.14.
+Initialise a double variable named j to -1.14.
 Initialise a double called j to -1.14.
+Initialise a double j to -2.14159.
+Initialise a double variable j to -2.14159.
+Initialise a double variable called j to -2.14159.
+Initialise a double variable named j to -2.14159.
+Initialise a double called j to -2.14159.
+Initialise a double j to -100.0000000.
+Initialise a double variable j to -100.0000000.
+Initialise a double variable called j to -100.0000000.
+Initialise a double variable named j to -100.0000000.
+Initialise a double called j to -100.0000000.
+Initialise a double j to 3.14159265.
+Initialise a double variable j to 3.14159265.
+Initialise a double variable called j to 3.14159265.
+Initialise a double variable named j to 3.14159265.
+Initialise a double called j to 3.14159265.
+Initialise a double j to 4.14159265358.
+Initialise a double variable j to 4.14159265358.
+Initialise a double variable called j to 4.14159265358.
+Initialise a double variable named j to 4.14159265358.
+Initialise a double called j to 4.14159265358.
+Initialise a double j to 5.14159265358979.
+Initialise a double variable j to 5.14159265358979.
+Initialise a double variable called j to 5.14159265358979.
+Initialise a double variable named j to 5.14159265358979.
+Initialise a double called j to 5.14159265358979.
+Initialise a double j to 10.00000000.
+Initialise a double variable j to 10.00000000.
+Initialise a double variable called j to 10.00000000.
+Initialise a double variable named j to 10.00000000.
+Initialise a double called j to 10.00000000.
+Initialise a double j to 66889.0037373723.
+Initialise a double variable j to 66889.0037373723.
+Initialise a double variable called j to 66889.0037373723.
+Initialise a double variable named j to 66889.0037373723.
+Initialise a double called j to 66889.0037373723.
+Initialise a double k to 0.0.
+Initialise a double variable k to 0.0.
+Initialise a double variable called k to 0.0.
+Initialise a double variable named k to 0.0.
+Initialise a double called k to 0.0.
+Initialise a double k to -1.14.
+Initialise a double variable k to -1.14.
+Initialise a double variable called k to -1.14.
+Initialise a double variable named k to -1.14.
+Initialise a double called k to -1.14.
+Initialise a double k to -2.14159.
+Initialise a double variable k to -2.14159.
+Initialise a double variable called k to -2.14159.
+Initialise a double variable named k to -2.14159.
 Initialise a double called k to -2.14159.
+Initialise a double k to -100.0000000.
+Initialise a double variable k to -100.0000000.
+Initialise a double variable called k to -100.0000000.
+Initialise a double variable named k to -100.0000000.
+Initialise a double called k to -100.0000000.
+Initialise a double k to 3.14159265.
+Initialise a double variable k to 3.14159265.
+Initialise a double variable called k to 3.14159265.
+Initialise a double variable named k to 3.14159265.
+Initialise a double called k to 3.14159265.
+Initialise a double k to 4.14159265358.
+Initialise a double variable k to 4.14159265358.
+Initialise a double variable called k to 4.14159265358.
+Initialise a double variable named k to 4.14159265358.
+Initialise a double called k to 4.14159265358.
+Initialise a double k to 5.14159265358979.
+Initialise a double variable k to 5.14159265358979.
+Initialise a double variable called k to 5.14159265358979.
+Initialise a double variable named k to 5.14159265358979.
+Initialise a double called k to 5.14159265358979.
+Initialise a double k to 10.00000000.
+Initialise a double variable k to 10.00000000.
+Initialise a double variable called k to 10.00000000.
+Initialise a double variable named k to 10.00000000.
+Initialise a double called k to 10.00000000.
+Initialise a double k to 66889.0037373723.
+Initialise a double variable k to 66889.0037373723.
+Initialise a double variable called k to 66889.0037373723.
+Initialise a double variable named k to 66889.0037373723.
+Initialise a double called k to 66889.0037373723.
+Initialise a double l to 0.0.
+Initialise a double variable l to 0.0.
+Initialise a double variable called l to 0.0.
+Initialise a double variable named l to 0.0.
+Initialise a double called l to 0.0.
+Initialise a double l to -1.14.
+Initialise a double variable l to -1.14.
+Initialise a double variable called l to -1.14.
+Initialise a double variable named l to -1.14.
+Initialise a double called l to -1.14.
+Initialise a double l to -2.14159.
+Initialise a double variable l to -2.14159.
+Initialise a double variable called l to -2.14159.
+Initialise a double variable named l to -2.14159.
+Initialise a double called l to -2.14159.
+Initialise a double l to -100.0000000.
+Initialise a double variable l to -100.0000000.
+Initialise a double variable called l to -100.0000000.
+Initialise a double variable named l to -100.0000000.
+Initialise a double called l to -100.0000000.
+Initialise a double l to 3.14159265.
+Initialise a double variable l to 3.14159265.
+Initialise a double variable called l to 3.14159265.
+Initialise a double variable named l to 3.14159265.
+Initialise a double called l to 3.14159265.
+Initialise a double l to 4.14159265358.
+Initialise a double variable l to 4.14159265358.
+Initialise a double variable called l to 4.14159265358.
+Initialise a double variable named l to 4.14159265358.
+Initialise a double called l to 4.14159265358.
+Initialise a double l to 5.14159265358979.
+Initialise a double variable l to 5.14159265358979.
+Initialise a double variable called l to 5.14159265358979.
+Initialise a double variable named l to 5.14159265358979.
+Initialise a double called l to 5.14159265358979.
+Initialise a double l to 10.00000000.
+Initialise a double variable l to 10.00000000.
+Initialise a double variable called l to 10.00000000.
+Initialise a double variable named l to 10.00000000.
+Initialise a double called l to 10.00000000.
+Initialise a double l to 66889.0037373723.
+Initialise a double variable l to 66889.0037373723.
+Initialise a double variable called l to 66889.0037373723.
+Initialise a double variable named l to 66889.0037373723.
+Initialise a double called l to 66889.0037373723.
+Initialise a double m to 0.0.
+Initialise a double variable m to 0.0.
+Initialise a double variable called m to 0.0.
+Initialise a double variable named m to 0.0.
+Initialise a double called m to 0.0.
+Initialise a double m to -1.14.
+Initialise a double variable m to -1.14.
+Initialise a double variable called m to -1.14.
+Initialise a double variable named m to -1.14.
+Initialise a double called m to -1.14.
+Initialise a double m to -2.14159.
+Initialise a double variable m to -2.14159.
+Initialise a double variable called m to -2.14159.
+Initialise a double variable named m to -2.14159.
+Initialise a double called m to -2.14159.
+Initialise a double m to -100.0000000.
+Initialise a double variable m to -100.0000000.
+Initialise a double variable called m to -100.0000000.
+Initialise a double variable named m to -100.0000000.
+Initialise a double called m to -100.0000000.
+Initialise a double m to 3.14159265.
+Initialise a double variable m to 3.14159265.
+Initialise a double variable called m to 3.14159265.
+Initialise a double variable named m to 3.14159265.
+Initialise a double called m to 3.14159265.
+Initialise a double m to 4.14159265358.
+Initialise a double variable m to 4.14159265358.
+Initialise a double variable called m to 4.14159265358.
+Initialise a double variable named m to 4.14159265358.
+Initialise a double called m to 4.14159265358.
+Initialise a double m to 5.14159265358979.
+Initialise a double variable m to 5.14159265358979.
+Initialise a double variable called m to 5.14159265358979.
+Initialise a double variable named m to 5.14159265358979.
+Initialise a double called m to 5.14159265358979.
+Initialise a double m to 10.00000000.
+Initialise a double variable m to 10.00000000.
+Initialise a double variable called m to 10.00000000.
+Initialise a double variable named m to 10.00000000.
+Initialise a double called m to 10.00000000.
+Initialise a double m to 66889.0037373723.
+Initialise a double variable m to 66889.0037373723.
+Initialise a double variable called m to 66889.0037373723.
+Initialise a double variable named m to 66889.0037373723.
+Initialise a double called m to 66889.0037373723.
+Initialise a double n to 0.0.
+Initialise a double variable n to 0.0.
+Initialise a double variable called n to 0.0.
+Initialise a double variable named n to 0.0.
+Initialise a double called n to 0.0.
+Initialise a double n to -1.14.
+Initialise a double variable n to -1.14.
+Initialise a double variable called n to -1.14.
+Initialise a double variable named n to -1.14.
+Initialise a double called n to -1.14.
+Initialise a double n to -2.14159.
+Initialise a double variable n to -2.14159.
+Initialise a double variable called n to -2.14159.
+Initialise a double variable named n to -2.14159.
+Initialise a double called n to -2.14159.
+Initialise a double n to -100.0000000.
+Initialise a double variable n to -100.0000000.
+Initialise a double variable called n to -100.0000000.
+Initialise a double variable named n to -100.0000000.
 Initialise a double called n to -100.0000000.
+Initialise a double n to 3.14159265.
+Initialise a double variable n to 3.14159265.
+Initialise a double variable called n to 3.14159265.
+Initialise a double variable named n to 3.14159265.
+Initialise a double called n to 3.14159265.
+Initialise a double n to 4.14159265358.
+Initialise a double variable n to 4.14159265358.
+Initialise a double variable called n to 4.14159265358.
+Initialise a double variable named n to 4.14159265358.
+Initialise a double called n to 4.14159265358.
+Initialise a double n to 5.14159265358979.
+Initialise a double variable n to 5.14159265358979.
+Initialise a double variable called n to 5.14159265358979.
+Initialise a double variable named n to 5.14159265358979.
+Initialise a double called n to 5.14159265358979.
+Initialise a double n to 10.00000000.
+Initialise a double variable n to 10.00000000.
+Initialise a double variable called n to 10.00000000.
+Initialise a double variable named n to 10.00000000.
+Initialise a double called n to 10.00000000.
+Initialise a double n to 66889.0037373723.
+Initialise a double variable n to 66889.0037373723.
+Initialise a double variable called n to 66889.0037373723.
+Initialise a double variable named n to 66889.0037373723.
+Initialise a double called n to 66889.0037373723.
+Initialise a double o to 0.0.
+Initialise a double variable o to 0.0.
+Initialise a double variable called o to 0.0.
+Initialise a double variable named o to 0.0.
+Initialise a double called o to 0.0.
+Initialise a double o to -1.14.
+Initialise a double variable o to -1.14.
+Initialise a double variable called o to -1.14.
+Initialise a double variable named o to -1.14.
+Initialise a double called o to -1.14.
+Initialise a double o to -2.14159.
+Initialise a double variable o to -2.14159.
+Initialise a double variable called o to -2.14159.
+Initialise a double variable named o to -2.14159.
+Initialise a double called o to -2.14159.
+Initialise a double o to -100.0000000.
+Initialise a double variable o to -100.0000000.
+Initialise a double variable called o to -100.0000000.
+Initialise a double variable named o to -100.0000000.
+Initialise a double called o to -100.0000000.
+Initialise a double o to 3.14159265.
+Initialise a double variable o to 3.14159265.
+Initialise a double variable called o to 3.14159265.
+Initialise a double variable named o to 3.14159265.
+Initialise a double called o to 3.14159265.
+Initialise a double o to 4.14159265358.
+Initialise a double variable o to 4.14159265358.
+Initialise a double variable called o to 4.14159265358.
+Initialise a double variable named o to 4.14159265358.
+Initialise a double called o to 4.14159265358.
+Initialise a double o to 5.14159265358979.
+Initialise a double variable o to 5.14159265358979.
+Initialise a double variable called o to 5.14159265358979.
+Initialise a double variable named o to 5.14159265358979.
+Initialise a double called o to 5.14159265358979.
+Initialise a double o to 10.00000000.
+Initialise a double variable o to 10.00000000.
+Initialise a double variable called o to 10.00000000.
+Initialise a double variable named o to 10.00000000.
+Initialise a double called o to 10.00000000.
+Initialise a double o to 66889.0037373723.
+Initialise a double variable o to 66889.0037373723.
+Initialise a double variable called o to 66889.0037373723.
+Initialise a double variable named o to 66889.0037373723.
+Initialise a double called o to 66889.0037373723.
+Initialise a double p to 0.0.
+Initialise a double variable p to 0.0.
+Initialise a double variable called p to 0.0.
+Initialise a double variable named p to 0.0.
+Initialise a double called p to 0.0.
+Initialise a double p to -1.14.
+Initialise a double variable p to -1.14.
+Initialise a double variable called p to -1.14.
+Initialise a double variable named p to -1.14.
+Initialise a double called p to -1.14.
+Initialise a double p to -2.14159.
+Initialise a double variable p to -2.14159.
+Initialise a double variable called p to -2.14159.
+Initialise a double variable named p to -2.14159.
+Initialise a double called p to -2.14159.
+Initialise a double p to -100.0000000.
+Initialise a double variable p to -100.0000000.
+Initialise a double variable called p to -100.0000000.
+Initialise a double variable named p to -100.0000000.
+Initialise a double called p to -100.0000000.
+Initialise a double p to 3.14159265.
+Initialise a double variable p to 3.14159265.
+Initialise a double variable called p to 3.14159265.
+Initialise a double variable named p to 3.14159265.
+Initialise a double called p to 3.14159265.
+Initialise a double p to 4.14159265358.
+Initialise a double variable p to 4.14159265358.
+Initialise a double variable called p to 4.14159265358.
+Initialise a double variable named p to 4.14159265358.
+Initialise a double called p to 4.14159265358.
+Initialise a double p to 5.14159265358979.
+Initialise a double variable p to 5.14159265358979.
+Initialise a double variable called p to 5.14159265358979.
+Initialise a double variable named p to 5.14159265358979.
+Initialise a double called p to 5.14159265358979.
+Initialise a double p to 10.00000000.
+Initialise a double variable p to 10.00000000.
+Initialise a double variable called p to 10.00000000.
+Initialise a double variable named p to 10.00000000.
+Initialise a double called p to 10.00000000.
+Initialise a double p to 66889.0037373723.
+Initialise a double variable p to 66889.0037373723.
+Initialise a double variable called p to 66889.0037373723.
+Initialise a double variable named p to 66889.0037373723.
+Initialise a double called p to 66889.0037373723.
+Initialise a double q to 0.0.
+Initialise a double variable q to 0.0.
+Initialise a double variable called q to 0.0.
+Initialise a double variable named q to 0.0.
+Initialise a double called q to 0.0.
+Initialise a double q to -1.14.
+Initialise a double variable q to -1.14.
+Initialise a double variable called q to -1.14.
+Initialise a double variable named q to -1.14.
+Initialise a double called q to -1.14.
+Initialise a double q to -2.14159.
+Initialise a double variable q to -2.14159.
+Initialise a double variable called q to -2.14159.
+Initialise a double variable named q to -2.14159.
+Initialise a double called q to -2.14159.
+Initialise a double q to -100.0000000.
+Initialise a double variable q to -100.0000000.
+Initialise a double variable called q to -100.0000000.
+Initialise a double variable named q to -100.0000000.
+Initialise a double called q to -100.0000000.
+Initialise a double q to 3.14159265.
+Initialise a double variable q to 3.14159265.
+Initialise a double variable called q to 3.14159265.
+Initialise a double variable named q to 3.14159265.
+Initialise a double called q to 3.14159265.
+Initialise a double q to 4.14159265358.
+Initialise a double variable q to 4.14159265358.
+Initialise a double variable called q to 4.14159265358.
+Initialise a double variable named q to 4.14159265358.
+Initialise a double called q to 4.14159265358.
+Initialise a double q to 5.14159265358979.
+Initialise a double variable q to 5.14159265358979.
+Initialise a double variable called q to 5.14159265358979.
+Initialise a double variable named q to 5.14159265358979.
+Initialise a double called q to 5.14159265358979.
+Initialise a double q to 10.00000000.
+Initialise a double variable q to 10.00000000.
+Initialise a double variable called q to 10.00000000.
+Initialise a double variable named q to 10.00000000.
+Initialise a double called q to 10.00000000.
+Initialise a double q to 66889.0037373723.
+Initialise a double variable q to 66889.0037373723.
+Initialise a double variable called q to 66889.0037373723.
+Initialise a double variable named q to 66889.0037373723.
+Initialise a double called q to 66889.0037373723.
+Initialise a double r to 0.0.
+Initialise a double variable r to 0.0.
+Initialise a double variable called r to 0.0.
+Initialise a double variable named r to 0.0.
+Initialise a double called r to 0.0.
+Initialise a double r to -1.14.
+Initialise a double variable r to -1.14.
+Initialise a double variable called r to -1.14.
+Initialise a double variable named r to -1.14.
+Initialise a double called r to -1.14.
+Initialise a double r to -2.14159.
+Initialise a double variable r to -2.14159.
+Initialise a double variable called r to -2.14159.
+Initialise a double variable named r to -2.14159.
+Initialise a double called r to -2.14159.
+Initialise a double r to -100.0000000.
+Initialise a double variable r to -100.0000000.
+Initialise a double variable called r to -100.0000000.
+Initialise a double variable named r to -100.0000000.
+Initialise a double called r to -100.0000000.
+Initialise a double r to 3.14159265.
+Initialise a double variable r to 3.14159265.
+Initialise a double variable called r to 3.14159265.
+Initialise a double variable named r to 3.14159265.
+Initialise a double called r to 3.14159265.
+Initialise a double r to 4.14159265358.
+Initialise a double variable r to 4.14159265358.
+Initialise a double variable called r to 4.14159265358.
+Initialise a double variable named r to 4.14159265358.
+Initialise a double called r to 4.14159265358.
+Initialise a double r to 5.14159265358979.
+Initialise a double variable r to 5.14159265358979.
+Initialise a double variable called r to 5.14159265358979.
+Initialise a double variable named r to 5.14159265358979.
+Initialise a double called r to 5.14159265358979.
+Initialise a double r to 10.00000000.
+Initialise a double variable r to 10.00000000.
+Initialise a double variable called r to 10.00000000.
+Initialise a double variable named r to 10.00000000.
+Initialise a double called r to 10.00000000.
+Initialise a double r to 66889.0037373723.
+Initialise a double variable r to 66889.0037373723.
+Initialise a double variable called r to 66889.0037373723.
+Initialise a double variable named r to 66889.0037373723.
+Initialise a double called r to 66889.0037373723.
+Initialise a double s to 0.0.
+Initialise a double variable s to 0.0.
+Initialise a double variable called s to 0.0.
+Initialise a double variable named s to 0.0.
+Initialise a double called s to 0.0.
+Initialise a double s to -1.14.
+Initialise a double variable s to -1.14.
+Initialise a double variable called s to -1.14.
+Initialise a double variable named s to -1.14.
+Initialise a double called s to -1.14.
+Initialise a double s to -2.14159.
+Initialise a double variable s to -2.14159.
+Initialise a double variable called s to -2.14159.
+Initialise a double variable named s to -2.14159.
+Initialise a double called s to -2.14159.
+Initialise a double s to -100.0000000.
+Initialise a double variable s to -100.0000000.
+Initialise a double variable called s to -100.0000000.
+Initialise a double variable named s to -100.0000000.
+Initialise a double called s to -100.0000000.
+Initialise a double s to 3.14159265.
+Initialise a double variable s to 3.14159265.
+Initialise a double variable called s to 3.14159265.
+Initialise a double variable named s to 3.14159265.
 Initialise a double called s to 3.14159265.
+Initialise a double s to 4.14159265358.
+Initialise a double variable s to 4.14159265358.
+Initialise a double variable called s to 4.14159265358.
+Initialise a double variable named s to 4.14159265358.
+Initialise a double called s to 4.14159265358.
+Initialise a double s to 5.14159265358979.
+Initialise a double variable s to 5.14159265358979.
+Initialise a double variable called s to 5.14159265358979.
+Initialise a double variable named s to 5.14159265358979.
+Initialise a double called s to 5.14159265358979.
+Initialise a double s to 10.00000000.
+Initialise a double variable s to 10.00000000.
+Initialise a double variable called s to 10.00000000.
+Initialise a double variable named s to 10.00000000.
+Initialise a double called s to 10.00000000.
+Initialise a double s to 66889.0037373723.
+Initialise a double variable s to 66889.0037373723.
+Initialise a double variable called s to 66889.0037373723.
+Initialise a double variable named s to 66889.0037373723.
+Initialise a double called s to 66889.0037373723.
+Initialise a double t to 0.0.
+Initialise a double variable t to 0.0.
+Initialise a double variable called t to 0.0.
+Initialise a double variable named t to 0.0.
+Initialise a double called t to 0.0.
+Initialise a double t to -1.14.
+Initialise a double variable t to -1.14.
+Initialise a double variable called t to -1.14.
+Initialise a double variable named t to -1.14.
+Initialise a double called t to -1.14.
+Initialise a double t to -2.14159.
+Initialise a double variable t to -2.14159.
+Initialise a double variable called t to -2.14159.
+Initialise a double variable named t to -2.14159.
+Initialise a double called t to -2.14159.
+Initialise a double t to -100.0000000.
+Initialise a double variable t to -100.0000000.
+Initialise a double variable called t to -100.0000000.
+Initialise a double variable named t to -100.0000000.
+Initialise a double called t to -100.0000000.
+Initialise a double t to 3.14159265.
+Initialise a double variable t to 3.14159265.
+Initialise a double variable called t to 3.14159265.
+Initialise a double variable named t to 3.14159265.
+Initialise a double called t to 3.14159265.
+Initialise a double t to 4.14159265358.
+Initialise a double variable t to 4.14159265358.
+Initialise a double variable called t to 4.14159265358.
+Initialise a double variable named t to 4.14159265358.
+Initialise a double called t to 4.14159265358.
+Initialise a double t to 5.14159265358979.
+Initialise a double variable t to 5.14159265358979.
+Initialise a double variable called t to 5.14159265358979.
+Initialise a double variable named t to 5.14159265358979.
+Initialise a double called t to 5.14159265358979.
+Initialise a double t to 10.00000000.
+Initialise a double variable t to 10.00000000.
+Initialise a double variable called t to 10.00000000.
+Initialise a double variable named t to 10.00000000.
+Initialise a double called t to 10.00000000.
+Initialise a double t to 66889.0037373723.
+Initialise a double variable t to 66889.0037373723.
+Initialise a double variable called t to 66889.0037373723.
+Initialise a double variable named t to 66889.0037373723.
+Initialise a double called t to 66889.0037373723.
+Initialise a double u to 0.0.
+Initialise a double variable u to 0.0.
+Initialise a double variable called u to 0.0.
+Initialise a double variable named u to 0.0.
+Initialise a double called u to 0.0.
+Initialise a double u to -1.14.
+Initialise a double variable u to -1.14.
+Initialise a double variable called u to -1.14.
+Initialise a double variable named u to -1.14.
+Initialise a double called u to -1.14.
+Initialise a double u to -2.14159.
+Initialise a double variable u to -2.14159.
+Initialise a double variable called u to -2.14159.
+Initialise a double variable named u to -2.14159.
+Initialise a double called u to -2.14159.
+Initialise a double u to -100.0000000.
+Initialise a double variable u to -100.0000000.
+Initialise a double variable called u to -100.0000000.
+Initialise a double variable named u to -100.0000000.
+Initialise a double called u to -100.0000000.
+Initialise a double u to 3.14159265.
+Initialise a double variable u to 3.14159265.
+Initialise a double variable called u to 3.14159265.
+Initialise a double variable named u to 3.14159265.
+Initialise a double called u to 3.14159265.
+Initialise a double u to 4.14159265358.
+Initialise a double variable u to 4.14159265358.
+Initialise a double variable called u to 4.14159265358.
+Initialise a double variable named u to 4.14159265358.
 Initialise a double called u to 4.14159265358.
+Initialise a double u to 5.14159265358979.
+Initialise a double variable u to 5.14159265358979.
+Initialise a double variable called u to 5.14159265358979.
+Initialise a double variable named u to 5.14159265358979.
+Initialise a double called u to 5.14159265358979.
+Initialise a double u to 10.00000000.
+Initialise a double variable u to 10.00000000.
+Initialise a double variable called u to 10.00000000.
+Initialise a double variable named u to 10.00000000.
+Initialise a double called u to 10.00000000.
+Initialise a double u to 66889.0037373723.
+Initialise a double variable u to 66889.0037373723.
+Initialise a double variable called u to 66889.0037373723.
+Initialise a double variable named u to 66889.0037373723.
+Initialise a double called u to 66889.0037373723.
+Initialise a double v to 0.0.
+Initialise a double variable v to 0.0.
+Initialise a double variable called v to 0.0.
+Initialise a double variable named v to 0.0.
+Initialise a double called v to 0.0.
+Initialise a double v to -1.14.
+Initialise a double variable v to -1.14.
+Initialise a double variable called v to -1.14.
+Initialise a double variable named v to -1.14.
+Initialise a double called v to -1.14.
+Initialise a double v to -2.14159.
+Initialise a double variable v to -2.14159.
+Initialise a double variable called v to -2.14159.
+Initialise a double variable named v to -2.14159.
+Initialise a double called v to -2.14159.
+Initialise a double v to -100.0000000.
+Initialise a double variable v to -100.0000000.
+Initialise a double variable called v to -100.0000000.
+Initialise a double variable named v to -100.0000000.
+Initialise a double called v to -100.0000000.
+Initialise a double v to 3.14159265.
+Initialise a double variable v to 3.14159265.
+Initialise a double variable called v to 3.14159265.
+Initialise a double variable named v to 3.14159265.
+Initialise a double called v to 3.14159265.
+Initialise a double v to 4.14159265358.
+Initialise a double variable v to 4.14159265358.
+Initialise a double variable called v to 4.14159265358.
+Initialise a double variable named v to 4.14159265358.
+Initialise a double called v to 4.14159265358.
+Initialise a double v to 5.14159265358979.
+Initialise a double variable v to 5.14159265358979.
+Initialise a double variable called v to 5.14159265358979.
+Initialise a double variable named v to 5.14159265358979.
+Initialise a double called v to 5.14159265358979.
+Initialise a double v to 10.00000000.
+Initialise a double variable v to 10.00000000.
+Initialise a double variable called v to 10.00000000.
+Initialise a double variable named v to 10.00000000.
+Initialise a double called v to 10.00000000.
+Initialise a double v to 66889.0037373723.
+Initialise a double variable v to 66889.0037373723.
+Initialise a double variable called v to 66889.0037373723.
+Initialise a double variable named v to 66889.0037373723.
+Initialise a double called v to 66889.0037373723.
+Initialise a double w to 0.0.
+Initialise a double variable w to 0.0.
+Initialise a double variable called w to 0.0.
+Initialise a double variable named w to 0.0.
+Initialise a double called w to 0.0.
+Initialise a double w to -1.14.
+Initialise a double variable w to -1.14.
+Initialise a double variable called w to -1.14.
+Initialise a double variable named w to -1.14.
+Initialise a double called w to -1.14.
+Initialise a double w to -2.14159.
+Initialise a double variable w to -2.14159.
+Initialise a double variable called w to -2.14159.
+Initialise a double variable named w to -2.14159.
+Initialise a double called w to -2.14159.
+Initialise a double w to -100.0000000.
+Initialise a double variable w to -100.0000000.
+Initialise a double variable called w to -100.0000000.
+Initialise a double variable named w to -100.0000000.
+Initialise a double called w to -100.0000000.
+Initialise a double w to 3.14159265.
+Initialise a double variable w to 3.14159265.
+Initialise a double variable called w to 3.14159265.
+Initialise a double variable named w to 3.14159265.
+Initialise a double called w to 3.14159265.
+Initialise a double w to 4.14159265358.
+Initialise a double variable w to 4.14159265358.
+Initialise a double variable called w to 4.14159265358.
+Initialise a double variable named w to 4.14159265358.
+Initialise a double called w to 4.14159265358.
+Initialise a double w to 5.14159265358979.
+Initialise a double variable w to 5.14159265358979.
+Initialise a double variable called w to 5.14159265358979.
+Initialise a double variable named w to 5.14159265358979.
 Initialise a double called w to 5.14159265358979.
+Initialise a double w to 10.00000000.
+Initialise a double variable w to 10.00000000.
+Initialise a double variable called w to 10.00000000.
+Initialise a double variable named w to 10.00000000.
+Initialise a double called w to 10.00000000.
+Initialise a double w to 66889.0037373723.
+Initialise a double variable w to 66889.0037373723.
+Initialise a double variable called w to 66889.0037373723.
+Initialise a double variable named w to 66889.0037373723.
+Initialise a double called w to 66889.0037373723.
+Initialise a double x to 0.0.
+Initialise a double variable x to 0.0.
+Initialise a double variable called x to 0.0.
+Initialise a double variable named x to 0.0.
+Initialise a double called x to 0.0.
+Initialise a double x to -1.14.
+Initialise a double variable x to -1.14.
+Initialise a double variable called x to -1.14.
+Initialise a double variable named x to -1.14.
+Initialise a double called x to -1.14.
+Initialise a double x to -2.14159.
+Initialise a double variable x to -2.14159.
+Initialise a double variable called x to -2.14159.
+Initialise a double variable named x to -2.14159.
+Initialise a double called x to -2.14159.
+Initialise a double x to -100.0000000.
+Initialise a double variable x to -100.0000000.
+Initialise a double variable called x to -100.0000000.
+Initialise a double variable named x to -100.0000000.
+Initialise a double called x to -100.0000000.
+Initialise a double x to 3.14159265.
+Initialise a double variable x to 3.14159265.
+Initialise a double variable called x to 3.14159265.
+Initialise a double variable named x to 3.14159265.
+Initialise a double called x to 3.14159265.
+Initialise a double x to 4.14159265358.
+Initialise a double variable x to 4.14159265358.
+Initialise a double variable called x to 4.14159265358.
+Initialise a double variable named x to 4.14159265358.
+Initialise a double called x to 4.14159265358.
+Initialise a double x to 5.14159265358979.
+Initialise a double variable x to 5.14159265358979.
+Initialise a double variable called x to 5.14159265358979.
+Initialise a double variable named x to 5.14159265358979.
+Initialise a double called x to 5.14159265358979.
+Initialise a double x to 10.00000000.
+Initialise a double variable x to 10.00000000.
+Initialise a double variable called x to 10.00000000.
+Initialise a double variable named x to 10.00000000.
 Initialise a double called x to 10.00000000.
+Initialise a double x to 66889.0037373723.
+Initialise a double variable x to 66889.0037373723.
+Initialise a double variable called x to 66889.0037373723.
+Initialise a double variable named x to 66889.0037373723.
+Initialise a double called x to 66889.0037373723.
+Initialise a double y to 0.0.
+Initialise a double variable y to 0.0.
+Initialise a double variable called y to 0.0.
+Initialise a double variable named y to 0.0.
+Initialise a double called y to 0.0.
+Initialise a double y to -1.14.
+Initialise a double variable y to -1.14.
+Initialise a double variable called y to -1.14.
+Initialise a double variable named y to -1.14.
+Initialise a double called y to -1.14.
+Initialise a double y to -2.14159.
+Initialise a double variable y to -2.14159.
+Initialise a double variable called y to -2.14159.
+Initialise a double variable named y to -2.14159.
+Initialise a double called y to -2.14159.
+Initialise a double y to -100.0000000.
+Initialise a double variable y to -100.0000000.
+Initialise a double variable called y to -100.0000000.
+Initialise a double variable named y to -100.0000000.
+Initialise a double called y to -100.0000000.
+Initialise a double y to 3.14159265.
+Initialise a double variable y to 3.14159265.
+Initialise a double variable called y to 3.14159265.
+Initialise a double variable named y to 3.14159265.
+Initialise a double called y to 3.14159265.
+Initialise a double y to 4.14159265358.
+Initialise a double variable y to 4.14159265358.
+Initialise a double variable called y to 4.14159265358.
+Initialise a double variable named y to 4.14159265358.
+Initialise a double called y to 4.14159265358.
+Initialise a double y to 5.14159265358979.
+Initialise a double variable y to 5.14159265358979.
+Initialise a double variable called y to 5.14159265358979.
+Initialise a double variable named y to 5.14159265358979.
+Initialise a double called y to 5.14159265358979.
+Initialise a double y to 10.00000000.
+Initialise a double variable y to 10.00000000.
+Initialise a double variable called y to 10.00000000.
+Initialise a double variable named y to 10.00000000.
+Initialise a double called y to 10.00000000.
+Initialise a double y to 66889.0037373723.
+Initialise a double variable y to 66889.0037373723.
+Initialise a double variable called y to 66889.0037373723.
+Initialise a double variable named y to 66889.0037373723.
 Initialise a double called y to 66889.0037373723.
+Initialise a double z to 0.0.
+Initialise a double variable z to 0.0.
+Initialise a double variable called z to 0.0.
+Initialise a double variable named z to 0.0.
 Initialise a double called z to 0.0.
+Initialise a double z to -1.14.
+Initialise a double variable z to -1.14.
+Initialise a double variable called z to -1.14.
+Initialise a double variable named z to -1.14.
+Initialise a double called z to -1.14.
+Initialise a double z to -2.14159.
+Initialise a double variable z to -2.14159.
+Initialise a double variable called z to -2.14159.
+Initialise a double variable named z to -2.14159.
+Initialise a double called z to -2.14159.
+Initialise a double z to -100.0000000.
+Initialise a double variable z to -100.0000000.
+Initialise a double variable called z to -100.0000000.
+Initialise a double variable named z to -100.0000000.
+Initialise a double called z to -100.0000000.
+Initialise a double z to 3.14159265.
+Initialise a double variable z to 3.14159265.
+Initialise a double variable called z to 3.14159265.
+Initialise a double variable named z to 3.14159265.
+Initialise a double called z to 3.14159265.
+Initialise a double z to 4.14159265358.
+Initialise a double variable z to 4.14159265358.
+Initialise a double variable called z to 4.14159265358.
+Initialise a double variable named z to 4.14159265358.
+Initialise a double called z to 4.14159265358.
+Initialise a double z to 5.14159265358979.
+Initialise a double variable z to 5.14159265358979.
+Initialise a double variable called z to 5.14159265358979.
+Initialise a double variable named z to 5.14159265358979.
+Initialise a double called z to 5.14159265358979.
+Initialise a double z to 10.00000000.
+Initialise a double variable z to 10.00000000.
+Initialise a double variable called z to 10.00000000.
+Initialise a double variable named z to 10.00000000.
+Initialise a double called z to 10.00000000.
+Initialise a double z to 66889.0037373723.
+Initialise a double variable z to 66889.0037373723.
+Initialise a double variable called z to 66889.0037373723.
+Initialise a double variable named z to 66889.0037373723.
+Initialise a double called z to 66889.0037373723.

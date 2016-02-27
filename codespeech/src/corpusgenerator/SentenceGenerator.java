@@ -13,7 +13,7 @@ public class SentenceGenerator {
 	// for if statements
 	ArrayList<String> subjects = new ArrayList<String>();
 	ArrayList<String> conditions = new ArrayList<String>();
-	ArrayList<String> statements = new ArrayList<String>();
+	//ArrayList<String> statements = new ArrayList<String>();
 	ArrayList<String> conjunctions = new ArrayList<String>();
 
 	// for declaration/initialization statements
@@ -173,75 +173,116 @@ public class SentenceGenerator {
 		}
 		return declarationStatements;
 	}
-
+	
+	//4 kinds of statements
+	//Initialise a boolean variable called bool to true.
+	//Initialise a boolean variable named bool to true.
+	//Initialise a boolean bool as true.
+	//Initialise a boolean variable bool to true.
 	public ArrayList<String> constructBoolInit()
 	{
 		ArrayList<String> initStatements = new ArrayList<String>();
-		String initStatement;
+		String initStatement = "";
 
 		//Number of variable names
 		int noOfVar = boolVariables.size();
 		int index = 0;
 		
-		for (int i = 0; i< 10 ; i++)
+//		for (int i = 0; i< 10 ; i++)
+//		{
+//			initStatement = INITIALISE + " a boolean variable called " + boolVariables.get(index % noOfVar) + " to " + booleans.get(index++ % 2) + PERIOD;
+//			initStatements.add(initStatement);
+//		}
+//		
+//		for (int i = 0; i< 10 ; i++)
+//		{
+//			initStatement = INITIALISE + " a boolean variable named " + boolVariables.get(index % noOfVar) + " to " + booleans.get(index++ % 2) + PERIOD;
+//			initStatements.add(initStatement);
+//		}
+//		
+//		for (int i = 0; i< 10 ; i++)
+//		{
+//			initStatement = INITIALISE + " a boolean " + boolVariables.get(index % noOfVar) + " as " + booleans.get(index++ % 2) + PERIOD;
+//			initStatements.add(initStatement);
+//		}	
+//		
+//		for (int i = 0; i< 10 ; i++)
+//		{
+//			initStatement = INITIALISE + " a boolean variable " + boolVariables.get(index % noOfVar) + " to " + booleans.get(index++ % 2) + PERIOD;
+//			initStatements.add(initStatement);
+//		}
+		
+		
+		for (String variableName : boolVariables)
 		{
-			initStatement = INITIALISE + " a boolean variable called " + boolVariables.get(index % noOfVar) + " to " + booleans.get(index++ % 2) + PERIOD;
-			initStatements.add(initStatement);
+			for (String value : booleans)
+			{
+				initStatement = INITIALISE + " a boolean variable called " + variableName + " to " + value + PERIOD;
+				initStatements.add(initStatement);
+				initStatement = INITIALISE + " a boolean variable named " + variableName + " to " + value + PERIOD;
+				initStatements.add(initStatement);
+				initStatement = INITIALISE + " a boolean " + variableName + " as " + value + PERIOD;
+				initStatements.add(initStatement);
+				initStatement = INITIALISE + " a boolean variable " + variableName + " to " + value + PERIOD;
+				initStatements.add(initStatement);
+			}
 		}
-		
-		for (int i = 0; i< 10 ; i++)
-		{
-			initStatement = INITIALISE + " a boolean variable named " + boolVariables.get(index % noOfVar) + " to " + booleans.get(index++ % 2) + PERIOD;
-			initStatements.add(initStatement);
-		}
-		
-		for (int i = 0; i< 10 ; i++)
-		{
-			initStatement = INITIALISE + " a boolean " + boolVariables.get(index % noOfVar) + " as " + booleans.get(index++ % 2) + PERIOD;
-			initStatements.add(initStatement);
-		}	
-		
-		for (int i = 0; i< 10 ; i++)
-		{
-			initStatement = INITIALISE + " a boolean variable " + boolVariables.get(index % noOfVar) + " to " + booleans.get(index++ % 2) + PERIOD;
-			initStatements.add(initStatement);
-		}
-		
+
 		return initStatements;
 	}
 	
+	//4 kinds of statements
+	//Initialise a character variable called alphabet to a.
+	//Initialise a character variable named alphabet to a.
+	//Initialise a character variable alphabet as a.
+	//Initialise a character variable alphabet to a.
 	public ArrayList<String> constructCharInit()
 	{
 		ArrayList<String> initStatements = new ArrayList<String>();
-		String initStatement;
+		String initStatement = "";
 
 		//Number of variable names
 		int noOfVar = charVariables.size();
 		int noOfValues = characters.size();
 		int index = 0;
 		
-		for (int i=0; i<20 ; i++)
-		{
-			initStatement = INITIALISE + " a character variable called " + charVariables.get(index % noOfVar) + " to " + characters.get(index++ % noOfValues) + PERIOD;
-			initStatements.add(initStatement);
-		}
+//		for (int i=0; i<20 ; i++)
+//		{
+//			initStatement = INITIALISE + " a character variable called " + charVariables.get(index % noOfVar) + " to " + characters.get(index++ % noOfValues) + PERIOD;
+//			initStatements.add(initStatement);
+//		}
+//		
+//		for (int i = 0; i<20 ; i++)
+//		{
+//			initStatement = INITIALISE + " a character variable named " + charVariables.get(index % noOfVar) + " to " + characters.get(index++ % noOfValues) + PERIOD;
+//			initStatements.add(initStatement);
+//		}
+//		
+//		for (int i = 0; i<20 ; i++)
+//		{
+//			initStatement = INITIALISE + " a character variable " + charVariables.get(index % noOfVar) + " as " + characters.get(index++ % noOfValues) + PERIOD;
+//			initStatements.add(initStatement);
+//		}
+//		
+//		for (int i = 0; i<20 ; i++)
+//		{
+//			initStatement = INITIALISE + " a character variable " + charVariables.get(index % noOfVar) + " to " + characters.get(index++ % noOfValues) + PERIOD;
+//			initStatements.add(initStatement);
+//		}
 		
-		for (int i = 0; i<20 ; i++)
+		for (String variableName : charVariables)
 		{
-			initStatement = INITIALISE + " a character variable named " + charVariables.get(index % noOfVar) + " to " + characters.get(index++ % noOfValues) + PERIOD;
-			initStatements.add(initStatement);
-		}
-		
-		for (int i = 0; i<20 ; i++)
-		{
-			initStatement = INITIALISE + " a character variable " + charVariables.get(index % noOfVar) + " as " + characters.get(index++ % noOfValues) + PERIOD;
-			initStatements.add(initStatement);
-		}
-		
-		for (int i = 0; i<20 ; i++)
-		{
-			initStatement = INITIALISE + " a character variable " + charVariables.get(index % noOfVar) + " to " + characters.get(index++ % noOfValues) + PERIOD;
-			initStatements.add(initStatement);
+			for (String value : characters)
+			{
+				initStatement = INITIALISE + " a character variable called " + variableName + " to " + value + PERIOD;
+				initStatements.add(initStatement);
+				initStatement = INITIALISE + " a character variable named " + variableName + " to " + value + PERIOD;
+				initStatements.add(initStatement);
+				initStatement = INITIALISE + " a character variable " + variableName + " as " + value + PERIOD;
+				initStatements.add(initStatement);
+				initStatement = INITIALISE + " a character variable " + variableName + " to " + value + PERIOD;
+				initStatements.add(initStatement);
+			}
 		}
 		
 		return initStatements;
@@ -249,11 +290,17 @@ public class SentenceGenerator {
 	
 	//Constructs integers,long integer,short integer,signed integer,signed long integer,
 	//signed short integer, unsigned integer, unsigned long integer and unsigned short integer
+	//5 kinds of statements
+	//Initialise an integer temp to -2147483648.
+	//Initialise an integer variable temp to -2147483648.
+	//Initialise an integer variable called temp to -2147483648.
+	//Initialise an integer variable named temp to -2147483648.
+	//Initialise an integer called temp to -2147483648.
 	public ArrayList<String> constructIntTypesInit(String dataType)
 	{
 		ArrayList<String> initStatements = new ArrayList<String>();
 		ArrayList<String> values = new ArrayList<String>();
-		String initStatement;
+		String initStatement = "";
 		String determiner = "a";
 
 		//Number of variable names
@@ -313,104 +360,156 @@ public class SentenceGenerator {
 		
 		int noOfVal = values.size();
 		
-		for (int i = 0; i <20 ; i++)
-		{
-			initStatement = INITIALISE + SPACE + determiner+ SPACE + dataType + SPACE + intVariables.get(index % noOfVar) + " to " + values.get(index++ % noOfVal) + PERIOD;
-			initStatements.add(initStatement);
-			
-		}
+//		for (int i = 0; i <20 ; i++)
+//		{
+//			initStatement = INITIALISE + SPACE + determiner+ SPACE + dataType + SPACE + intVariables.get(index % noOfVar) + " to " + values.get(index++ % noOfVal) + PERIOD;
+//			initStatements.add(initStatement);
+//			
+//		}
+//		
+//		for (int i = 0; i <20 ; i++)
+//		{
+//			initStatement = INITIALISE + SPACE + determiner + SPACE + dataType + " variable "  + intVariables.get(index % noOfVar) + " to " + values.get(index++ % noOfVal) + PERIOD;
+//			initStatements.add(initStatement);
+//		}
+//		
+//		for (int i = 0; i <20 ; i++)
+//		{
+//			initStatement = INITIALISE + SPACE + determiner + SPACE + dataType + " variable called " + intVariables.get(index % noOfVar) + " to " + values.get(index++ % noOfVal) + PERIOD;
+//			initStatements.add(initStatement);
+//		}
+//		
+//		for (int i = 0; i <20 ; i++)
+//		{
+//			initStatement = INITIALISE + SPACE + determiner + SPACE + dataType + " variable named " + intVariables.get(index % noOfVar) + " to " + values.get(index++ % noOfVal) + PERIOD;
+//			initStatements.add(initStatement);
+//		}
+//		
+//		for (int i = 0; i <20 ; i++)
+//		{
+//			initStatement = INITIALISE + SPACE + determiner + SPACE + dataType + " called " + intVariables.get(index % noOfVar) + " to " + values.get(index++ % noOfVal) + PERIOD;			
+//			initStatements.add(initStatement);
+//		}
 		
-		for (int i = 0; i <20 ; i++)
+		for (String variableName : intVariables)
 		{
-			initStatement = INITIALISE + SPACE + determiner + SPACE + dataType + " variable "  + intVariables.get(index % noOfVar) + " to " + values.get(index++ % noOfVal) + PERIOD;
+			for (String value : values)
+			{
+			initStatement = INITIALISE + SPACE + determiner+ SPACE + dataType + SPACE + variableName + " to " + value + PERIOD;
 			initStatements.add(initStatement);
-		}
-		
-		for (int i = 0; i <20 ; i++)
-		{
-			initStatement = INITIALISE + SPACE + determiner + SPACE + dataType + " variable called " + intVariables.get(index % noOfVar) + " to " + values.get(index++ % noOfVal) + PERIOD;
+			initStatement = INITIALISE + SPACE + determiner + SPACE + dataType + " variable "  + variableName + " to " + value + PERIOD;
 			initStatements.add(initStatement);
-		}
-		
-		for (int i = 0; i <20 ; i++)
-		{
-			initStatement = INITIALISE + SPACE + determiner + SPACE + dataType + " variable named " + intVariables.get(index % noOfVar) + " to " + values.get(index++ % noOfVal) + PERIOD;
+			initStatement = INITIALISE + SPACE + determiner + SPACE + dataType + " variable called " + variableName + " to " + value + PERIOD;
 			initStatements.add(initStatement);
-		}
-		
-		for (int i = 0; i <20 ; i++)
-		{
-			initStatement = INITIALISE + SPACE + determiner + SPACE + dataType + " called " + intVariables.get(index % noOfVar) + " to " + values.get(index++ % noOfVal) + PERIOD;			
+			initStatement = INITIALISE + SPACE + determiner + SPACE + dataType + " variable named " + variableName + " to " + value + PERIOD;
 			initStatements.add(initStatement);
+			initStatement = INITIALISE + SPACE + determiner + SPACE + dataType + " called " + variableName + " to " + value + PERIOD;			
+			initStatements.add(initStatement);
+			}
 		}
 		return initStatements;
 	}
 	
+	//7 kinds of statements
+	//Initialise a string temp to alphabet.
+	//Initialise a string variable temp to alphabet.
+	//Initialise a string variable called temp to alphabet.
+	//Initialise a string variable named temp to alphabet.
+	//Initialise a string called temp to alphabet.
+	//Initialise a string called temp to the string alphabet.
+	//Initialise a string temp as alphabet.
 	public ArrayList<String> constructStringInit()
 	{
 		ArrayList<String> initStatements = new ArrayList<String>();
-		String initStatement;
+		String initStatement = "";
 		int noOfVar = stringVariables.size();
 		int noOfVal = strings.size();
 		int index = 0;
 		
-		for (int i = 0; i<20 ; i++)
-		{
-			initStatement = INITIALISE + " a string " + stringVariables.get(index % noOfVar) + " to " + strings.get(index++ % noOfVal) + PERIOD;
-			initStatements.add(initStatement);
-			
-		}
+//		for (int i = 0; i<20 ; i++)
+//		{
+//			initStatement = INITIALISE + " a string " + stringVariables.get(index % noOfVar) + " to " + strings.get(index++ % noOfVal) + PERIOD;
+//			initStatements.add(initStatement);
+//			
+//		}
+//		
+//		for (int i = 0; i<20 ; i++)
+//		{
+//			initStatement = INITIALISE + " a string variable " + stringVariables.get(index % noOfVar) + " to " + strings.get(index++ % noOfVal) + PERIOD;
+//			initStatements.add(initStatement);
+//			
+//		}
+//		
+//		for (int i = 0; i<20 ; i++)
+//		{
+//			initStatement = INITIALISE + " a string variable called " + stringVariables.get(index % noOfVar) + " to " + strings.get(index++ % noOfVal) + PERIOD;
+//			initStatements.add(initStatement);
+//			
+//		}
+//		
+//		for (int i = 0; i<20 ; i++)
+//		{
+//			initStatement = INITIALISE + " a string variable named " + stringVariables.get(index % noOfVar) + " to " + strings.get(index++ % noOfVal) + PERIOD;
+//			initStatements.add(initStatement);
+//			
+//		}
+//		
+//		for (int i = 0; i<20 ; i++)
+//		{
+//			initStatement = INITIALISE + " a string called " + stringVariables.get(index % noOfVar) + " to " + strings.get(index++ % noOfVal) + PERIOD;
+//			initStatements.add(initStatement);
+//			
+//		}
+//		
+//		for (int i = 0; i<20 ; i++)
+//		{
+//			initStatement = INITIALISE + " a string called " + stringVariables.get(index % noOfVar) + " to the string " + strings.get(index++ % noOfVal) + PERIOD;
+//			initStatements.add(initStatement);
+//			
+//		}
+//		
+//		for (int i = 0; i<20 ; i++)
+//		{
+//			initStatement = INITIALISE + " a string " + stringVariables.get(index % noOfVar) + " as " + strings.get(index++ % noOfVal) + PERIOD;
+//			initStatements.add(initStatement);
+//			
+//		}
 		
-		for (int i = 0; i<20 ; i++)
+		for (String variableName: stringVariables)
 		{
-			initStatement = INITIALISE + " a string variable " + stringVariables.get(index % noOfVar) + " to " + strings.get(index++ % noOfVal) + PERIOD;
-			initStatements.add(initStatement);
-			
-		}
-		
-		for (int i = 0; i<20 ; i++)
-		{
-			initStatement = INITIALISE + " a string variable called " + stringVariables.get(index % noOfVar) + " to " + strings.get(index++ % noOfVal) + PERIOD;
-			initStatements.add(initStatement);
-			
-		}
-		
-		for (int i = 0; i<20 ; i++)
-		{
-			initStatement = INITIALISE + " a string variable named " + stringVariables.get(index % noOfVar) + " to " + strings.get(index++ % noOfVal) + PERIOD;
-			initStatements.add(initStatement);
-			
-		}
-		
-		for (int i = 0; i<20 ; i++)
-		{
-			initStatement = INITIALISE + " a string called " + stringVariables.get(index % noOfVar) + " to " + strings.get(index++ % noOfVal) + PERIOD;
-			initStatements.add(initStatement);
-			
-		}
-		
-		for (int i = 0; i<20 ; i++)
-		{
-			initStatement = INITIALISE + " a string called " + stringVariables.get(index % noOfVar) + " to the string " + strings.get(index++ % noOfVal) + PERIOD;
-			initStatements.add(initStatement);
-			
-		}
-		
-		for (int i = 0; i<20 ; i++)
-		{
-			initStatement = INITIALISE + " a string " + stringVariables.get(index % noOfVar) + " as " + strings.get(index++ % noOfVal) + PERIOD;
-			initStatements.add(initStatement);
-			
+			for (String value : strings)
+			{
+				initStatement = INITIALISE + " a string " + variableName + " to " + value + PERIOD;
+				initStatements.add(initStatement);
+				initStatement = INITIALISE + " a string variable " + variableName + " to " + value + PERIOD;
+				initStatements.add(initStatement);
+				initStatement = INITIALISE + " a string variable called " + variableName + " to " + value + PERIOD;
+				initStatements.add(initStatement);
+				initStatement = INITIALISE + " a string variable named " + variableName + " to " + value + PERIOD;
+				initStatements.add(initStatement);
+				initStatement = INITIALISE + " a string called " + variableName + " to " + value + PERIOD;
+				initStatements.add(initStatement);
+				initStatement = INITIALISE + " a string called " + variableName + " to the string " + value + PERIOD;
+				initStatements.add(initStatement);
+				initStatement = INITIALISE + " a string " + variableName + " as " + value + PERIOD;
+				initStatements.add(initStatement);
+			}
 		}
 		
 		return initStatements;
 	}
 	
 	//Constructs float,double and long double. 
+	//5 kinds of statements
+	//Initialise a float temp to 0.0.
+	//Initialise a float variable temp to 0.0.
+	//Initialise a float variable called temp to 0.0.
+	//Initialise a float variable named temp to 0.0.
+	//Initialise a float called temp to 0.0.
 	public ArrayList<String> constructFloatingPointInit(String dataType)
 	{
 		ArrayList<String> initStatements = new ArrayList<String>();
-		String initStatement;
+		String initStatement  = "";
 		ArrayList<String> variableNames = new ArrayList<String>();
 		ArrayList<String> values = new ArrayList<String>();
 		if (dataType.equals("float"))
@@ -428,35 +527,52 @@ public class SentenceGenerator {
 		int noOfVal = values.size();
 		int index = 0;
 		
-		for (int i=0 ; i<20 ; i ++)
-		{
-			initStatement = INITIALISE + " a " + dataType + SPACE + variableNames.get(index % noOfVar) + " to " + values.get(index++ % noOfVal) + PERIOD;
-			initStatements.add(initStatement);
-			
-		}
+//		for (int i=0 ; i<20 ; i ++)
+//		{
+//			initStatement = INITIALISE + " a " + dataType + SPACE + variableNames.get(index % noOfVar) + " to " + values.get(index++ % noOfVal) + PERIOD;
+//			initStatements.add(initStatement);
+//			
+//		}
+//		
+//		for (int i=0 ; i<20 ; i ++)
+//		{
+//			initStatement = INITIALISE + " a " + dataType + " variable " + variableNames.get(index % noOfVar) + " to " + values.get(index++ % noOfVal) + PERIOD;
+//			initStatements.add(initStatement);
+//		}
+//		
+//		for (int i=0 ; i<20 ; i ++)
+//		{
+//			initStatement = INITIALISE + " a " + dataType  + " variable called " + variableNames.get(index % noOfVar) + " to " + values.get(index++ % noOfVal) + PERIOD;
+//			initStatements.add(initStatement);
+//		}
+//		
+//		for (int i=0 ; i<20 ; i ++)
+//		{
+//			initStatement = INITIALISE + " a " + dataType + " variable named " + variableNames.get(index % noOfVar) + " to " + values.get(index++ % noOfVal) + PERIOD;
+//			initStatements.add(initStatement);
+//		}
+//		
+//		for (int i=0 ; i<20 ; i ++)
+//		{
+//			initStatement = INITIALISE + " a " + dataType + " called " + variableNames.get(index % noOfVar) + " to " + values.get(index++ % noOfVal) + PERIOD;			
+//			initStatements.add(initStatement);
+//		}
 		
-		for (int i=0 ; i<20 ; i ++)
+		for (String variableName : variableNames)
 		{
-			initStatement = INITIALISE + " a " + dataType + " variable " + variableNames.get(index % noOfVar) + " to " + values.get(index++ % noOfVal) + PERIOD;
-			initStatements.add(initStatement);
-		}
-		
-		for (int i=0 ; i<20 ; i ++)
-		{
-			initStatement = INITIALISE + " a " + dataType  + " variable called " + variableNames.get(index % noOfVar) + " to " + values.get(index++ % noOfVal) + PERIOD;
-			initStatements.add(initStatement);
-		}
-		
-		for (int i=0 ; i<20 ; i ++)
-		{
-			initStatement = INITIALISE + " a " + dataType + " variable named " + variableNames.get(index % noOfVar) + " to " + values.get(index++ % noOfVal) + PERIOD;
-			initStatements.add(initStatement);
-		}
-		
-		for (int i=0 ; i<20 ; i ++)
-		{
-			initStatement = INITIALISE + " a " + dataType + " called " + variableNames.get(index % noOfVar) + " to " + values.get(index++ % noOfVal) + PERIOD;			
-			initStatements.add(initStatement);
+			for (String value : values)
+			{
+				initStatement = INITIALISE + " a " + dataType + SPACE + variableName + " to " + value + PERIOD;
+				initStatements.add(initStatement);
+				initStatement = INITIALISE + " a " + dataType + " variable " + variableName + " to " + value + PERIOD;
+				initStatements.add(initStatement);
+				initStatement = INITIALISE + " a " + dataType  + " variable called " + variableName + " to " + value + PERIOD;
+				initStatements.add(initStatement);
+				initStatement = INITIALISE + " a " + dataType + " variable named " + variableName + " to " + value + PERIOD;
+				initStatements.add(initStatement);
+				initStatement = INITIALISE + " a " + dataType + " called " + variableName + " to " + value + PERIOD;			
+				initStatements.add(initStatement);
+			}
 		}
 		
 		
@@ -465,6 +581,7 @@ public class SentenceGenerator {
 	
 	// if statements in which second subjects are numerals
 	public ArrayList<String> construct2SubjectIfStatementsNumbers() {
+		ArrayList<String> statements = new ArrayList<String>();
 		ArrayList<String> subjects1 = new ArrayList<String>();
 		ArrayList<String> subjects2 = new ArrayList<String>();
 		for (int i = 0; i < 5; i++) {
@@ -493,13 +610,15 @@ public class SentenceGenerator {
 	}
 	// if statements in which both first and second subjects are nouns
 	public ArrayList<String> construct2SubjectIfStatementsNouns() {
+		ArrayList<String> statements = new ArrayList<String>();
 		ArrayList<String> subjects1 = new ArrayList<String>();
 		ArrayList<String> subjects2 = new ArrayList<String>();
-		for (int i = 20; i < subjects.size(); i++) {
+		//from j to z
+		for (int i = 21; i < subjects.size(); i++) {
 			subjects2.add(subjects.get(i));
 		}
-		// from temp to j
-		for (int i = 5; i < 20; i++) {
+		// from temp to i
+		for (int i = 5; i < 21; i++) {
 			subjects1.add(subjects.get(i));
 		}
 		// for every first subject

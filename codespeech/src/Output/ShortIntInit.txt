@@ -1,100 +1,1225 @@
 Initialise a short integer temp to -32768.
-Initialise a short integer temp1 to -16384.
-Initialise a short integer temp2 to -100.
-Initialise a short integer curr to 0.
-Initialise a short integer prev to 100.
-Initialise a short integer number to 16384.
-Initialise a short integer num to 32768.
-Initialise a short integer myint to -32768.
-Initialise a short integer myInt to -16384.
-Initialise a short integer a to -100.
-Initialise a short integer b to 0.
-Initialise a short integer c to 100.
-Initialise a short integer d to 16384.
-Initialise a short integer e to 32768.
-Initialise a short integer h to -32768.
-Initialise a short integer i to -16384.
-Initialise a short integer j to -100.
-Initialise a short integer k to 0.
-Initialise a short integer n to 100.
-Initialise a short integer s to 16384.
-Initialise a short integer variable u to 32768.
-Initialise a short integer variable w to -32768.
-Initialise a short integer variable x to -16384.
-Initialise a short integer variable y to -100.
-Initialise a short integer variable z to 0.
-Initialise a short integer variable temp to 100.
-Initialise a short integer variable temp1 to 16384.
-Initialise a short integer variable temp2 to 32768.
-Initialise a short integer variable curr to -32768.
-Initialise a short integer variable prev to -16384.
-Initialise a short integer variable number to -100.
-Initialise a short integer variable num to 0.
-Initialise a short integer variable myint to 100.
-Initialise a short integer variable myInt to 16384.
-Initialise a short integer variable a to 32768.
-Initialise a short integer variable b to -32768.
-Initialise a short integer variable c to -16384.
-Initialise a short integer variable d to -100.
-Initialise a short integer variable e to 0.
-Initialise a short integer variable h to 100.
-Initialise a short integer variable called i to 16384.
-Initialise a short integer variable called j to 32768.
-Initialise a short integer variable called k to -32768.
-Initialise a short integer variable called n to -16384.
-Initialise a short integer variable called s to -100.
-Initialise a short integer variable called u to 0.
-Initialise a short integer variable called w to 100.
-Initialise a short integer variable called x to 16384.
-Initialise a short integer variable called y to 32768.
-Initialise a short integer variable called z to -32768.
+Initialise a short integer variable temp to -32768.
+Initialise a short integer variable called temp to -32768.
+Initialise a short integer variable named temp to -32768.
+Initialise a short integer called temp to -32768.
+Initialise a short integer temp to -16384.
+Initialise a short integer variable temp to -16384.
 Initialise a short integer variable called temp to -16384.
-Initialise a short integer variable called temp1 to -100.
-Initialise a short integer variable called temp2 to 0.
-Initialise a short integer variable called curr to 100.
-Initialise a short integer variable called prev to 16384.
-Initialise a short integer variable called number to 32768.
-Initialise a short integer variable called num to -32768.
-Initialise a short integer variable called myint to -16384.
-Initialise a short integer variable called myInt to -100.
-Initialise a short integer variable called a to 0.
-Initialise a short integer variable named b to 100.
-Initialise a short integer variable named c to 16384.
-Initialise a short integer variable named d to 32768.
-Initialise a short integer variable named e to -32768.
-Initialise a short integer variable named h to -16384.
-Initialise a short integer variable named i to -100.
-Initialise a short integer variable named j to 0.
-Initialise a short integer variable named k to 100.
-Initialise a short integer variable named n to 16384.
-Initialise a short integer variable named s to 32768.
-Initialise a short integer variable named u to -32768.
-Initialise a short integer variable named w to -16384.
-Initialise a short integer variable named x to -100.
-Initialise a short integer variable named y to 0.
-Initialise a short integer variable named z to 100.
+Initialise a short integer variable named temp to -16384.
+Initialise a short integer called temp to -16384.
+Initialise a short integer temp to -100.
+Initialise a short integer variable temp to -100.
+Initialise a short integer variable called temp to -100.
+Initialise a short integer variable named temp to -100.
+Initialise a short integer called temp to -100.
+Initialise a short integer temp to 0.
+Initialise a short integer variable temp to 0.
+Initialise a short integer variable called temp to 0.
+Initialise a short integer variable named temp to 0.
+Initialise a short integer called temp to 0.
+Initialise a short integer temp to 100.
+Initialise a short integer variable temp to 100.
+Initialise a short integer variable called temp to 100.
+Initialise a short integer variable named temp to 100.
+Initialise a short integer called temp to 100.
+Initialise a short integer temp to 16384.
+Initialise a short integer variable temp to 16384.
+Initialise a short integer variable called temp to 16384.
 Initialise a short integer variable named temp to 16384.
+Initialise a short integer called temp to 16384.
+Initialise a short integer temp to 32768.
+Initialise a short integer variable temp to 32768.
+Initialise a short integer variable called temp to 32768.
+Initialise a short integer variable named temp to 32768.
+Initialise a short integer called temp to 32768.
+Initialise a short integer temp1 to -32768.
+Initialise a short integer variable temp1 to -32768.
+Initialise a short integer variable called temp1 to -32768.
+Initialise a short integer variable named temp1 to -32768.
+Initialise a short integer called temp1 to -32768.
+Initialise a short integer temp1 to -16384.
+Initialise a short integer variable temp1 to -16384.
+Initialise a short integer variable called temp1 to -16384.
+Initialise a short integer variable named temp1 to -16384.
+Initialise a short integer called temp1 to -16384.
+Initialise a short integer temp1 to -100.
+Initialise a short integer variable temp1 to -100.
+Initialise a short integer variable called temp1 to -100.
+Initialise a short integer variable named temp1 to -100.
+Initialise a short integer called temp1 to -100.
+Initialise a short integer temp1 to 0.
+Initialise a short integer variable temp1 to 0.
+Initialise a short integer variable called temp1 to 0.
+Initialise a short integer variable named temp1 to 0.
+Initialise a short integer called temp1 to 0.
+Initialise a short integer temp1 to 100.
+Initialise a short integer variable temp1 to 100.
+Initialise a short integer variable called temp1 to 100.
+Initialise a short integer variable named temp1 to 100.
+Initialise a short integer called temp1 to 100.
+Initialise a short integer temp1 to 16384.
+Initialise a short integer variable temp1 to 16384.
+Initialise a short integer variable called temp1 to 16384.
+Initialise a short integer variable named temp1 to 16384.
+Initialise a short integer called temp1 to 16384.
+Initialise a short integer temp1 to 32768.
+Initialise a short integer variable temp1 to 32768.
+Initialise a short integer variable called temp1 to 32768.
 Initialise a short integer variable named temp1 to 32768.
+Initialise a short integer called temp1 to 32768.
+Initialise a short integer temp2 to -32768.
+Initialise a short integer variable temp2 to -32768.
+Initialise a short integer variable called temp2 to -32768.
 Initialise a short integer variable named temp2 to -32768.
+Initialise a short integer called temp2 to -32768.
+Initialise a short integer temp2 to -16384.
+Initialise a short integer variable temp2 to -16384.
+Initialise a short integer variable called temp2 to -16384.
+Initialise a short integer variable named temp2 to -16384.
+Initialise a short integer called temp2 to -16384.
+Initialise a short integer temp2 to -100.
+Initialise a short integer variable temp2 to -100.
+Initialise a short integer variable called temp2 to -100.
+Initialise a short integer variable named temp2 to -100.
+Initialise a short integer called temp2 to -100.
+Initialise a short integer temp2 to 0.
+Initialise a short integer variable temp2 to 0.
+Initialise a short integer variable called temp2 to 0.
+Initialise a short integer variable named temp2 to 0.
+Initialise a short integer called temp2 to 0.
+Initialise a short integer temp2 to 100.
+Initialise a short integer variable temp2 to 100.
+Initialise a short integer variable called temp2 to 100.
+Initialise a short integer variable named temp2 to 100.
+Initialise a short integer called temp2 to 100.
+Initialise a short integer temp2 to 16384.
+Initialise a short integer variable temp2 to 16384.
+Initialise a short integer variable called temp2 to 16384.
+Initialise a short integer variable named temp2 to 16384.
+Initialise a short integer called temp2 to 16384.
+Initialise a short integer temp2 to 32768.
+Initialise a short integer variable temp2 to 32768.
+Initialise a short integer variable called temp2 to 32768.
+Initialise a short integer variable named temp2 to 32768.
+Initialise a short integer called temp2 to 32768.
+Initialise a short integer curr to -32768.
+Initialise a short integer variable curr to -32768.
+Initialise a short integer variable called curr to -32768.
+Initialise a short integer variable named curr to -32768.
+Initialise a short integer called curr to -32768.
+Initialise a short integer curr to -16384.
+Initialise a short integer variable curr to -16384.
+Initialise a short integer variable called curr to -16384.
 Initialise a short integer variable named curr to -16384.
+Initialise a short integer called curr to -16384.
+Initialise a short integer curr to -100.
+Initialise a short integer variable curr to -100.
+Initialise a short integer variable called curr to -100.
+Initialise a short integer variable named curr to -100.
+Initialise a short integer called curr to -100.
+Initialise a short integer curr to 0.
+Initialise a short integer variable curr to 0.
+Initialise a short integer variable called curr to 0.
+Initialise a short integer variable named curr to 0.
+Initialise a short integer called curr to 0.
+Initialise a short integer curr to 100.
+Initialise a short integer variable curr to 100.
+Initialise a short integer variable called curr to 100.
+Initialise a short integer variable named curr to 100.
+Initialise a short integer called curr to 100.
+Initialise a short integer curr to 16384.
+Initialise a short integer variable curr to 16384.
+Initialise a short integer variable called curr to 16384.
+Initialise a short integer variable named curr to 16384.
+Initialise a short integer called curr to 16384.
+Initialise a short integer curr to 32768.
+Initialise a short integer variable curr to 32768.
+Initialise a short integer variable called curr to 32768.
+Initialise a short integer variable named curr to 32768.
+Initialise a short integer called curr to 32768.
+Initialise a short integer prev to -32768.
+Initialise a short integer variable prev to -32768.
+Initialise a short integer variable called prev to -32768.
+Initialise a short integer variable named prev to -32768.
+Initialise a short integer called prev to -32768.
+Initialise a short integer prev to -16384.
+Initialise a short integer variable prev to -16384.
+Initialise a short integer variable called prev to -16384.
+Initialise a short integer variable named prev to -16384.
+Initialise a short integer called prev to -16384.
+Initialise a short integer prev to -100.
+Initialise a short integer variable prev to -100.
+Initialise a short integer variable called prev to -100.
 Initialise a short integer variable named prev to -100.
+Initialise a short integer called prev to -100.
+Initialise a short integer prev to 0.
+Initialise a short integer variable prev to 0.
+Initialise a short integer variable called prev to 0.
+Initialise a short integer variable named prev to 0.
+Initialise a short integer called prev to 0.
+Initialise a short integer prev to 100.
+Initialise a short integer variable prev to 100.
+Initialise a short integer variable called prev to 100.
+Initialise a short integer variable named prev to 100.
+Initialise a short integer called prev to 100.
+Initialise a short integer prev to 16384.
+Initialise a short integer variable prev to 16384.
+Initialise a short integer variable called prev to 16384.
+Initialise a short integer variable named prev to 16384.
+Initialise a short integer called prev to 16384.
+Initialise a short integer prev to 32768.
+Initialise a short integer variable prev to 32768.
+Initialise a short integer variable called prev to 32768.
+Initialise a short integer variable named prev to 32768.
+Initialise a short integer called prev to 32768.
+Initialise a short integer number to -32768.
+Initialise a short integer variable number to -32768.
+Initialise a short integer variable called number to -32768.
+Initialise a short integer variable named number to -32768.
+Initialise a short integer called number to -32768.
+Initialise a short integer number to -16384.
+Initialise a short integer variable number to -16384.
+Initialise a short integer variable called number to -16384.
+Initialise a short integer variable named number to -16384.
+Initialise a short integer called number to -16384.
+Initialise a short integer number to -100.
+Initialise a short integer variable number to -100.
+Initialise a short integer variable called number to -100.
+Initialise a short integer variable named number to -100.
+Initialise a short integer called number to -100.
+Initialise a short integer number to 0.
+Initialise a short integer variable number to 0.
+Initialise a short integer variable called number to 0.
+Initialise a short integer variable named number to 0.
 Initialise a short integer called number to 0.
+Initialise a short integer number to 100.
+Initialise a short integer variable number to 100.
+Initialise a short integer variable called number to 100.
+Initialise a short integer variable named number to 100.
+Initialise a short integer called number to 100.
+Initialise a short integer number to 16384.
+Initialise a short integer variable number to 16384.
+Initialise a short integer variable called number to 16384.
+Initialise a short integer variable named number to 16384.
+Initialise a short integer called number to 16384.
+Initialise a short integer number to 32768.
+Initialise a short integer variable number to 32768.
+Initialise a short integer variable called number to 32768.
+Initialise a short integer variable named number to 32768.
+Initialise a short integer called number to 32768.
+Initialise a short integer num to -32768.
+Initialise a short integer variable num to -32768.
+Initialise a short integer variable called num to -32768.
+Initialise a short integer variable named num to -32768.
+Initialise a short integer called num to -32768.
+Initialise a short integer num to -16384.
+Initialise a short integer variable num to -16384.
+Initialise a short integer variable called num to -16384.
+Initialise a short integer variable named num to -16384.
+Initialise a short integer called num to -16384.
+Initialise a short integer num to -100.
+Initialise a short integer variable num to -100.
+Initialise a short integer variable called num to -100.
+Initialise a short integer variable named num to -100.
+Initialise a short integer called num to -100.
+Initialise a short integer num to 0.
+Initialise a short integer variable num to 0.
+Initialise a short integer variable called num to 0.
+Initialise a short integer variable named num to 0.
+Initialise a short integer called num to 0.
+Initialise a short integer num to 100.
+Initialise a short integer variable num to 100.
+Initialise a short integer variable called num to 100.
+Initialise a short integer variable named num to 100.
 Initialise a short integer called num to 100.
+Initialise a short integer num to 16384.
+Initialise a short integer variable num to 16384.
+Initialise a short integer variable called num to 16384.
+Initialise a short integer variable named num to 16384.
+Initialise a short integer called num to 16384.
+Initialise a short integer num to 32768.
+Initialise a short integer variable num to 32768.
+Initialise a short integer variable called num to 32768.
+Initialise a short integer variable named num to 32768.
+Initialise a short integer called num to 32768.
+Initialise a short integer myint to -32768.
+Initialise a short integer variable myint to -32768.
+Initialise a short integer variable called myint to -32768.
+Initialise a short integer variable named myint to -32768.
+Initialise a short integer called myint to -32768.
+Initialise a short integer myint to -16384.
+Initialise a short integer variable myint to -16384.
+Initialise a short integer variable called myint to -16384.
+Initialise a short integer variable named myint to -16384.
+Initialise a short integer called myint to -16384.
+Initialise a short integer myint to -100.
+Initialise a short integer variable myint to -100.
+Initialise a short integer variable called myint to -100.
+Initialise a short integer variable named myint to -100.
+Initialise a short integer called myint to -100.
+Initialise a short integer myint to 0.
+Initialise a short integer variable myint to 0.
+Initialise a short integer variable called myint to 0.
+Initialise a short integer variable named myint to 0.
+Initialise a short integer called myint to 0.
+Initialise a short integer myint to 100.
+Initialise a short integer variable myint to 100.
+Initialise a short integer variable called myint to 100.
+Initialise a short integer variable named myint to 100.
+Initialise a short integer called myint to 100.
+Initialise a short integer myint to 16384.
+Initialise a short integer variable myint to 16384.
+Initialise a short integer variable called myint to 16384.
+Initialise a short integer variable named myint to 16384.
 Initialise a short integer called myint to 16384.
+Initialise a short integer myint to 32768.
+Initialise a short integer variable myint to 32768.
+Initialise a short integer variable called myint to 32768.
+Initialise a short integer variable named myint to 32768.
+Initialise a short integer called myint to 32768.
+Initialise a short integer myInt to -32768.
+Initialise a short integer variable myInt to -32768.
+Initialise a short integer variable called myInt to -32768.
+Initialise a short integer variable named myInt to -32768.
+Initialise a short integer called myInt to -32768.
+Initialise a short integer myInt to -16384.
+Initialise a short integer variable myInt to -16384.
+Initialise a short integer variable called myInt to -16384.
+Initialise a short integer variable named myInt to -16384.
+Initialise a short integer called myInt to -16384.
+Initialise a short integer myInt to -100.
+Initialise a short integer variable myInt to -100.
+Initialise a short integer variable called myInt to -100.
+Initialise a short integer variable named myInt to -100.
+Initialise a short integer called myInt to -100.
+Initialise a short integer myInt to 0.
+Initialise a short integer variable myInt to 0.
+Initialise a short integer variable called myInt to 0.
+Initialise a short integer variable named myInt to 0.
+Initialise a short integer called myInt to 0.
+Initialise a short integer myInt to 100.
+Initialise a short integer variable myInt to 100.
+Initialise a short integer variable called myInt to 100.
+Initialise a short integer variable named myInt to 100.
+Initialise a short integer called myInt to 100.
+Initialise a short integer myInt to 16384.
+Initialise a short integer variable myInt to 16384.
+Initialise a short integer variable called myInt to 16384.
+Initialise a short integer variable named myInt to 16384.
+Initialise a short integer called myInt to 16384.
+Initialise a short integer myInt to 32768.
+Initialise a short integer variable myInt to 32768.
+Initialise a short integer variable called myInt to 32768.
+Initialise a short integer variable named myInt to 32768.
 Initialise a short integer called myInt to 32768.
+Initialise a short integer a to -32768.
+Initialise a short integer variable a to -32768.
+Initialise a short integer variable called a to -32768.
+Initialise a short integer variable named a to -32768.
 Initialise a short integer called a to -32768.
+Initialise a short integer a to -16384.
+Initialise a short integer variable a to -16384.
+Initialise a short integer variable called a to -16384.
+Initialise a short integer variable named a to -16384.
+Initialise a short integer called a to -16384.
+Initialise a short integer a to -100.
+Initialise a short integer variable a to -100.
+Initialise a short integer variable called a to -100.
+Initialise a short integer variable named a to -100.
+Initialise a short integer called a to -100.
+Initialise a short integer a to 0.
+Initialise a short integer variable a to 0.
+Initialise a short integer variable called a to 0.
+Initialise a short integer variable named a to 0.
+Initialise a short integer called a to 0.
+Initialise a short integer a to 100.
+Initialise a short integer variable a to 100.
+Initialise a short integer variable called a to 100.
+Initialise a short integer variable named a to 100.
+Initialise a short integer called a to 100.
+Initialise a short integer a to 16384.
+Initialise a short integer variable a to 16384.
+Initialise a short integer variable called a to 16384.
+Initialise a short integer variable named a to 16384.
+Initialise a short integer called a to 16384.
+Initialise a short integer a to 32768.
+Initialise a short integer variable a to 32768.
+Initialise a short integer variable called a to 32768.
+Initialise a short integer variable named a to 32768.
+Initialise a short integer called a to 32768.
+Initialise a short integer b to -32768.
+Initialise a short integer variable b to -32768.
+Initialise a short integer variable called b to -32768.
+Initialise a short integer variable named b to -32768.
+Initialise a short integer called b to -32768.
+Initialise a short integer b to -16384.
+Initialise a short integer variable b to -16384.
+Initialise a short integer variable called b to -16384.
+Initialise a short integer variable named b to -16384.
 Initialise a short integer called b to -16384.
+Initialise a short integer b to -100.
+Initialise a short integer variable b to -100.
+Initialise a short integer variable called b to -100.
+Initialise a short integer variable named b to -100.
+Initialise a short integer called b to -100.
+Initialise a short integer b to 0.
+Initialise a short integer variable b to 0.
+Initialise a short integer variable called b to 0.
+Initialise a short integer variable named b to 0.
+Initialise a short integer called b to 0.
+Initialise a short integer b to 100.
+Initialise a short integer variable b to 100.
+Initialise a short integer variable called b to 100.
+Initialise a short integer variable named b to 100.
+Initialise a short integer called b to 100.
+Initialise a short integer b to 16384.
+Initialise a short integer variable b to 16384.
+Initialise a short integer variable called b to 16384.
+Initialise a short integer variable named b to 16384.
+Initialise a short integer called b to 16384.
+Initialise a short integer b to 32768.
+Initialise a short integer variable b to 32768.
+Initialise a short integer variable called b to 32768.
+Initialise a short integer variable named b to 32768.
+Initialise a short integer called b to 32768.
+Initialise a short integer c to -32768.
+Initialise a short integer variable c to -32768.
+Initialise a short integer variable called c to -32768.
+Initialise a short integer variable named c to -32768.
+Initialise a short integer called c to -32768.
+Initialise a short integer c to -16384.
+Initialise a short integer variable c to -16384.
+Initialise a short integer variable called c to -16384.
+Initialise a short integer variable named c to -16384.
+Initialise a short integer called c to -16384.
+Initialise a short integer c to -100.
+Initialise a short integer variable c to -100.
+Initialise a short integer variable called c to -100.
+Initialise a short integer variable named c to -100.
 Initialise a short integer called c to -100.
+Initialise a short integer c to 0.
+Initialise a short integer variable c to 0.
+Initialise a short integer variable called c to 0.
+Initialise a short integer variable named c to 0.
+Initialise a short integer called c to 0.
+Initialise a short integer c to 100.
+Initialise a short integer variable c to 100.
+Initialise a short integer variable called c to 100.
+Initialise a short integer variable named c to 100.
+Initialise a short integer called c to 100.
+Initialise a short integer c to 16384.
+Initialise a short integer variable c to 16384.
+Initialise a short integer variable called c to 16384.
+Initialise a short integer variable named c to 16384.
+Initialise a short integer called c to 16384.
+Initialise a short integer c to 32768.
+Initialise a short integer variable c to 32768.
+Initialise a short integer variable called c to 32768.
+Initialise a short integer variable named c to 32768.
+Initialise a short integer called c to 32768.
+Initialise a short integer d to -32768.
+Initialise a short integer variable d to -32768.
+Initialise a short integer variable called d to -32768.
+Initialise a short integer variable named d to -32768.
+Initialise a short integer called d to -32768.
+Initialise a short integer d to -16384.
+Initialise a short integer variable d to -16384.
+Initialise a short integer variable called d to -16384.
+Initialise a short integer variable named d to -16384.
+Initialise a short integer called d to -16384.
+Initialise a short integer d to -100.
+Initialise a short integer variable d to -100.
+Initialise a short integer variable called d to -100.
+Initialise a short integer variable named d to -100.
+Initialise a short integer called d to -100.
+Initialise a short integer d to 0.
+Initialise a short integer variable d to 0.
+Initialise a short integer variable called d to 0.
+Initialise a short integer variable named d to 0.
 Initialise a short integer called d to 0.
+Initialise a short integer d to 100.
+Initialise a short integer variable d to 100.
+Initialise a short integer variable called d to 100.
+Initialise a short integer variable named d to 100.
+Initialise a short integer called d to 100.
+Initialise a short integer d to 16384.
+Initialise a short integer variable d to 16384.
+Initialise a short integer variable called d to 16384.
+Initialise a short integer variable named d to 16384.
+Initialise a short integer called d to 16384.
+Initialise a short integer d to 32768.
+Initialise a short integer variable d to 32768.
+Initialise a short integer variable called d to 32768.
+Initialise a short integer variable named d to 32768.
+Initialise a short integer called d to 32768.
+Initialise a short integer e to -32768.
+Initialise a short integer variable e to -32768.
+Initialise a short integer variable called e to -32768.
+Initialise a short integer variable named e to -32768.
+Initialise a short integer called e to -32768.
+Initialise a short integer e to -16384.
+Initialise a short integer variable e to -16384.
+Initialise a short integer variable called e to -16384.
+Initialise a short integer variable named e to -16384.
+Initialise a short integer called e to -16384.
+Initialise a short integer e to -100.
+Initialise a short integer variable e to -100.
+Initialise a short integer variable called e to -100.
+Initialise a short integer variable named e to -100.
+Initialise a short integer called e to -100.
+Initialise a short integer e to 0.
+Initialise a short integer variable e to 0.
+Initialise a short integer variable called e to 0.
+Initialise a short integer variable named e to 0.
+Initialise a short integer called e to 0.
+Initialise a short integer e to 100.
+Initialise a short integer variable e to 100.
+Initialise a short integer variable called e to 100.
+Initialise a short integer variable named e to 100.
 Initialise a short integer called e to 100.
+Initialise a short integer e to 16384.
+Initialise a short integer variable e to 16384.
+Initialise a short integer variable called e to 16384.
+Initialise a short integer variable named e to 16384.
+Initialise a short integer called e to 16384.
+Initialise a short integer e to 32768.
+Initialise a short integer variable e to 32768.
+Initialise a short integer variable called e to 32768.
+Initialise a short integer variable named e to 32768.
+Initialise a short integer called e to 32768.
+Initialise a short integer f to -32768.
+Initialise a short integer variable f to -32768.
+Initialise a short integer variable called f to -32768.
+Initialise a short integer variable named f to -32768.
+Initialise a short integer called f to -32768.
+Initialise a short integer f to -16384.
+Initialise a short integer variable f to -16384.
+Initialise a short integer variable called f to -16384.
+Initialise a short integer variable named f to -16384.
+Initialise a short integer called f to -16384.
+Initialise a short integer f to -100.
+Initialise a short integer variable f to -100.
+Initialise a short integer variable called f to -100.
+Initialise a short integer variable named f to -100.
+Initialise a short integer called f to -100.
+Initialise a short integer f to 0.
+Initialise a short integer variable f to 0.
+Initialise a short integer variable called f to 0.
+Initialise a short integer variable named f to 0.
+Initialise a short integer called f to 0.
+Initialise a short integer f to 100.
+Initialise a short integer variable f to 100.
+Initialise a short integer variable called f to 100.
+Initialise a short integer variable named f to 100.
+Initialise a short integer called f to 100.
+Initialise a short integer f to 16384.
+Initialise a short integer variable f to 16384.
+Initialise a short integer variable called f to 16384.
+Initialise a short integer variable named f to 16384.
+Initialise a short integer called f to 16384.
+Initialise a short integer f to 32768.
+Initialise a short integer variable f to 32768.
+Initialise a short integer variable called f to 32768.
+Initialise a short integer variable named f to 32768.
+Initialise a short integer called f to 32768.
+Initialise a short integer g to -32768.
+Initialise a short integer variable g to -32768.
+Initialise a short integer variable called g to -32768.
+Initialise a short integer variable named g to -32768.
+Initialise a short integer called g to -32768.
+Initialise a short integer g to -16384.
+Initialise a short integer variable g to -16384.
+Initialise a short integer variable called g to -16384.
+Initialise a short integer variable named g to -16384.
+Initialise a short integer called g to -16384.
+Initialise a short integer g to -100.
+Initialise a short integer variable g to -100.
+Initialise a short integer variable called g to -100.
+Initialise a short integer variable named g to -100.
+Initialise a short integer called g to -100.
+Initialise a short integer g to 0.
+Initialise a short integer variable g to 0.
+Initialise a short integer variable called g to 0.
+Initialise a short integer variable named g to 0.
+Initialise a short integer called g to 0.
+Initialise a short integer g to 100.
+Initialise a short integer variable g to 100.
+Initialise a short integer variable called g to 100.
+Initialise a short integer variable named g to 100.
+Initialise a short integer called g to 100.
+Initialise a short integer g to 16384.
+Initialise a short integer variable g to 16384.
+Initialise a short integer variable called g to 16384.
+Initialise a short integer variable named g to 16384.
+Initialise a short integer called g to 16384.
+Initialise a short integer g to 32768.
+Initialise a short integer variable g to 32768.
+Initialise a short integer variable called g to 32768.
+Initialise a short integer variable named g to 32768.
+Initialise a short integer called g to 32768.
+Initialise a short integer h to -32768.
+Initialise a short integer variable h to -32768.
+Initialise a short integer variable called h to -32768.
+Initialise a short integer variable named h to -32768.
+Initialise a short integer called h to -32768.
+Initialise a short integer h to -16384.
+Initialise a short integer variable h to -16384.
+Initialise a short integer variable called h to -16384.
+Initialise a short integer variable named h to -16384.
+Initialise a short integer called h to -16384.
+Initialise a short integer h to -100.
+Initialise a short integer variable h to -100.
+Initialise a short integer variable called h to -100.
+Initialise a short integer variable named h to -100.
+Initialise a short integer called h to -100.
+Initialise a short integer h to 0.
+Initialise a short integer variable h to 0.
+Initialise a short integer variable called h to 0.
+Initialise a short integer variable named h to 0.
+Initialise a short integer called h to 0.
+Initialise a short integer h to 100.
+Initialise a short integer variable h to 100.
+Initialise a short integer variable called h to 100.
+Initialise a short integer variable named h to 100.
+Initialise a short integer called h to 100.
+Initialise a short integer h to 16384.
+Initialise a short integer variable h to 16384.
+Initialise a short integer variable called h to 16384.
+Initialise a short integer variable named h to 16384.
 Initialise a short integer called h to 16384.
+Initialise a short integer h to 32768.
+Initialise a short integer variable h to 32768.
+Initialise a short integer variable called h to 32768.
+Initialise a short integer variable named h to 32768.
+Initialise a short integer called h to 32768.
+Initialise a short integer i to -32768.
+Initialise a short integer variable i to -32768.
+Initialise a short integer variable called i to -32768.
+Initialise a short integer variable named i to -32768.
+Initialise a short integer called i to -32768.
+Initialise a short integer i to -16384.
+Initialise a short integer variable i to -16384.
+Initialise a short integer variable called i to -16384.
+Initialise a short integer variable named i to -16384.
+Initialise a short integer called i to -16384.
+Initialise a short integer i to -100.
+Initialise a short integer variable i to -100.
+Initialise a short integer variable called i to -100.
+Initialise a short integer variable named i to -100.
+Initialise a short integer called i to -100.
+Initialise a short integer i to 0.
+Initialise a short integer variable i to 0.
+Initialise a short integer variable called i to 0.
+Initialise a short integer variable named i to 0.
+Initialise a short integer called i to 0.
+Initialise a short integer i to 100.
+Initialise a short integer variable i to 100.
+Initialise a short integer variable called i to 100.
+Initialise a short integer variable named i to 100.
+Initialise a short integer called i to 100.
+Initialise a short integer i to 16384.
+Initialise a short integer variable i to 16384.
+Initialise a short integer variable called i to 16384.
+Initialise a short integer variable named i to 16384.
+Initialise a short integer called i to 16384.
+Initialise a short integer i to 32768.
+Initialise a short integer variable i to 32768.
+Initialise a short integer variable called i to 32768.
+Initialise a short integer variable named i to 32768.
 Initialise a short integer called i to 32768.
+Initialise a short integer j to -32768.
+Initialise a short integer variable j to -32768.
+Initialise a short integer variable called j to -32768.
+Initialise a short integer variable named j to -32768.
 Initialise a short integer called j to -32768.
+Initialise a short integer j to -16384.
+Initialise a short integer variable j to -16384.
+Initialise a short integer variable called j to -16384.
+Initialise a short integer variable named j to -16384.
+Initialise a short integer called j to -16384.
+Initialise a short integer j to -100.
+Initialise a short integer variable j to -100.
+Initialise a short integer variable called j to -100.
+Initialise a short integer variable named j to -100.
+Initialise a short integer called j to -100.
+Initialise a short integer j to 0.
+Initialise a short integer variable j to 0.
+Initialise a short integer variable called j to 0.
+Initialise a short integer variable named j to 0.
+Initialise a short integer called j to 0.
+Initialise a short integer j to 100.
+Initialise a short integer variable j to 100.
+Initialise a short integer variable called j to 100.
+Initialise a short integer variable named j to 100.
+Initialise a short integer called j to 100.
+Initialise a short integer j to 16384.
+Initialise a short integer variable j to 16384.
+Initialise a short integer variable called j to 16384.
+Initialise a short integer variable named j to 16384.
+Initialise a short integer called j to 16384.
+Initialise a short integer j to 32768.
+Initialise a short integer variable j to 32768.
+Initialise a short integer variable called j to 32768.
+Initialise a short integer variable named j to 32768.
+Initialise a short integer called j to 32768.
+Initialise a short integer k to -32768.
+Initialise a short integer variable k to -32768.
+Initialise a short integer variable called k to -32768.
+Initialise a short integer variable named k to -32768.
+Initialise a short integer called k to -32768.
+Initialise a short integer k to -16384.
+Initialise a short integer variable k to -16384.
+Initialise a short integer variable called k to -16384.
+Initialise a short integer variable named k to -16384.
 Initialise a short integer called k to -16384.
+Initialise a short integer k to -100.
+Initialise a short integer variable k to -100.
+Initialise a short integer variable called k to -100.
+Initialise a short integer variable named k to -100.
+Initialise a short integer called k to -100.
+Initialise a short integer k to 0.
+Initialise a short integer variable k to 0.
+Initialise a short integer variable called k to 0.
+Initialise a short integer variable named k to 0.
+Initialise a short integer called k to 0.
+Initialise a short integer k to 100.
+Initialise a short integer variable k to 100.
+Initialise a short integer variable called k to 100.
+Initialise a short integer variable named k to 100.
+Initialise a short integer called k to 100.
+Initialise a short integer k to 16384.
+Initialise a short integer variable k to 16384.
+Initialise a short integer variable called k to 16384.
+Initialise a short integer variable named k to 16384.
+Initialise a short integer called k to 16384.
+Initialise a short integer k to 32768.
+Initialise a short integer variable k to 32768.
+Initialise a short integer variable called k to 32768.
+Initialise a short integer variable named k to 32768.
+Initialise a short integer called k to 32768.
+Initialise a short integer l to -32768.
+Initialise a short integer variable l to -32768.
+Initialise a short integer variable called l to -32768.
+Initialise a short integer variable named l to -32768.
+Initialise a short integer called l to -32768.
+Initialise a short integer l to -16384.
+Initialise a short integer variable l to -16384.
+Initialise a short integer variable called l to -16384.
+Initialise a short integer variable named l to -16384.
+Initialise a short integer called l to -16384.
+Initialise a short integer l to -100.
+Initialise a short integer variable l to -100.
+Initialise a short integer variable called l to -100.
+Initialise a short integer variable named l to -100.
+Initialise a short integer called l to -100.
+Initialise a short integer l to 0.
+Initialise a short integer variable l to 0.
+Initialise a short integer variable called l to 0.
+Initialise a short integer variable named l to 0.
+Initialise a short integer called l to 0.
+Initialise a short integer l to 100.
+Initialise a short integer variable l to 100.
+Initialise a short integer variable called l to 100.
+Initialise a short integer variable named l to 100.
+Initialise a short integer called l to 100.
+Initialise a short integer l to 16384.
+Initialise a short integer variable l to 16384.
+Initialise a short integer variable called l to 16384.
+Initialise a short integer variable named l to 16384.
+Initialise a short integer called l to 16384.
+Initialise a short integer l to 32768.
+Initialise a short integer variable l to 32768.
+Initialise a short integer variable called l to 32768.
+Initialise a short integer variable named l to 32768.
+Initialise a short integer called l to 32768.
+Initialise a short integer m to -32768.
+Initialise a short integer variable m to -32768.
+Initialise a short integer variable called m to -32768.
+Initialise a short integer variable named m to -32768.
+Initialise a short integer called m to -32768.
+Initialise a short integer m to -16384.
+Initialise a short integer variable m to -16384.
+Initialise a short integer variable called m to -16384.
+Initialise a short integer variable named m to -16384.
+Initialise a short integer called m to -16384.
+Initialise a short integer m to -100.
+Initialise a short integer variable m to -100.
+Initialise a short integer variable called m to -100.
+Initialise a short integer variable named m to -100.
+Initialise a short integer called m to -100.
+Initialise a short integer m to 0.
+Initialise a short integer variable m to 0.
+Initialise a short integer variable called m to 0.
+Initialise a short integer variable named m to 0.
+Initialise a short integer called m to 0.
+Initialise a short integer m to 100.
+Initialise a short integer variable m to 100.
+Initialise a short integer variable called m to 100.
+Initialise a short integer variable named m to 100.
+Initialise a short integer called m to 100.
+Initialise a short integer m to 16384.
+Initialise a short integer variable m to 16384.
+Initialise a short integer variable called m to 16384.
+Initialise a short integer variable named m to 16384.
+Initialise a short integer called m to 16384.
+Initialise a short integer m to 32768.
+Initialise a short integer variable m to 32768.
+Initialise a short integer variable called m to 32768.
+Initialise a short integer variable named m to 32768.
+Initialise a short integer called m to 32768.
+Initialise a short integer n to -32768.
+Initialise a short integer variable n to -32768.
+Initialise a short integer variable called n to -32768.
+Initialise a short integer variable named n to -32768.
+Initialise a short integer called n to -32768.
+Initialise a short integer n to -16384.
+Initialise a short integer variable n to -16384.
+Initialise a short integer variable called n to -16384.
+Initialise a short integer variable named n to -16384.
+Initialise a short integer called n to -16384.
+Initialise a short integer n to -100.
+Initialise a short integer variable n to -100.
+Initialise a short integer variable called n to -100.
+Initialise a short integer variable named n to -100.
 Initialise a short integer called n to -100.
+Initialise a short integer n to 0.
+Initialise a short integer variable n to 0.
+Initialise a short integer variable called n to 0.
+Initialise a short integer variable named n to 0.
+Initialise a short integer called n to 0.
+Initialise a short integer n to 100.
+Initialise a short integer variable n to 100.
+Initialise a short integer variable called n to 100.
+Initialise a short integer variable named n to 100.
+Initialise a short integer called n to 100.
+Initialise a short integer n to 16384.
+Initialise a short integer variable n to 16384.
+Initialise a short integer variable called n to 16384.
+Initialise a short integer variable named n to 16384.
+Initialise a short integer called n to 16384.
+Initialise a short integer n to 32768.
+Initialise a short integer variable n to 32768.
+Initialise a short integer variable called n to 32768.
+Initialise a short integer variable named n to 32768.
+Initialise a short integer called n to 32768.
+Initialise a short integer o to -32768.
+Initialise a short integer variable o to -32768.
+Initialise a short integer variable called o to -32768.
+Initialise a short integer variable named o to -32768.
+Initialise a short integer called o to -32768.
+Initialise a short integer o to -16384.
+Initialise a short integer variable o to -16384.
+Initialise a short integer variable called o to -16384.
+Initialise a short integer variable named o to -16384.
+Initialise a short integer called o to -16384.
+Initialise a short integer o to -100.
+Initialise a short integer variable o to -100.
+Initialise a short integer variable called o to -100.
+Initialise a short integer variable named o to -100.
+Initialise a short integer called o to -100.
+Initialise a short integer o to 0.
+Initialise a short integer variable o to 0.
+Initialise a short integer variable called o to 0.
+Initialise a short integer variable named o to 0.
+Initialise a short integer called o to 0.
+Initialise a short integer o to 100.
+Initialise a short integer variable o to 100.
+Initialise a short integer variable called o to 100.
+Initialise a short integer variable named o to 100.
+Initialise a short integer called o to 100.
+Initialise a short integer o to 16384.
+Initialise a short integer variable o to 16384.
+Initialise a short integer variable called o to 16384.
+Initialise a short integer variable named o to 16384.
+Initialise a short integer called o to 16384.
+Initialise a short integer o to 32768.
+Initialise a short integer variable o to 32768.
+Initialise a short integer variable called o to 32768.
+Initialise a short integer variable named o to 32768.
+Initialise a short integer called o to 32768.
+Initialise a short integer p to -32768.
+Initialise a short integer variable p to -32768.
+Initialise a short integer variable called p to -32768.
+Initialise a short integer variable named p to -32768.
+Initialise a short integer called p to -32768.
+Initialise a short integer p to -16384.
+Initialise a short integer variable p to -16384.
+Initialise a short integer variable called p to -16384.
+Initialise a short integer variable named p to -16384.
+Initialise a short integer called p to -16384.
+Initialise a short integer p to -100.
+Initialise a short integer variable p to -100.
+Initialise a short integer variable called p to -100.
+Initialise a short integer variable named p to -100.
+Initialise a short integer called p to -100.
+Initialise a short integer p to 0.
+Initialise a short integer variable p to 0.
+Initialise a short integer variable called p to 0.
+Initialise a short integer variable named p to 0.
+Initialise a short integer called p to 0.
+Initialise a short integer p to 100.
+Initialise a short integer variable p to 100.
+Initialise a short integer variable called p to 100.
+Initialise a short integer variable named p to 100.
+Initialise a short integer called p to 100.
+Initialise a short integer p to 16384.
+Initialise a short integer variable p to 16384.
+Initialise a short integer variable called p to 16384.
+Initialise a short integer variable named p to 16384.
+Initialise a short integer called p to 16384.
+Initialise a short integer p to 32768.
+Initialise a short integer variable p to 32768.
+Initialise a short integer variable called p to 32768.
+Initialise a short integer variable named p to 32768.
+Initialise a short integer called p to 32768.
+Initialise a short integer q to -32768.
+Initialise a short integer variable q to -32768.
+Initialise a short integer variable called q to -32768.
+Initialise a short integer variable named q to -32768.
+Initialise a short integer called q to -32768.
+Initialise a short integer q to -16384.
+Initialise a short integer variable q to -16384.
+Initialise a short integer variable called q to -16384.
+Initialise a short integer variable named q to -16384.
+Initialise a short integer called q to -16384.
+Initialise a short integer q to -100.
+Initialise a short integer variable q to -100.
+Initialise a short integer variable called q to -100.
+Initialise a short integer variable named q to -100.
+Initialise a short integer called q to -100.
+Initialise a short integer q to 0.
+Initialise a short integer variable q to 0.
+Initialise a short integer variable called q to 0.
+Initialise a short integer variable named q to 0.
+Initialise a short integer called q to 0.
+Initialise a short integer q to 100.
+Initialise a short integer variable q to 100.
+Initialise a short integer variable called q to 100.
+Initialise a short integer variable named q to 100.
+Initialise a short integer called q to 100.
+Initialise a short integer q to 16384.
+Initialise a short integer variable q to 16384.
+Initialise a short integer variable called q to 16384.
+Initialise a short integer variable named q to 16384.
+Initialise a short integer called q to 16384.
+Initialise a short integer q to 32768.
+Initialise a short integer variable q to 32768.
+Initialise a short integer variable called q to 32768.
+Initialise a short integer variable named q to 32768.
+Initialise a short integer called q to 32768.
+Initialise a short integer r to -32768.
+Initialise a short integer variable r to -32768.
+Initialise a short integer variable called r to -32768.
+Initialise a short integer variable named r to -32768.
+Initialise a short integer called r to -32768.
+Initialise a short integer r to -16384.
+Initialise a short integer variable r to -16384.
+Initialise a short integer variable called r to -16384.
+Initialise a short integer variable named r to -16384.
+Initialise a short integer called r to -16384.
+Initialise a short integer r to -100.
+Initialise a short integer variable r to -100.
+Initialise a short integer variable called r to -100.
+Initialise a short integer variable named r to -100.
+Initialise a short integer called r to -100.
+Initialise a short integer r to 0.
+Initialise a short integer variable r to 0.
+Initialise a short integer variable called r to 0.
+Initialise a short integer variable named r to 0.
+Initialise a short integer called r to 0.
+Initialise a short integer r to 100.
+Initialise a short integer variable r to 100.
+Initialise a short integer variable called r to 100.
+Initialise a short integer variable named r to 100.
+Initialise a short integer called r to 100.
+Initialise a short integer r to 16384.
+Initialise a short integer variable r to 16384.
+Initialise a short integer variable called r to 16384.
+Initialise a short integer variable named r to 16384.
+Initialise a short integer called r to 16384.
+Initialise a short integer r to 32768.
+Initialise a short integer variable r to 32768.
+Initialise a short integer variable called r to 32768.
+Initialise a short integer variable named r to 32768.
+Initialise a short integer called r to 32768.
+Initialise a short integer s to -32768.
+Initialise a short integer variable s to -32768.
+Initialise a short integer variable called s to -32768.
+Initialise a short integer variable named s to -32768.
+Initialise a short integer called s to -32768.
+Initialise a short integer s to -16384.
+Initialise a short integer variable s to -16384.
+Initialise a short integer variable called s to -16384.
+Initialise a short integer variable named s to -16384.
+Initialise a short integer called s to -16384.
+Initialise a short integer s to -100.
+Initialise a short integer variable s to -100.
+Initialise a short integer variable called s to -100.
+Initialise a short integer variable named s to -100.
+Initialise a short integer called s to -100.
+Initialise a short integer s to 0.
+Initialise a short integer variable s to 0.
+Initialise a short integer variable called s to 0.
+Initialise a short integer variable named s to 0.
 Initialise a short integer called s to 0.
+Initialise a short integer s to 100.
+Initialise a short integer variable s to 100.
+Initialise a short integer variable called s to 100.
+Initialise a short integer variable named s to 100.
+Initialise a short integer called s to 100.
+Initialise a short integer s to 16384.
+Initialise a short integer variable s to 16384.
+Initialise a short integer variable called s to 16384.
+Initialise a short integer variable named s to 16384.
+Initialise a short integer called s to 16384.
+Initialise a short integer s to 32768.
+Initialise a short integer variable s to 32768.
+Initialise a short integer variable called s to 32768.
+Initialise a short integer variable named s to 32768.
+Initialise a short integer called s to 32768.
+Initialise a short integer t to -32768.
+Initialise a short integer variable t to -32768.
+Initialise a short integer variable called t to -32768.
+Initialise a short integer variable named t to -32768.
+Initialise a short integer called t to -32768.
+Initialise a short integer t to -16384.
+Initialise a short integer variable t to -16384.
+Initialise a short integer variable called t to -16384.
+Initialise a short integer variable named t to -16384.
+Initialise a short integer called t to -16384.
+Initialise a short integer t to -100.
+Initialise a short integer variable t to -100.
+Initialise a short integer variable called t to -100.
+Initialise a short integer variable named t to -100.
+Initialise a short integer called t to -100.
+Initialise a short integer t to 0.
+Initialise a short integer variable t to 0.
+Initialise a short integer variable called t to 0.
+Initialise a short integer variable named t to 0.
+Initialise a short integer called t to 0.
+Initialise a short integer t to 100.
+Initialise a short integer variable t to 100.
+Initialise a short integer variable called t to 100.
+Initialise a short integer variable named t to 100.
+Initialise a short integer called t to 100.
+Initialise a short integer t to 16384.
+Initialise a short integer variable t to 16384.
+Initialise a short integer variable called t to 16384.
+Initialise a short integer variable named t to 16384.
+Initialise a short integer called t to 16384.
+Initialise a short integer t to 32768.
+Initialise a short integer variable t to 32768.
+Initialise a short integer variable called t to 32768.
+Initialise a short integer variable named t to 32768.
+Initialise a short integer called t to 32768.
+Initialise a short integer u to -32768.
+Initialise a short integer variable u to -32768.
+Initialise a short integer variable called u to -32768.
+Initialise a short integer variable named u to -32768.
+Initialise a short integer called u to -32768.
+Initialise a short integer u to -16384.
+Initialise a short integer variable u to -16384.
+Initialise a short integer variable called u to -16384.
+Initialise a short integer variable named u to -16384.
+Initialise a short integer called u to -16384.
+Initialise a short integer u to -100.
+Initialise a short integer variable u to -100.
+Initialise a short integer variable called u to -100.
+Initialise a short integer variable named u to -100.
+Initialise a short integer called u to -100.
+Initialise a short integer u to 0.
+Initialise a short integer variable u to 0.
+Initialise a short integer variable called u to 0.
+Initialise a short integer variable named u to 0.
+Initialise a short integer called u to 0.
+Initialise a short integer u to 100.
+Initialise a short integer variable u to 100.
+Initialise a short integer variable called u to 100.
+Initialise a short integer variable named u to 100.
 Initialise a short integer called u to 100.
+Initialise a short integer u to 16384.
+Initialise a short integer variable u to 16384.
+Initialise a short integer variable called u to 16384.
+Initialise a short integer variable named u to 16384.
+Initialise a short integer called u to 16384.
+Initialise a short integer u to 32768.
+Initialise a short integer variable u to 32768.
+Initialise a short integer variable called u to 32768.
+Initialise a short integer variable named u to 32768.
+Initialise a short integer called u to 32768.
+Initialise a short integer v to -32768.
+Initialise a short integer variable v to -32768.
+Initialise a short integer variable called v to -32768.
+Initialise a short integer variable named v to -32768.
+Initialise a short integer called v to -32768.
+Initialise a short integer v to -16384.
+Initialise a short integer variable v to -16384.
+Initialise a short integer variable called v to -16384.
+Initialise a short integer variable named v to -16384.
+Initialise a short integer called v to -16384.
+Initialise a short integer v to -100.
+Initialise a short integer variable v to -100.
+Initialise a short integer variable called v to -100.
+Initialise a short integer variable named v to -100.
+Initialise a short integer called v to -100.
+Initialise a short integer v to 0.
+Initialise a short integer variable v to 0.
+Initialise a short integer variable called v to 0.
+Initialise a short integer variable named v to 0.
+Initialise a short integer called v to 0.
+Initialise a short integer v to 100.
+Initialise a short integer variable v to 100.
+Initialise a short integer variable called v to 100.
+Initialise a short integer variable named v to 100.
+Initialise a short integer called v to 100.
+Initialise a short integer v to 16384.
+Initialise a short integer variable v to 16384.
+Initialise a short integer variable called v to 16384.
+Initialise a short integer variable named v to 16384.
+Initialise a short integer called v to 16384.
+Initialise a short integer v to 32768.
+Initialise a short integer variable v to 32768.
+Initialise a short integer variable called v to 32768.
+Initialise a short integer variable named v to 32768.
+Initialise a short integer called v to 32768.
+Initialise a short integer w to -32768.
+Initialise a short integer variable w to -32768.
+Initialise a short integer variable called w to -32768.
+Initialise a short integer variable named w to -32768.
+Initialise a short integer called w to -32768.
+Initialise a short integer w to -16384.
+Initialise a short integer variable w to -16384.
+Initialise a short integer variable called w to -16384.
+Initialise a short integer variable named w to -16384.
+Initialise a short integer called w to -16384.
+Initialise a short integer w to -100.
+Initialise a short integer variable w to -100.
+Initialise a short integer variable called w to -100.
+Initialise a short integer variable named w to -100.
+Initialise a short integer called w to -100.
+Initialise a short integer w to 0.
+Initialise a short integer variable w to 0.
+Initialise a short integer variable called w to 0.
+Initialise a short integer variable named w to 0.
+Initialise a short integer called w to 0.
+Initialise a short integer w to 100.
+Initialise a short integer variable w to 100.
+Initialise a short integer variable called w to 100.
+Initialise a short integer variable named w to 100.
+Initialise a short integer called w to 100.
+Initialise a short integer w to 16384.
+Initialise a short integer variable w to 16384.
+Initialise a short integer variable called w to 16384.
+Initialise a short integer variable named w to 16384.
 Initialise a short integer called w to 16384.
+Initialise a short integer w to 32768.
+Initialise a short integer variable w to 32768.
+Initialise a short integer variable called w to 32768.
+Initialise a short integer variable named w to 32768.
+Initialise a short integer called w to 32768.
+Initialise a short integer x to -32768.
+Initialise a short integer variable x to -32768.
+Initialise a short integer variable called x to -32768.
+Initialise a short integer variable named x to -32768.
+Initialise a short integer called x to -32768.
+Initialise a short integer x to -16384.
+Initialise a short integer variable x to -16384.
+Initialise a short integer variable called x to -16384.
+Initialise a short integer variable named x to -16384.
+Initialise a short integer called x to -16384.
+Initialise a short integer x to -100.
+Initialise a short integer variable x to -100.
+Initialise a short integer variable called x to -100.
+Initialise a short integer variable named x to -100.
+Initialise a short integer called x to -100.
+Initialise a short integer x to 0.
+Initialise a short integer variable x to 0.
+Initialise a short integer variable called x to 0.
+Initialise a short integer variable named x to 0.
+Initialise a short integer called x to 0.
+Initialise a short integer x to 100.
+Initialise a short integer variable x to 100.
+Initialise a short integer variable called x to 100.
+Initialise a short integer variable named x to 100.
+Initialise a short integer called x to 100.
+Initialise a short integer x to 16384.
+Initialise a short integer variable x to 16384.
+Initialise a short integer variable called x to 16384.
+Initialise a short integer variable named x to 16384.
+Initialise a short integer called x to 16384.
+Initialise a short integer x to 32768.
+Initialise a short integer variable x to 32768.
+Initialise a short integer variable called x to 32768.
+Initialise a short integer variable named x to 32768.
 Initialise a short integer called x to 32768.
+Initialise a short integer y to -32768.
+Initialise a short integer variable y to -32768.
+Initialise a short integer variable called y to -32768.
+Initialise a short integer variable named y to -32768.
 Initialise a short integer called y to -32768.
+Initialise a short integer y to -16384.
+Initialise a short integer variable y to -16384.
+Initialise a short integer variable called y to -16384.
+Initialise a short integer variable named y to -16384.
+Initialise a short integer called y to -16384.
+Initialise a short integer y to -100.
+Initialise a short integer variable y to -100.
+Initialise a short integer variable called y to -100.
+Initialise a short integer variable named y to -100.
+Initialise a short integer called y to -100.
+Initialise a short integer y to 0.
+Initialise a short integer variable y to 0.
+Initialise a short integer variable called y to 0.
+Initialise a short integer variable named y to 0.
+Initialise a short integer called y to 0.
+Initialise a short integer y to 100.
+Initialise a short integer variable y to 100.
+Initialise a short integer variable called y to 100.
+Initialise a short integer variable named y to 100.
+Initialise a short integer called y to 100.
+Initialise a short integer y to 16384.
+Initialise a short integer variable y to 16384.
+Initialise a short integer variable called y to 16384.
+Initialise a short integer variable named y to 16384.
+Initialise a short integer called y to 16384.
+Initialise a short integer y to 32768.
+Initialise a short integer variable y to 32768.
+Initialise a short integer variable called y to 32768.
+Initialise a short integer variable named y to 32768.
+Initialise a short integer called y to 32768.
+Initialise a short integer z to -32768.
+Initialise a short integer variable z to -32768.
+Initialise a short integer variable called z to -32768.
+Initialise a short integer variable named z to -32768.
+Initialise a short integer called z to -32768.
+Initialise a short integer z to -16384.
+Initialise a short integer variable z to -16384.
+Initialise a short integer variable called z to -16384.
+Initialise a short integer variable named z to -16384.
 Initialise a short integer called z to -16384.
+Initialise a short integer z to -100.
+Initialise a short integer variable z to -100.
+Initialise a short integer variable called z to -100.
+Initialise a short integer variable named z to -100.
+Initialise a short integer called z to -100.
+Initialise a short integer z to 0.
+Initialise a short integer variable z to 0.
+Initialise a short integer variable called z to 0.
+Initialise a short integer variable named z to 0.
+Initialise a short integer called z to 0.
+Initialise a short integer z to 100.
+Initialise a short integer variable z to 100.
+Initialise a short integer variable called z to 100.
+Initialise a short integer variable named z to 100.
+Initialise a short integer called z to 100.
+Initialise a short integer z to 16384.
+Initialise a short integer variable z to 16384.
+Initialise a short integer variable called z to 16384.
+Initialise a short integer variable named z to 16384.
+Initialise a short integer called z to 16384.
+Initialise a short integer z to 32768.
+Initialise a short integer variable z to 32768.
+Initialise a short integer variable called z to 32768.
+Initialise a short integer variable named z to 32768.
+Initialise a short integer called z to 32768.

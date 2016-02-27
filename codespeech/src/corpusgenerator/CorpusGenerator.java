@@ -50,13 +50,12 @@ public class CorpusGenerator {
 		SentenceTagger sentenceTagger = new SentenceTagger();
 		sentenceGenerator = loadAll();
 		
-		// Constructing statements
+		//Lists
 		//Declaration
 		ArrayList<String> declarationStatements = new ArrayList<String>();
 		//Initialisation
 		//boolean 
 		ArrayList<String> boolInitStatements = new ArrayList<String>();
-		
 		//char types
 		ArrayList<String> charInitStatements = new ArrayList<String>();
 		ArrayList<String> signedcharInitStatements = new ArrayList<String>();
@@ -71,18 +70,21 @@ public class CorpusGenerator {
 		ArrayList<String> unsignedintInitStatements = new ArrayList<String>();
 		ArrayList<String> unsignedlongintInitStatements = new ArrayList<String>();
 		ArrayList<String> unsignedshortintInitStatements = new ArrayList<String>();
-		
 		//Floating point types
 		ArrayList<String> floatInitStatements = new ArrayList<String>();
 		ArrayList<String> doubleInitStatements = new ArrayList<String>();
 		ArrayList<String> longdoubleInitStatements = new ArrayList<String>();
-		
 		//String
 		ArrayList<String> stringInitStatements = new ArrayList<String>();
-		
 		//if statements
 		ArrayList<String> twoSubjectIfStatements = new ArrayList<String>();	
-		declarationStatements = sentenceGenerator.constructSomeDeclarationStatements();
+		
+		
+		
+		//Constructing statements
+		//Declaration
+		declarationStatements = sentenceGenerator.constructAllDeclarationStatements();
+		//If statements
 		twoSubjectIfStatements.addAll(sentenceGenerator.construct2SubjectIfStatementsNouns());
 		twoSubjectIfStatements.addAll(sentenceGenerator.construct2SubjectIfStatementsNumbers());
 		// twoSubjectIfStatements = sentenceGenerator.construct2SubjectIfStatementsNumbers();
@@ -90,12 +92,10 @@ public class CorpusGenerator {
 		//Initialization
 		//bool
 		boolInitStatements = sentenceGenerator.constructBoolInit();
-		
 		//char types
 		charInitStatements = sentenceGenerator.constructCharInit();
 		signedcharInitStatements = sentenceGenerator.constructIntTypesInit("signed character");
 		unsignedcharInitStatements = sentenceGenerator.constructIntTypesInit("unsigned character");
-		
 		//Int types
 		intInitStatements = sentenceGenerator.constructIntTypesInit("integer");
 		longintInitStatements = sentenceGenerator.constructIntTypesInit("long integer");
@@ -106,18 +106,18 @@ public class CorpusGenerator {
 		unsignedintInitStatements = sentenceGenerator.constructIntTypesInit("unsigned integer");
 		unsignedlongintInitStatements = sentenceGenerator.constructIntTypesInit("unsigned long integer");
 		unsignedshortintInitStatements = sentenceGenerator.constructIntTypesInit("unsigned short integer");
-		
 		//Floating point types
 		floatInitStatements = sentenceGenerator.constructFloatingPointInit("float");
 		doubleInitStatements = sentenceGenerator.constructFloatingPointInit("double");
 		longdoubleInitStatements = sentenceGenerator.constructFloatingPointInit("long double");
-		
 		//String
 		stringInitStatements = sentenceGenerator.constructStringInit();
 		
 		// writing statements to text file
+		//Declaration
 		String outputFileName = System.getProperty("user.dir") + "/src/Output/DeclarationStatements.txt";
 		sentenceGenerator.writeStatements(outputFileName, declarationStatements);
+		//If statements
 		outputFileName = System.getProperty("user.dir") + "/src/Output/2SubjectIfStatements.txt"; 
 		sentenceGenerator.writeStatements(outputFileName, twoSubjectIfStatements);
 		
