@@ -32,9 +32,9 @@ public class SentenceTagger {
 			// split sentence to individual words
 			ArrayList<String> words = new ArrayList<String>(Arrays.asList(s
 					.split(" ")));
-			// removing full stop from subject
-			subject = words.get(5).substring(0,words.get(5).length()-1);
-			
+//			removing full stop from subject
+//			subject = words.get(5).substring(0,words.get(5).length()-1);
+			subject = words.get(5);
 			formattedSent.add(templateSent.get(0));
 			formattedSent.add("2\t" + words.get(1) + "\t" + words.get(1) + "\t"
 					+ templateSent.get(1));

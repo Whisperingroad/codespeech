@@ -4,7 +4,6 @@ import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.ArrayList;
 
-import utils.Constants;
 
 public class CorpusGenerator {
 	

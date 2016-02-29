@@ -71,8 +71,7 @@ public class SentenceGenerator {
 		printWriter.close();
 	}
 
-	// TODO Declare/Initialise a character temp as c
-	// TODO Declare an unsigned character temp as 127
+	// should have 8704 statements
 	public ArrayList<String> constructAllDeclarationStatements() {
 		String determiner;
 		// String declarationCommand;
@@ -89,16 +88,16 @@ public class SentenceGenerator {
 			else
 				determiner = "a";
 			// for each variable name
-			for (String variableName : variables) {
-				// This is done to minimize repetition in the corpus
-				// 1/2 of statements will begin with 'Declare'
-				// 1/2 of statements will begin with 'Create'
-				for (String declareWord : declareWords) {
+			for (String variableName : variables)
+			{
+				for (String declareWord : declareWords) 
+				{
 					// e.g. declare an integer y
 					declarationStatement = declareWord + SPACE + determiner + SPACE + dataType + SPACE + variableName;
 					declarationStatements.add(declarationStatement);
 					// Adding adjectives
-					for (String adj : adjective) {
+					for (String adj : adjective)
+					{
 						// e.g. declare an integer named y
 						declarationStatement = declareWord + SPACE + determiner + SPACE + dataType + SPACE + adj + SPACE
 								+ variableName;
@@ -109,7 +108,8 @@ public class SentenceGenerator {
 					declarationStatement = declareWord + SPACE + determiner + SPACE + dataType + SPACE + "variable"
 							+ SPACE + variableName;
 					declarationStatements.add(declarationStatement);
-					for (String adj : adjective) {
+					for (String adj : adjective)
+					{
 						// e.g. declare an integer variable named y
 						declarationStatement = declareWord + SPACE + determiner + SPACE + dataType + SPACE + "variable"
 								+ SPACE + adj + SPACE + variableName;
@@ -580,6 +580,7 @@ public class SentenceGenerator {
 	}
 	
 	// if statements in which second subjects are numerals
+	// should have 1120 statements
 	public ArrayList<String> construct2SubjectIfStatementsNumbers() {
 		ArrayList<String> statements = new ArrayList<String>();
 		ArrayList<String> subjects1 = new ArrayList<String>();
@@ -587,7 +588,6 @@ public class SentenceGenerator {
 		for (int i = 0; i < 5; i++) {
 			subjects2.add(subjects.get(i));
 		}
-
 		for (int i = 5; i < subjects.size(); i++) {
 			subjects1.add(subjects.get(i));
 		}
@@ -601,7 +601,7 @@ public class SentenceGenerator {
 				for (int k = 0; k < conditions.size(); k++) {
 					String statement = "If ";
 					String condition = conditions.get(k).trim();
-					statement = statement + subject1 + SPACE + condition + SPACE + subject2 + ".";
+					statement = statement + subject1 + SPACE + condition + SPACE + subject2;
 					statements.add(statement);
 				}
 			}
@@ -609,17 +609,16 @@ public class SentenceGenerator {
 		return statements;
 	}
 	// if statements in which both first and second subjects are nouns
+	// should have 7168 statements
 	public ArrayList<String> construct2SubjectIfStatementsNouns() {
 		ArrayList<String> statements = new ArrayList<String>();
 		ArrayList<String> subjects1 = new ArrayList<String>();
 		ArrayList<String> subjects2 = new ArrayList<String>();
-		//from j to z
-		for (int i = 21; i < subjects.size(); i++) {
-			subjects2.add(subjects.get(i));
-		}
-		// from temp to i
-		for (int i = 5; i < 21; i++) {
+		for (int i = 5; i < subjects.size(); i++) {
 			subjects1.add(subjects.get(i));
+		}
+		for (int i = 5; i < subjects.size(); i++) {
+			subjects2.add(subjects.get(i));
 		}
 		// for every first subject
 		for (int i = 0; i < subjects1.size(); i++) {
@@ -631,7 +630,7 @@ public class SentenceGenerator {
 				for (int k = 0; k < conditions.size(); k++) {
 					String statement = "If ";
 					String condition = conditions.get(k).trim();
-					statement = statement + subject1 + SPACE + condition + SPACE + subject2 + ".";
+					statement = statement + subject1 + SPACE + condition + SPACE + subject2;
 					statements.add(statement);
 				}
 			}
