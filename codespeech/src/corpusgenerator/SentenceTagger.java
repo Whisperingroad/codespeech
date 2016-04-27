@@ -12,7 +12,7 @@ public class SentenceTagger {
 
 	public ArrayList<String> tag2SubjectIfStatement(ArrayList<String> sents)
 	{
-		templateSent.add("1\tif\tif\tSCONJ\tIN\t_\t4\tmark\t_\t_");
+		templateSent.add("1\tIf\tif\tSCONJ\tIN\t_\t4\tmark\t_\t_");
 		templateSent.add("NOUN\tNN\tNumber=Sing\t4\tnsubj\t_\t_");
 		templateSent.add("3\tis\tbe\tVERB\tVBZ\tMood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin\t4\tcop\t_\t_");
 		templateSent.add("ADJ\tJJR\tDegree=Cmp\t0\troot\t_\t_");
